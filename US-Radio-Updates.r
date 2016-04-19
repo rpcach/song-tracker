@@ -33,8 +33,8 @@ library("plot3D")
 persp3D(x = 1:nrow(thedata), y = 1:TOTALDAYS, z = xmatrix)
 #size of matrix must be equal to x-by-y in persp function
 library("rgl")
-persp3d(x = 1:nrow(thedata), y = 1:TOTALDAYS, z = xmatrix, col=rainbow(1000))
-#browseURL(paste("file://", writeWebGL(dir=file.path("desktop", "webGL"), width=700), sep=""))
+persp3d(x = 1:nrow(thedata), y = 1:TOTALDAYS, z = xmatrix, col=rainbow(1000), xlab="Song Position", ylab="Time Ago in Days", zlab="Spins")
+#browseURL(paste("file://", writeWebGL(dir=file.path("radio", "webGL"), width=700), sep=""))
 #creates html file holding interactable 3d-plot
 
 #barplot(current$Spins, names.arg = current$Pos, col=rainbow(50))
