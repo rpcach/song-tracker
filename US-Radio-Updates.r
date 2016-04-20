@@ -1,6 +1,5 @@
-TOTALDAYS <- 30
-
 library("rvest")
+#gets data.frame for date
 getDayDataTable <- function(date) {
   dateString <- gsub("-","",as.character.Date(date))
   url <- paste("http://kworb.net/radio/pop/archives/",dateString,".html", sep="")
@@ -9,11 +8,13 @@ getDayDataTable <- function(date) {
   return(dayDataTable)
 }
 
+#makes data.frame into CSV file
 dataToCSV <- function(date) {
   temp <- getDayDataTable(date)
   write.csv(temp, file=paste(date,".csv",sep=""), row.names=FALSE)
 }
 
+#pulls new CSV files
 updateDataCSV <- function() {
   #setwd("radio/radio-data")
   date <- Sys.Date()
@@ -27,6 +28,28 @@ updateDataCSV <- function() {
     date <- date-1
   }
 }
+
+plotSong <- function(title, days) {
+  date <- Sys.Date()
+  mainData <- read.csv(paste(date,".csv",sep=""))
+  mainData <- mainData[c("Title","Spins")]
+  colnames(mainData)[2] <- as.character.Date(date)
+  #setwd("radio/radio-data")
+  for(i in 2:days) {
+    date <- date-1
+    temp <- read.csv(paste(date,".csv",sep=""))
+    mainData <- merge(mainData, temp[c("Title","Spins")], by="Title")
+    colnames(mainData)[ncol(mainData)] <- as.character.Date(date)
+  }
+  mainData <- mainData[,c("Title",names(mainData[(days+1):2]))]
+  plot(as.numeric(mainData[mainData$Title == title,2:(days+1)]), type="l")
+  #axis(1, at=1:TOTALDAYS,labels=colnames(mainData[2:(days+1)]), las=2)
+}
+plotSong("Pillowtalk",50)
+
+####################################
+library("rvest")
+TOTALDAYS <- 30
 
 date <- Sys.Date()
 mainData <- getDayDataTable(date)
