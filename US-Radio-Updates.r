@@ -1,6 +1,8 @@
+mainData <- NULL
+
 library("rvest")
 #gets data.frame for date
-getDayDataTable <- function(date) {
+pullDayDataFrame <- function(date) {
   dateString <- gsub("-","",as.character.Date(date))
   url <- paste("http://kworb.net/radio/pop/archives/",dateString,".html", sep="")
   dayDataTable <- url %>% read_html() %>% html_nodes(xpath="/html/body/table") %>% html_table()
@@ -8,23 +10,14 @@ getDayDataTable <- function(date) {
   return(dayDataTable)
 }
 
-#makes data.frame into CSV file
-dataToCSV <- function(date) {
-  temp <- getDayDataTable(date)
-  write.csv(temp, file=paste(date,".csv",sep=""), row.names=FALSE)
-}
-
-#pulls new CSV files
-updateDataCSV <- function() {
+#creates CSV files for new dates
+pullNewData <- function() {
   #setwd("radio/radio-data")
   date <- Sys.Date()
   while(TRUE) {
-    if(file.exists(paste(date,".csv",sep=""))) {
-      break
-    }
-    else {
-      dataToCSV(date)
-    }
+    if(file.exists(paste(date,".csv",sep=""))) break;
+    
+    write.csv(pullDayDataFrame(date), file=paste(date,".csv",sep=""), row.names=FALSE)
     date <- date-1
   }
 }
@@ -34,7 +27,7 @@ plotSong <- function(title, days) {
   mainData <- read.csv(paste(date,".csv",sep=""))
   mainData <- mainData[c("Title","Spins")]
   colnames(mainData)[2] <- as.character.Date(date)
-  #setwd("radio/radio-data")
+  #setwd("radio/radio-data") #must be in directory with CSV files
   for(i in 2:days) {
     date <- date-1
     temp <- read.csv(paste(date,".csv",sep=""))
