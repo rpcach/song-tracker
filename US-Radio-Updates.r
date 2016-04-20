@@ -35,7 +35,7 @@ library("plot3D")
 persp3D(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix)
 #size of matrix must be equal to x-by-y in persp function
 
-library("rgl")s
+library("rgl")
 persp3d(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix, col=rainbow(1000), xlab="Song Position", ylab="Time Ago in Days", zlab="Spins")
 #browseURL(paste("file://", writeWebGL(dir=file.path("radio", "webGL"), width=700), sep=""))
 #creates html file holding interactable 3d-plot
