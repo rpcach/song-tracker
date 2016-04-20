@@ -11,8 +11,7 @@ getDayDataTable <- function(date) {
 
 date <- Sys.Date()
 mainData <- getDayDataTable(date)
-keeps <- c("Title", "Spins")
-mainData <- mainData[keeps]
+mainData <- mainData[c("Title","Spins")]
 colnames(mainData)[2] <- as.character.Date(date)
 
 for(i in 2:TOTALDAYS) {
@@ -23,11 +22,9 @@ for(i in 2:TOTALDAYS) {
   
   mainData <- merge(mainData, tempData, by="Title")
 }
+rm(tempData)
 
-date <- Sys.Date()
-dateString <- as.character.Date(date)
-
-mainData <- mainData[order(mainData[[dateString]], decreasing = TRUE),]
+mainData <- mainData[order(mainData[2], decreasing = TRUE),]
 mainDataMatrix <- data.matrix(mainData[-1])
 persp(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix, phi=40, theta=10)
 
@@ -40,4 +37,4 @@ persp3d(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix, col=rainbow(1
 #browseURL(paste("file://", writeWebGL(dir=file.path("radio", "webGL"), width=700), sep=""))
 #creates html file holding interactable 3d-plot
 
-barplot(mainData[[dateString]], col=rainbow(50))
+barplot(mainData[[2]], col=rainbow(50))
