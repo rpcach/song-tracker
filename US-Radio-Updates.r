@@ -35,25 +35,31 @@ plotSong <- function(title, days) {
     colnames(mainData)[ncol(mainData)] <- as.character.Date(date)
   }
   mainData <- mainData[,c("Title",names(mainData[(days+1):2]))]
-  plot(as.numeric(mainData[mainData$Title == title,2:(days+1)]), type="l")
-  #axis(1, at=1:TOTALDAYS,labels=colnames(mainData[2:(days+1)]), las=2)
+  plot(as.numeric(mainData[mainData$Title == title,2:(days+1)]), type="l", axes=FALSE,xaxt="n", yaxt="n",xlab="Date", ylab="Spins (Thousands)", main=title)
+  xaxis <- colnames(mainData[2:(days+1)])
+  for(i in 1:length(xaxis)) {
+    xaxis[i] <- as.character(format(as.Date(xaxis[i]), format="%b-%d-%y"))
+  }
+  axis(1, at=c(1,seq(5,days,5)),labels=c(xaxis[1],xaxis[seq(5,length(xaxis),5)]), las=2)
+  axis(2, at=seq(0,16000,1000), labels=seq(0,16,1),las=2)
 }
-plotSong("Pillowtalk",50)
+plotSong("I Took A Pill In Ibiza",50)
 
 ####################################
 library("rvest")
 TOTALDAYS <- 30
 
+setwd("radio/radio-data") #must be in directory with CSV files
 date <- Sys.Date()
-mainData <- getDayDataTable(date)
+mainData <- read.csv(paste(date,".csv",sep=""))
 mainData <- mainData[c("Title","Spins")]
-colnames(mainData)[2] <- format(date, format="%m-%d")
+colnames(mainData)[2] <- as.character.Date(date)
 
 for(i in 2:TOTALDAYS) {
   date <- date-1
-  tempData <- getDayDataTable(date)
+  tempData <- read.csv(paste(date,".csv",sep=""))
   tempData <- tempData[c("Title","Spins")]
-  colnames(tempData)[2] <- format(date, format="%m-%d")
+  colnames(tempData)[2] <- as.character.Date(date)
   
   mainData <- merge(mainData, tempData, by="Title")
 }
