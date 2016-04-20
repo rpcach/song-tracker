@@ -13,6 +13,7 @@ date <- Sys.Date()
 mainData <- getDayDataTable(date)
 keeps <- c("Title", "Spins")
 mainData <- mainData[keeps]
+colnames(mainData)[2] <- as.character.Date(date)
 
 #barplot(spinData[[1]])
 
@@ -25,7 +26,7 @@ for(i in 2:TOTALDAYS) {
   mainData <- merge(mainData, yesterday, by="Title")
 }
 
-mainData <- mainData[order(mainData$Spins, decreasing = TRUE),]
+mainData <- mainData[order(mainData[[as.character.Date(Sys.Date())]], decreasing = TRUE),]
 xmatrix <- data.matrix(mainData[-1])
 persp(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = xmatrix, phi=40, theta=10)
 library("plot3D")
