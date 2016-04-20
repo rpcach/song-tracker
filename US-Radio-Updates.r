@@ -1,4 +1,4 @@
-TOTALDAYS <- 5
+TOTALDAYS <- 30
 
 library("rvest")
 getDayDataTable <- function(date) {
@@ -7,6 +7,24 @@ getDayDataTable <- function(date) {
   dayDataTable <- url %>% read_html() %>% html_nodes(xpath="/html/body/table") %>% html_table()
   dayDataTable <- dayDataTable[[1]]
   return(dayDataTable)
+}
+
+dataToCSV <- function(date) {
+  temp <- getDayDataTable(date)
+  write.csv(temp, file=paste(date,".csv",sep=""))
+}
+
+updateDataCSV <- function() {
+  date <- Sys.Date()
+  while(TRUE) {
+    if(file.exists(paste(date,".csv",sep=""))) {
+      break
+    }
+    else {
+      dataToCSV(date)
+    }
+    date <- date-1
+  }
 }
 
 date <- Sys.Date()
@@ -22,7 +40,6 @@ for(i in 2:TOTALDAYS) {
   
   mainData <- merge(mainData, tempData, by="Title")
 }
-rm(tempData)
 
 mainData <- mainData[order(mainData[2], decreasing = TRUE),]
 mainDataMatrix <- data.matrix(mainData[-1])
@@ -51,7 +68,8 @@ axis(1, at=1:TOTALDAYS,labels=colnames(mainData[2:(TOTALDAYS+1)]), las=2)
 lines(as.numeric(mainData[2,2:(TOTALDAYS+1)]), type="o")
 
 plotSong <- function(title) {
-  lines(as.numeric(mainData[mainData$Title == title,2:(TOTALDAYS+1)]), type="o")
+  plot(as.numeric(mainData[mainData$Title == title,2:(TOTALDAYS+1)]), type="o")
+  axis(1, at=1:TOTALDAYS,labels=colnames(mainData[2:(TOTALDAYS+1)]), las=2)
 }
 
 plotSong("Cake By The Ocean")
