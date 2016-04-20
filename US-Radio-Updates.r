@@ -1,6 +1,6 @@
-library("rvest")
-TOTALDAYS <- 3
+TOTALDAYS <- 5
 
+library("rvest")
 getDayDataTable <- function(date) {
   dateString <- gsub("-","",as.character.Date(date))
   url <- paste("http://kworb.net/radio/pop/archives/",dateString,".html", sep="")
@@ -12,13 +12,13 @@ getDayDataTable <- function(date) {
 date <- Sys.Date()
 mainData <- getDayDataTable(date)
 mainData <- mainData[c("Title","Spins")]
-colnames(mainData)[2] <- as.character.Date(date)
+colnames(mainData)[2] <- format(date, format="%m-%d")
 
 for(i in 2:TOTALDAYS) {
   date <- date-1
   tempData <- getDayDataTable(date)
   tempData <- tempData[c("Title","Spins")]
-  colnames(tempData)[2] <- as.character.Date(date)
+  colnames(tempData)[2] <- format(date, format="%m-%d")
   
   mainData <- merge(mainData, tempData, by="Title")
 }
@@ -26,6 +26,7 @@ rm(tempData)
 
 mainData <- mainData[order(mainData[2], decreasing = TRUE),]
 mainDataMatrix <- data.matrix(mainData[-1])
+
 persp(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix, phi=40, theta=10)
 
 library("plot3D")
@@ -38,3 +39,19 @@ persp3d(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix, col=rainbow(1
 #creates html file holding interactable 3d-plot
 
 barplot(mainData[[2]], col=rainbow(50))
+
+library(data.table)
+setcolorder(mainData, c("Title", names(mainData[(TOTALDAYS+1):2])))
+#reverses the order of the date columns
+
+plot(as.numeric(mainData[1,2:(TOTALDAYS+1)]), type="l", xlab="Date", ylab="Spins")
+
+plot(as.numeric(mainData[1,2:(TOTALDAYS+1)]), type="o", xaxt="n", xlab="Date", ylab="Spins")
+axis(1, at=1:TOTALDAYS,labels=colnames(mainData[2:(TOTALDAYS+1)]), las=2)
+lines(as.numeric(mainData[2,2:(TOTALDAYS+1)]), type="o")
+
+plotSong <- function(title) {
+  lines(as.numeric(mainData[mainData$Title == title,2:(TOTALDAYS+1)]), type="o")
+}
+
+plotSong("Cake By The Ocean")
