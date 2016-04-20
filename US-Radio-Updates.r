@@ -11,10 +11,11 @@ getDayDataTable <- function(date) {
 
 dataToCSV <- function(date) {
   temp <- getDayDataTable(date)
-  write.csv(temp, file=paste(date,".csv",sep=""))
+  write.csv(temp, file=paste(date,".csv",sep=""), row.names=FALSE)
 }
 
 updateDataCSV <- function() {
+  #setwd("radio/radio-data")
   date <- Sys.Date()
   while(TRUE) {
     if(file.exists(paste(date,".csv",sep=""))) {
