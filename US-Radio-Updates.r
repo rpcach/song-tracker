@@ -10,12 +10,11 @@ pullDayData <- function(date) {
   return(dayDT)
 }
 
-#creates CSV files for new dates
+#writes CSV files for new dates
 pullNewData <- function() {
-  #setwd("radio/radio-data")
   date <- Sys.Date()
   while(TRUE) {
-    if(file.exists(paste(date,".csv",sep=""))) break;
+    if(file.exists(paste("radio-data/",date,".csv",sep=""))) break;
     
     write.csv(pullDayData(date), file=paste(date,".csv",sep=""), row.names=FALSE)
     print(paste(date,"added"))
@@ -25,26 +24,31 @@ pullNewData <- function() {
 }
 
 loadData <- function(days) {
-  #setwd("radio-data")
   date <- Sys.Date()
-  main <- read.csv(paste(date,".csv",sep=""))
+  main <- read.csv(paste("radio-data/",date,".csv",sep=""))
   main <- main[c("Title","Spins")]
+  #5/12/2011 to 6/22/2012 2 col is "Artist and Title", with Artist data ALL CAPS
+  #6/23/2012 to Now 2,3 cols are "Artist","Title"
+  
+  #5/12/2011 to 7/18/2011 no "iTunes" col
+  #7/19/2011 to Now "iTunes" col between "Days" and "PkPos"
+  
   colnames(main)[2] <- as.character.Date(date)
   
   for(i in 2:days) {
     date <- date-1
-    temp <- read.csv(paste(date,".csv",sep=""))
+    temp <- read.csv(paste("radio-data/",date,".csv",sep=""))
     temp <- temp[c("Title","Spins")]
     colnames(temp)[2] <- as.character.Date(date)
     main <- merge(main, temp, by="Title")
     colnames(main)[ncol(main)] <- as.character.Date(date)
   }
-  
+
   return(main)
 }
 
 plotSong <- function(title, days) {
-  mainData <- loadData(days)
+  mainData <- loadDF(days)
   mainData <- mainData[,c("Title",names(mainData[(days+1):2]))] #reverses date-col order
   plot(as.numeric(mainData[mainData$Title == title,2:(days+1)]), type="l", axes=FALSE,xaxt="n", yaxt="n",xlab="Date", ylab="Spins (Thousands)", main=title)
   xaxis <- colnames(mainData[2:(days+1)])
@@ -56,7 +60,7 @@ plotSong <- function(title, days) {
   
   #qplot(1:days, as.integer(mainData[mainData$Title == title,2:(days+1)]))
 }
-plotSong("I Took A Pill In Ibiza",50)
+plotSong("I Took A Pill In Ibiza",30)
 
 ####################################
 library("rvest")
