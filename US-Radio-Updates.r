@@ -27,15 +27,17 @@ pullNewData <- function() {
 loadData <- function(days) {
   #setwd("radio-data")
   date <- Sys.Date()
-  main <- read.csv(paste(date,".csv",sep="",select=cats))
-  main <- main["Title"]
+  main <- read.csv(paste(date,".csv",sep=""))
+  main <- main[c("Title","Spins")]
   colnames(main)[2] <- as.character.Date(date)
   
   for(i in 2:days) {
     date <- date-1
     temp <- read.csv(paste(date,".csv",sep=""))
-    main <- merge(main, temp[c("Title","Spins")], by="Title")
-    colnames(main)[ncol(mainData)] <- as.character.Date(date)
+    temp <- temp[c("Title","Spins")]
+    colnames(temp)[2] <- as.character.Date(date)
+    main <- merge(main, temp, by="Title")
+    colnames(main)[ncol(main)] <- as.character.Date(date)
   }
   
   return(main)
@@ -51,6 +53,8 @@ plotSong <- function(title, days) {
   }
   axis(1, at=c(1,seq(5,days,5)),labels=c(xaxis[1],xaxis[seq(5,length(xaxis),5)]), las=2)
   axis(2, at=seq(0,16000,1000), labels=seq(0,16,1),las=2)
+  
+  #qplot(1:days, as.integer(mainData[mainData$Title == title,2:(days+1)]))
 }
 plotSong("I Took A Pill In Ibiza",50)
 
