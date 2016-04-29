@@ -1,13 +1,13 @@
 mainData <- NULL
 
-library("rvest")
 #gets data.frame for date
-pullDayDataFrame <- function(date) {
+pullDayData <- function(date) {
+  library("rvest")
   dateString <- gsub("-","",as.character.Date(date))
   url <- paste("http://kworb.net/radio/pop/archives/",dateString,".html", sep="")
-  dayDataTable <- url %>% read_html() %>% html_nodes(xpath="/html/body/table") %>% html_table()
-  dayDataTable <- dayDataTable[[1]]
-  return(dayDataTable)
+  dayDT <- url %>% read_html() %>% html_nodes(xpath="/html/body/table") %>% html_table()
+  dayDT <- dayDT[[1]]
+  return(dayDT)
 }
 
 #creates CSV files for new dates
@@ -17,25 +17,33 @@ pullNewData <- function() {
   while(TRUE) {
     if(file.exists(paste(date,".csv",sep=""))) break;
     
-    write.csv(pullDayDataFrame(date), file=paste(date,".csv",sep=""), row.names=FALSE)
+    write.csv(pullDayData(date), file=paste(date,".csv",sep=""), row.names=FALSE)
     print(paste(date,"added"))
     date <- date-1
   }
+  print("done")
 }
 
-plotSong <- function(title, days) {
+loadData <- function(days) {
+  #setwd("radio-data")
   date <- Sys.Date()
-  mainData <- read.csv(paste(date,".csv",sep=""))
-  mainData <- mainData[c("Title","Spins")]
-  colnames(mainData)[2] <- as.character.Date(date)
-  #setwd("radio/radio-data") #must be in directory with CSV files
+  main <- read.csv(paste(date,".csv",sep="",select=cats))
+  main <- main["Title"]
+  colnames(main)[2] <- as.character.Date(date)
+  
   for(i in 2:days) {
     date <- date-1
     temp <- read.csv(paste(date,".csv",sep=""))
-    mainData <- merge(mainData, temp[c("Title","Spins")], by="Title")
-    colnames(mainData)[ncol(mainData)] <- as.character.Date(date)
+    main <- merge(main, temp[c("Title","Spins")], by="Title")
+    colnames(main)[ncol(mainData)] <- as.character.Date(date)
   }
-  mainData <- mainData[,c("Title",names(mainData[(days+1):2]))]
+  
+  return(main)
+}
+
+plotSong <- function(title, days) {
+  mainData <- loadData(days)
+  mainData <- mainData[,c("Title",names(mainData[(days+1):2]))] #reverses date-col order
   plot(as.numeric(mainData[mainData$Title == title,2:(days+1)]), type="l", axes=FALSE,xaxt="n", yaxt="n",xlab="Date", ylab="Spins (Thousands)", main=title)
   xaxis <- colnames(mainData[2:(days+1)])
   for(i in 1:length(xaxis)) {
