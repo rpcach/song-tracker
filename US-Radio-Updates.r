@@ -14,7 +14,7 @@ pullDayData <- function(date) {
 pullNewData <- function() {
   date <- Sys.Date()
   while(TRUE) {
-    if(file.exists(paste("radio-data/",date,".csv",sep=""))) break;
+    if(file.exists(paste("data/",date,".csv",sep=""))) break;
     
     write.csv(pullDayData(date), file=paste(date,".csv",sep=""), row.names=FALSE)
     print(paste(date,"added"))
@@ -25,7 +25,7 @@ pullNewData <- function() {
 
 loadData <- function(days) {
   date <- Sys.Date()
-  main <- read.csv(paste("radio-data/",date,".csv",sep=""))
+  main <- read.csv(paste("data/",date,".csv",sep=""))
   main <- main[c("Title","Spins")]
   #5/12/2011 to 6/22/2012 2 col is "Artist and Title", with Artist data ALL CAPS
   #6/23/2012 to Now 2,3 cols are "Artist","Title"
@@ -37,7 +37,7 @@ loadData <- function(days) {
   
   for(i in 2:days) {
     date <- date-1
-    temp <- read.csv(paste("radio-data/",date,".csv",sep=""))
+    temp <- read.csv(paste("data/",date,".csv",sep=""))
     temp <- temp[c("Title","Spins")]
     colnames(temp)[2] <- as.character.Date(date)
     main <- merge(main, temp, by="Title")
