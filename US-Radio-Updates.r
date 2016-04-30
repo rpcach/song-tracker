@@ -23,10 +23,10 @@ pullNewData <- function() {
   print("done")
 }
 
-loadData <- function(days) {
+loadData <- function(days, cats="Spins") {
   date <- Sys.Date()
-  main <- read.csv(paste("data/",date,".csv",sep=""))
-  main <- main[c("Title","Spins")]
+  main <- loadDate(date)
+  main <- main[c("Title",cats)]
   #5/12/2011 to 6/22/2012 2 col is "Artist and Title", with Artist data ALL CAPS
   #6/23/2012 to Now 2,3 cols are "Artist","Title"
   
@@ -37,14 +37,18 @@ loadData <- function(days) {
   
   for(i in 2:days) {
     date <- date-1
-    temp <- read.csv(paste("data/",date,".csv",sep=""))
-    temp <- temp[c("Title","Spins")]
+    temp <- loadDate(date)
+    temp <- temp[c("Title",cats)]
     colnames(temp)[2] <- as.character.Date(date)
     main <- merge(main, temp, by="Title")
     colnames(main)[ncol(main)] <- as.character.Date(date)
   }
 
   return(main)
+}
+
+loadDate <- function(date) {
+  read.csv(paste("data/",date,".csv",sep=""))
 }
 
 song2df <- function(title,days) {
@@ -67,6 +71,13 @@ plotSong <- function(title, days) {
 demo <- function() {
   assign("mainData",loadData(17), envir=.GlobalEnv)
   plotSong(as.character(as.character(mainData[1,1])),17)
+
+  mainData <- mainData[order(mainData[2], decreasing = TRUE),]
+  df1 <- song2df(mainData[1,1],17)
+  df2 <- song2df(mainData[2,1],17)
+
+  library(ggplot2)
+  ggplot() + geom_line(data=df1, aes(x=date,y=spins)) + geom_line(data=df2, aes(x=date,y=spins))
 }
 
 demo()
@@ -75,15 +86,14 @@ demo()
 library("rvest")
 TOTALDAYS <- 30
 
-setwd("radio/radio-data") #must be in directory with CSV files
 date <- Sys.Date()
-mainData <- read.csv(paste(date,".csv",sep=""))
+mainData <- read.csv(paste("data/",date,".csv",sep=""))
 mainData <- mainData[c("Title","Spins")]
 colnames(mainData)[2] <- as.character.Date(date)
 
 for(i in 2:TOTALDAYS) {
   date <- date-1
-  tempData <- read.csv(paste(date,".csv",sep=""))
+  tempData <- read.csv(paste("data/",date,".csv",sep=""))
   tempData <- tempData[c("Title","Spins")]
   colnames(tempData)[2] <- as.character.Date(date)
   
