@@ -47,20 +47,24 @@ loadData <- function(days) {
   return(main)
 }
 
-plotSong <- function(title, days) {
-  mainData <- loadDF(days)
-  mainData <- mainData[,c("Title",names(mainData[(days+1):2]))] #reverses date-col order
-  plot(as.numeric(mainData[mainData$Title == title,2:(days+1)]), type="l", axes=FALSE,xaxt="n", yaxt="n",xlab="Date", ylab="Spins (Thousands)", main=title)
-  xaxis <- colnames(mainData[2:(days+1)])
-  for(i in 1:length(xaxis)) {
-    xaxis[i] <- as.character(format(as.Date(xaxis[i]), format="%b-%d-%y"))
-  }
-  axis(1, at=c(1,seq(5,days,5)),labels=c(xaxis[1],xaxis[seq(5,length(xaxis),5)]), las=2)
-  axis(2, at=seq(0,16000,1000), labels=seq(0,16,1),las=2)
+song2df <- function(title,days) {
+  date <- as.Date(colnames(mainData)[2:(days+1)])
+  spins <- as.integer(t(mainData[mainData$Title == title,2:(days+1)]))
   
-  #qplot(1:days, as.integer(mainData[mainData$Title == title,2:(days+1)]))
+  df <- as.data.frame(cbind(date,spins))
+  df[,1] <- as.Date(df[,1], origin="1970-01-01")
+
+  return(df)
 }
-plotSong("I Took A Pill In Ibiza",30)
+
+plotSong <- function(title, days) {
+  df <- song2df(title,days)
+  
+  library(ggplot2)
+  ggplot(df,aes(x=date,y=spins)) + geom_line()
+}
+
+plotSong("I Took A Pill In Ibiza",10)
 
 ####################################
 library("rvest")
