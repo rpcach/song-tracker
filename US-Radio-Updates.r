@@ -55,8 +55,8 @@ song2df <- function(title,days) {
   date <- as.Date.character(colnames(mainData)[2:(days+1)])
   spins <- as.integer(t(mainData[mainData$Title == title,2:(days+1)]))
   
-  df <- as.data.frame(cbind(date,spins))
-  df[,1] <- as.Date(df[,1], origin="1970-01-01")
+  df <- data.frame(title,date,spins)
+  #df[,1] <- as.Date(df[,1], origin="1970-01-01")
 
   return(df)
 }
@@ -75,16 +75,13 @@ demo <- function() {
   mainData <- mainData[order(mainData[2], decreasing = TRUE),]
   df1 <- song2df(mainData[1,1],17)
   df2 <- song2df(mainData[2,1],17)
-
-  library(ggplot2)
-  ggplot() + geom_line(data=df1, aes(x=date,y=spins)) + geom_line(data=df2, aes(x=date,y=spins))
   
-
-  #Add factor variable to df1 and df2.
-  #df <- rbind(df1,df2)
-  #ggplot() + geom_line(data=df, aes(x=date,y=spins,group=FACTOR-COL,col=FACTOR-COL))
+  df <- rbind(df1,df2)
+  library(ggplot2)
+  ggplot() + geom_line(data=df, aes(x=date,y=spins,col=title))
   
 }
+mainData <- loadData(17)
 
 demo()
 
