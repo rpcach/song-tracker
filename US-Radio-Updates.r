@@ -56,7 +56,6 @@ song2df <- function(title,days) {
   spins <- as.integer(t(mainData[mainData$Title == title,2:(days+1)]))
   
   df <- data.frame(title,date,spins)
-  #df[,1] <- as.Date(df[,1], origin="1970-01-01")
 
   return(df)
 }
@@ -70,20 +69,22 @@ plotSong <- function(title, days) {
 
 #top 5 songs in the last 30 days
 demo <- function() {
-  assign("mainData",loadData(30), envir=.GlobalEnv)
+  days <- 30
+  assign("mainData",loadData(days), envir=.GlobalEnv)
 
   mainData <- mainData[order(mainData[2], decreasing = TRUE),]
-  days <- 30
-  df1 <- song2df(mainData[1,1],days)
-  df2 <- song2df(mainData[2,1],days)
-  df3 <- song2df(mainData[3,1],days)
-  df4 <- song2df(mainData[4,1],days)
-  df5 <- song2df(mainData[5,1],days)
   
-  df <- rbind(df1,df2,df3,df4,df5)
+  numSongs <- 5
+  
+  df <- NULL
+  for(i in 1:numSongs) {
+    temp <- song2df(mainData[i,1],days)
+    df <- rbind(df,temp)
+  }
+  
   colnames(df) <- c("Title","Date","Spins")
   library(ggplot2)
-  ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title)) + ggtitle("Top 5 Songs in May")
+  ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title)) + ggtitle("Current Top 5 Songs")
   
 }
 
