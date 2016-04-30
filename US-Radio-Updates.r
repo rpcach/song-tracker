@@ -48,7 +48,7 @@ loadData <- function(days) {
 }
 
 song2df <- function(title,days) {
-  date <- as.Date(colnames(mainData)[2:(days+1)])
+  date <- as.Date.character(colnames(mainData)[2:(days+1)])
   spins <- as.integer(t(mainData[mainData$Title == title,2:(days+1)]))
   
   df <- as.data.frame(cbind(date,spins))
@@ -59,12 +59,17 @@ song2df <- function(title,days) {
 
 plotSong <- function(title, days) {
   df <- song2df(title,days)
-  
+
   library(ggplot2)
   ggplot(df,aes(x=date,y=spins)) + geom_line()
 }
 
-plotSong("I Took A Pill In Ibiza",10)
+demo <- function() {
+  assign("mainData",loadData(17), envir=.GlobalEnv)
+  plotSong(as.character(as.character(mainData[1,1])),17)
+}
+
+demo()
 
 ####################################
 library("rvest")
