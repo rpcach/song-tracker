@@ -70,7 +70,7 @@ plotSong <- function(title, days) {
 
 demo <- function() {
   assign("mainData",loadData(17), envir=.GlobalEnv)
-  plotSong(as.character(as.character(mainData[1,1])),17)
+  #plotSong(as.character(as.character(mainData[1,1])),17)
 
   mainData <- mainData[order(mainData[2], decreasing = TRUE),]
   df1 <- song2df(mainData[1,1],17)
@@ -78,6 +78,12 @@ demo <- function() {
 
   library(ggplot2)
   ggplot() + geom_line(data=df1, aes(x=date,y=spins)) + geom_line(data=df2, aes(x=date,y=spins))
+  
+
+  #Add factor variable to df1 and df2.
+  #df <- rbind(df1,df2)
+  #ggplot() + geom_line(data=df, aes(x=date,y=spins,group=FACTOR-COL,col=FACTOR-COL))
+  
 }
 
 demo()
