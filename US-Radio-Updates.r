@@ -68,20 +68,24 @@ plotSong <- function(title, days) {
   ggplot(df,aes(x=date,y=spins)) + geom_line()
 }
 
+#top 5 songs in the last 30 days
 demo <- function() {
-  assign("mainData",loadData(17), envir=.GlobalEnv)
-  #plotSong(as.character(as.character(mainData[1,1])),17)
+  assign("mainData",loadData(30), envir=.GlobalEnv)
 
   mainData <- mainData[order(mainData[2], decreasing = TRUE),]
-  df1 <- song2df(mainData[1,1],17)
-  df2 <- song2df(mainData[2,1],17)
+  days <- 30
+  df1 <- song2df(mainData[1,1],days)
+  df2 <- song2df(mainData[2,1],days)
+  df3 <- song2df(mainData[3,1],days)
+  df4 <- song2df(mainData[4,1],days)
+  df5 <- song2df(mainData[5,1],days)
   
-  df <- rbind(df1,df2)
+  df <- rbind(df1,df2,df3,df4,df5)
+  colnames(df) <- c("Title","Date","Spins")
   library(ggplot2)
-  ggplot() + geom_line(data=df, aes(x=date,y=spins,col=title))
+  ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title)) + ggtitle("Top 5 Songs in May")
   
 }
-mainData <- loadData(17)
 
 demo()
 
