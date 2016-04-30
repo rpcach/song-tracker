@@ -67,6 +67,17 @@ plotSong <- function(title, days) {
   ggplot(df,aes(x=date,y=spins)) + geom_line()
 }
 
+songs2df <- function(titles, days) {
+  df <- NULL
+  
+  for(title in titles) {
+    temp <- song2df(title,days)
+    df <- rbind(df,temp)
+  }
+  
+  return(df)
+}
+
 #top 5 songs in the last 30 days
 demo <- function() {
   days <- 30
