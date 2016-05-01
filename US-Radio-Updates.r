@@ -56,6 +56,7 @@ song2df <- function(title,days) {
   spins <- as.integer(t(mainData[mainData$Title == title,2:(days+1)]))
   
   df <- data.frame(title,date,spins)
+  #note: factors in df are determined alphabetically
 
   return(df)
 }
