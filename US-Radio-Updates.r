@@ -23,6 +23,10 @@ pullNewData <- function() {
   print("done")
 }
 
+loadDate <- function(date) {
+  read.csv(paste("data/",date,".csv",sep=""))
+}
+
 loadData <- function(days, cats="Spins") {
   date <- Sys.Date()
   main <- loadDate(date)
@@ -40,15 +44,13 @@ loadData <- function(days, cats="Spins") {
     temp <- loadDate(date)
     temp <- temp[c("Title",cats)]
     colnames(temp)[2] <- as.character.Date(date)
-    main <- merge(main, temp, by="Title")
+    main <- merge(main, temp, by="Title",all=TRUE)
     colnames(main)[ncol(main)] <- as.character.Date(date)
   }
-
+  
+  main  <- main[order(main[2], decreasing = TRUE),]
+  
   return(main)
-}
-
-loadDate <- function(date) {
-  read.csv(paste("data/",date,".csv",sep=""))
 }
 
 song2df <- function(title,days) {
@@ -59,13 +61,6 @@ song2df <- function(title,days) {
   #note: factors in df are determined alphabetically
 
   return(df)
-}
-
-plotSong <- function(title, days) {
-  df <- song2df(title,days)
-
-  library(ggplot2)
-  ggplot(df,aes(x=date,y=spins)) + geom_line()
 }
 
 songs2df <- function(titles, days) {
@@ -79,13 +74,18 @@ songs2df <- function(titles, days) {
   return(df)
 }
 
+plotSong <- function(title, days) {
+  df <- song2df(title,days)
+  
+  library(ggplot2)
+  ggplot(df,aes(x=date,y=spins)) + geom_line()
+}
+
 #top 5 songs in the last 30 days
 demo <- function() {
   days <- 30
   assign("mainData",loadData(days), envir=.GlobalEnv)
 
-  mainData <- mainData[order(mainData[2], decreasing = TRUE),]
-  
   numSongs <- 5
   
   df <- NULL
@@ -103,24 +103,12 @@ demo <- function() {
 demo()
 
 ####################################
-library("rvest")
 TOTALDAYS <- 30
 
 date <- Sys.Date()
-mainData <- read.csv(paste("data/",date,".csv",sep=""))
-mainData <- mainData[c("Title","Spins")]
-colnames(mainData)[2] <- as.character.Date(date)
 
-for(i in 2:TOTALDAYS) {
-  date <- date-1
-  tempData <- read.csv(paste("data/",date,".csv",sep=""))
-  tempData <- tempData[c("Title","Spins")]
-  colnames(tempData)[2] <- as.character.Date(date)
-  
-  mainData <- merge(mainData, tempData, by="Title")
-}
+mainData <- loadData(TOTALDAYS)
 
-mainData <- mainData[order(mainData[2], decreasing = TRUE),]
 mainDataMatrix <- data.matrix(mainData[-1])
 
 persp(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix, phi=40, theta=10)
