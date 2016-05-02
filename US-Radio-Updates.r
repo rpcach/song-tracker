@@ -16,7 +16,7 @@ pullNewData <- function() {
   while(TRUE) {
     if(file.exists(paste("data/",date,".csv",sep=""))) break;
     
-    write.csv(pullDayData(date), file=paste(date,".csv",sep=""), row.names=FALSE)
+    write.csv(pullDayData(date), file=paste("data/",date,".csv",sep=""), row.names=FALSE)
     print(paste(date,"added"))
     date <- date-1
   }
