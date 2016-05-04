@@ -33,8 +33,9 @@ loadDate <- function(date) {
   read.csv(paste("data/",date,".csv",sep=""))
 }
 
-loadData <- function(days, cats="Spins") {
-  date <- Sys.Date()
+loadData <- function(start=(Sys.Date()-30), end=Sys.Date(), cats="Spins") {
+  days <- as.numeric(end-start+1)
+  date <- end
   main <- loadDate(date)
   main <- main[c("Title",cats)]
   #5/12/2011 to 6/22/2012 2 col is "Artist and Title", with Artist data ALL CAPS
@@ -89,8 +90,8 @@ plotSong <- function(title, days) {
 
 #top 5 songs in the last 30 days
 demo <- function() {
-  days <- 30
-  assign("mainData",loadData(days), envir=.GlobalEnv)
+  days <- 31
+  assign("mainData",loadData(), envir=.GlobalEnv)
 
   numSongs <- 5
   
