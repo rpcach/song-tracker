@@ -95,7 +95,7 @@ demo <- function() {
   
   df <- NULL
   for(i in 1:numSongs) {
-    temp <- song2df(mainData[i,1], (Sys.Date()-30), Sys.Date())
+    temp <- song2df(mainData[i,1], (Sys.Date()-30), Sys.Date(), mainData)
     df <- rbind(df,temp)
   }
   
