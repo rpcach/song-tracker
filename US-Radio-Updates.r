@@ -4,7 +4,7 @@ mainData <- NULL
 pullDayData <- function(date) {
   library("rvest")
   dateString <- gsub("-","",as.character.Date(date))
-  url <- paste("http://kworb.net/radio/pop/archives/",dateString,".html", sep="")
+  url <- paste("http://kworb.net/radio/pop/archives/",dateString,".html",sep="")
   dayDT <- url %>% read_html() %>% html_nodes(xpath="/html/body/table") %>% html_table()
   dayDT <- dayDT[[1]]
   return(dayDT)
@@ -14,6 +14,12 @@ pullDayData <- function(date) {
 pullNewData <- function() {
   date <- Sys.Date()
   while(TRUE) {
+    dateString <- gsub("-","",as.character.Date(date))
+    library("RCurl")
+    if(!url.exists(paste("http://kworb.net/radio/pop/archives/",dateString,".html",sep=""))) {
+      print(paste("Date for",date,"is not yet available"))
+      next
+    }
     if(file.exists(paste("data/",date,".csv",sep=""))) break;
     
     write.csv(pullDayData(date), file=paste("data/",date,".csv",sep=""), row.names=FALSE)
@@ -101,6 +107,9 @@ demo <- function() {
 }
 
 demo()
+
+###################################
+
 
 ####################################
 TOTALDAYS <- 30
