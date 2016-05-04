@@ -107,46 +107,46 @@ demo <- function() {
   
 }
 
-demo()
+# demo()
+# 
+# ###################################
 
-###################################
 
-
-####################################
-TOTALDAYS <- 30
-
-date <- Sys.Date()
-
-mainData <- loadData(TOTALDAYS)
-
-mainDataMatrix <- data.matrix(mainData[-1])
-
-persp(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix, phi=40, theta=10)
-
-library("plot3D")
-persp3D(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix)
-#size of matrix must be equal to x-by-y in persp function
-
-library("rgl")
-persp3d(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix, col=rainbow(1000), xlab="Song Position", ylab="Time Ago in Days", zlab="Spins")
-#browseURL(paste("file://", writeWebGL(dir=file.path("radio", "webGL"), width=700), sep=""))
-#creates html file holding interactable 3d-plot
-
-barplot(mainData[[2]], col=rainbow(50))
-
-library(data.table)
-setcolorder(mainData, c("Title", names(mainData[(TOTALDAYS+1):2])))
-#reverses the order of the date columns
-
-plot(as.numeric(mainData[1,2:(TOTALDAYS+1)]), type="l", xlab="Date", ylab="Spins")
-
-plot(as.numeric(mainData[1,2:(TOTALDAYS+1)]), type="o", xaxt="n", xlab="Date", ylab="Spins")
-axis(1, at=1:TOTALDAYS,labels=colnames(mainData[2:(TOTALDAYS+1)]), las=2)
-lines(as.numeric(mainData[2,2:(TOTALDAYS+1)]), type="o")
-
-plotSong <- function(title) {
-  plot(as.numeric(mainData[mainData$Title == title,2:(TOTALDAYS+1)]), type="o")
-  axis(1, at=1:TOTALDAYS,labels=colnames(mainData[2:(TOTALDAYS+1)]), las=2)
-}
-
-plotSong("Cake By The Ocean")
+# ####################################
+# TOTALDAYS <- 30
+# 
+# date <- Sys.Date()
+# 
+# mainData <- loadData(TOTALDAYS)
+# 
+# mainDataMatrix <- data.matrix(mainData[-1])
+# 
+# persp(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix, phi=40, theta=10)
+# 
+# library("plot3D")
+# persp3D(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix)
+# #size of matrix must be equal to x-by-y in persp function
+# 
+# library("rgl")
+# persp3d(x = 1:nrow(mainData), y = 1:TOTALDAYS, z = mainDataMatrix, col=rainbow(1000), xlab="Song Position", ylab="Time Ago in Days", zlab="Spins")
+# #browseURL(paste("file://", writeWebGL(dir=file.path("radio", "webGL"), width=700), sep=""))
+# #creates html file holding interactable 3d-plot
+# 
+# barplot(mainData[[2]], col=rainbow(50))
+# 
+# library(data.table)
+# setcolorder(mainData, c("Title", names(mainData[(TOTALDAYS+1):2])))
+# #reverses the order of the date columns
+# 
+# plot(as.numeric(mainData[1,2:(TOTALDAYS+1)]), type="l", xlab="Date", ylab="Spins")
+# 
+# plot(as.numeric(mainData[1,2:(TOTALDAYS+1)]), type="o", xaxt="n", xlab="Date", ylab="Spins")
+# axis(1, at=1:TOTALDAYS,labels=colnames(mainData[2:(TOTALDAYS+1)]), las=2)
+# lines(as.numeric(mainData[2,2:(TOTALDAYS+1)]), type="o")
+# 
+# plotSong <- function(title) {
+#   plot(as.numeric(mainData[mainData$Title == title,2:(TOTALDAYS+1)]), type="o")
+#   axis(1, at=1:TOTALDAYS,labels=colnames(mainData[2:(TOTALDAYS+1)]), las=2)
+# }
+# 
+# plotSong("Cake By The Ocean")
