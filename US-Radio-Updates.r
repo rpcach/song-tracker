@@ -29,14 +29,10 @@ pullNewData <- function() {
   print("done")
 }
 
-loadDate <- function(date) {
-  read.csv(paste("data/",date,".csv",sep=""))
-}
-
 loadData <- function(start=(Sys.Date()-30), end=Sys.Date(), cats="Spins") {
   days <- as.numeric(end-start+1)
   date <- end
-  main <- loadDate(date)
+  main <- read.csv(paste("data/",date,".csv",sep=""))
   main <- main[c("Title",cats)]
   #5/12/2011 to 6/22/2012 2 col is "Artist and Title", with Artist data ALL CAPS
   #6/23/2012 to Now 2,3 cols are "Artist","Title"
@@ -48,7 +44,7 @@ loadData <- function(start=(Sys.Date()-30), end=Sys.Date(), cats="Spins") {
   
   for(i in 2:days) {
     date <- date-1
-    temp <- loadDate(date)
+    temp <- read.csv(paste("data/",date,".csv",sep=""))
     temp <- temp[c("Title",cats)]
     colnames(temp)[2] <- as.character.Date(date)
     main <- merge(main, temp, by="Title",all=TRUE)
