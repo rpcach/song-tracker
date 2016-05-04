@@ -102,7 +102,8 @@ demo <- function() {
   
   colnames(df) <- c("Title","Date","Spins")
   library(ggplot2)
-  ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title)) + ggtitle("Current Top 5 Songs")
+  p <- ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title)) + ggtitle("Current Top 5 Songs")
+  print(p)
   
 }
 
