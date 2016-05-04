@@ -1,5 +1,5 @@
 library(shiny)
-#source("US-Radio-Updates.r")
+source("US-Radio-Updates.r")
 
 ui <- fluidPage(
   dateRangeInput(inputId = "range",
@@ -8,17 +8,20 @@ ui <- fluidPage(
                  end = Sys.Date(),
                  min = "2011-05-12",
                  max = Sys.Date()),
-  checkboxGroupInput(inputId = "songs",
-                     label = "Songs",
-                     choices = c("alpha","beta","gamma"),
-                     selected = "alpha"
-                     ),
+  uiOutput(outputId = "songs"),
   plotOutput("songSpinPlot")
 )
 
 server <- function(input,output) {
+  output$songs <- renderUI({
+    mainData <- loadData(input$range[1],input$range[2])
+    titles <- levels(mainData$Title)
+    checkboxGroupInput(inputId = "songs2",
+                       label = "SongsX",
+                       choices = titles)
+  })
   output$songSpinPlot <- reactivePlot(function() {
-    
+    print(input$range)
   })
 }
 
