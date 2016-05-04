@@ -58,7 +58,7 @@ loadData <- function(start=(Sys.Date()-30), end=Sys.Date(), cats="Spins") {
   return(main)
 }
 
-song2df <- function(title, start, end, data=mainData) {
+song2df <- function(title, start, end, data) {
   days <- as.numeric(end-start+1)
   date <- as.Date.character(colnames(data)[2:(days+1)])
   spins <- as.integer(t(data[data$Title == title,2:(days+1)]))
@@ -69,7 +69,7 @@ song2df <- function(title, start, end, data=mainData) {
   return(df)
 }
 
-songs2df <- function(titles, start, end, data=mainData) {
+songs2df <- function(titles, start, end, data) {
   df <- NULL
   
   for(title in titles) {

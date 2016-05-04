@@ -29,7 +29,7 @@ server <- function(input,output) {
                        choices = titles,
                        selected = titles[1:5])
   })
-  output$songSpinPlot <- reactivePlot(function() {
+  output$songSpinPlot <- renderPlot({
     df <- songs2df(input$songs2,input$range[1],input$range[2],subData)
     colnames(df) <- c("Title","Date","Spins")
     p <- ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title))
