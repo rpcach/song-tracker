@@ -1,4 +1,5 @@
 mainData <- NULL
+subData <- NULL
 library(ggplot2)
 
 #gets data.frame for date
@@ -57,10 +58,10 @@ loadData <- function(start=(Sys.Date()-30), end=Sys.Date(), cats="Spins") {
   return(main)
 }
 
-song2df <- function(title, start, end) {
+song2df <- function(title, start, end, data=mainData) {
   days <- as.numeric(end-start+1)
-  date <- as.Date.character(colnames(mainData)[2:(days+1)])
-  spins <- as.integer(t(mainData[mainData$Title == title,2:(days+1)]))
+  date <- as.Date.character(colnames(data)[2:(days+1)])
+  spins <- as.integer(t(data[data$Title == title,2:(days+1)]))
   
   df <- data.frame(title,date,spins)
   #note: factors in df are determined alphabetically
@@ -68,11 +69,11 @@ song2df <- function(title, start, end) {
   return(df)
 }
 
-songs2df <- function(titles, start, end) {
+songs2df <- function(titles, start, end, data=mainData) {
   df <- NULL
   
   for(title in titles) {
-    temp <- song2df(title,start,end)
+    temp <- song2df(title,start,end,data)
     df <- rbind(df,temp)
   }
   
@@ -104,6 +105,13 @@ demo <- function() {
   print(p)
   
 }
+
+onOpen <- function() {
+  pullNewData()
+  assign("mainData",loadData((Sys.Date()-180),Sys.Date()), envir=.GlobalEnv)
+}
+
+onOpen()
 
 # demo()
 # 

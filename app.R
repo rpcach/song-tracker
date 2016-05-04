@@ -22,15 +22,15 @@ ui <- fluidPage(
 
 server <- function(input,output) {
   output$songs <- renderUI({
-    assign("mainData",loadData(input$range[1],input$range[2]), envir=.GlobalEnv)
-    titles <- as.character(mainData$Title)
+    assign("subData",mainData[,c("Title",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
+    titles <- as.character(subData$Title)
     checkboxGroupInput(inputId = "songs2",
                        label = "SongsX",
                        choices = titles,
                        selected = titles[1:5])
   })
   output$songSpinPlot <- reactivePlot(function() {
-    df <- songs2df(input$songs2,input$range[1],input$range[2])
+    df <- songs2df(input$songs2,input$range[1],input$range[2],subData)
     colnames(df) <- c("Title","Date","Spins")
     p <- ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title))
     print(p)
