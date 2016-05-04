@@ -1,4 +1,5 @@
 mainData <- NULL
+library(ggplot2)
 
 #gets data.frame for date
 pullDayData <- function(date) {

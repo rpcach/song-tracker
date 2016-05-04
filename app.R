@@ -14,14 +14,18 @@ ui <- fluidPage(
 
 server <- function(input,output) {
   output$songs <- renderUI({
-    mainData <- loadData(input$range[1],input$range[2])
+    assign("mainData",loadData(input$range[1],input$range[2]), envir=.GlobalEnv)
     titles <- levels(mainData$Title)
     checkboxGroupInput(inputId = "songs2",
                        label = "SongsX",
-                       choices = titles)
+                       choices = titles,
+                       selected = titles[1:5])
   })
   output$songSpinPlot <- reactivePlot(function() {
-    print(input$range)
+    df <- songs2df(input$songs2,input$range[1],input$range[2])
+    colnames(df) <- c("Title","Date","Spins")
+    p <- ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title)) + ggtitle("Current Top 5 Songs")
+    print(p)
   })
 }
 
