@@ -1,4 +1,5 @@
 library(shiny)
+library(rCharts)
 source("US-Radio-Updates.r")
 
 ui <- fluidPage(
@@ -14,7 +15,7 @@ ui <- fluidPage(
      uiOutput(outputId = "songs")
    ),
    mainPanel(
-     plotOutput("songSpinPlot")
+     showOutput("songSpinPlot","nvd3")
    )
   )
   
@@ -29,11 +30,21 @@ server <- function(input,output) {
                        choices = titles,
                        selected = titles[1:5])
   })
-  output$songSpinPlot <- renderPlot({
+  output$songSpinPlot <- renderChart2({
     df <- songs2df(input$songs2,input$range[1],input$range[2],subData)
     colnames(df) <- c("Title","Date","Spins")
-    p <- ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title))
-    print(p)
+    # p <- ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title))
+    # print(p)
+    n1 <- nPlot(Spins ~ Date,
+                group = "Title",
+                data = df,
+                type = "lineChart")
+    n1$xAxis(axisLabel = "Dates",
+             tickFormat = "#!function(d) {return d3.time.format('%Y-%m-%d')(new Date( (d+1) * 86400000 ));}!#")
+    n1$yAxis(axisLabel = "Spins")
+    n1$xAxis()
+    return(n1)
+    
   })
 }
 
