@@ -17,8 +17,8 @@ ui <- fluidPage(
                  value = 100, min = 50, max = 100),
      sliderInput(inputId = "setHeight",
                  label = "Set Graph Height %",
-                 value = 62.5, min = 50, max = 100),
-     uiOutput(outputId = "songs")
+                 value = 75, min = 50, max = 100),
+     uiOutput(outputId = "songTitles")
    ),
    mainPanel(
      plotOutput("plot1", height = "1px"),
@@ -29,7 +29,7 @@ ui <- fluidPage(
 )
 
 server <- function(input,output,session) {
-  output$songs <- renderUI({
+  output$songTitles <- renderUI({
     assign("subData",mainData[,c("Title",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
     titles <- as.character(subData$Title)
     checkboxGroupInput(inputId = "songs2",
