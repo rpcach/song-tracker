@@ -3,26 +3,26 @@ library(rCharts)
 source("US-Radio-Updates.r")
 
 ui <- fluidPage(
-  titlePanel("Song Tracker"),
+  titlePanel("Song Spins Tracker"),
   sidebarLayout(
    sidebarPanel(
      dateRangeInput(inputId = "range",
                     label = "Date Range",
                     start = (Sys.Date()-30),
                     end = Sys.Date(),
-                    min = "2011-05-12",
+                    min = (Sys.Date()-180), #"2011-05-12",
                     max = Sys.Date()),
      sliderInput(inputId = "setWidth",
                  label = "Set Graph Width %",
                  value = 100, min = 50, max = 100),
      sliderInput(inputId = "setHeight",
                  label = "Set Graph Height %",
-                 value = 75, min = 50, max = 100),
+                 value = 75, min = 50, max = 150),
      uiOutput(outputId = "songTitles")
    ),
    mainPanel(
      plotOutput("plot1", height = "1px"),
-     showOutput("songSpinPlot","nvd3")
+     showOutput("nChart","nvd3")
    )
   )
   
@@ -31,15 +31,18 @@ ui <- fluidPage(
 server <- function(input,output,session) {
   output$songTitles <- renderUI({
     assign("subData",mainData[,c("Title",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
+    assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-1),], envir=.GlobalEnv)
+    assign("subData",subData[order(subData[2], decreasing = TRUE),])
     titles <- as.character(subData$Title)
+    print(length(titles))
+    #print(subData)
     checkboxGroupInput(inputId = "songs2",
-                       label = "SongsX",
+                       label = "Songs w/ Spins",
                        choices = titles,
                        selected = titles[1:5])
   })
-  output$songSpinPlot <- renderChart2({
+  output$nChart <- renderChart2({
     df <- songs2df(input$songs2,input$range[1],input$range[2],subData)
-    colnames(df) <- c("Title","Date","Spins")
     # p <- ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title))
     # print(p)
     

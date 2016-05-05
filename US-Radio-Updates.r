@@ -76,6 +76,7 @@ songs2df <- function(titles, start, end, data) {
     temp <- song2df(title,start,end,data)
     df <- rbind(df,temp)
   }
+  colnames(df) <- c("Title","Date","Spins")
   
   return(df)
 }
@@ -90,6 +91,7 @@ plotSong <- function(title, days) {
 #top 5 songs in the last 30 days
 demo <- function() {
   assign("mainData",loadData(start=(Sys.Date()-30),end=Sys.Date(),cats="Spins"), envir=.GlobalEnv)
+  assign("subData",mainData[,c("Title",as.character(as.Date(Sys.Date():(Sys.Date()-30),origin="1970-01-01")))], envir=.GlobalEnv)
 
   numSongs <- 5
   
@@ -106,12 +108,12 @@ demo <- function() {
   
 }
 
-onOpen <- function() {
+main <- function() {
   pullNewData()
   assign("mainData",loadData((Sys.Date()-180),Sys.Date()), envir=.GlobalEnv)
 }
 
-onOpen()
+main()
 
 
 # ####################################
