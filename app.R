@@ -13,10 +13,10 @@ ui <- fluidPage(
                     min = (Sys.Date()-180), #"2011-05-12",
                     max = Sys.Date()),
      sliderInput(inputId = "setWidth",
-                 label = "Set Graph Width %",
+                 label = "Width %",
                  value = 100, min = 50, max = 100),
      sliderInput(inputId = "setHeight",
-                 label = "Set Graph Height %",
+                 label = "Height %",
                  value = 75, min = 50, max = 150),
      uiOutput(outputId = "songTitles")
    ),
@@ -36,7 +36,7 @@ server <- function(input,output,session) {
     titles <- as.character(subData$Title)
     
     checkboxGroupInput(inputId = "songs2",
-                       label = "Songs w/ Spins",
+                       label = paste(length(titles),"songs available"),
                        choices = titles,
                        selected = titles[1:5])
   })
