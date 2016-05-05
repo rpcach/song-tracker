@@ -1,6 +1,5 @@
 mainData <- NULL
 subData <- NULL
-library(ggplot2)
 
 #gets data.frame for date
 pullDayData <- function(date) {
@@ -81,13 +80,6 @@ songs2df <- function(titles, start, end, data) {
   return(df)
 }
 
-plotSong <- function(title, days) {
-  df <- song2df(title,days)
-  
-  library(ggplot2)
-  ggplot(df,aes(x=date,y=spins)) + geom_line()
-}
-
 #top 5 songs in the last 30 days
 demo <- function() {
   assign("mainData",loadData(start=(Sys.Date()-30),end=Sys.Date(),cats="Spins"), envir=.GlobalEnv)
@@ -110,13 +102,13 @@ demo <- function() {
 
 main <- function() {
   pullNewData()
-  assign("mainData",loadData((Sys.Date()-30),Sys.Date()), envir=.GlobalEnv)
+  assign("mainData",loadData((Sys.Date()-180),Sys.Date()), envir=.GlobalEnv)
 }
 
 main()
 
 library(rCharts)
-standAlone() <- function() {
+standAlone <- function() {
   assign("subData",mainData[,c("Title",as.character(Sys.Date():(Sys.Date()-30),origin="1970-01-01"))], envir=.GlobalEnv)
   assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-1),], envir=.GlobalEnv)
   assign("subData",subData[order(subData[2], decreasing = TRUE),])
