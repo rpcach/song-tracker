@@ -110,10 +110,33 @@ demo <- function() {
 
 main <- function() {
   pullNewData()
-  assign("mainData",loadData((Sys.Date()-180),Sys.Date()), envir=.GlobalEnv)
+  assign("mainData",loadData((Sys.Date()-30),Sys.Date()), envir=.GlobalEnv)
 }
 
 main()
+
+library(rCharts)
+standAlone() <- function() {
+  assign("subData",mainData[,c("Title",as.character(Sys.Date():(Sys.Date()-30),origin="1970-01-01"))], envir=.GlobalEnv)
+  assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-1),], envir=.GlobalEnv)
+  assign("subData",subData[order(subData[2], decreasing = TRUE),])
+  titles <- as.character(subData$Title)
+  
+  df <- songs2df(titles,(Sys.Date()-30),Sys.Date(),subData)
+  
+  n1 <- nPlot(Spins ~ Date,
+              group = "Title",
+              data = df,
+              type = "lineChart")
+  n1$xAxis(axisLabel = "Dates",
+           tickFormat = "#!function(d) {return d3.time.format('%Y-%m-%d')(new Date( (d+1) * 86400000 ));}!#",
+           rotateLabels = -45)
+  n1$yAxis(axisLabel = "Spins") #, width=62)
+  #n1$set(width = .01*input$setWidth*session$clientData$output_plot1_width,
+   #      height = .01*input$setHeight*session$clientData$output_plot1_width)
+  n1$chart(margin=list(left = 80,bottom = 100))
+  n1$save('myplot.html')
+}
 
 
 # ####################################

@@ -34,8 +34,7 @@ server <- function(input,output,session) {
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-1),], envir=.GlobalEnv)
     assign("subData",subData[order(subData[2], decreasing = TRUE),])
     titles <- as.character(subData$Title)
-    print(length(titles))
-    #print(subData)
+    
     checkboxGroupInput(inputId = "songs2",
                        label = "Songs w/ Spins",
                        choices = titles,
@@ -43,9 +42,7 @@ server <- function(input,output,session) {
   })
   output$nChart <- renderChart2({
     df <- songs2df(input$songs2,input$range[1],input$range[2],subData)
-    # p <- ggplot() + geom_line(data=df, aes(x=Date,y=Spins,col=Title))
-    # print(p)
-    
+
     n1 <- nPlot(Spins ~ Date,
                 group = "Title",
                 data = df,
