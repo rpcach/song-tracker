@@ -3,7 +3,7 @@ library(rCharts)
 source("US-Radio-Updates.r")
 
 ui <- fluidPage(
-  titlePanel("Song Spins Tracker"),
+  titlePanel("Song Tracker"),
   sidebarLayout(
    sidebarPanel(
      dateRangeInput(inputId = "range",
