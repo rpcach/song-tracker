@@ -1,6 +1,5 @@
 mainData <- NULL
 subData <- NULL
-y <- NULL
 
 #gets data.frame for date
 pullDayData <- function(date) {

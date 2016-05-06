@@ -34,20 +34,28 @@ server <- function(input,output,session) {
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-1),], envir=.GlobalEnv)
     assign("subData",subData[order(subData[2], decreasing = TRUE),])
     titles <- as.character(subData$Title)
-    assign("y",0,envir =.GlobalEnv)
-    addPosition <- function(x) {
-      assign("y",(y+1),env=.GlobalEnv)
-      paste(y,". ",x,sep="")
+    # assign("y",0,envir =.GlobalEnv)
+    # addPosition <- function(x) {
+    #   assign("y",(y+1),env=.GlobalEnv)
+    #   paste(y,". ",x,sep="")
+    # }
+    # titles <- lapply(titles,addPosition)
+    for(i in 1:length(titles)) {
+      titles[i] <- paste(i,". ",titles[i],sep="")
     }
-    titles <- lapply(titles,addPosition)
-    
+
     checkboxGroupInput(inputId = "songs2",
                        label = paste(length(titles),"songs available"),
                        choices = titles,
                        selected = titles[1:5])
   })
   output$nChart <- renderChart2({
-    df <- songs2df(input$songs2,input$range[1],input$range[2],subData)
+    titles <- input$songs2
+    for(i in 1:length(titles)) {
+      titles[i] <- gsub("^[0-9]*. ","",titles[i])
+    }
+    
+    df <- songs2df(titles,input$range[1],input$range[2],subData)
 
     n1 <- nPlot(Spins ~ Date,
                 group = "Title",
