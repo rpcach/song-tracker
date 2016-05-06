@@ -9,9 +9,9 @@ ui <- fluidPage(
      dateRangeInput(inputId = "range",
                     label = "Date Range",
                     start = (Sys.Date()-30),
-                    end = Sys.Date(),
+                    end = Sys.Date()-todayDataExists(),
                     min = (Sys.Date()-180), #"2011-05-12",
-                    max = Sys.Date()),
+                    max = Sys.Date()-todayDataExists()),
      sliderInput(inputId = "setWidth",
                  label = "Width %",
                  value = 100, min = 50, max = 100),
@@ -34,6 +34,12 @@ server <- function(input,output,session) {
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-1),], envir=.GlobalEnv)
     assign("subData",subData[order(subData[2], decreasing = TRUE),])
     titles <- as.character(subData$Title)
+    assign("y",0,envir =.GlobalEnv)
+    addPosition <- function(x) {
+      assign("y",(y+1),env=.GlobalEnv)
+      paste(y,". ",x,sep="")
+    }
+    titles <- lapply(titles,addPosition)
     
     checkboxGroupInput(inputId = "songs2",
                        label = paste(length(titles),"songs available"),

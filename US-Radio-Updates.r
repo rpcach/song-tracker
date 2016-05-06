@@ -1,5 +1,6 @@
 mainData <- NULL
 subData <- NULL
+y <- NULL
 
 #gets data.frame for date
 pullDayData <- function(date) {
@@ -19,6 +20,7 @@ pullNewData <- function() {
     library("RCurl")
     if(!url.exists(paste("http://kworb.net/radio/pop/archives/",dateString,".html",sep=""))) {
       print(paste("Date for",date,"is not yet available"))
+      date <- date-1
       next
     }
     if(file.exists(paste("data/",date,".csv",sep=""))) break;
@@ -28,6 +30,14 @@ pullNewData <- function() {
     date <- date-1
   }
   print("done")
+}
+
+todayDataExists <- function() {
+  dateString <- gsub("-","",as.character.Date(Sys.Date()))
+  if(!url.exists(paste("http://kworb.net/radio/pop/archives/",dateString,".html",sep=""))) {
+    return(1)
+  }
+  return(0)
 }
 
 loadData <- function(start=(Sys.Date()-30), end=Sys.Date(), cats="Spins") {
@@ -102,7 +112,7 @@ demo <- function() {
 
 main <- function() {
   pullNewData()
-  assign("mainData",loadData((Sys.Date()-180),Sys.Date()), envir=.GlobalEnv)
+  assign("mainData",loadData((Sys.Date()-180),Sys.Date()-todayDataExists()), envir=.GlobalEnv)
 }
 
 main()
