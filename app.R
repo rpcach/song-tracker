@@ -20,7 +20,7 @@ ui <- fluidPage(
                  value = 75, min = 50, max = 150),
      textInput(inputId = "songSelectText",
                label = "Select songs here:",
-               value = "1-3,9"),
+               value = "1-5"),
      uiOutput(outputId = "songTitles")
    ),
    mainPanel(
