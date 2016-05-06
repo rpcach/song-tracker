@@ -18,6 +18,9 @@ ui <- fluidPage(
      sliderInput(inputId = "setHeight",
                  label = "Height %",
                  value = 75, min = 50, max = 150),
+     textInput(inputId = "songSelectText",
+               label = "Select songs here:",
+               value = "1-3,9"),
      uiOutput(outputId = "songTitles")
    ),
    mainPanel(
@@ -43,11 +46,34 @@ server <- function(input,output,session) {
     for(i in 1:length(titles)) {
       titles[i] <- paste(i,". ",titles[i],sep="")
     }
+    parseSongText <- function(x) {
+      x <- gsub("\\s","",x)
+      x <- gsub(","," ",x)
+      x2 <- strsplit(x," ")
+      x2 <- x2[[1]]
+      z <- NULL
+      for(i in x2) {
+        x3 <- strsplit(x2,"-")
+        for(j in x3) {
+          if(length(j) != 1) {
+            for(k in as.numeric(j[1]):as.numeric(j[2])) {
+              z <- c(z,as.numeric(k))
+            }
+          }
+          else {
+            z <- c(z,as.numeric(j))
+          }
+        }
+      }
+      sort(z,decreasing = FALSE)
+
+      return(z)
+    }
 
     checkboxGroupInput(inputId = "songs2",
                        label = paste(length(titles),"songs available"),
                        choices = titles,
-                       selected = titles[1:5])
+                       selected = titles[parseSongText(input$songSelectText)])
   })
   output$nChart <- renderChart2({
     titles <- input$songs2
