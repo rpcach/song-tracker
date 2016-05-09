@@ -37,37 +37,9 @@ server <- function(input,output,session) {
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-1),], envir=.GlobalEnv)
     assign("subData",subData[order(subData[2], decreasing = TRUE),])
     titles <- as.character(subData$Title)
-    # assign("y",0,envir =.GlobalEnv)
-    # addPosition <- function(x) {
-    #   assign("y",(y+1),env=.GlobalEnv)
-    #   paste(y,". ",x,sep="")
-    # }
-    # titles <- lapply(titles,addPosition)
+
     for(i in 1:length(titles)) {
       titles[i] <- paste(i,". ",titles[i],sep="")
-    }
-    parseSongText <- function(x) {
-      x <- gsub("\\s","",x)
-      x <- gsub(","," ",x)
-      x2 <- strsplit(x," ")
-      x2 <- x2[[1]]
-      z <- NULL
-      for(i in x2) {
-        x3 <- strsplit(x2,"-")
-        for(j in x3) {
-          if(length(j) != 1) {
-            for(k in as.numeric(j[1]):as.numeric(j[2])) {
-              z <- c(z,as.numeric(k))
-            }
-          }
-          else {
-            z <- c(z,as.numeric(j))
-          }
-        }
-      }
-      sort(z,decreasing = FALSE)
-
-      return(z)
     }
 
     checkboxGroupInput(inputId = "songs2",
