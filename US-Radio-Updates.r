@@ -33,13 +33,13 @@ pullNewData <- function() {
 
 todayDataExists <- function() {
   dateString <- gsub("-","",as.character.Date(Sys.Date()))
-  if(!url.exists(paste("http://kworb.net/radio/pop/archives/",dateString,".html",sep=""))) {
-    return(1)
+  if(url.exists(paste("http://kworb.net/radio/pop/archives/",dateString,".html",sep=""))) {
+    return(TRUE)
   }
-  return(0)
+  return(FALSE)
 }
 
-loadData <- function(start=(Sys.Date()-30), end=Sys.Date(), cats="Spins") {
+loadData <- function(start, end, cats="Spins") {
   days <- as.numeric(end-start+1)
   date <- end
   main <- read.csv(paste("data/",date,".csv",sep=""))
@@ -115,7 +115,7 @@ parseSongText <- function(x) {
 
 main <- function() {
   pullNewData()
-  assign("mainData",loadData((Sys.Date()-180),Sys.Date()-todayDataExists()), envir=.GlobalEnv)
+  assign("mainData",loadData((Sys.Date()-180),Sys.Date()-!todayDataExists()), envir=.GlobalEnv)
 }
 
 main()
