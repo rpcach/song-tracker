@@ -115,7 +115,7 @@ parseSongText <- function(x) {
 
 main <- function() {
   pullNewData()
-  assign("mainData",loadData((Sys.Date()-180),Sys.Date()-!todayDataExists()), envir=.GlobalEnv)
+  assign("mainData",loadData(as.Date("2015-01-01"),Sys.Date()-!todayDataExists()), envir=.GlobalEnv)
 }
 
 main()
