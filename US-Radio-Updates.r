@@ -2,30 +2,30 @@ mainData <- NULL
 subData <- NULL
 
 #gets data.frame for date
-pullDayData <- function(date) {
+pullDayData <- function(date,station) {
   library("rvest")
   dateString <- gsub("-","",as.character.Date(date))
-  url <- paste("http://kworb.net/radio/pop/archives/",dateString,".html",sep="")
+  url <- paste("http://kworb.net/radio/",station,"/archives/",dateString,".html",sep="")
   dayDT <- url %>% read_html() %>% html_nodes(xpath="/html/body/table") %>% html_table()
   dayDT <- dayDT[[1]]
   return(dayDT)
 }
 
 #writes CSV files for new dates
-pullNewData <- function() {
+pullNewData <- function(station) {
   date <- Sys.Date()
   while(TRUE) {
     dateString <- gsub("-","",as.character.Date(date))
     library("RCurl")
-    if(!url.exists(paste("http://kworb.net/radio/pop/archives/",dateString,".html",sep=""))) {
+    if(!url.exists(paste("http://kworb.net/radio/",station,"/archives/",dateString,".html",sep=""))) {
       print(paste("Date for",date,"is not yet available"))
       date <- date-1
       next
     }
-    if(file.exists(paste("data/",date,".csv",sep=""))) break;
+    if(file.exists(paste("data/",station,"/",date,".csv",sep=""))) break;
     
-    write.csv(pullDayData(date), file=paste("data/",date,".csv",sep=""), row.names=FALSE)
-    print(paste(date,"added"))
+    write.csv(pullDayData(date,station), file=paste("data/",station,"/",date,".csv",sep=""), row.names=FALSE)
+    print(paste(date,"for",station,"added"))
     date <- date-1
   }
   print("done")
@@ -39,10 +39,10 @@ todayDataExists <- function() {
   return(FALSE)
 }
 
-loadData <- function(start, end, cats="Spins") {
+loadData <- function(start, end, station,cats="Spins") {
   days <- as.numeric(end-start+1)
   date <- end
-  main <- read.csv(paste("data/",date,".csv",sep=""))
+  main <- read.csv(paste("data/",station,"/",date,".csv",sep=""))
   main <- main[c("Title",cats)]
   #5/12/2011 to 6/22/2012 2 col is "Artist and Title", with Artist data ALL CAPS
   #6/23/2012 to Now 2,3 cols are "Artist","Title"
@@ -54,7 +54,7 @@ loadData <- function(start, end, cats="Spins") {
   
   for(i in 2:days) {
     date <- date-1
-    temp <- read.csv(paste("data/",date,".csv",sep=""))
+    temp <- read.csv(paste("data/",station,"/",date,".csv",sep=""))
     temp <- temp[c("Title",cats)]
     colnames(temp)[2] <- as.character.Date(date)
     main <- merge(main, temp, by="Title",all=TRUE)
@@ -114,15 +114,19 @@ parseSongText <- function(x) {
 }
 
 main <- function() {
-  pullNewData()
-  assign("mainData",loadData(as.Date("2015-01-01"),Sys.Date()-!todayDataExists()), envir=.GlobalEnv)
+  pullNewData("pop")
+  pullNewData("hac")
+  pullNewData("rhythmic")
+  pullNewData("urban")
+  assign("mainData",loadData(Sys.Date()-180,Sys.Date()-!todayDataExists(),station="pop"), envir=.GlobalEnv)
+  #change above line to as.Date("2015-01-01")
 }
 
 main()
 
 #top 5 songs in the last 30 days
 demo <- function() {
-  assign("mainData",loadData(start=(Sys.Date()-30),end=Sys.Date(),cats="Spins"), envir=.GlobalEnv)
+  assign("mainData",loadData(start=(Sys.Date()-30),end=Sys.Date(),station="pop",cats="Spins"), envir=.GlobalEnv)
   assign("subData",mainData[,c("Title",as.character(as.Date(Sys.Date():(Sys.Date()-30),origin="1970-01-01")))], envir=.GlobalEnv)
 
   numSongs <- 5

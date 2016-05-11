@@ -10,7 +10,7 @@ ui <- fluidPage(
                     label = "Date Range",
                     start = (Sys.Date()-30),
                     end = Sys.Date()-!todayDataExists(),
-                    min = (Sys.Date()-180),
+                    min = as.Date("2015-01-01"),
                     max = Sys.Date()-!todayDataExists()),
      sliderInput(inputId = "setWidth",
                  label = "Width %",
