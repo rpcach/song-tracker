@@ -38,8 +38,6 @@ server <- function(input,output,session) {
     assign("subData",subData[order(subData[3], decreasing = TRUE),])
     titles <- as.character(subData$Title)
     artists <- as.character(subData$Artist)
-    print('fuck')
-    print(artists)
 
     for(i in 1:length(titles)) {
       titles[i] <- paste(i,". ",titles[i],", by ",artists[i],sep="")
