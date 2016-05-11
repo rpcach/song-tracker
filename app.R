@@ -6,16 +6,16 @@ ui <- fluidPage(
   titlePanel("Song Tracker"),
   sidebarLayout(
    sidebarPanel(
+     selectInput(inputId = "station2",
+                 label = "Station",
+                 choices = c("pop","hac","rhythmic","urban"),
+                 selected = "pop"),
      dateRangeInput(inputId = "range",
                     label = "Date Range",
                     start = (Sys.Date()-30),
                     end = Sys.Date()-!todayDataExists(),
                     min = as.Date("2015-01-01"),
                     max = Sys.Date()-!todayDataExists()),
-     selectInput(inputId = "station",
-                 label = "Station",
-                 choices = c("pop","hac","rhythmic","urban"),
-                 selected = "pop"),
      textInput(inputId = "songSelectText",
                label = "Select songs here:",
                value = "1-5"),
@@ -37,6 +37,7 @@ ui <- fluidPage(
 
 server <- function(input,output,session) {
   output$songTitles <- renderUI({
+    assign("mainData",eval(as.name(paste(input$station2,"Data",sep=""))), envir=.GlobalEnv)
     assign("subData",mainData[,c("Title","Artist",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-2),], envir=.GlobalEnv)
     assign("subData",subData[order(subData[3], decreasing = TRUE),])
