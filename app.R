@@ -33,13 +33,16 @@ ui <- fluidPage(
 
 server <- function(input,output,session) {
   output$songTitles <- renderUI({
-    assign("subData",mainData[,c("Title",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
-    assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-1),], envir=.GlobalEnv)
-    assign("subData",subData[order(subData[2], decreasing = TRUE),])
+    assign("subData",mainData[,c("Title","Artist",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
+    assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-2),], envir=.GlobalEnv)
+    assign("subData",subData[order(subData[3], decreasing = TRUE),])
     titles <- as.character(subData$Title)
+    artists <- as.character(subData$Artist)
+    print('fuck')
+    print(artists)
 
     for(i in 1:length(titles)) {
-      titles[i] <- paste(i,". ",titles[i],sep="")
+      titles[i] <- paste(i,". ",titles[i],", by ",artists[i],sep="")
     }
 
     checkboxGroupInput(inputId = "songs2",
@@ -50,7 +53,9 @@ server <- function(input,output,session) {
   output$nChart <- renderChart2({
     titles <- input$songs2
     for(i in 1:length(titles)) {
-      titles[i] <- gsub("^[0-9]*. ","",titles[i])
+      newTitle <- gsub("^[0-9]*. ","",titles[i])
+      newTitle <- gsub(", by.*$","",newTitle)
+      titles[i] <- newTitle
     }
     
     df <- songs2df(titles,input$range[1],input$range[2],subData)

@@ -43,30 +43,31 @@ loadData <- function(start, end, station,cats="Spins") {
   days <- as.numeric(end-start+1)
   date <- end
   main <- read.csv(paste("data/",station,"/",date,".csv",sep=""))
-  main <- main[c("Title",cats)]
+  main <- main[c("Title","Artist",cats)]
   #5/12/2011 to 6/22/2012 2 col is "Artist and Title", with Artist data ALL CAPS
   #6/23/2012 to Now 2,3 cols are "Artist","Title"
   
   #5/12/2011 to 7/18/2011 no "iTunes" col
   #7/19/2011 to Now "iTunes" col between "Days" and "PkPos"
   
-  colnames(main)[2] <- as.character.Date(date)
+  colnames(main)[3] <- as.character.Date(date)
   
   for(i in 2:days) {
     date <- date-1
     temp <- read.csv(paste("data/",station,"/",date,".csv",sep=""))
-    temp <- temp[c("Title",cats)]
-    colnames(temp)[2] <- as.character.Date(date)
-    main <- merge(main, temp, by="Title",all=TRUE)
+    temp <- temp[c("Title","Artist",cats)]
+    colnames(temp)[3] <- as.character.Date(date)
+    main <- merge(main, temp, by=c("Title","Artist"),all=TRUE)
     colnames(main)[ncol(main)] <- as.character.Date(date)
   }
   
-  main  <- main[order(main[2], decreasing = TRUE),]
+  main  <- main[order(main[3], decreasing = TRUE),]
   
   return(main)
 }
 
 song2df <- function(title, start, end, data) {
+  data <- data[,-2]
   days <- as.numeric(end-start+1)
   date <- as.Date.character(colnames(data)[2:(days+1)])
   spins <- as.integer(t(data[data$Title == title,2:(days+1)]))
