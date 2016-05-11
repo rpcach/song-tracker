@@ -133,7 +133,7 @@ main <- function() {
   assign("rhythmicData",loadData(Sys.Date()-180,Sys.Date()-!todayDataExists(),station="rhythmic"), envir=.GlobalEnv)
   assign("urbanData",loadData(Sys.Date()-180,Sys.Date()-!todayDataExists(),station="urban"), envir=.GlobalEnv)
   
-  assign("mainData",popData, envir=.GlobalEnv)
+  #assign("mainData",popData, envir=.GlobalEnv)
   
   
 }
