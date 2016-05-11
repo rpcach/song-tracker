@@ -12,16 +12,16 @@ ui <- fluidPage(
                     end = Sys.Date()-!todayDataExists(),
                     min = as.Date("2015-01-01"),
                     max = Sys.Date()-!todayDataExists()),
+     textInput(inputId = "songSelectText",
+               label = "Select songs here:",
+               value = "1-5"),
+     uiOutput(outputId = "songTitles"),
      sliderInput(inputId = "setWidth",
                  label = "Width %",
                  value = 100, min = 50, max = 100),
      sliderInput(inputId = "setHeight",
                  label = "Height %",
-                 value = 75, min = 50, max = 150),
-     textInput(inputId = "songSelectText",
-               label = "Select songs here:",
-               value = "1-5"),
-     uiOutput(outputId = "songTitles")
+                 value = 75, min = 50, max = 150)
    ),
    mainPanel(
      plotOutput("plot1", height = "1px"),
