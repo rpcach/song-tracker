@@ -2,8 +2,8 @@ mainData <- NULL
 subData <- NULL
 
 #gets data.frame for date
+library("rvest")
 pullDayData <- function(date,station) {
-  library("rvest")
   dateString <- gsub("-","",as.character.Date(date))
   url <- paste("http://kworb.net/radio/",station,"/archives/",dateString,".html",sep="")
   dayDT <- url %>% read_html() %>% html_nodes(xpath="/html/body/table") %>% html_table()
@@ -12,11 +12,11 @@ pullDayData <- function(date,station) {
 }
 
 #writes CSV files for new dates
+library("RCurl")
 pullNewData <- function(station) {
   date <- Sys.Date()
   while(TRUE) {
     dateString <- gsub("-","",as.character.Date(date))
-    library("RCurl")
     if(!url.exists(paste("http://kworb.net/radio/",station,"/archives/",dateString,".html",sep=""))) {
       print(paste("Date for",date,"is not yet available"))
       date <- date-1
