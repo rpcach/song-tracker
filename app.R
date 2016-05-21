@@ -37,9 +37,8 @@ ui <- fluidPage(
 
 server <- function(input,output,session) {
   output$songTitles <- renderUI({
+    pullNewData(tolower(input$genre))
     assign("mainData",loadData(Sys.Date()-180,Sys.Date()-!todayDataExists(),station=tolower(input$genre)), envir=.GlobalEnv)
-    #faster.
-    #assign("mainData",eval(as.name(paste(tolower(input$genre),"Data",sep=""))), envir=.GlobalEnv)
     assign("subData",mainData[,c("Title","Artist",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-2),], envir=.GlobalEnv)
     assign("subData",subData[order(subData[3], decreasing = TRUE),])

@@ -2,11 +2,6 @@ mainData <- NULL
 subData <- NULL
 mainStation <- NULL
 
-popData <- NULL
-hacData <- NULL
-rhythmicData <- NULL
-urbanData <- NULL
-
 #gets data.frame for date
 library("rvest")
 pullDayData <- function(date,station) {
@@ -121,19 +116,6 @@ parseSongText <- function(x) {
 }
 
 main <- function() {
-  pullNewData("pop")
-  pullNewData("hac")
-  pullNewData("rhythmic")
-  pullNewData("urban")
-  #assign("mainData",loadData(Sys.Date()-180,Sys.Date()-!todayDataExists(),station="pop"), envir=.GlobalEnv)
-  #change above line to as.Date("2015-01-01")
-  
-  #assign("popData",loadData(Sys.Date()-180,Sys.Date()-!todayDataExists(),station="pop"), envir=.GlobalEnv)
-  #assign("hacData",loadData(Sys.Date()-180,Sys.Date()-!todayDataExists(),station="hac"), envir=.GlobalEnv)
-  #assign("rhythmicData",loadData(Sys.Date()-180,Sys.Date()-!todayDataExists(),station="rhythmic"), envir=.GlobalEnv)
-  #assign("urbanData",loadData(Sys.Date()-180,Sys.Date()-!todayDataExists(),station="urban"), envir=.GlobalEnv)
-  
-  #assign("mainData",popData, envir=.GlobalEnv)
   
   
 }
