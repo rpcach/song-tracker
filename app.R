@@ -8,7 +8,7 @@ ui <- fluidPage(
    sidebarPanel(
      selectInput(inputId = "genre",
                  label = "Genre",
-                 choices = c("Pop","HAC","Rhythmic","Urban"),
+                 choices = c("Pop","HAC","Rhythmic","Urban","Alternative"),
                  selected = "Pop"),
      dateRangeInput(inputId = "range",
                     label = "Date Range",
