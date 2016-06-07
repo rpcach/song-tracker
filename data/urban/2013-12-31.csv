@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","DRAKE","All Me f/2 Chainz...",3639,-35,-179,-82,25.616,-0.29,128,"62",1,3818,477,26.364
-2,"=","SEVYN STREETER","It Won't Stop",3397,-31,-67,-39,24.819,0.013,184,"108",1,3784,479,26.425
-3,"=","YG","My Hitta f/Jeezy,...",3003,11,217,-43,20.518,0.045,93,"--",3,3003,388,20.538
-4,"=","AUGUST ALSINA","I Luv This Sh*t",2971,-19,-73,-29,22.986,-0.21,253,"369",1,4359,669,30.627
-5,"=","LORDE","Royals",2961,30,83,-7,21.134,0.258,64,"9",4,2961,624,21.134
-6,"=","CHRIS BROWN","Love More f/Nicki...",2761,9,18,-22,19.327,0.036,160,"110",5,3027,583,21.058
-7,"=","JAY Z","Tom Ford",2624,-7,-110,24,17.888,-0.238,162,"139",1,3722,572,24.614
-8,"=","DRAKE","Hold On We're Goi...",2606,-6,-36,-4,20.254,-0.001,145,"31",1,4240,823,30.904
-9,"=","RICO LOVE","They Don't Know",2554,-11,109,-108,17.924,-0.009,99,"--",8,2591,341,18.065
-10,"=","MIKE WILL MADE-IT","23 f/Miley Cyrus,...",2086,-9,-52,17,11.764,-0.106,94,"23",9,2246,346,12.273
-11,"=","BEYONCE","Drunk In Love f/J...",2029,32,359,-106,17.24,0.335,16,"18",11,2029,1296,17.24
-12,"=","J. COLE","Crooked Smile",1884,-7,-105,26,14.854,0.169,191,"342",1,4062,506,28.617
-13,"=","WALE","Clappers f/Nicki ...",1883,9,-150,45,11.228,0.149,110,"--",11,2133,341,13.611
-14,"=","DRAKE","The Language",1797,-5,79,-30,12.712,-0.158,55,"109",14,1802,404,12.87
-15,"=","MACK WILDS","Own It",1793,1,-62,4,11.154,0.085,109,"--",13,1922,337,13.559
-16,"=","KID INK","Show Me f/Chris B...",1744,7,116,-24,12.092,0.19,48,"26",16,1744,335,12.092
-17,"=","SEBASTIAN MIKAEL","Last Night f/Wale",1597,-3,-66,36,8.805,0.002,129,"--",8,2245,265,12.816
-18,"=","R. KELLY","My Story f/2 Chai...",1384,21,-175,105,8.065,0.109,151,"367",9,2149,460,12.996
-19,"+1","T-PAIN","Up Down (Do This ...",1359,17,-17,13,8.666,0.061,93,"153",19,1376,255,8.68
-20,"-1","EMINEM","The Monster f/Rih...",1346,-13,-27,-67,9.355,-0.083,44,"5/41",19,1384,413,9.713
-21,"=","FUTURE","Honest",1282,-10,-184,42,7.35,0.127,131,"233",5,2977,574,18.682
-22,"=","YO GOTTI","Cold Blood",1270,3,-58,-8,6.233,0.021,48,"--",19,1328,350,6.521
-23,"=","JAY Z","F*uckwithmeyoukno...",1126,2,-50,7,8.677,0.017,155,"270",20,1283,154,9.872
-24,"=","J. COLE","She Knows",1098,-12,13,-31,6.645,-0.086,40,"300",24,1110,256,6.731
-25,"=","B.O.B","Ready f/Future",1050,3,-4,20,7.195,0.06,76,"236",22,1151,180,7.48
-26,"=","TY DOLLA $IGN","Paranoid",1026,-5,40,-28,6.317,-0.155,45,"193",26,1031,206,6.492
-27,"=","RICK ROSS","No Games f/Future",917,3,-66,56,4.992,0.074,104,"--",17,1532,351,9.059
-28,"=","JANELLE MONAE","Primetime f/Migue...",750,0,-29,6,5.556,0.014,102,"--",28,790,153,5.631
-29,"=","2 CHAINZ","Used 2",738,6,-74,49,4.761,0.027,82,"--",19,1435,312,9.221
-30,"=","JOHN LEGEND","All Of Me",723,5,-19,-16,4.171,0.174,34,"69",30,742,280,4.171
-31,"=","SAGE THE GEMINI","Gas Pedal",689,1,36,1,3.644,0.03,32,"48",31,689,225,3.644
-32,"+1","JUICY J","Bounce It f/Wale ...",669,-6,-24,-5,3.06,-0.008,159,"134",9,2281,252,12.679
-33,"-1","MIGOS","Hanna Montana",655,-32,-56,-30,2.964,-0.154,65,"--",30,717,152,3.188
-34,"=","AUGUST ALSINA","Ghetto f/Rich Hom...",638,14,23,21,3.818,0.113,23,"--",34,638,280,3.862
-35,"+1","TAMAR BRAXTON","All The Way Home",583,17,12,31,4.451,0.139,114,"--",27,830,146,4.685
-36,"+1","FUTURE","Shhh",556,0,6,8,3.801,0.142,43,"--",36,563,149,4.264
-37,"-2","OMARION","Know You Better f...",554,-24,-91,-38,2.596,-0.2,79,"--",33,647,161,3.124
-38,"+2","JABO","What I'm About",548,12,29,26,1.321,0.043,44,"--",37,573,128,1.321
-39,"-1","KANYE WEST","Bound 2",545,1,-31,24,1.909,0.024,106,"179",27,866,128,3.648
-40,"-1","DJ KHALED","I Wanna Be With Y...",543,-1,-77,5,3.275,-0.031,142,"--",12,2082,260,11.387
-41,"=","2 PISTOLS","Know That f/Frenc...",499,0,-29,17,1.805,0.032,39,"--",36,556,149,1.912
-42,"+2","SCHOOLBOY Q","Collard Greens f/...",450,23,-32,68,2.008,-0.042,138,"221",15,1684,300,9.707
-43,"-1","TIMBALAND","Know Bout Me f/Ja...",426,-2,16,-5,1.645,0.02,30,"--",42,438,155,2.215
-44,"-1","K CAMP","Money Baby f/Kwon...",421,-6,4,-2,3.001,-0.035,53,"--",41,463,111,3.097
-45,"=","A$AP FERG","Shabba f/A$AP Roc...",339,-8,-36,13,1.941,0.051,70,"282",33,598,194,3.444
-46,"=","ROBIN THICKE","For The Rest Of M...",323,17,33,24,1.942,0.129,72,"--",39,428,195,1.942
-47,"=","RICK ROSS","The Devil Is A Li...",293,3,85,-29,3.485,-0.006,8,"391",46,293,267,3.575
-48,"=","BUSTA RHYMES","Thank You f/Kanye...",243,4,-22,22,0.882,0.051,30,"--",46,333,65,1.562
-49,"=","QUE","O.G. Bobby Johnso...",230,-4,13,-10,1.729,-0.119,16,"--",49,239,30,1.864
-50,"=","KATAZTROFEE","Polo, Polo, Polo",225,3,58,-5,0.334,0.007,4,"--",50,225,69,0.334
+"Title","Artist","Spins"
+"All Me f/2 Chainz...","DRAKE",3639
+"It Won't Stop","SEVYN STREETER",3397
+"My Hitta f/Jeezy,...","YG",3003
+"I Luv This Sh*t","AUGUST ALSINA",2971
+"Royals","LORDE",2961
+"Love More f/Nicki...","CHRIS BROWN",2761
+"Tom Ford","JAY Z",2624
+"Hold On We're Goi...","DRAKE",2606
+"They Don't Know","RICO LOVE",2554
+"23 f/Miley Cyrus,...","MIKE WILL MADE-IT",2086
+"Drunk In Love f/J...","BEYONCE",2029
+"Crooked Smile","J. COLE",1884
+"Clappers f/Nicki ...","WALE",1883
+"The Language","DRAKE",1797
+"Own It","MACK WILDS",1793
+"Show Me f/Chris B...","KID INK",1744
+"Last Night f/Wale","SEBASTIAN MIKAEL",1597
+"My Story f/2 Chai...","R. KELLY",1384
+"Up Down (Do This ...","T-PAIN",1359
+"The Monster f/Rih...","EMINEM",1346
+"Honest","FUTURE",1282
+"Cold Blood","YO GOTTI",1270
+"F*uckwithmeyoukno...","JAY Z",1126
+"She Knows","J. COLE",1098
+"Ready f/Future","B.O.B",1050
+"Paranoid","TY DOLLA $IGN",1026
+"No Games f/Future","RICK ROSS",917
+"Primetime f/Migue...","JANELLE MONAE",750
+"Used 2","2 CHAINZ",738
+"All Of Me","JOHN LEGEND",723
+"Gas Pedal","SAGE THE GEMINI",689
+"Bounce It f/Wale ...","JUICY J",669
+"Hanna Montana","MIGOS",655
+"Ghetto f/Rich Hom...","AUGUST ALSINA",638
+"All The Way Home","TAMAR BRAXTON",583
+"Shhh","FUTURE",556
+"Know You Better f...","OMARION",554
+"What I'm About","JABO",548
+"Bound 2","KANYE WEST",545
+"I Wanna Be With Y...","DJ KHALED",543
+"Know That f/Frenc...","2 PISTOLS",499
+"Collard Greens f/...","SCHOOLBOY Q",450
+"Know Bout Me f/Ja...","TIMBALAND",426
+"Money Baby f/Kwon...","K CAMP",421
+"Shabba f/A$AP Roc...","A$AP FERG",339
+"For The Rest Of M...","ROBIN THICKE",323
+"The Devil Is A Li...","RICK ROSS",293
+"Thank You f/Kanye...","BUSTA RHYMES",243
+"O.G. Bobby Johnso...","QUE",230
+"Polo, Polo, Polo","KATAZTROFEE",225

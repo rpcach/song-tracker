@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","JAY Z","Part II (On The Run) f/Beyonce",3798,-73,164,-130,23.923,-0.778,129,"217",1,3871,672,24.701
-2,"=","CHRIS BROWN","Loyal f/Lil' Wayne",3718,-81,-467,-20,27.455,-0.672,140,"110",1,4368,522,30.035
-3,"=","FUTURE","Move That Doh f/Pharrel",3595,31,151,21,21.282,0.097,96,"--",3,3595,510,21.282
-4,"=","BEYONCE","Partition",3384,-71,-319,-56,24.587,-0.633,128,"84",1,3952,734,28.286
-5,"=","K CAMP","Cut Her Off",3247,-33,192,-52,19.788,-0.61,119,"107",5,3280,421,20.623
-6,"+1","DRAKE","Trophies",3176,-29,-123,21,20.446,-0.238,101,"68",5,3394,515,21.737
-7,"-1","JHENE AIKO","The Worst",3137,-92,-391,-34,21.266,-0.879,129,"158",1,4040,448,27.949
-8,"=","KID INK","Show Me f/Chris Brown",2400,-38,-132,-30,17.548,-0.258,193,"97",1,4017,447,28.371
-9,"+1","YO GOTTI","I Know f/Rich Homie Quan",2133,-2,187,-33,12.151,0.009,67,"303",9,2135,388,12.151
-10,"-1","KATY PERRY","Dark Horse f/Juicy J",2127,-79,-313,-87,13.867,-0.346,77,"26",9,2452,464,18.258
-11,"=","TINASHE","2 On f/Schoolboy Q",1914,27,268,-74,10.907,0.185,64,"108",11,1914,359,10.907
-12,"=","USHER","Good Kisser",1884,32,568,-41,13.005,0.142,17,"127",12,1884,793,13.005
-13,"=","CA$H OUT","She Twerkin",1712,-6,207,-69,8.596,-0.253,60,"376",13,1718,318,8.997
-14,"=","ANTHONY LEWIS","Candy Rain f/Billy Bang",1688,-23,57,-79,8.448,-0.065,82,"--",13,1711,301,8.513
-15,"+3","WIZ KHALIFA","We Dem Boyz",1617,52,239,37,10.253,0.67,49,"101",15,1617,338,10.253
-16,"-1","TREY SONGZ","Na Na",1571,-19,-124,32,12.843,-0.264,133,"62",7,2649,511,19.336
-17,"-1","YG","Who Do You Love f/Drake",1571,-18,-222,16,8.224,0.043,105,"112",11,1849,258,12.239
-18,"-1","SEVYN STREETER","Next",1548,-30,-48,-26,8.854,-0.37,96,"--",16,1615,352,9.415
-19,"+2","KID INK","Main Chick f/Chris Brown",1515,14,134,19,8.22,0.018,56,"126",19,1515,350,8.22
-20,"-1","YOUNG THUG","Stoner",1509,-20,-158,7,10.565,-0.041,126,"204",9,2588,544,16.976
-21,"+1","LIL WAYNE","Believe Me f/Drake",1490,39,460,-38,9.817,0.261,16,"--",21,1490,613,9.817
-22,"-2","SNOOTIE WILD","Yayo",1489,-17,-144,10,6.422,0.101,137,"231",15,1660,208,8.393
-23,"=","PHARRELL WILLIAMS","Happy",1361,-68,-394,-8,9.632,-0.333,119,"5",1,3856,655,28.557
-24,"=","RICO LOVE","Be Like",1323,-21,29,-17,6.19,-0.208,67,"--",23,1358,236,6.398
-25,"+1","DJ KHALED","They Don't Love You No More",1159,11,124,-10,5.18,0.142,22,"--",25,1159,470,5.18
-26,"+1","FUTURE","I Won f/Kanye West",1130,-1,104,-4,6.184,-0.071,41,"265",26,1131,253,6.255
-27,"+2","SCHOOLBOY Q","Studio",1127,36,242,31,5.962,0.233,30,"140",27,1127,271,5.962
-28,"-3","50 CENT","Smoke f/Trey Songz",1121,-88,-387,-25,5.031,-0.559,54,"--",16,1640,632,9.596
-29,"-1","MILA J","Smoke, Drink, Break-Up",1090,-26,-83,-18,4.61,-0.421,87,"--",25,1196,189,6.108
-30,"+1","RICH HOMIE QUAN","Walk Thru f/Problem",1050,27,-38,40,5.298,0.392,69,"333",28,1112,216,5.345
-31,"-1","RICK ROSS","Thug Cry f/Lil Wayne",1028,-31,-122,-7,3.965,-0.129,63,"--",22,1261,318,7.803
-32,"+2","MIGOS","Fight Night",957,37,156,-16,4.332,0.263,28,"--",32,957,237,4.332
-33,"=","AUGUST ALSINA","Make It Home f/Jeezy",934,-11,92,-6,3.468,-0.086,75,"--",32,945,146,3.554
-34,"+1","BOOSIE & WEBBIE","Show Da World f/Kiara",876,-36,-194,19,3.308,-0.137,105,"--",16,1671,332,8.17
-35,"+1","K. MICHELLE","Can't Raise A Man",873,-20,-95,25,5.276,-0.383,130,"--",12,2342,522,14.762
-36,"+1","TREY SONGZ","SmartPhones",869,1,246,-33,5.492,0.057,16,"--",36,869,292,5.492
-37,"-5","BANDO JONEZ","Sex You",868,-89,-323,-92,4.719,-0.446,136,"--",14,1901,285,9.853
-38,"=","SEBASTIAN MIKAEL","Forever",739,-56,-183,-44,2.935,-0.196,87,"--",27,943,195,3.529
-39,"=","TY DOLLA $IGN","Or Nah f/Wiz Khalifa",614,16,56,2,3.206,0.083,21,"148",39,614,214,3.279
-40,"+1","DJ SNAKE & LIL JON","Turn Down For What",586,36,136,-5,2.939,0.371,11,"4",40,586,253,2.939
-41,"-1","M. JACKSON & J. TIMBERLAKE","Love Never Felt So Good",578,-10,76,-20,2.514,-0.031,20,"24",39,599,564,4.37
-42,"=","MACK WILDS","Henny",529,25,7,33,1.88,0.245,77,"--",39,532,115,2.42
-43,"+1","WE ARE TOONZ","Drop That #NaeNae",470,15,44,3,1.816,0.089,121,"213",32,580,162,3.057
-44,"+3","IGGY AZALEA","Fancy f/Charli XCX",461,63,297,39,3.456,0.426,3,"2",44,461,297,3.456
-45,"-2","KEYSHIA COLE","Next Time (Won't Give My...)",439,-20,-84,-13,1.491,-0.12,43,"--",39,540,115,2.12
-46,"-1","VADO","My Bae f/Jeremih",428,-14,-79,1,1.651,-0.046,54,"--",37,600,130,2.746
-47,"-1","JENNIFER HUDSON","Walk It Out",416,1,32,1,1.688,-0.032,14,"--",46,416,127,1.72
-48,"+2","ADRIAN MARCEL","2AM",371,15,72,9,1.308,0.124,16,"262",47,371,154,1.318
-49,"=","DRIICKY GRAHAM","We Up f/Sebastian Mikael",359,3,114,1,1.176,0.021,3,"--",49,359,120,1.176
-50,"-2","JASON DERULO","Talk Dirty f/2 Chainz",349,-22,-174,-4,1.524,-0.105,70,"40/48",35,662,188,2.402
+"Title","Artist","Spins"
+"Part II (On The Run) f/Beyonce","JAY Z",3798
+"Loyal f/Lil' Wayne","CHRIS BROWN",3718
+"Move That Doh f/Pharrel","FUTURE",3595
+"Partition","BEYONCE",3384
+"Cut Her Off","K CAMP",3247
+"Trophies","DRAKE",3176
+"The Worst","JHENE AIKO",3137
+"Show Me f/Chris Brown","KID INK",2400
+"I Know f/Rich Homie Quan","YO GOTTI",2133
+"Dark Horse f/Juicy J","KATY PERRY",2127
+"2 On f/Schoolboy Q","TINASHE",1914
+"Good Kisser","USHER",1884
+"She Twerkin","CA$H OUT",1712
+"Candy Rain f/Billy Bang","ANTHONY LEWIS",1688
+"We Dem Boyz","WIZ KHALIFA",1617
+"Na Na","TREY SONGZ",1571
+"Who Do You Love f/Drake","YG",1571
+"Next","SEVYN STREETER",1548
+"Main Chick f/Chris Brown","KID INK",1515
+"Stoner","YOUNG THUG",1509
+"Believe Me f/Drake","LIL WAYNE",1490
+"Yayo","SNOOTIE WILD",1489
+"Happy","PHARRELL WILLIAMS",1361
+"Be Like","RICO LOVE",1323
+"They Don't Love You No More","DJ KHALED",1159
+"I Won f/Kanye West","FUTURE",1130
+"Studio","SCHOOLBOY Q",1127
+"Smoke f/Trey Songz","50 CENT",1121
+"Smoke, Drink, Break-Up","MILA J",1090
+"Walk Thru f/Problem","RICH HOMIE QUAN",1050
+"Thug Cry f/Lil Wayne","RICK ROSS",1028
+"Fight Night","MIGOS",957
+"Make It Home f/Jeezy","AUGUST ALSINA",934
+"Show Da World f/Kiara","BOOSIE & WEBBIE",876
+"Can't Raise A Man","K. MICHELLE",873
+"SmartPhones","TREY SONGZ",869
+"Sex You","BANDO JONEZ",868
+"Forever","SEBASTIAN MIKAEL",739
+"Or Nah f/Wiz Khalifa","TY DOLLA $IGN",614
+"Turn Down For What","DJ SNAKE & LIL JON",586
+"Love Never Felt So Good","M. JACKSON & J. TIMBERLAKE",578
+"Henny","MACK WILDS",529
+"Drop That #NaeNae","WE ARE TOONZ",470
+"Fancy f/Charli XCX","IGGY AZALEA",461
+"Next Time (Won't Give My...)","KEYSHIA COLE",439
+"My Bae f/Jeremih","VADO",428
+"Walk It Out","JENNIFER HUDSON",416
+"2AM","ADRIAN MARCEL",371
+"We Up f/Sebastian Mikael","DRIICKY GRAHAM",359
+"Talk Dirty f/2 Chainz","JASON DERULO",349

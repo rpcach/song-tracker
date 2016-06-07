@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","IGGY AZALEA","Fancy",6612,-18,-32,-30,40.397,0.414,98,"5/23",1,6683,882,40.397
-2,"=","ARIANA GRANDE","Problem f/Iggy Azalea",5908,23,292,-31,31.744,0.085,52,"3",2,5908,1195,31.744
-3,"+2","TINASHE","2 On f/Schoolboy Q",4319,94,505,40,27.67,0.718,84,"76",3,4319,542,27.67
-4,"=","JASON DERULO","Wiggle f/Snoop Dogg",4265,36,478,-50,19.552,0.303,56,"7",4,4265,734,19.552
-5,"-2","DJ SNAKE & LIL JON","Turn Down For What",4241,-89,-649,-11,26.232,-0.684,155,"14",1,6140,929,37.044
-6,"=","YG","Who Do You Love f/Drake",3675,30,88,21,20.324,0.11,112,"138",6,3675,385,20.505
-7,"=","TREY SONGZ","Na Na",3616,-21,-297,72,24.475,-0.03,160,"63",1,6166,600,36.747
-8,"+2","KID INK","Main Chick f/Chris Brown",3397,15,194,-13,23.285,0.129,99,"110",8,3397,398,23.285
-9,"-1","JUSTIN TIMBERLAKE","Not A Bad Thing",3358,-132,-500,-136,15.755,-0.812,98,"38",5,3885,481,18.384
-10,"-1","CHRIS BROWN","Loyal f/Lil' Wayne",3337,-82,-474,-31,25.49,-0.745,165,"90",1,6195,601,40.65
-11,"=","CHILDISH GAMBINO","V. 3005",2953,9,196,-38,16.278,0.256,104,"--",11,2953,339,16.278
-12,"=","LIL WAYNE","Believe Me f/Drake",2854,31,234,-4,17.656,0.326,43,"37",12,2854,721,17.656
-13,"=","USHER","Good Kisser",2742,-29,-56,-45,14.1,-0.292,45,"142",11,2819,930,15.257
-14,"=","NICKI MINAJ","Pills N Potions",2569,16,354,-45,13.038,0.012,28,"58",14,2569,920,13.038
-15,"=","CALVIN HARRIS","Summer",2546,41,241,10,13.179,0.283,77,"11",14,2546,279,13.179
-16,"+1","MAGIC!","Rude",2026,78,334,53,10.927,0.529,46,"1",16,2026,461,10.927
-17,"-1","FUTURE","Move That Doh f/Pharrell",2016,-53,-183,-57,14.014,-0.159,98,"--",15,2258,318,15.855
-18,"=","K CAMP","Cut Her Off",1791,17,122,13,11.704,0.187,70,"102",18,1791,225,11.704
-19,"=","ADRIAN MARCEL","2AM",1685,21,74,17,8.028,0.194,97,"--",19,1685,193,8.028
-20,"=","PHARRELL WILLIAMS","Come Get It Bae",1645,16,105,-3,7.525,0.037,33,"65",20,1645,516,7.674
-21,"+1","NICO & VINZ","Am I Wrong",1615,63,392,-6,7.973,0.348,41,"4",21,1615,400,7.973
-22,"-1","BEYONCE","Partition",1535,-18,-383,61,10.46,0.099,147,"131",5,4687,680,26.289
-23,"=","DISCLOSURE","Latch f/Sam Smith",1425,64,389,1,7.801,0.598,42,"10",23,1425,389,7.801
-24,"=","AUGUST ALSINA","Numb f/B.o.B. & Yo Gotti",1284,6,68,0,5.826,0.116,77,"--",23,1284,185,5.826
-25,"+1","YOUNG MONEY","Trophies f/Drake",1153,-9,-148,30,10.466,0.299,109,"104",8,3225,544,16.619
-26,"-1","JHENE AIKO","The Worst",1140,-31,-106,-30,9.339,-0.418,154,"--",8,3211,352,20.753
-27,"=","SCHOOLBOY Q","Studio f/BJ The Chicago Kid",1129,12,235,-52,7.035,0.237,30,"88",27,1129,349,7.035
-28,"+2","TEEFLII","24 Hours",1064,56,189,51,5.639,0.409,36,"--",28,1064,217,5.639
-29,"-1","TECH N9NE","Fragile",999,-38,-283,20,4.474,-0.21,130,"--",12,2605,376,11.026
-30,"+2","WIZ KHALIFA","We Dem Boyz",986,28,242,-7,7.621,0.425,26,"74",30,986,249,7.621
-31,"=","CA$H OUT","She Twerkin",973,9,87,-30,5.34,0.039,60,"--",30,973,197,5.34
-32,"+1","SAGE THE GEMINI","College Drop",960,2,65,20,4.848,0.015,49,"--",32,960,154,4.848
-33,"-4","KAT DAHLIA","Crazy",945,-87,-323,-81,4.071,-0.49,137,"--",24,1399,183,5.524
-34,"=","JEREMIH","Don't Tell 'Em f/YG",905,42,284,-12,6.769,0.327,18,"103",34,905,308,6.769
-35,"+1","KATY PERRY","Birthday",810,-34,-181,-22,3.174,-0.11,56,"44",28,1063,295,4.717
-36,"-1","ED SHEERAN","Sing",800,-53,-305,-11,2.611,-0.224,64,"13",26,1290,339,4.324
-37,"=","TREY SONGZ","Foreign",698,18,236,-30,4.216,-0.146,14,"--",37,698,266,4.362
-38,"=","MALLY MALL & TYGA","Wake Up In It",622,-4,-48,-18,2.233,0.029,55,"--",36,671,196,2.492
-39,"+2","SAM SMITH","Stay With Me",548,63,268,37,3.509,0.32,8,"2",39,548,268,3.509
-40,"-1","YO GOTTI","I Know f/Rich Homie Quan",537,-13,52,-32,4.372,-0.008,21,"--",39,550,122,4.391
-41,"-1","NAUGHTY BOY","La La La f/Sam Smith",504,-5,-31,-2,3.378,0.018,129,"100",33,636,154,4.061
-42,"=","BECKY G","Shower",463,1,25,-4,2.815,0.03,31,"39",41,463,71,2.815
-43,"=","BEYONCE","Pretty Hurts",454,0,191,-55,1.755,0.039,7,"--",42,454,333,1.755
-44,"+3","T.I.","No Mediocre f/Iggy Azalea",437,86,437,86,3.737,0.514,2,"33",44,437,437,3.737
-45,"-1","RICH HOMIE QUAN","Walk Thru f/Problem",414,2,12,-11,3.747,0.073,25,"--",42,416,56,3.747
-46,"-1","MIGOS","Fight Night",393,-1,69,-23,3.246,-0.104,14,"--",45,394,92,3.35
-47,"-1","TY DOLLA $IGN","Or Nah f/Wiz Khalifa",378,-5,29,-11,1.912,0.008,20,"154",43,383,90,1.912
-48,"+1","TIESTO","Wasted f/Matthew Koma",346,39,130,29,1.242,0.082,2,"46",48,346,130,1.242
-49,"-1","JENNIFER LOPEZ","First Love",340,1,-2,3,2.579,-0.014,18,"128",44,358,42,3.112
-50,"=","DJ KHALED","They Don't Love You No More",294,0,-29,13,2.828,0.212,29,"--",44,368,93,3.16
+"Title","Artist","Spins"
+"Fancy","IGGY AZALEA",6612
+"Problem f/Iggy Azalea","ARIANA GRANDE",5908
+"2 On f/Schoolboy Q","TINASHE",4319
+"Wiggle f/Snoop Dogg","JASON DERULO",4265
+"Turn Down For What","DJ SNAKE & LIL JON",4241
+"Who Do You Love f/Drake","YG",3675
+"Na Na","TREY SONGZ",3616
+"Main Chick f/Chris Brown","KID INK",3397
+"Not A Bad Thing","JUSTIN TIMBERLAKE",3358
+"Loyal f/Lil' Wayne","CHRIS BROWN",3337
+"V. 3005","CHILDISH GAMBINO",2953
+"Believe Me f/Drake","LIL WAYNE",2854
+"Good Kisser","USHER",2742
+"Pills N Potions","NICKI MINAJ",2569
+"Summer","CALVIN HARRIS",2546
+"Rude","MAGIC!",2026
+"Move That Doh f/Pharrell","FUTURE",2016
+"Cut Her Off","K CAMP",1791
+"2AM","ADRIAN MARCEL",1685
+"Come Get It Bae","PHARRELL WILLIAMS",1645
+"Am I Wrong","NICO & VINZ",1615
+"Partition","BEYONCE",1535
+"Latch f/Sam Smith","DISCLOSURE",1425
+"Numb f/B.o.B. & Yo Gotti","AUGUST ALSINA",1284
+"Trophies f/Drake","YOUNG MONEY",1153
+"The Worst","JHENE AIKO",1140
+"Studio f/BJ The Chicago Kid","SCHOOLBOY Q",1129
+"24 Hours","TEEFLII",1064
+"Fragile","TECH N9NE",999
+"We Dem Boyz","WIZ KHALIFA",986
+"She Twerkin","CA$H OUT",973
+"College Drop","SAGE THE GEMINI",960
+"Crazy","KAT DAHLIA",945
+"Don't Tell 'Em f/YG","JEREMIH",905
+"Birthday","KATY PERRY",810
+"Sing","ED SHEERAN",800
+"Foreign","TREY SONGZ",698
+"Wake Up In It","MALLY MALL & TYGA",622
+"Stay With Me","SAM SMITH",548
+"I Know f/Rich Homie Quan","YO GOTTI",537
+"La La La f/Sam Smith","NAUGHTY BOY",504
+"Shower","BECKY G",463
+"Pretty Hurts","BEYONCE",454
+"No Mediocre f/Iggy Azalea","T.I.",437
+"Walk Thru f/Problem","RICH HOMIE QUAN",414
+"Fight Night","MIGOS",393
+"Or Nah f/Wiz Khalifa","TY DOLLA $IGN",378
+"Wasted f/Matthew Koma","TIESTO",346
+"First Love","JENNIFER LOPEZ",340
+"They Don't Love You No More","DJ KHALED",294

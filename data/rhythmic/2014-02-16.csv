@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","BEYONCE","Drunk In Love f/Jay Z",6206,"+40",300,"-35",40.201,"+0.450",60,"11",1,6206,1055,40.201
-2,"=","KID INK","Show Me f/Chris Brown",5885,"-55",-177,"-43",38.307,"-0.397",133,"27",1,6351,758,40.204
-3,"=","KATY PERRY","Dark Horse",5193,"+80",566,"-4",29.167,"+0.682",90,"2",3,5193,639,29.167
-4,"=","EMINEM","The Monster f/Rihanna",4349,"-113",-842,"-29",30.007,"-0.433",110,"28",1,6810,1739,44.928
-5,"=","YG","My Hitta f/Jeezy,RichHomieQuan",4250,"-10",78,"-49",26.555,"-0.660",105,"--",5,4284,525,27.895
-6,"=","JASON DERULO","Talk Dirty f/2 Chainz",4087,"+114",845,"-8",21.498,"+0.609",44,"3",6,4087,884,21.498
-7,"=","TY DOLLA $IGN","Paranoid",3818,"+43",318,"-11",24.456,"+0.400",135,"62",6,3818,556,24.456
-8,"+1","PHARRELL WILLIAMS","Happy",3198,"+132",899,"-45",22.346,"+0.877",26,"1",8,3198,1153,22.346
-9,"-1","PITBULL","Timber f/Ke$ha",3156,"-100",-719,"+0",16.791,"-0.614",122,"7",3,4540,658,25.363
-10,"=","LORDE","Team",2913,"+34",320,"-18",15.216,"+0.295",63,"10",9,2913,655,15.216
-11,"=","CHRIS BROWN","Loyal f/Lil' Wayne",2675,"+45",406,"-8",17.122,"+0.324",39,"235",11,2675,494,17.122
-12,"=","SOMO","Ride",2510,"+14",103,"+5",10.29,"+0.104",84,"71",12,2510,354,10.29
-13,"=","DRAKE","The Language",2338,"-57",-329,"-26",11.508,"-0.391",99,"158",9,2765,494,14.514
-14,"=","DRAKE","All Me f/2 Chainz & Big Sean",2257,"-30",145,"-54",12.433,"-0.423",160,"105",14,2287,263,14.829
-15,"=","SAGE THE GEMINI","Red Nose (Pitbull)",2026,"+46",225,"+25",11.357,"+0.065",125,"--",15,2026,441,11.357
-16,"+2","TREY SONGZ","Na Na",1851,"+77",474,"+8",12.187,"+0.526",34,"96",16,1851,485,12.187
-17,"=","JOHN LEGEND","All Of Me",1840,"+45",235,"+7",8.854,"+0.100",77,"4",17,1840,361,8.854
-18,"-2","J. COLE","She Knows",1823,"-137",-688,"-119",7.293,"-0.683",89,"253",11,2601,397,12.892
-19,"=","SEVYN STREETER","It Won't Stop",1716,"-49",-302,"-20",12.88,"-0.324",136,"128",14,2563,250,15.119
-20,"+1","ALOE BLACC","The Man",1655,"+64",424,"-25",8.465,"+0.525",23,"6",20,1655,527,8.465
-21,"-1","RICO LOVE","They Don't Know",1595,"-7",194,"-38",9.124,"+0.206",59,"--",20,1602,351,9.124
-22,"=","BRUNO MARS","Young Girls",1594,"+11",20,"-1",5.47,"+0.010",61,"39",20,1594,334,5.615
-23,"=","LADY GAGA","Do What U Want f/R. Kelly",1423,"-96",-874,"+36",6.765,"-0.483",107,"104",8,3042,459,15.944
-24,"+1","ELLIE GOULDING","Burn",1248,"+13",0,"+21",6.796,"+0.046",51,"24",24,1256,321,7.485
-25,"-1","T-PAIN","Up Down (Do This All Day)",1216,"-21",-112,"+18",8.676,"-0.050",141,"114",20,1569,195,9.847
-26,"=","DJ SNAKE & LIL JON","Turn Down For What",1080,"+11",96,"-12",4.502,"-0.056",29,"14",26,1080,287,4.861
-27,"+2","JAY Z","Part II (On The Run) f/Beyonce",1079,"+70",301,"+40",7.432,"+0.550",21,"300",27,1079,301,7.432
-28,"-1","CALVIN HARRIS","Thinking About You",1061,"+7",32,"-6",4.98,"+0.117",63,"187",27,1061,191,4.989
-29,"-1","ONEREPUBLIC","Counting Stars",1036,"-13",-57,"-17",7.294,"-0.171",77,"12",26,1202,230,9.228
-30,"=","ZEDD","Stay The Night f/H. Williams",962,"-44",-382,"+29",6.184,"-0.507",124,"77",18,1890,247,11.046
-31,"=","JHENE AIKO","The Worst",748,"+12",52,"+0",3.773,"+0.056",28,"145",31,748,215,3.773
-32,"=","QUE","O.G. Bobby Johnson",621,"-3",-20,"-24",3.86,"-0.068",27,"192",32,647,196,4.451
-33,"+1","FAR EAST MOVEMENT","The Illest f/Riff Raff",618,"+18",127,"+10",4.481,"+0.082",35,"352",33,618,127,4.5
-34,"-1","MIKE WILL MADE-IT","23 f/Miley Cyrus, Wiz Khalifa",599,"-17",-221,"+0",2.95,"-0.081",147,"60",9,3211,365,14.34
-35,"=","MARTIN GARRIX","Animals",581,"+29",198,"+19",4.385,"+0.196",47,"37",35,581,198,4.385
-36,"+1","SHAKIRA F/RIHANNA","Can't Remember To Forget You",473,"+17",41,"+22",1.804,"+0.062",20,"44",36,473,202,1.804
-37,"+1","LUPE FIASCO","Old School Love f/Ed Sheeran",457,"+2",-255,"+92",2.833,"+0.211",119,"--",6,3437,487,15.459
-38,"-2","SEAN PAUL","Want Dem All",452,"-35",-201,"-21",2.425,"-0.069",43,"--",33,684,110,3.966
-39,"=","ERIC BELLINGER","I Don't Want Her f/Problem",430,"+4",22,"-4",4.516,"+0.002",22,"--",39,431,72,4.688
-40,"+1","SCHOOLBOY Q","Man Of The Year",418,"+13",129,"-22",2.578,"+0.128",7,"131",40,418,175,2.578
-41,"-1","NAUGHTY BOY","La La La f/Sam Smith",417,"+6",62,"+2",0.868,"+0.014",14,"195",40,417,148,0.868
-42,"+1","RICK ROSS","The Devil Is A Lie f/Jay Z",387,"+6",-20,"+3",2.503,"+0.086",15,"246",41,407,135,2.745
-43,"+3","TECH N9NE","Fragile",386,"+31",212,"+3",1.397,"+0.109",4,"--",43,386,212,1.397
-44,"+1","B.O.B","John Doe f/Priscilla",381,"+21",70,"+20",0.63,"+0.077",34,"--",44,381,102,0.978
-45,"-1","BEYONCE","Partition",371,"+5",-6,"+0",4.148,"+0.091",21,"100",42,404,99,6.705
-46,"+1","KAT DAHLIA","Crazy",369,"+15",62,"+5",1.143,"+0.039",11,"--",45,369,183,1.143
-47,"-5","MACK WILDS","Own It",358,"-26",-178,"+30",2.275,"-0.111",93,"--",22,1717,294,10.468
-48,"--","WILL.I.AM","Feelin' Myself f/Miley Cyrus",324,"--",203,"--",1.481,"--",1,"--",48,324,203,1.481
-49,"-1","DJ INFAMOUS","Double Cup f/Jeezy, Ludacris",324,"+12",69,"+3",1.394,"-0.021",7,"--",48,324,96,1.672
-50,"--","MIKE POSNER","Top Of The World f/Big Sean",275,"--",13,"--",0.758,"--",1,"--",50,275,13,0.758
+"Title","Artist","Spins"
+"Drunk In Love f/Jay Z","BEYONCE",6206
+"Show Me f/Chris Brown","KID INK",5885
+"Dark Horse","KATY PERRY",5193
+"The Monster f/Rihanna","EMINEM",4349
+"My Hitta f/Jeezy,RichHomieQuan","YG",4250
+"Talk Dirty f/2 Chainz","JASON DERULO",4087
+"Paranoid","TY DOLLA $IGN",3818
+"Happy","PHARRELL WILLIAMS",3198
+"Timber f/Ke$ha","PITBULL",3156
+"Team","LORDE",2913
+"Loyal f/Lil' Wayne","CHRIS BROWN",2675
+"Ride","SOMO",2510
+"The Language","DRAKE",2338
+"All Me f/2 Chainz & Big Sean","DRAKE",2257
+"Red Nose (Pitbull)","SAGE THE GEMINI",2026
+"Na Na","TREY SONGZ",1851
+"All Of Me","JOHN LEGEND",1840
+"She Knows","J. COLE",1823
+"It Won't Stop","SEVYN STREETER",1716
+"The Man","ALOE BLACC",1655
+"They Don't Know","RICO LOVE",1595
+"Young Girls","BRUNO MARS",1594
+"Do What U Want f/R. Kelly","LADY GAGA",1423
+"Burn","ELLIE GOULDING",1248
+"Up Down (Do This All Day)","T-PAIN",1216
+"Turn Down For What","DJ SNAKE & LIL JON",1080
+"Part II (On The Run) f/Beyonce","JAY Z",1079
+"Thinking About You","CALVIN HARRIS",1061
+"Counting Stars","ONEREPUBLIC",1036
+"Stay The Night f/H. Williams","ZEDD",962
+"The Worst","JHENE AIKO",748
+"O.G. Bobby Johnson","QUE",621
+"The Illest f/Riff Raff","FAR EAST MOVEMENT",618
+"23 f/Miley Cyrus, Wiz Khalifa","MIKE WILL MADE-IT",599
+"Animals","MARTIN GARRIX",581
+"Can't Remember To Forget You","SHAKIRA F/RIHANNA",473
+"Old School Love f/Ed Sheeran","LUPE FIASCO",457
+"Want Dem All","SEAN PAUL",452
+"I Don't Want Her f/Problem","ERIC BELLINGER",430
+"Man Of The Year","SCHOOLBOY Q",418
+"La La La f/Sam Smith","NAUGHTY BOY",417
+"The Devil Is A Lie f/Jay Z","RICK ROSS",387
+"Fragile","TECH N9NE",386
+"John Doe f/Priscilla","B.O.B",381
+"Partition","BEYONCE",371
+"Crazy","KAT DAHLIA",369
+"Own It","MACK WILDS",358
+"Feelin' Myself f/Miley Cyrus","WILL.I.AM",324
+"Double Cup f/Jeezy, Ludacris","DJ INFAMOUS",324
+"Top Of The World f/Big Sean","MIKE POSNER",275

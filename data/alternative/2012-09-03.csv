@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","ALEX CLARE","Too Close",1806,"-36",-148,"-44",10.675,"-0.147",133,"11",1,1962,260,11.91
-2,"=","FUN.","Some Nights",1709,"-25",-28,"-21",9.926,"-0.127",127,"3",1,1772,250,10.165
-3,"=","LUMINEERS","Ho Hey",1618,"-29",-8,"-39",8.347,"-0.156",140,"24",3,1687,197,8.952
-4,"+1","MUMFORD & SONS","I Will Wait",1520,"+17",172,"+11",7.64,"+0.031",27,"35",4,1520,1048,7.64
-5,"-1","IMAGINE DRAGONS","It's Time",1510,"-2",-59,"+13",7.693,"+0.174",194,"52",3,1586,229,7.693
-6,"=","GREEN DAY","Oh Love",1377,"-27",-141,"-19",5.867,"-0.192",49,"183",2,1676,1355,8.726
-7,"=","MUSE","Madness",1354,"+13",149,"-153",6.619,"+0.039",14,"108",7,1354,1204,6.946
-8,"=","KILLERS","Runaways",1277,"-33",-76,"-38",5.207,"-0.182",55,"147",6,1380,828,5.768
-9,"=","LINKIN PARK","Burn It Down",1242,"+0",-54,"+12",7.812,"+0.013",140,"57",1,1740,1245,9.693
-10,"=","OF MONSTERS AND MEN","Little Talks",1145,"-10",-117,"+16",5.997,"-0.120",273,"37",1,1759,158,9.215
-11,"=","BLACK KEYS","Little Black Submari...",1097,"+8",134,"-14",4.205,"+0.107",83,"274",11,1097,176,4.205
-12,"+1","AWOLNATION","Kill Your Heroes",1012,"-17",-63,"-13",4.047,"+0.004",93,"300",11,1096,132,4.09
-13,"+1","GASLIGHT ANTHEM","45",930,"-13",-32,"-15",3.255,"-0.105",114,"--",12,973,121,3.609
-14,"+1","PASSION PIT","Take A Walk",819,"-7",-3,"+4",3.191,"-0.044",114,"98",14,844,182,3.281
-15,"+1","ATLAS GENIUS","Trojans",565,"+2",4,"-3",1.92,"+0.045",118,"--",15,583,121,1.92
-16,"+1","RISE AGAINST","Wait For Me",541,"+1",22,"+1",2.384,"+0.051",85,"--",16,547,78,2.384
-17,"+1","WOMBATS","Jump Into The Fog",523,"+0",19,"-2",2.122,"-0.077",156,"--",17,544,98,2.368
-18,"+1","OFFSPRING","Days Go By",522,"+1",-39,"+42",2.155,"+0.055",128,"--",7,1322,667,5.539
-19,"+1","THREE DAYS GRACE","Chalk Outline",516,"-1",41,"-11",1.92,"+0.110",19,"322",19,519,376,1.92
-20,"+1","MORNING PARADE","Headlights",498,"-4",-4,"+0",1.503,"-0.094",150,"--",18,521,72,1.743
-21,"+1","GROUPLOVE","Itchin' On A Photogr...",427,"+7",57,"+13",1.424,"+0.001",29,"--",21,427,139,1.424
-22,"+2","YOUNGBLOOD HAWKE","We Come Running",398,"+7",48,"-2",2.031,"+0.140",32,"--",22,398,117,2.031
-23,"=","ALABAMA SHAKES","Hold On",390,"-23",-124,"-11",0.958,"-0.096",135,"343",14,673,126,1.923
-24,"+1","M83","Reunion",370,"-1",38,"-6",1.298,"+0.062",95,"--",24,377,62,1.298
-25,"+2","TWO DOOR CINEMA CLUB","Sleep Alone",356,"+1",16,"+6",1.212,"-0.004",41,"--",25,357,135,1.245
-26,"=","NO DOUBT","Settle Down",354,"-15",-36,"+4",1.761,"-0.020",49,"76",17,616,489,4.461
-27,"+1","SHINEDOWN","Unity",335,"-9",-81,"+2",1.1,"-0.037",108,"--",19,518,75,1.852
-28,"+1","P.O.D.","Lost In Forever",281,"-7",-4,"-4",1.336,"-0.001",96,"--",26,301,65,1.337
-29,"+1","COLDPLAY","Hurts Like Heaven",269,"-11",8,"-19",0.725,"-0.058",23,"--",29,292,82,0.838
-30,"+1","LINKIN PARK","Lost In The Echo",266,"+6",57,"-3",0.943,"+0.049",22,"--",30,266,60,0.943
-31,"+2","SLIGHTLY STOOPID","Top Of The World",252,"-6",-31,"+2",1.229,"-0.092",37,"--",27,321,120,1.772
-32,"=","SEETHER","Here And Now",252,"-7",-41,"-13",1.055,"+0.025",64,"--",29,293,67,1.055
-33,"+2","JACK WHITE","Freedom At 21",236,"+5",36,"+4",0.759,"+0.039",32,"--",33,236,90,0.759
-34,"=","METRIC","Youth Without Youth",224,"-9",-65,"+4",0.738,"+0.003",124,"--",12,809,340,3.237
-35,"+3","DEADMAU5 F/GERARD WA...","Professional Griefer...",215,"+20",74,"+19",0.658,"+0.048",18,"382",35,215,74,0.759
-36,"=","BUSH","The Afterlife",215,"-7",-20,"-12",0.853,"+0.015",45,"--",33,235,61,0.892
-37,"=","ELLIE GOULDING","Lights",214,"-7",-31,"-3",0.83,"-0.073",59,"23",26,291,61,1.582
-38,"+1","PAPA ROACH","Still Swingin",191,"-2",-2,"-4",0.521,"-0.011",30,"--",38,200,74,0.584
-39,"+1","IMAGINE DRAGONS","Radioactive",187,"+2",46,"-8",0.871,"+0.008",12,"114",39,187,73,0.871
-40,"+1","OF MONSTERS AND MEN","Mountain Sound",163,"-2",13,"-6",0.928,"-0.034",17,"317",40,165,41,0.977
-41,"+4","SILVERSUN PICKUPS","The Pit",143,"+7",55,"-7",0.441,"+0.017",6,"--",41,143,90,0.441
-42,"+2","DIRTY HEADS","Dance All Night f/Ma...",138,"-7",-6,"-15",0.334,"-0.006",25,"--",42,156,72,0.378
-43,"+3","CHURCHILL","Change",126,"+1",27,"-8",0.408,"-0.033",7,"--",43,126,43,0.446
-44,"+5","STONE SOUR","Absolute Zero",125,"+4",44,"-7",0.335,"+0.013",6,"--",44,125,77,0.335
-45,"+2","HEAVY","What Makes A Good Ma...",124,"+1",22,"-4",0.239,"-0.002",11,"--",45,126,38,0.243
-46,"+2","FIVE FINGER DEATH PU...","Coming Down",116,"-7",-19,"-13",0.361,"-0.030",55,"368",41,148,45,0.477
-47,"--","MATT AND KIM","Let's Go",108,"--",0,"--",0.193,"--",12,"--",45,116,23,0.257
-48,"--","FLORENCE + THE MACHI...","Spectrum",102,"--",26,"--",0.32,"--",4,"--",48,102,33,0.408
-49,"--","NERO","Promises",82,"--",-34,"--",0.175,"--",16,"64",42,136,71,0.572
-50,"--","XX","Chained",81,"--",12,"--",0.202,"--",1,"--",50,81,12,0.202
+"Title","Artist","Spins"
+"Too Close","ALEX CLARE",1806
+"Some Nights","FUN.",1709
+"Ho Hey","LUMINEERS",1618
+"I Will Wait","MUMFORD & SONS",1520
+"It's Time","IMAGINE DRAGONS",1510
+"Oh Love","GREEN DAY",1377
+"Madness","MUSE",1354
+"Runaways","KILLERS",1277
+"Burn It Down","LINKIN PARK",1242
+"Little Talks","OF MONSTERS AND MEN",1145
+"Little Black Submari...","BLACK KEYS",1097
+"Kill Your Heroes","AWOLNATION",1012
+"45","GASLIGHT ANTHEM",930
+"Take A Walk","PASSION PIT",819
+"Trojans","ATLAS GENIUS",565
+"Wait For Me","RISE AGAINST",541
+"Jump Into The Fog","WOMBATS",523
+"Days Go By","OFFSPRING",522
+"Chalk Outline","THREE DAYS GRACE",516
+"Headlights","MORNING PARADE",498
+"Itchin' On A Photogr...","GROUPLOVE",427
+"We Come Running","YOUNGBLOOD HAWKE",398
+"Hold On","ALABAMA SHAKES",390
+"Reunion","M83",370
+"Sleep Alone","TWO DOOR CINEMA CLUB",356
+"Settle Down","NO DOUBT",354
+"Unity","SHINEDOWN",335
+"Lost In Forever","P.O.D.",281
+"Hurts Like Heaven","COLDPLAY",269
+"Lost In The Echo","LINKIN PARK",266
+"Top Of The World","SLIGHTLY STOOPID",252
+"Here And Now","SEETHER",252
+"Freedom At 21","JACK WHITE",236
+"Youth Without Youth","METRIC",224
+"Professional Griefer...","DEADMAU5 F/GERARD WA...",215
+"The Afterlife","BUSH",215
+"Lights","ELLIE GOULDING",214
+"Still Swingin","PAPA ROACH",191
+"Radioactive","IMAGINE DRAGONS",187
+"Mountain Sound","OF MONSTERS AND MEN",163
+"The Pit","SILVERSUN PICKUPS",143
+"Dance All Night f/Ma...","DIRTY HEADS",138
+"Change","CHURCHILL",126
+"Absolute Zero","STONE SOUR",125
+"What Makes A Good Ma...","HEAVY",124
+"Coming Down","FIVE FINGER DEATH PU...",116
+"Let's Go","MATT AND KIM",108
+"Spectrum","FLORENCE + THE MACHI...",102
+"Promises","NERO",82
+"Chained","XX",81

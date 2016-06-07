@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","LUMINEERS","Ho Hey",4501,"-34",157,"-80",34.92,"+0.165",128,"3",1,4535,586,34.92
-2,"=","PHILLIP PHILLIPS","Home",4326,"-65",-100,"-86",31.755,"-0.348",202,"9",1,4729,490,34.312
-3,"=","BRUNO MARS","Locked Out Of Heaven",4050,"-24",110,"-37",29.92,"+0.189",84,"2",3,4074,735,29.92
-4,"=","MAROON 5","One More Night",3906,"-105",-264,"-85",32.988,"-0.066",160,"15",1,5047,752,39.595
-5,"=","PINK","Try",3854,"-9",300,"-103",32.552,"-0.153",66,"10",5,3863,602,32.705
-6,"=","FUN.","Some Nights",3732,"-62",-232,"-16",29.002,"-0.282",192,"17",1,4967,497,37.711
-7,"+1","ED SHEERAN","The A Team",2805,"-13",60,"-71",23.588,"+0.330",268,"22",7,2823,355,23.588
-8,"-1","ALEX CLARE","Too Close",2792,"-62",-428,"+3",21.156,"-0.374",208,"55",4,4216,461,28.264
-9,"=","OF MONSTERS AND MEN","Little Talks",2774,"-16",64,"-16",18.329,"+0.118",171,"33",9,2790,395,18.329
-10,"=","ONEREPUBLIC","Feel Again",2723,"-60",-84,"-87",17.141,"-0.393",123,"54",7,2843,508,19.177
-11,"=","IMAGINE DRAGONS","It's Time",2554,"+10",148,"-8",16.513,"+0.463",189,"18",11,2554,236,16.513
-12,"=","KELLY CLARKSON","Catch My Breath",2399,"-29",40,"-57",18.252,"-0.197",71,"23",12,2449,561,19.028
-13,"=","MUMFORD & SONS","I Will Wait",2335,"+8",102,"-26",16.522,"-0.182",102,"44",13,2335,272,16.807
-14,"=","TAYLOR SWIFT","I Knew You Were Trou...",2031,"+23",408,"-45",15.499,"+0.225",34,"1",14,2031,617,15.499
-15,"=","RIHANNA","Diamonds",1689,"-2",74,"-44",11.747,"+0.183",88,"8",15,1697,327,11.747
-16,"=","HUNTER HAYES","Wanted",1510,"-5",131,"-45",9.424,"+0.013",60,"27",16,1515,264,9.424
-17,"+1","MAROON 5","Daylight",1369,"+13",139,"+9",10.545,"+0.091",40,"41",17,1369,417,10.545
-18,"-1","THE SCRIPT","Hall Of Fame f/will....",1325,"-35",-168,"-17",10.05,"-0.060",145,"26",13,2078,310,12.161
-19,"=","ANDY GRAMMER","Miss Me",1295,"-39",-193,"-28",5.909,"-0.268",139,"--",15,1658,237,8.698
-20,"+1","MATCHBOX TWENTY","Overjoyed",1239,"+24",95,"+5",6.903,"+0.370",60,"--",20,1239,241,6.903
-21,"-1","MUSE","Madness",1215,"-6",101,"-41",5.869,"+0.097",58,"84",20,1221,245,5.869
-22,"=","TAYLOR SWIFT","We Are Never Ever Ge...",1112,"-59",-296,"-26",8.148,"-0.598",133,"20",7,3730,1424,26.849
-23,"=","NE-YO","Let Me Love You",964,"-8",41,"-20",4.953,"+0.043",51,"38",23,972,211,5.026
-24,"+1","LIFEHOUSE F/N. BEDIN...","Between The Raindrop...",855,"-8",-5,"-19",2.537,"-0.051",93,"186",24,877,196,2.817
-25,"+3","TRAIN","Mermaid",841,"+31",302,"-5",5.167,"+0.451",23,"--",25,841,307,5.167
-26,"-2","KE$HA","Die Young",824,"-71",-876,"+60",4.677,"-0.228",85,"11",14,2169,410,13.863
-27,"=","NEON TREES","Lessons In Love (All...",818,"+5",60,"-12",2.832,"+0.051",56,"--",27,818,151,2.832
-28,"-2","ADELE","Skyfall",809,"-54",-432,"+66",6.016,"-0.196",81,"37",14,2103,849,16.021
-29,"+1","JASON MRAZ","93 Million Miles",691,"+2",23,"-4",3.03,"+0.069",70,"--",29,691,96,3.403
-30,"-1","GAVIN DEGRAW","Soldier",684,"-12",-36,"-33",2.188,"-0.041",89,"--",28,720,113,2.867
-31,"=","GRACE POTTER & THE N...","Stars",507,"-5",11,"-4",2.814,"+0.046",90,"--",31,512,75,2.814
-32,"+2","ALICIA KEYS","Girl On Fire",498,"+10",138,"-14",3.792,"+0.091",26,"24/63",32,498,184,3.792
-33,"=","VICCI MARTINEZ","Come Along f/CeeLo G...",496,"+0",42,"+4",1.985,"+0.088",79,"--",33,496,96,1.985
-34,"-2","CHRIS BROWN","Don't Wake Me Up",483,"-17",-61,"-21",2.702,"-0.056",97,"61",30,579,91,3.847
-35,"=","CARRIE UNDERWOOD","Blown Away",413,"-4",-38,"+3",1.823,"+0.033",86,"42",33,480,71,2.444
-36,"=","PASSION PIT","Take A Walk",411,"+11",55,"+6",1.618,"-0.033",43,"188",35,411,77,1.651
-37,"=","FLO RIDA","I Cry",322,"-3",12,"-3",1.503,"-0.041",37,"13",37,327,89,1.548
-38,"=","C. AGUILERA & B. SHE...","Just A Fool",300,"-4",44,"-27",2.177,"+0.050",20,"--",38,304,91,2.177
-39,"=","JUSTIN BIEBER","Beauty And A Beat f/...",254,"-5",27,"-19",0.845,"+0.010",21,"7",39,259,81,0.845
-40,"+1","SWEDISH HOUSE MAFIA","Don't You Worry Chil...",238,"+7",66,"-3",1.051,"+0.058",13,"12",40,238,84,1.051
-41,"-1","DAVID GUETTA","Titanium f/Sia",229,"-22",-101,"-27",2.256,"-0.122",187,"49",21,877,194,4.358
-42,"+1","OWL CITY","Shooting Star",177,"+9",54,"+3",0.294,"+0.019",11,"--",42,177,54,0.294
-43,"+1","FUN.","Carry On",163,"+6",41,"-1",1.078,"+0.048",9,"178",43,163,50,1.078
-44,"-2","ALL-AMERICAN REJECTS","Heartbeat Slowing Do...",162,"-9",-8,"-13",0.223,"-0.041",32,"--",42,178,68,0.389
-45,"+4","FUN.","Sleigh Ride",148,"+20",85,"+14",2.458,"+0.336",3,"--",45,148,85,2.458
-46,"-1","CHRIS WALLACE","Remember When (Push ...",147,"-3",-13,"-5",0.352,"-0.026",37,"229",44,160,49,0.492
-47,"=","ELLIE GOULDING","Anything Could Happe...",145,"+2",2,"+1",1.454,"+0.025",46,"31",45,151,12,1.454
-48,"-2","TRISTAN PRETTYMAN","My Oh My",140,"-10",-115,"+11",0.527,"-0.069",144,"--",19,1174,148,5.734
-49,"-1","GIN WIGMORE","Man Like That",127,"-3",-28,"-1",0.312,"+0.025",46,"--",41,186,47,0.641
-50,"--","CARO EMERALD","Back It Up",121,"--",35,"--",0.43,"--",1,"--",50,121,35,0.43
+"Title","Artist","Spins"
+"Ho Hey","LUMINEERS",4501
+"Home","PHILLIP PHILLIPS",4326
+"Locked Out Of Heaven","BRUNO MARS",4050
+"One More Night","MAROON 5",3906
+"Try","PINK",3854
+"Some Nights","FUN.",3732
+"The A Team","ED SHEERAN",2805
+"Too Close","ALEX CLARE",2792
+"Little Talks","OF MONSTERS AND MEN",2774
+"Feel Again","ONEREPUBLIC",2723
+"It's Time","IMAGINE DRAGONS",2554
+"Catch My Breath","KELLY CLARKSON",2399
+"I Will Wait","MUMFORD & SONS",2335
+"I Knew You Were Trou...","TAYLOR SWIFT",2031
+"Diamonds","RIHANNA",1689
+"Wanted","HUNTER HAYES",1510
+"Daylight","MAROON 5",1369
+"Hall Of Fame f/will....","THE SCRIPT",1325
+"Miss Me","ANDY GRAMMER",1295
+"Overjoyed","MATCHBOX TWENTY",1239
+"Madness","MUSE",1215
+"We Are Never Ever Ge...","TAYLOR SWIFT",1112
+"Let Me Love You","NE-YO",964
+"Between The Raindrop...","LIFEHOUSE F/N. BEDIN...",855
+"Mermaid","TRAIN",841
+"Die Young","KE$HA",824
+"Lessons In Love (All...","NEON TREES",818
+"Skyfall","ADELE",809
+"93 Million Miles","JASON MRAZ",691
+"Soldier","GAVIN DEGRAW",684
+"Stars","GRACE POTTER & THE N...",507
+"Girl On Fire","ALICIA KEYS",498
+"Come Along f/CeeLo G...","VICCI MARTINEZ",496
+"Don't Wake Me Up","CHRIS BROWN",483
+"Blown Away","CARRIE UNDERWOOD",413
+"Take A Walk","PASSION PIT",411
+"I Cry","FLO RIDA",322
+"Just A Fool","C. AGUILERA & B. SHE...",300
+"Beauty And A Beat f/...","JUSTIN BIEBER",254
+"Don't You Worry Chil...","SWEDISH HOUSE MAFIA",238
+"Titanium f/Sia","DAVID GUETTA",229
+"Shooting Star","OWL CITY",177
+"Carry On","FUN.",163
+"Heartbeat Slowing Do...","ALL-AMERICAN REJECTS",162
+"Sleigh Ride","FUN.",148
+"Remember When (Push ...","CHRIS WALLACE",147
+"Anything Could Happe...","ELLIE GOULDING",145
+"My Oh My","TRISTAN PRETTYMAN",140
+"Man Like That","GIN WIGMORE",127
+"Back It Up","CARO EMERALD",121

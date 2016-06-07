@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","PARAMORE","Ain't It Fun",6032,"+27",265,"-87",38.754,"+0.024",134,"20",1,6032,656,38.754
-2,"=","JUSTIN TIMBERLAKE","Not A Bad Thing",5851,"-12",-84,"-78",38.899,"-0.181",99,"28",1,5967,816,40.013
-3,"=","JOHN LEGEND","All Of Me",5600,"-40",-274,"-101",39.117,"-0.077",197,"13",1,6473,707,44.045
-4,"=","PHARRELL WILLIAMS","Happy",4835,"-48",-550,"-49",30.49,"-0.459",135,"11",1,6317,928,46.11
-5,"=","ED SHEERAN","Sing",4746,"+34",305,"-47",29.231,"+0.124",62,"21",5,4746,986,29.231
-6,"+1","RIXTON","Me And My Broken Heart",4119,"+58",446,"-54",27.455,"+0.378",72,"36",6,4119,593,27.455
-7,"-1","BASTILLE","Pompeii",4104,"-23",-204,"+2",28.968,"+0.130",229,"30",2,5739,515,40.543
-8,"=","PHILLIP PHILLIPS","Raging Fire",4044,"-16",-45,"-40",23.645,"-0.291",95,"121",7,4089,872,24.767
-9,"=","NICO & VINZ","Am I Wrong",4017,"+101",795,"-38",27.009,"+1.276",85,"6",9,4017,913,27.009
-10,"=","AMERICAN AUTHORS","Best Day Of My Life",3611,"+0",-163,"+35",22.267,"+0.003",271,"46",1,5660,590,37.639
-11,"+1","INGRID MICHAELSON","Girls Chase Boys",3283,"+40",267,"+0",18.618,"+0.293",118,"61",11,3283,326,18.618
-12,"+1","SAM SMITH","Stay With Me",3169,"+68",569,"-47",20.908,"+0.874",64,"4",12,3169,659,20.908
-13,"+2","KATY PERRY","Birthday",3125,"+50",321,"-18",19.767,"+0.699",55,"43",13,3125,568,19.767
-14,"=","ONEREPUBLIC","Love Runs Out",3121,"+21",216,"-53",18.893,"+0.234",52,"25",13,3121,577,18.893
-15,"+2","MAGIC!","Rude",2679,"+103",729,"-9",18.71,"+0.957",59,"3",15,2679,738,18.71
-16,"=","SARA BAREILLES","I Choose You",2652,"-14",-72,"-43",16.778,"-0.018",127,"58",13,2731,331,16.843
-17,"+2","ARIANA GRANDE","Problem f/Iggy Azalea",1517,"+64",561,"-33",9.275,"+0.533",29,"1",17,1517,594,9.275
-18,"+2","O.A.R.","Peace",1424,"+32",100,"+11",5.491,"+0.043",105,"227",18,1424,171,5.491
-19,"+2","IMAGINE DRAGONS","On Top Of The World",1368,"+10",42,"-2",8.969,"+0.069",151,"69",19,1368,187,9.017
-20,"+2","LORDE","Tennis Court",1360,"+56",214,"+22",5.307,"+0.184",45,"116",20,1360,216,5.307
-21,"+2","FRAY","Break Your Plans",1293,"+28",144,"-11",5.513,"+0.170",56,"--",21,1293,247,5.513
-22,"+2","A GREAT BIG WORLD","Already Home",1016,"+20",64,"-17",4.207,"+0.091",69,"--",22,1016,174,4.207
-23,"+3","M. JACKSON & J. TIMBERLAKE","Love Never Felt So Good",994,"+29",59,"+12",4.435,"+0.149",38,"41",23,994,541,5.319
-24,"+1","MKTO","Classic",979,"+13",219,"-54",3.61,"+0.071",57,"24",24,979,279,3.61
-25,"+4","COLDPLAY","A Sky Full Of Stars",910,"+61",427,"+12",5.211,"+0.456",19,"54",25,910,427,5.211
-26,"+1","JASON DERULO","Talk Dirty f/2 Chainz",906,"-48",-362,"-38",4.604,"-0.169",126,"51/67",19,1412,202,6.873
-27,"+1","FITZ & THE TANTRUMS","The Walker",866,"-62",-422,"-22",4.488,"-0.630",143,"142",12,3013,450,19.119
-28,"+2","CALVIN HARRIS","Summer",840,"+39",263,"+18",6.111,"+0.334",25,"14",28,840,263,6.111
-29,"+2","AMERICAN AUTHORS","Believer",818,"+51",243,"+19",3.03,"+0.169",22,"--",29,818,244,3.03
-30,"+2","ANDY GRAMMER","Back Home",748,"+25",143,"-8",2.527,"+0.080",43,"--",30,748,151,2.527
-31,"+3","ONE DIRECTION","You & I",676,"+17",94,"+1",2.994,"-0.009",36,"83",31,676,148,3.003
-32,"+1","KONGOS","Come With Me Now",673,"-5",51,"-50",4.604,"-0.068",36,"33",30,686,145,4.672
-33,"+2","DEMI LOVATO","Neon Lights",612,"-43",-302,"-25",5.263,"-0.232",112,"135",19,1514,264,11.198
-34,"+2","HAIM","Forever",586,"+15",89,"+3",1.892,"+0.067",58,"--",34,586,124,1.892
-35,"+2","IGGY AZALEA","Fancy f/Charli XCX",541,"+22",211,"-3",2.996,"+0.167",18,"2/19",35,541,214,2.996
-36,"+3","ZZ WARD","Last Love Song",396,"+10",62,"-6",1.021,"+0.005",53,"--",36,396,68,1.048
-37,"+1","OH HONEY","Be Okay",394,"-14",9,"-40",1.01,"-0.083",42,"--",37,408,103,1.156
-38,"+3","DAUGHTRY","Battleships",363,"+14",97,"-2",1.045,"+0.043",21,"--",38,363,114,1.045
-39,"+1","IDINA MENZEL","Let It Go",309,"-42",-236,"-11",2.088,"-0.589",92,"45",20,1283,272,10.352
-40,"+3","KODALINE","All I Want",285,"+12",9,"+9",0.573,"+0.050",70,"171",40,285,71,0.573
-41,"+1","JILLETTE JOHNSON","Torpedo",271,"-2",-8,"-17",0.537,"+0.035",32,"--",41,279,61,0.582
-42,"+2","5 SECONDS OF SUMMER","She Looks So Perfect",258,"+1",31,"-11",1.306,"+0.007",20,"29",42,258,63,1.306
-43,"+2","PASSENGER","Scare Away The Dark",255,"+5",15,"+3",0.491,"+0.005",27,"--",43,255,71,0.491
-44,"+2","BETTER THAN EZRA","Crazy Lucky",243,"+8",45,"-1",0.639,"+0.024",23,"--",44,243,57,0.639
-45,"+2","TEGAN & SARA","I Was A Fool",207,"+8",40,"-8",0.524,"+0.035",12,"--",45,207,102,0.562
-46,"+3","KATY TIZ","The Big Bang",171,"+6",26,"-2",0.842,"+0.055",11,"131",46,171,32,0.842
-47,"+3","DISCLOSURE","Latch f/Sam Smith",163,"+14",63,"+12",0.771,"+0.133",2,"16",47,163,63,0.771
-48,"--","DJ SNAKE & LIL JON","Turn Down For What",154,"--",80,"--",0.666,"--",1,"9",48,154,80,0.666
-49,"-1","NAUGHTY BOY","La La La f/Sam Smith",153,"-22",-159,"-22",1.053,"-0.092",92,"56",37,312,120,2.051
-50,"--","LUKE BRYAN","Play It Again",149,"--",33,"--",1.255,"--",1,"17",50,149,33,1.255
+"Title","Artist","Spins"
+"Ain't It Fun","PARAMORE",6032
+"Not A Bad Thing","JUSTIN TIMBERLAKE",5851
+"All Of Me","JOHN LEGEND",5600
+"Happy","PHARRELL WILLIAMS",4835
+"Sing","ED SHEERAN",4746
+"Me And My Broken Heart","RIXTON",4119
+"Pompeii","BASTILLE",4104
+"Raging Fire","PHILLIP PHILLIPS",4044
+"Am I Wrong","NICO & VINZ",4017
+"Best Day Of My Life","AMERICAN AUTHORS",3611
+"Girls Chase Boys","INGRID MICHAELSON",3283
+"Stay With Me","SAM SMITH",3169
+"Birthday","KATY PERRY",3125
+"Love Runs Out","ONEREPUBLIC",3121
+"Rude","MAGIC!",2679
+"I Choose You","SARA BAREILLES",2652
+"Problem f/Iggy Azalea","ARIANA GRANDE",1517
+"Peace","O.A.R.",1424
+"On Top Of The World","IMAGINE DRAGONS",1368
+"Tennis Court","LORDE",1360
+"Break Your Plans","FRAY",1293
+"Already Home","A GREAT BIG WORLD",1016
+"Love Never Felt So Good","M. JACKSON & J. TIMBERLAKE",994
+"Classic","MKTO",979
+"A Sky Full Of Stars","COLDPLAY",910
+"Talk Dirty f/2 Chainz","JASON DERULO",906
+"The Walker","FITZ & THE TANTRUMS",866
+"Summer","CALVIN HARRIS",840
+"Believer","AMERICAN AUTHORS",818
+"Back Home","ANDY GRAMMER",748
+"You & I","ONE DIRECTION",676
+"Come With Me Now","KONGOS",673
+"Neon Lights","DEMI LOVATO",612
+"Forever","HAIM",586
+"Fancy f/Charli XCX","IGGY AZALEA",541
+"Last Love Song","ZZ WARD",396
+"Be Okay","OH HONEY",394
+"Battleships","DAUGHTRY",363
+"Let It Go","IDINA MENZEL",309
+"All I Want","KODALINE",285
+"Torpedo","JILLETTE JOHNSON",271
+"She Looks So Perfect","5 SECONDS OF SUMMER",258
+"Scare Away The Dark","PASSENGER",255
+"Crazy Lucky","BETTER THAN EZRA",243
+"I Was A Fool","TEGAN & SARA",207
+"The Big Bang","KATY TIZ",171
+"Latch f/Sam Smith","DISCLOSURE",163
+"Turn Down For What","DJ SNAKE & LIL JON",154
+"La La La f/Sam Smith","NAUGHTY BOY",153
+"Play It Again","LUKE BRYAN",149

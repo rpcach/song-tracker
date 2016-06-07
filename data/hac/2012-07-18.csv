@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","MAROON 5","Payphone f/Wiz Khali...",5243,"-17",-86,"-9",35.668,"-0.105",92,"17",1,5337,1497,36.256
-2,"=","CARLY RAE JEPSEN","Call Me Maybe",5022,"+8",41,"+7",35.369,"+0.143",105,"4",2,5022,723,35.369
-3,"=","GOTYE","Somebody That I Used...",4764,"+2",-150,"+31",33.591,"+0.158",172,"12",1,5383,658,36.712
-4,"=","FUN.","We Are Young f/Janel...",3750,"-24",-317,"-7",26.811,"-0.292",142,"30",1,5161,911,36.298
-5,"=","ONE DIRECTION","What Makes You Beaut...",3740,"-29",-181,"-19",25.243,"-0.114",121,"25",5,4029,529,26.817
-6,"+1","KATY PERRY","Wide Awake",3690,"+68",337,"+10",23.699,"+0.538",56,"3",6,3690,654,23.699
-7,"-1","NEON TREES","Everybody Talks",3670,"+0",124,"-20",21.336,"-0.211",124,"14",6,3670,466,21.547
-8,"=","THE WANTED","Glad You Came",3315,"-73",-377,"-20",23.165,"-0.345",161,"60",4,4254,484,28.592
-9,"=","JASON MRAZ","I Won't Give Up",3132,"-33",-168,"-33",18.697,"-0.516",185,"13",8,3300,462,21.318
-10,"=","TRAIN","Drive By",2872,"-49",-218,"-48",21.314,"-0.358",190,"38",2,4762,795,32.26
-11,"=","KARMIN","Broken Hearted",2716,"+20",91,"+26",16.286,"+0.075",86,"49",11,2716,464,16.286
-12,"+1","KELLY CLARKSON","Dark Side",2389,"+51",332,"+38",15.504,"+0.280",51,"46",12,2389,443,15.504
-13,"-1","MATCHBOX TWENTY","She's So Mean",2386,"+13",122,"-11",15.195,"+0.026",35,"81",12,2386,820,15.195
-14,"=","DEMI LOVATO","Give Your Heart A Br...",2285,"+4",30,"-4",14.606,"+0.007",157,"23",12,2285,313,14.633
-15,"=","ELLIE GOULDING","Lights",2179,"+49",229,"+16",12.934,"+0.897",220,"8",15,2179,306,12.934
-16,"=","PINK","Blow Me (One Last Ki...",2104,"+80",986,"-54",14.565,"+0.240",13,"5",16,2104,1105,14.565
-17,"=","TRAIN","50 Ways To Say Goodb...",1894,"+24",74,"+21",8.935,"+0.075",46,"68",17,1894,401,8.984
-18,"=","GRAFFITI6","Free",1640,"-1",4,"+7",7.276,"-0.036",136,"300",15,1666,261,7.421
-19,"=","ED SHEERAN","The A Team",1221,"+6",26,"+7",7.271,"+0.077",108,"116",19,1223,180,7.271
-20,"=","GAVIN DEGRAW","Sweeter",1214,"+2",-88,"+22",4.853,"-0.109",123,"139",17,1359,166,5.452
-21,"=","RIHANNA","Where Have You Been",1052,"+18",70,"+20",5.232,"+0.083",67,"19",21,1052,203,5.232
-22,"=","GROUPLOVE","Tongue Tied",1032,"+8",77,"+3",4.271,"+0.066",66,"51",22,1032,169,4.303
-23,"+1","FUN.","Some Nights",962,"+31",191,"+14",4.725,"+0.189",32,"9",23,962,201,4.725
-24,"-1","FLO RIDA","Wild Ones f/Sia",958,"-3",-134,"+32",5.127,"+0.018",105,"33",16,1556,254,8.849
-25,"=","PHILLIP PHILLIPS","Home",882,"+16",99,"+11",4.687,"+0.040",42,"82",25,882,175,4.687
-26,"=","USHER","Scream",778,"-18",-15,"-30",4.443,"-0.107",68,"18",25,801,134,4.592
-27,"=","NICKI MINAJ","Starships",706,"-5",-40,"+6",4.971,"+0.134",84,"53/69",24,858,127,5.072
-28,"=","ALANIS MORISSETTE","Guardian",682,"+0",4,"+12",2.567,"+0.019",65,"--",28,696,189,3.121
-29,"=","ALEX CLARE","Too Close",674,"+13",55,"+23",2.105,"+0.050",48,"29",29,674,140,2.105
-30,"+1","OWL CITY & CARLY RAE...","Good Time",621,"+16",286,"-7",3.365,"+0.121",10,"11",30,621,293,3.365
-31,"-1","JUNIOR DOCTOR","Uh Oh",608,"+1",33,"-2",1.22,"+0.007",93,"--",30,608,65,1.245
-32,"=","GYM CLASS HEROES","The Fighter f/Ryan T...",565,"+3",6,"+6",2.801,"+0.001",52,"20",32,565,131,2.854
-33,"=","LINKIN PARK","Burn It Down",546,"-9",83,"-33",1.752,"+0.062",39,"62",33,555,119,1.752
-34,"=","DANIEL POWTER","Cupid",386,"-5",-16,"-20",1.121,"-0.047",87,"--",34,404,70,1.485
-35,"=","RYAN STAR","Stay Awhile",380,"+5",35,"+15",1.179,"+0.003",61,"--",35,380,74,1.326
-36,"=","OF MONSTERS AND MEN","Little Talks",373,"+6",69,"-3",1.26,"+0.017",11,"56",36,373,92,1.26
-37,"=","REBECCA FERGUSON","Nothing's Real But L...",342,"+0",1,"-1",1.295,"+0.034",38,"--",37,351,77,1.295
-38,"+1","CHRISTINA PERRI","Distance",337,"+10",36,"+7",0.773,"+0.023",12,"--",38,337,92,0.777
-39,"-1","ONE DIRECTION","One Thing",333,"+1",28,"-3",1.31,"-0.007",19,"31",38,333,114,1.317
-40,"+2","DAVID GUETTA","Titanium f/Sia",308,"+6",27,"+6",1.202,"+0.021",27,"7",40,308,56,1.29
-41,"+2","SNOW PATROL","In The End",303,"+7",25,"+11",0.487,"+0.014",26,"--",41,303,42,0.498
-42,"-2","CARRIE UNDERWOOD","Good Girl",280,"-32",-274,"+5",1.545,"-0.197",125,"79",20,977,122,4.915
-43,"+1","IMAGINE DRAGONS","It's Time",279,"-1",4,"-6",0.431,"-0.025",29,"86",43,286,63,0.487
-44,"-3","HALEY REINHART","Free",259,"-49",-282,"-47",0.769,"-0.160",95,"--",27,675,116,1.899
-45,"=","MAYER HAWTHORNE","The Walk",221,"-1",0,"-3",0.79,"-0.055",24,"--",45,223,44,0.948
-46,"=","MIKE RUOCCO","Too Late",191,"-2",25,"-7",0.247,"-0.010",5,"--",46,193,32,0.257
-47,"--","NO DOUBT","Settle Down",182,"--",182,"--",1.674,"--",1,"6",47,182,182,1.674
-48,"-1","CALVIN HARRIS","Let's Go f/Ne-Yo",181,"+1",0,"-3",0.635,"+0.015",7,"28",47,182,80,0.635
-49,"-1","HEDLEY","Kiss You Inside Out",175,"+1",29,"-1",0.89,"+0.004",3,"--",48,175,30,0.905
-50,"-1","VICCI MARTINEZ","Come Along f/CeeLo G...",171,"-1",-8,"+0",0.408,"-0.001",5,"--",48,184,80,0.447
+"Title","Artist","Spins"
+"Payphone f/Wiz Khali...","MAROON 5",5243
+"Call Me Maybe","CARLY RAE JEPSEN",5022
+"Somebody That I Used...","GOTYE",4764
+"We Are Young f/Janel...","FUN.",3750
+"What Makes You Beaut...","ONE DIRECTION",3740
+"Wide Awake","KATY PERRY",3690
+"Everybody Talks","NEON TREES",3670
+"Glad You Came","THE WANTED",3315
+"I Won't Give Up","JASON MRAZ",3132
+"Drive By","TRAIN",2872
+"Broken Hearted","KARMIN",2716
+"Dark Side","KELLY CLARKSON",2389
+"She's So Mean","MATCHBOX TWENTY",2386
+"Give Your Heart A Br...","DEMI LOVATO",2285
+"Lights","ELLIE GOULDING",2179
+"Blow Me (One Last Ki...","PINK",2104
+"50 Ways To Say Goodb...","TRAIN",1894
+"Free","GRAFFITI6",1640
+"The A Team","ED SHEERAN",1221
+"Sweeter","GAVIN DEGRAW",1214
+"Where Have You Been","RIHANNA",1052
+"Tongue Tied","GROUPLOVE",1032
+"Some Nights","FUN.",962
+"Wild Ones f/Sia","FLO RIDA",958
+"Home","PHILLIP PHILLIPS",882
+"Scream","USHER",778
+"Starships","NICKI MINAJ",706
+"Guardian","ALANIS MORISSETTE",682
+"Too Close","ALEX CLARE",674
+"Good Time","OWL CITY & CARLY RAE...",621
+"Uh Oh","JUNIOR DOCTOR",608
+"The Fighter f/Ryan T...","GYM CLASS HEROES",565
+"Burn It Down","LINKIN PARK",546
+"Cupid","DANIEL POWTER",386
+"Stay Awhile","RYAN STAR",380
+"Little Talks","OF MONSTERS AND MEN",373
+"Nothing's Real But L...","REBECCA FERGUSON",342
+"Distance","CHRISTINA PERRI",337
+"One Thing","ONE DIRECTION",333
+"Titanium f/Sia","DAVID GUETTA",308
+"In The End","SNOW PATROL",303
+"Good Girl","CARRIE UNDERWOOD",280
+"It's Time","IMAGINE DRAGONS",279
+"Free","HALEY REINHART",259
+"The Walk","MAYER HAWTHORNE",221
+"Too Late","MIKE RUOCCO",191
+"Settle Down","NO DOUBT",182
+"Let's Go f/Ne-Yo","CALVIN HARRIS",181
+"Kiss You Inside Out","HEDLEY",175
+"Come Along f/CeeLo G...","VICCI MARTINEZ",171

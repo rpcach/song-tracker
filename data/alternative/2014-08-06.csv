@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","BIG DATA","Dangerous f/Joywave",2608,3,123,-2,10.601,-0.04,157,"169",1,2610,249,10.802
-2,"=","VANCE JOY","Riptide",2505,42,250,24,11.329,0.325,123,"69",2,2505,296,11.329
-3,"=","BLACK KEYS","Fever",2344,-35,-57,-37,10.663,-0.214,135,"--",1,2724,1613,13.336
-4,"=","BLEACHERS","I Wanna Get Better",2229,-47,-418,-17,8.301,-0.221,157,"138",1,2675,323,10.255
-5,"=","DIRTY HEADS","My Sweet Summer",1904,32,179,8,7.744,0.184,85,"--",5,1904,200,7.744
-6,"=","COLDPLAY","A Sky Full Of Stars",1749,19,58,6,8.91,0.012,80,"46",6,1749,259,8.91
-7,"+1","MILKY CHANCE","Stolen Dance",1710,10,86,-19,6.793,-0.029,73,"83",7,1710,385,6.826
-8,"-1","ARCTIC MONKEYS","Why'd You Only Call Me When...",1682,-38,-182,-21,7.176,0.064,173,"--",4,2000,248,7.367
-9,"+1","WEEZER","Back To The Shack",1656,32,323,-43,6.39,0.051,16,"--",9,1656,1248,6.39
-10,"-1","KONGOS","Come With Me Now",1639,-1,-175,31,7.685,0.007,200,"27",1,2456,356,13.403
-11,"=","RISE AGAINST","I Don't Want To Be Here ...",1377,18,93,11,4.577,0.044,57,"--",11,1377,544,4.577
-12,"=","ALT-J","Left Hand Free",1252,23,264,-9,4.035,0.146,28,"--",12,1252,434,4.035
-13,"=","BAD SUNS","Cardiac Arrest",1057,-11,-47,-2,3.202,-0.089,189,"--",13,1142,131,4.206
-14,"+1","HOZIER","Take Me To Church",958,39,239,14,4.115,0.186,50,"84",14,958,239,4.115
-15,"-1","JACK WHITE","Lazaretto",881,-51,-370,-16,2.421,-0.085,105,"--",8,1500,450,5.652
-16,"+1","J. RODDY WALSTON/THE BUSINESS","Take It As It Comes",827,10,99,4,1.633,0.035,123,"--",16,827,108,1.641
-17,"-1","CAGE THE ELEPHANT","Take It Or Leave It",750,-81,-446,-59,1.78,-0.225,177,"--",10,1352,173,4.009
-18,"=","SOMEKINDAWONDERFUL","Reverse",734,3,5,3,2.68,0.004,127,"--",17,739,116,2.713
-19,"+1","PRIORY","Weekend",692,40,205,30,2.036,0.15,21,"--",19,692,284,2.036
-20,"-1","TOVE LO","Habits (Stay High)",680,13,68,8,3.191,0.196,99,"109",18,680,130,3.191
-21,"=","KONGOS","I'm Only Joking",637,23,102,27,1.671,0.075,38,"--",21,637,143,1.671
-22,"=","THIRTY SECONDS TO MARS","Do Or Die",617,17,101,4,2.184,0.095,92,"--",22,617,106,2.184
-23,"+2","GRISWOLDS","Beware The Dog",597,13,99,1,1.378,0.057,55,"--",23,597,114,1.378
-24,"=","PRETTY RECKLESS","Heaven Knows",592,-3,-4,-9,1.792,-0.033,131,"--",21,600,78,1.969
-25,"-2","CAPITAL CITIES","One Minute More",591,-7,-1,-13,2.319,-0.056,115,"--",21,608,94,2.44
-26,"+1","BASTILLE","Flaws",529,22,96,14,1.539,0.096,28,"--",26,529,168,1.539
-27,"-1","LANA DEL REY","West Coast",526,-1,20,-1,1.422,-0.034,59,"--",26,529,87,1.745
-28,"+1","JOYWAVE","Tongues",454,14,6,20,0.657,0.049,72,"--",28,454,91,1.276
-29,"-1","YOUNG THE GIANT","Mind Over Matter",438,-7,-8,-23,1.132,-0.034,80,"--",28,458,76,1.182
-30,"=","LINKIN PARK","Until It's Gone",415,-11,-136,6,1.494,-0.048,87,"--",18,642,160,1.81
-31,"=","KINGS OF LEON","Family Tree",385,3,8,0,0.554,0.012,47,"--",31,385,108,0.554
-32,"=","MEG MYERS","Desire",358,9,35,8,0.783,0.03,41,"--",32,358,71,1.235
-33,"=","MAGIC!","Rude",336,-10,-104,-6,1.217,0.036,104,"4",17,678,125,2.473
-34,"+1","SEETHER","Words As Weapons",309,8,49,6,1.045,0.047,63,"--",34,309,61,1.045
-35,"-1","LORDE","Tennis Court",309,-37,-271,-12,1.327,-0.117,85,"162",15,906,209,4.347
-36,"=","PHANTOGRAM","Black Out Days",286,6,-5,14,0.765,0.015,53,"--",32,338,84,1.067
-37,"+1","THE EERIES","Cool Kid",268,5,44,0,0.677,0.001,17,"--",37,268,82,0.677
-38,"-1","INTERPOL","All The Rage Back Home",268,4,24,-6,0.523,0.004,17,"--",37,268,97,0.523
-39,"=","FUTURE ISLANDS","Seasons (Waiting On You)",251,0,32,-6,0.304,-0.003,63,"--",39,251,56,0.492
-40,"=","PANAMA","Always",245,2,-8,1,0.203,-0.008,54,"--",39,259,50,0.27
-41,"=","VAMPIRE WEEKEND","Step",232,7,-4,15,0.361,0.005,73,"--",35,271,71,0.586
-42,"=","TWIN ATLANTIC","Heart And Soul",228,6,41,7,0.438,0.002,30,"--",42,228,41,0.438
-43,"=","BEAR HANDS","Agora",217,5,87,-11,0.35,-0.011,5,"--",43,217,98,0.361
-44,"=","A DAY TO REMEMBER","End Of Me",198,7,13,7,0.512,0.031,39,"--",44,198,37,0.512
-45,"=","GROUPLOVE","I'm With You",192,5,6,6,0.495,0.054,18,"--",44,192,40,0.495
-46,"=","OK GO","Writing's On The Wall",182,2,14,1,0.291,-0.007,24,"--",46,182,34,0.378
-47,"+1","GASLIGHT ANTHEM","Get Hurt",174,9,34,10,0.726,0.064,3,"--",47,174,34,0.726
-48,"-1","PANAMA WEDDING","All Of The People",169,-3,13,-11,0.177,-0.018,8,"--",46,176,37,0.196
-49,"=","NEON TREES","Text Me In The Morning",162,-3,-5,-6,0.513,0.004,22,"--",48,167,46,0.513
-50,"=","SPOON","Do You",160,7,9,10,0.338,0.005,3,"--",50,160,9,0.338
+"Title","Artist","Spins"
+"Dangerous f/Joywave","BIG DATA",2608
+"Riptide","VANCE JOY",2505
+"Fever","BLACK KEYS",2344
+"I Wanna Get Better","BLEACHERS",2229
+"My Sweet Summer","DIRTY HEADS",1904
+"A Sky Full Of Stars","COLDPLAY",1749
+"Stolen Dance","MILKY CHANCE",1710
+"Why'd You Only Call Me When...","ARCTIC MONKEYS",1682
+"Back To The Shack","WEEZER",1656
+"Come With Me Now","KONGOS",1639
+"I Don't Want To Be Here ...","RISE AGAINST",1377
+"Left Hand Free","ALT-J",1252
+"Cardiac Arrest","BAD SUNS",1057
+"Take Me To Church","HOZIER",958
+"Lazaretto","JACK WHITE",881
+"Take It As It Comes","J. RODDY WALSTON/THE BUSINESS",827
+"Take It Or Leave It","CAGE THE ELEPHANT",750
+"Reverse","SOMEKINDAWONDERFUL",734
+"Weekend","PRIORY",692
+"Habits (Stay High)","TOVE LO",680
+"I'm Only Joking","KONGOS",637
+"Do Or Die","THIRTY SECONDS TO MARS",617
+"Beware The Dog","GRISWOLDS",597
+"Heaven Knows","PRETTY RECKLESS",592
+"One Minute More","CAPITAL CITIES",591
+"Flaws","BASTILLE",529
+"West Coast","LANA DEL REY",526
+"Tongues","JOYWAVE",454
+"Mind Over Matter","YOUNG THE GIANT",438
+"Until It's Gone","LINKIN PARK",415
+"Family Tree","KINGS OF LEON",385
+"Desire","MEG MYERS",358
+"Rude","MAGIC!",336
+"Words As Weapons","SEETHER",309
+"Tennis Court","LORDE",309
+"Black Out Days","PHANTOGRAM",286
+"Cool Kid","THE EERIES",268
+"All The Rage Back Home","INTERPOL",268
+"Seasons (Waiting On You)","FUTURE ISLANDS",251
+"Always","PANAMA",245
+"Step","VAMPIRE WEEKEND",232
+"Heart And Soul","TWIN ATLANTIC",228
+"Agora","BEAR HANDS",217
+"End Of Me","A DAY TO REMEMBER",198
+"I'm With You","GROUPLOVE",192
+"Writing's On The Wall","OK GO",182
+"Get Hurt","GASLIGHT ANTHEM",174
+"All Of The People","PANAMA WEDDING",169
+"Text Me In The Morning","NEON TREES",162
+"Do You","SPOON",160

@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","DRAKE","Started From The ...",4137,8,113,-7,31.638,0.039,59,"164",1,4137,942,31.638
-2,"=","RIHANNA","Pour It Up",3743,0,-50,8,30.338,0.136,107,"48",1,4431,753,36.214
-3,"=","WALE","Bad f/Tiara Thoma...",3519,26,267,-29,25.798,0.138,63,"55",3,3519,503,25.798
-4,"=","JUSTIN TIMBERLAKE","Suit & Tie f/JAY ...",3441,3,39,4,23.984,-0.027,83,"7",4,3441,783,24.045
-5,"=","LIL WAYNE","Love Me f/Drake &...",3275,-128,-672,-101,23.07,-0.493,90,"28",1,3996,522,27.188
-6,"+1","RIHANNA","Loveeeeeee Song f...",3253,-9,-86,13,25.065,-0.011,91,"108",5,3361,609,26.873
-7,"-1","KENDRICK LAMAR","Poetic Justice f/...",3220,-69,-205,-49,24.62,-0.34,145,"99",1,4164,534,32.041
-8,"=","TAMAR BRAXTON","Love And War",2829,34,247,24,18.039,0.191,94,"184",8,2829,372,18.039
-9,"=","B.O.B","Still In This B**...",2702,19,124,5,17.201,0.223,119,"72",9,2702,405,17.201
-10,"=","A$AP ROCKY","F**kin Problems f...",2502,-27,-318,30,18.07,-0.13,147,"51",1,4106,578,33.184
-11,"=","ACE HOOD","Bugatti f/Future ...",2409,32,284,-12,15.379,0.002,73,"37",11,2409,348,15.379
-12,"=","KELLY ROWLAND","Kisses Down Low",2211,-12,27,-28,14.924,-0.014,62,"126",11,2230,432,14.938
-13,"=","FUTURE","Karate Chop f/Cas...",2203,2,42,-19,13.581,0.009,63,"152",11,2210,484,13.921
-14,"=","YOUNG JEEZY","RIP f/2 Chainz",2177,25,50,26,13.875,0.086,84,"--",10,2216,442,15.362
-15,"=","SEVYN STREETER","I Like It",1542,34,202,0,9.777,0.067,126,"--",15,1542,214,9.777
-16,"=","JUICY J","Show Out f/Young ...",1351,16,137,-18,8.284,0.325,76,"121",16,1351,251,8.284
-17,"=","FABOLOUS","Ready f/Chris Bro...",1324,-2,91,-9,9.498,0.131,62,"310",16,1336,231,9.498
-18,"=","TRINIDAD JAMES","All Gold Everythi...",1133,-8,-132,36,7.513,-0.04,147,"158",1,3987,609,26.164
-19,"=","B. SMYTH","Leggo f/2 Chainz",1110,7,110,-26,4.84,0.044,56,"--",19,1110,213,4.84
-20,"+5","CHRIS BROWN","Fine China",1070,180,1070,180,11.43,1.559,6,"45",20,1070,1070,11.43
-21,"-1","MINDLESS BEHAVIOR","Keep Her On The L...",1060,-20,-158,12,5.541,-0.105,63,"--",18,1250,299,6.678
-22,"-1","FRENCH MONTANA","Freaks f/Nicki Mi...",1038,10,182,-18,7.945,0.045,28,"173",21,1038,287,7.945
-23,"-1","J. COLE","Power Trip f/Migu...",1035,21,55,16,6.441,0.105,39,"--",22,1035,304,6.441
-24,"-1","RAVAUGHN","Better Be Good",975,-16,-34,-29,4.056,-0.031,83,"--",21,1069,188,5.628
-25,"-1","T.RONE","Hello Love",954,12,45,7,4.877,0.032,77,"--",24,964,260,4.946
-26,"+1","KENDRICK LAMAR","B**ch, Don't Kill...",935,54,342,10,8.102,0.368,15,"--",26,935,350,8.102
-27,"-1","MIGUEL","How Many Drinks?",907,22,144,-33,5.592,0.163,31,"--",25,907,300,5.592
-28,"+1","JARVIS","Make A Little Roo...",783,-9,44,-26,3.014,-0.012,129,"--",27,799,153,3.616
-29,"-1","TREY SONGZ","Fumble",756,-44,-324,25,5.428,-0.279,84,"--",16,1571,326,10.398
-30,"=","TRINIDAD JAMES","Female$ Welcomed",753,0,103,-26,3.278,-0.057,35,"--",28,753,252,3.335
-31,"=","CIARA","Body Party",742,15,299,-41,4.373,0.062,13,"--",31,742,340,4.373
-32,"+1","MEEK MILL","Believe It",712,13,38,16,4.165,0.011,54,"383",29,712,250,4.285
-33,"-1","DJ DRAMA","So Many Girls f/W...",701,-11,60,-42,3.843,0.03,53,"--",30,712,144,3.883
-34,"=","T.I.","Hello f/Cee-Lo Gr...",683,-9,7,-20,4.117,-0.073,41,"--",28,692,225,4.239
-35,"=","KIRKO BANGZ","Keep It Trill",675,8,55,13,2.686,-0.05,71,"--",30,676,208,2.798
-36,"=","YO GOTTI","Disqualified f/Wa...",585,-1,6,9,2.503,0.008,25,"--",34,608,233,2.57
-37,"=","MACKLEMORE & RYAN...","Thrift Shop f/Wan...",566,2,-5,-5,3.903,0.058,61,"13/16",34,571,179,3.903
-38,"+1","KSTYLIS","Booty Me Down",485,23,129,39,1.484,0.069,23,"--",38,485,129,1.484
-39,"-1","TYGA","Dope f/Rick Ross",435,-50,-120,-49,1.555,-0.288,70,"133",33,587,343,4.099
-40,"=","CA$H OUT","Exclusive f/B.O.B...",434,-7,4,-18,1.271,-0.005,52,"--",39,448,126,1.292
-41,"=","KAT DAHLIA","Gangsta",430,-5,72,-12,1.496,-0.019,16,"--",41,435,99,1.515
-42,"+1","RICH GANG","Tapout f/Birdman,...",404,2,32,-16,1.612,0.024,14,"--",41,404,182,1.612
-43,"+1","RAHEEM DEVAUGHN","Love Connection",398,10,20,11,1.706,0.064,18,"--",42,398,161,1.706
-44,"+5","LIL WAYNE","Rich As F**k f/2 ...",387,58,258,35,1.998,0.28,3,"--",44,387,258,1.998
-45,"+1","NE-YO","Should Be You f/F...",378,9,65,-12,1.174,0.058,30,"--",45,378,111,1.497
-46,"-4","GAME","All That (Lady)",376,-47,-122,-51,2.161,-0.34,43,"--",27,697,255,4.094
-47,"=","THE-DREAM","Slow It Down f/Fa...",369,2,50,-13,0.798,0.002,26,"--",45,370,188,1.073
-48,"-3","KAYLA BRIANNA","I Got That f/Meek...",369,-14,-13,-5,1.252,-0.003,49,"--",40,419,88,2.015
-49,"-1","A$AP ROCKY","Wild For The Nigh...",363,9,119,-10,1.859,0.02,7,"114",48,363,135,1.859
-50,"=","FRANK OCEAN","Super Rich Kids",312,6,175,-25,1.296,0.021,3,"--",49,312,202,1.296
+"Title","Artist","Spins"
+"Started From The ...","DRAKE",4137
+"Pour It Up","RIHANNA",3743
+"Bad f/Tiara Thoma...","WALE",3519
+"Suit & Tie f/JAY ...","JUSTIN TIMBERLAKE",3441
+"Love Me f/Drake &...","LIL WAYNE",3275
+"Loveeeeeee Song f...","RIHANNA",3253
+"Poetic Justice f/...","KENDRICK LAMAR",3220
+"Love And War","TAMAR BRAXTON",2829
+"Still In This B**...","B.O.B",2702
+"F**kin Problems f...","A$AP ROCKY",2502
+"Bugatti f/Future ...","ACE HOOD",2409
+"Kisses Down Low","KELLY ROWLAND",2211
+"Karate Chop f/Cas...","FUTURE",2203
+"RIP f/2 Chainz","YOUNG JEEZY",2177
+"I Like It","SEVYN STREETER",1542
+"Show Out f/Young ...","JUICY J",1351
+"Ready f/Chris Bro...","FABOLOUS",1324
+"All Gold Everythi...","TRINIDAD JAMES",1133
+"Leggo f/2 Chainz","B. SMYTH",1110
+"Fine China","CHRIS BROWN",1070
+"Keep Her On The L...","MINDLESS BEHAVIOR",1060
+"Freaks f/Nicki Mi...","FRENCH MONTANA",1038
+"Power Trip f/Migu...","J. COLE",1035
+"Better Be Good","RAVAUGHN",975
+"Hello Love","T.RONE",954
+"B**ch, Don't Kill...","KENDRICK LAMAR",935
+"How Many Drinks?","MIGUEL",907
+"Make A Little Roo...","JARVIS",783
+"Fumble","TREY SONGZ",756
+"Female$ Welcomed","TRINIDAD JAMES",753
+"Body Party","CIARA",742
+"Believe It","MEEK MILL",712
+"So Many Girls f/W...","DJ DRAMA",701
+"Hello f/Cee-Lo Gr...","T.I.",683
+"Keep It Trill","KIRKO BANGZ",675
+"Disqualified f/Wa...","YO GOTTI",585
+"Thrift Shop f/Wan...","MACKLEMORE & RYAN...",566
+"Booty Me Down","KSTYLIS",485
+"Dope f/Rick Ross","TYGA",435
+"Exclusive f/B.O.B...","CA$H OUT",434
+"Gangsta","KAT DAHLIA",430
+"Tapout f/Birdman,...","RICH GANG",404
+"Love Connection","RAHEEM DEVAUGHN",398
+"Rich As F**k f/2 ...","LIL WAYNE",387
+"Should Be You f/F...","NE-YO",378
+"All That (Lady)","GAME",376
+"Slow It Down f/Fa...","THE-DREAM",369
+"I Got That f/Meek...","KAYLA BRIANNA",369
+"Wild For The Nigh...","A$AP ROCKY",363
+"Super Rich Kids","FRANK OCEAN",312

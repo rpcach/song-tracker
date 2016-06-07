@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","KONGOS","Come With Me Now",2450,"+1",83,"-7",11.6,"-0.055",107,"44",1,2456,356,13.403
-2,"=","BLACK KEYS","Fever",2339,"-4",215,"-25",10.443,"+0.077",42,"179",2,2343,1613,11.043
-3,"=","FITZ & THE TANTRUMS","Walker",2230,"-20",-20,"+14",11.026,"-0.095",162,"85",1,2399,260,12.969
-4,"=","BASTILLE","Bad Blood",2190,"-7",98,"-10",9.338,"-0.082",122,"182",3,2202,195,11.227
-5,"=","ARCTIC MONKEYS","Do I Wanna Know?",1887,"-12",-11,"-2",10.738,"-0.066",257,"102",1,2578,229,14.325
-6,"=","COLDPLAY","Magic",1617,"+15",132,"+9",7.056,"-0.032",63,"19",6,1617,790,7.967
-7,"=","BLEACHERS","I Wanna Get Better",1542,"+16",192,"+10",6.598,"-0.008",64,"180",7,1542,231,7.098
-8,"=","PHANTOGRAM","Fall In Love",1441,"-39",-176,"-11",6.502,"-0.126",151,"219",3,1921,203,8.785
-9,"=","CAGE THE ELEPHANT","Come A Little Closer",1417,"+8",96,"+21",8.642,"+0.078",269,"356",1,2572,519,14.39
-10,"=","KINGS OF LEON","Wait For Me",1398,"+14",210,"-8",4.844,"-0.011",121,"--",10,1398,235,5.157
-11,"=","BEAR HANDS","Giants",1330,"+5",128,"-3",4.591,"+0.041",141,"--",10,1330,175,4.905
-12,"=","ARCTIC MONKEYS","Why'd You Only Call Me When...",1267,"+16",245,"-3",4.666,"+0.110",80,"278",12,1267,248,4.666
-13,"=","NEON TREES","Sleeping With A Friend",1077,"-14",-4,"-17",3.298,"-0.080",113,"47",11,1199,327,4.783
-14,"=","LORDE","Glory And Gore",922,"+15",128,"+21",2.407,"+0.059",56,"210",14,922,168,2.466
-15,"+2","JACK WHITE","Lazaretto",837,"+57",392,"-24",2.823,"+0.171",12,"351",15,837,445,2.823
-16,"-1","WILD CUB","Thunder Clatter",819,"+8",78,"+11",2.09,"+0.013",112,"--",15,819,99,2.29
-17,"-1","CAGE THE ELEPHANT","Take It Or Leave It",807,"+16",155,"+5",2.377,"+0.087",84,"--",16,807,158,2.377
-18,"=","BIG DATA","Dangerous f/Joywave",745,"+22",208,"+10",2.008,"+0.019",64,"--",17,745,208,2.008
-19,"=","AMERICAN AUTHORS","Best Day Of My Life",605,"+0",-13,"+11",3.019,"-0.085",170,"23",16,735,127,4.889
-20,"=","LINKIN PARK","Guilty All The Same",578,"-16",-17,"-22",1.479,"-0.059",57,"--",17,666,330,2.554
-21,"=","CHERUB","Doses & Mimosas",549,"+1",55,"+0",1.846,"+0.007",81,"272",20,549,115,2.534
-22,"+1","BAD SUNS","Cardiac Arrest",544,"+4",59,"+8",1.343,"-0.011",96,"--",21,544,80,1.526
-23,"-1","ORWELLS","Who Needs You",537,"-3",87,"-10",1.225,"-0.024",67,"--",22,540,97,1.344
-24,"=","FOSTER THE PEOPLE","Best Friend",521,"-2",102,"-34",1.862,"-0.061",25,"--",24,523,150,1.989
-25,"=","SLEEPER AGENT","Waves",478,"+0",53,"-2",0.687,"+0.024",93,"--",23,481,77,0.742
-26,"=","CHEVELLE","Take Out The Gunman",453,"-5",20,"-2",1.884,"-0.024",86,"--",23,461,172,2.045
-27,"=","SOMEKINDAWONDERFUL","Reverse",448,"+1",64,"-3",1.676,"-0.031",34,"--",27,448,116,1.873
-28,"=","BROODS","Bridges",440,"+4",38,"+6",1.127,"+0.009",80,"--",27,442,92,1.216
-29,"=","SIR SLY","Gold",431,"-1",68,"+1",1.743,"-0.024",108,"--",28,432,68,2.258
-30,"=","FOSTER THE PEOPLE","Coming Of Age",395,"-28",-73,"-13",2.565,"-0.126",112,"--",4,1786,931,8.265
-31,"=","MS MR","Think Of You",384,"-3",39,"-13",1.053,"-0.049",83,"--",31,387,69,1.102
-32,"=","PANIC! AT THE DISCO","This Is Gospel",370,"+3",28,"-3",1.449,"+0.004",60,"--",31,370,105,1.466
-33,"+1","BECK","Blue Moon",352,"-5",2,"-5",1.202,"-0.052",53,"--",30,359,115,1.825
-34,"+1","ROYAL BLOOD","Out Of The Black",349,"-3",-4,"-9",0.708,"-0.029",46,"--",32,360,89,0.794
-35,"-2","GROUPLOVE","Shark Attack",343,"-22",-80,"-2",0.695,"-0.026",113,"--",18,602,111,1.506
-36,"+1","VANCE JOY","Riptide",328,"+5",93,"-9",1.44,"+0.034",30,"300",36,328,119,1.44
-37,"-1","PRETTY RECKLESS","Heaven Knows",327,"+3",73,"-2",1.157,"+0.012",38,"183",36,327,75,1.157
-38,"=","BRICK+MORTAR","Locked In A Cage",316,"+11",44,"+19",1.38,"+0.058",57,"--",36,316,65,1.46
-39,"=","J. RODDY WALSTON/THE BUSINESS","Take It As It Comes",288,"+0",57,"+1",0.416,"-0.006",30,"--",39,288,57,0.422
-40,"=","BIRDS OF TOKYO","Lanterns",278,"-9",-18,"-8",0.538,"-0.031",70,"--",29,359,106,1.968
-41,"=","TWENTY ONE PILOTS","Car Radio",270,"+2",87,"-6",1.031,"+0.030",20,"292",41,270,93,1.031
-42,"=","MORNING PARADE","Alienation",249,"+3",-3,"+10",0.479,"+0.009",90,"--",34,288,48,0.491
-43,"=","MAX FROST","White Lies",245,"+5",27,"+0",0.747,"+0.052",73,"--",41,245,45,0.747
-44,"+1","CAPITAL CITIES","One Minute More",222,"+11",54,"+10",0.725,"+0.065",22,"--",44,222,80,0.725
-45,"+2","TOVE LO","Habits (Stay High)",210,"+20",120,"+12",0.975,"+0.201",6,"250",45,210,120,0.975
-46,"=","SEMI PRECIOUS WEAPONS","Aviation High",208,"+9",36,"+11",0.726,"+0.069",22,"--",44,208,40,0.749
-47,"+1","PASSENGER","Let Her Go",173,"+0",20,"-3",0.623,"+0.002",25,"62",47,175,62,0.701
-48,"+1","CHVRCHES","Recover",156,"+9",38,"+17",0.191,"+0.036",13,"--",48,156,38,0.292
-49,"+1","MAGIC!","Rude",146,"+2",21,"-1",0.41,"+0.021",11,"35",48,146,27,0.484
-50,"--","QUEENS OF THE STONE AGE","Smooth Sailing",134,"--",39,"--",0.276,"--",1,"--",50,134,39,0.276
+"Title","Artist","Spins"
+"Come With Me Now","KONGOS",2450
+"Fever","BLACK KEYS",2339
+"Walker","FITZ & THE TANTRUMS",2230
+"Bad Blood","BASTILLE",2190
+"Do I Wanna Know?","ARCTIC MONKEYS",1887
+"Magic","COLDPLAY",1617
+"I Wanna Get Better","BLEACHERS",1542
+"Fall In Love","PHANTOGRAM",1441
+"Come A Little Closer","CAGE THE ELEPHANT",1417
+"Wait For Me","KINGS OF LEON",1398
+"Giants","BEAR HANDS",1330
+"Why'd You Only Call Me When...","ARCTIC MONKEYS",1267
+"Sleeping With A Friend","NEON TREES",1077
+"Glory And Gore","LORDE",922
+"Lazaretto","JACK WHITE",837
+"Thunder Clatter","WILD CUB",819
+"Take It Or Leave It","CAGE THE ELEPHANT",807
+"Dangerous f/Joywave","BIG DATA",745
+"Best Day Of My Life","AMERICAN AUTHORS",605
+"Guilty All The Same","LINKIN PARK",578
+"Doses & Mimosas","CHERUB",549
+"Cardiac Arrest","BAD SUNS",544
+"Who Needs You","ORWELLS",537
+"Best Friend","FOSTER THE PEOPLE",521
+"Waves","SLEEPER AGENT",478
+"Take Out The Gunman","CHEVELLE",453
+"Reverse","SOMEKINDAWONDERFUL",448
+"Bridges","BROODS",440
+"Gold","SIR SLY",431
+"Coming Of Age","FOSTER THE PEOPLE",395
+"Think Of You","MS MR",384
+"This Is Gospel","PANIC! AT THE DISCO",370
+"Blue Moon","BECK",352
+"Out Of The Black","ROYAL BLOOD",349
+"Shark Attack","GROUPLOVE",343
+"Riptide","VANCE JOY",328
+"Heaven Knows","PRETTY RECKLESS",327
+"Locked In A Cage","BRICK+MORTAR",316
+"Take It As It Comes","J. RODDY WALSTON/THE BUSINESS",288
+"Lanterns","BIRDS OF TOKYO",278
+"Car Radio","TWENTY ONE PILOTS",270
+"Alienation","MORNING PARADE",249
+"White Lies","MAX FROST",245
+"One Minute More","CAPITAL CITIES",222
+"Habits (Stay High)","TOVE LO",210
+"Aviation High","SEMI PRECIOUS WEAPONS",208
+"Let Her Go","PASSENGER",173
+"Recover","CHVRCHES",156
+"Rude","MAGIC!",146
+"Smooth Sailing","QUEENS OF THE STONE AGE",134

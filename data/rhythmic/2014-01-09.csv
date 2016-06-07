@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","EMINEM","The Monster f/Rih...",6737,"+75",229,"+180",43.534,"+0.370",72,"7/57",1,6810,1739,44.928
-2,"+1","KID INK","Show Me f/Chris B...",4919,"+97",281,"+112",30.39,"+0.692",95,"13",2,4919,758,30.39
-3,"-1","DRAKE","Hold On We're Goi...",4868,"+41",91,"+126",35.671,"+0.240",155,"45",1,7242,1341,51.389
-4,"=","CHRIS BROWN","Love More f/Nicki...",3944,"-75",-35,"-93",29.733,"-0.090",168,"119",2,5362,653,33.221
-5,"=","MACKLEMORE & RYAN...","White Walls f/ScH...",3886,"-2",-102,"+75",20.296,"+0.040",146,"22",3,5111,689,26.937
-6,"+2","PITBULL","Timber f/Ke$ha",3408,"+113",411,"+108",17.75,"+0.478",84,"2",6,3408,428,17.75
-7,"-1","LUPE FIASCO","Old School Love f...",3394,"+38",88,"+112",15.136,"+0.223",81,"178",6,3437,487,15.459
-8,"-1","SAGE THE GEMINI","Gas Pedal",3281,"-30",-293,"+37",17.776,"-0.107",137,"76",5,3922,397,20.573
-9,"+1","LORDE","Royals",3116,"+8",52,"+4",23.808,"+0.020",127,"11",2,5772,1070,35.585
-10,"-1","MIKE WILL MADE-IT","23 f/Miley Cyrus,...",3100,"-41",-8,"-14",13.909,"-0.229",109,"37",9,3211,365,14.34
-11,"=","JAY Z","Tom Ford",2979,"-106",-279,"-59",17.7,"-0.934",134,"144",5,3933,440,22.494
-12,"+1","LADY GAGA","Do What U Want f/...",2868,"+62",204,"+118",14.409,"+0.608",69,"35",12,2868,459,14.409
-13,"-1","B.O.B","Headband  f/2 Cha...",2809,"-3",-110,"+75",16.934,"+0.163",166,"73",8,3112,324,19.183
-14,"=","SEVYN STREETER","It Won't Stop",2555,"+77",182,"+96",15.119,"+0.339",98,"105",14,2555,250,15.119
-15,"=","YG","My Hitta f/Jeezy,...",2546,"+96",276,"+112",17.467,"+0.699",67,"--",15,2546,438,17.467
-16,"=","DRAKE","The Language",2366,"+66",191,"+82",14.373,"+0.385",61,"109",15,2366,494,14.373
-17,"=","BEYONCE","Drunk In Love f/J...",2266,"+126",425,"+103",17.38,"+1.156",22,"18",17,2266,1008,17.38
-18,"=","KATY PERRY","Dark Horse",2186,"+99",467,"+91",12.585,"+0.384",52,"1",18,2186,560,12.585
-19,"=","J. COLE","She Knows",2113,"+44",167,"+62",11.795,"+0.006",51,"201",17,2113,397,11.795
-20,"=","TY DOLLA $IGN","Paranoid",2076,"+36",131,"+39",13.063,"+0.113",97,"--",17,2076,272,13.289
-21,"=","DRAKE","All Me f/2 Chainz...",2004,"-4",22,"-8",12.483,"-0.060",122,"71",15,2008,263,13.734
-22,"=","ZEDD","Stay The Night f/...",1791,"+52",157,"+75",10.727,"+0.286",86,"42",20,1791,247,10.727
-23,"=","MACK WILDS","Own It",1717,"+43",143,"+50",10.261,"+0.133",55,"--",22,1717,294,10.468
-24,"=","SOMO","Ride",1672,"+31",175,"+28",6.665,"+0.156",46,"84",23,1672,354,6.665
-25,"=","AVICII","Wake Me Up",1410,"-26",-74,"-17",9.053,"-0.141",144,"16",15,2248,309,12.834
-26,"=","T-PAIN","Up Down (Do This ...",1361,"+36",51,"+54",8.942,"+0.606",103,"112",25,1361,195,8.942
-27,"=","AUGUST ALSINA","I Luv This Sh*t",1079,"-5",-18,"-8",8.19,"-0.173",123,"341",13,2475,442,15.197
-28,"=","TYGA F/JUSTIN BIE...","Wait For A Minute",989,"-8",-112,"+5",6.771,"+0.007",68,"277",26,1241,317,7.109
-29,"=","ONEREPUBLIC","Counting Stars",940,"+30",208,"+36",7.537,"+0.065",39,"4",29,940,230,7.537
-30,"=","JUSTIN TIMBERLAKE","TKO",790,"-38",-135,"-43",5.256,"-0.165",106,"148",11,2596,701,12.689
-31,"+1","JOHN LEGEND","All Of Me",761,"+37",125,"+63",3.895,"+0.195",39,"47",31,761,184,3.895
-32,"+2","BEYONCE","XO",750,"+53",200,"+56",3.915,"+0.212",16,"61",32,750,398,3.915
-33,"=","LORDE","Team",748,"+48",198,"+64",3.814,"+0.360",25,"8",33,748,198,3.814
-34,"+1","BRUNO MARS","Young Girls",715,"+36",125,"+46",2.599,"+0.151",23,"175",33,715,334,2.599
-35,"-4","ARIANA GRANDE","Right There f/Big...",700,"-51",-182,"-44",4.353,"-0.365",118,"221",7,2973,726,14.362
-36,"=","JASON DERULO","Talk Dirty f/2 Ch...",690,"+58",275,"+47",3.803,"+0.362",6,"27",36,690,275,3.803
-37,"+1","IMAGINE DRAGONS","Demons",626,"+19",36,"+41",3.769,"+0.081",53,"15",35,646,152,3.894
-38,"+1","SEBASTIAN MIKAEL","Last Night f/Wale",606,"+10",11,"+16",1.982,"+0.026",34,"--",36,629,169,2.879
-39,"-2","TIMBALAND","Know Bout Me f/Ja...",603,"-20",-67,"-25",1.89,"-0.146",32,"--",33,673,204,2.78
-40,"=","ELLIE GOULDING","Burn",582,"+31",128,"+14",3.29,"+0.220",13,"14",40,582,128,3.29
-41,"=","SAGE THE GEMINI","Red Nose (Pitbull...",550,"+5",18,"+7",5.411,"+0.083",87,"--",38,602,128,6.734
-42,"+3","CALVIN HARRIS","Thinking About Yo...",526,"+8",18,"+5",2.236,"-0.008",25,"220",42,526,163,2.409
-43,"+3","YO GOTTI","Cold Blood",526,"+10",9,"+6",2.781,"+0.076",35,"--",42,548,146,3.168
-44,"+3","RICO LOVE","They Don't Know",509,"+9",1,"+15",2.738,"+0.078",21,"324",44,519,154,3.429
-45,"-3","MILEY CYRUS","Wrecking Ball",508,"-22",-5,"-42",2.94,"-0.139",109,"21",17,1913,380,11.362
-46,"-2","JUICY J","Bounce It f/Wale ...",495,"-27",-112,"-27",2.634,"-0.084",130,"163",22,1465,186,8.155
-47,"-4","FUTURE","Real And True f/M...",488,"-36",-125,"-12",1.577,"-0.220",53,"332",32,790,331,2.797
-48,"=","FUTURE","Honest",467,"+8",35,"+4",3.679,"+0.038",131,"270",20,1421,317,7.494
-49,"=","SEAN PAUL","Want Dem All",455,"+14",46,"+12",2.505,"+0.052",5,"--",49,455,75,2.505
-50,"--","CHRIS BROWN","Loyal f/Lil' Wayn...",420,"--",162,"--",2.96,"--",1,"--",50,420,162,2.96
+"Title","Artist","Spins"
+"The Monster f/Rih...","EMINEM",6737
+"Show Me f/Chris B...","KID INK",4919
+"Hold On We're Goi...","DRAKE",4868
+"Love More f/Nicki...","CHRIS BROWN",3944
+"White Walls f/ScH...","MACKLEMORE & RYAN...",3886
+"Timber f/Ke$ha","PITBULL",3408
+"Old School Love f...","LUPE FIASCO",3394
+"Gas Pedal","SAGE THE GEMINI",3281
+"Royals","LORDE",3116
+"23 f/Miley Cyrus,...","MIKE WILL MADE-IT",3100
+"Tom Ford","JAY Z",2979
+"Do What U Want f/...","LADY GAGA",2868
+"Headband  f/2 Cha...","B.O.B",2809
+"It Won't Stop","SEVYN STREETER",2555
+"My Hitta f/Jeezy,...","YG",2546
+"The Language","DRAKE",2366
+"Drunk In Love f/J...","BEYONCE",2266
+"Dark Horse","KATY PERRY",2186
+"She Knows","J. COLE",2113
+"Paranoid","TY DOLLA $IGN",2076
+"All Me f/2 Chainz...","DRAKE",2004
+"Stay The Night f/...","ZEDD",1791
+"Own It","MACK WILDS",1717
+"Ride","SOMO",1672
+"Wake Me Up","AVICII",1410
+"Up Down (Do This ...","T-PAIN",1361
+"I Luv This Sh*t","AUGUST ALSINA",1079
+"Wait For A Minute","TYGA F/JUSTIN BIE...",989
+"Counting Stars","ONEREPUBLIC",940
+"TKO","JUSTIN TIMBERLAKE",790
+"All Of Me","JOHN LEGEND",761
+"XO","BEYONCE",750
+"Team","LORDE",748
+"Young Girls","BRUNO MARS",715
+"Right There f/Big...","ARIANA GRANDE",700
+"Talk Dirty f/2 Ch...","JASON DERULO",690
+"Demons","IMAGINE DRAGONS",626
+"Last Night f/Wale","SEBASTIAN MIKAEL",606
+"Know Bout Me f/Ja...","TIMBALAND",603
+"Burn","ELLIE GOULDING",582
+"Red Nose (Pitbull...","SAGE THE GEMINI",550
+"Thinking About Yo...","CALVIN HARRIS",526
+"Cold Blood","YO GOTTI",526
+"They Don't Know","RICO LOVE",509
+"Wrecking Ball","MILEY CYRUS",508
+"Bounce It f/Wale ...","JUICY J",495
+"Real And True f/M...","FUTURE",488
+"Honest","FUTURE",467
+"Want Dem All","SEAN PAUL",455
+"Loyal f/Lil' Wayn...","CHRIS BROWN",420

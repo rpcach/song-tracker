@@ -1,51 +1,51 @@
-"Pos","Pos.","Artist","Title","Spins","Spins.","Bullet","Bullet.","Aud","Aud.","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","TAYLOR SWIFT","I Knew You Were T...",15263,"+48",1347,"-291",119.212,"+0.007",68,"2",1,15263,2452,119.212
-2,"=","BRUNO MARS","Locked Out Of Hea...",14012,"-107",-616,"-20",112.882,"-1.305",117,"6",1,15928,2790,124.488
-3,"=","LUMINEERS","Ho Hey",12900,"-154",-557,"-113",97.184,"-0.989",132,"5",2,13545,1921,101.636
-4,"=","JUSTIN BIEBER","Beauty And A Beat...",12626,"+11",418,"+10",86.557,"+0.061",100,"13",4,12626,1998,86.557
-5,"=","SWEDISH HOUSE MAF...","Don't You Worry C...",10844,"+166",1398,"-65",83.299,"+1.054",139,"8",5,10844,1463,83.299
-6,"=","PINK","Try",9702,"+127",583,"+76",62.632,"+1.356",90,"15",6,9702,1515,62.632
-7,"=","FLO RIDA","I Cry",8776,"-267",-1564,"-23",64.845,"-1.942",133,"31",4,11195,1268,84.885
-8,"=","WILL.I.AM & BRITN...","Scream And Shout",8677,"+292",1363,"+201",67.834,"+1.933",62,"3",8,8677,1543,67.834
-9,"=","ED SHEERAN","The A Team",7895,"-89",-345,"-58",50.815,"-0.726",160,"36",8,8381,1183,56.912
-10,"=","RIHANNA","Diamonds",7269,"-232",-1625,"+162",51.984,"-1.751",122,"32",2,13317,2812,96.67
-11,"=","ALICIA KEYS","Girl On Fire",7246,"+60",388,"-15",50.645,"-0.254",95,"16/77",11,7246,1171,50.899
-12,"=","MAROON 5","Daylight",6607,"+95",859,"-50",46.046,"+0.482",64,"9",12,6607,1101,46.046
-13,"+2","MACKLEMORE & RYAN...","Thrift Shop f/Wan...",6325,"+197",1005,"+18",54.918,"+0.979",69,"1",13,6325,1469,54.918
-14,"-1","PITBULL","Don't Stop The Pa...",6309,"+15",99,"+52",40.361,"-0.071",111,"19",12,6309,675,41.893
-15,"-1","CALVIN HARRIS","Sweet Nothing f/F...",6279,"+96",740,"+50",53.542,"+1.277",72,"12",14,6279,875,53.542
-16,"=","KE$HA","C'mon",6163,"+107",729,"+12",45.05,"+0.422",41,"22",16,6163,1547,45.05
-17,"=","JUSTIN TIMBERLAKE","Suit & Tie f/JAY ...",6110,"+153",1101,"-625",46.72,"+0.436",12,"7",12,6495,6457,59.334
-18,"=","KE$HA","Die Young",5663,"-65",-876,"+154",49.372,"-0.529",123,"49",1,15607,3842,121.911
-19,"=","KELLY CLARKSON","Catch My Breath",5151,"+23",209,"-26",32.273,"+0.253",92,"20",18,5151,767,32.273
-20,"+1","IMAGINE DRAGONS","It's Time",4845,"+72",526,"+11",38.623,"+0.773",125,"21",20,4845,833,38.623
-21,"-1","ONE DIRECTION","Little Things",4746,"-124",-404,"-112",25.886,"-0.712",69,"50",17,5162,1166,29.586
-22,"=","THE SCRIPT","Hall Of Fame f/wi...",4433,"+10",244,"+60",22.563,"+0.120",132,"25",18,4433,493,22.806
-23,"=","HUNTER HAYES","Wanted",2663,"-20",95,"-25",14.408,"-0.022",104,"28",23,2683,368,14.43
-24,"=","LUDACRIS F/USHER/...","Rest Of My Life",2486,"-195",-579,"-186",16.203,"-1.181",75,"122",23,3244,615,24.425
-25,"=","OLLY MURS","Troublemaker f/Fl...",2343,"+108",692,"+44",15.306,"+0.733",40,"42",25,2343,692,15.306
-26,"+1","CHRIS WALLACE","Remember When (Pu...",2172,"+96",10,"+129",11.135,"+0.366",167,"136",25,2195,252,11.566
-27,"-1","OF MONSTERS AND M...","Little Talks",2151,"+32",274,"-5",13.339,"+0.186",69,"26",26,2151,349,13.339
-28,"=","THE READY SET","Give Me Your Hand",1569,"-14",-1,"-26",5.352,"-0.046",90,"179",28,1598,324,5.631
-29,"=","NICKI MINAJ","Va Va Voom",1469,"-22",-208,"+37",11.958,"-0.300",99,"82",12,6322,1566,45.452
-30,"+2","MUMFORD & SONS","I Will Wait",1388,"+80",496,"+49",11.74,"+0.390",21,"34",30,1388,496,11.74
-31,"-1","JONN HART","Who Booty f/Frenc...",1370,"-5",56,"-30",5.58,"-0.134",54,"101",30,1375,252,5.857
-32,"-1","CONOR MAYNARD","Turn Around f/Ne-...",1346,"-10",67,"-6",4.822,"-0.088",80,"229",30,1369,281,5.078
-33,"=","BRUNO MARS","When I Was Your M...",1267,"+162",781,"+95",9.894,"+1.563",11,"24",33,1267,781,9.894
-34,"=","BRITT NICOLE","Gold",923,"+41",236,"+29",3.102,"+0.138",41,"268",34,923,236,3.102
-35,"+2","NELLY","Hey Porsche",796,"+81",484,"+22",5.803,"+0.283",8,"--",35,796,484,5.803
-36,"-1","SKYLAR GREY","C'mon Let Me Ride...",780,"+41",344,"-12",2.947,"+0.209",13,"--",35,780,356,2.947
-37,"+1","FUN.","Carry On",700,"+45",271,"+20",3.335,"+0.261",18,"68",37,700,271,3.335
-38,"-2","ONEREPUBLIC","Feel Again",696,"-21",-144,"+24",7.978,"-0.352",142,"75",18,4153,813,25.014
-39,"=","PITBULL","Feel This Moment",633,"+48",140,"+42",7.929,"+0.670",20,"104",39,633,158,7.929
-40,"+1","MUSE","Madness",565,"+14",104,"+7",1.481,"+0.066",42,"58",40,565,104,1.481
-41,"+1","NEON TREES","Lessons In Love (...",553,"+3",51,"+2",1.608,"+0.050",48,"368",38,553,87,1.865
-42,"-2","MIGUEL","Adorn",537,"-26",-186,"-16",3.289,"-0.226",104,"139",33,1329,248,9.94
-43,"=","PSY","Gangnam Style",508,"-20",-80,"-10",3.606,"-0.030",139,"27",10,7746,1695,59.817
-44,"=","C. AGUILERA & B. ...","Just A Fool",440,"-2",-40,"+2",1.942,"+0.021",38,"--",39,510,106,2.295
-45,"=","THE CAB","Endlessly",426,"-9",-17,"-8",1.028,"-0.041",60,"--",40,457,52,1.321
-46,"=","AUSTIN MAHONE","Say You're Just A...",425,"+13",137,"-2",1.653,"+0.041",8,"--",46,425,148,1.653
-47,"+1","ONE DIRECTION","Kiss You",409,"+57",231,"+48",2.877,"+0.407",4,"97",47,409,231,2.877
-48,"-1","KENDRICK LAMAR","Swimming Pools (D...",371,"+18",92,"+12",2.078,"+0.036",8,"47",47,371,92,2.078
-49,"=","DAVID GUETTA","She Wolf (Falling...",342,"-3",28,"-21",1.334,"-0.084",9,"305",47,345,172,1.44
-50,"--","NE-YO","Forever Now",299,"--",163,"--",4.064,"--",1,"--",50,299,163,4.064
+"Title","Artist","Spins"
+"I Knew You Were T...","TAYLOR SWIFT",15263
+"Locked Out Of Hea...","BRUNO MARS",14012
+"Ho Hey","LUMINEERS",12900
+"Beauty And A Beat...","JUSTIN BIEBER",12626
+"Don't You Worry C...","SWEDISH HOUSE MAF...",10844
+"Try","PINK",9702
+"I Cry","FLO RIDA",8776
+"Scream And Shout","WILL.I.AM & BRITN...",8677
+"The A Team","ED SHEERAN",7895
+"Diamonds","RIHANNA",7269
+"Girl On Fire","ALICIA KEYS",7246
+"Daylight","MAROON 5",6607
+"Thrift Shop f/Wan...","MACKLEMORE & RYAN...",6325
+"Don't Stop The Pa...","PITBULL",6309
+"Sweet Nothing f/F...","CALVIN HARRIS",6279
+"C'mon","KE$HA",6163
+"Suit & Tie f/JAY ...","JUSTIN TIMBERLAKE",6110
+"Die Young","KE$HA",5663
+"Catch My Breath","KELLY CLARKSON",5151
+"It's Time","IMAGINE DRAGONS",4845
+"Little Things","ONE DIRECTION",4746
+"Hall Of Fame f/wi...","THE SCRIPT",4433
+"Wanted","HUNTER HAYES",2663
+"Rest Of My Life","LUDACRIS F/USHER/...",2486
+"Troublemaker f/Fl...","OLLY MURS",2343
+"Remember When (Pu...","CHRIS WALLACE",2172
+"Little Talks","OF MONSTERS AND M...",2151
+"Give Me Your Hand","THE READY SET",1569
+"Va Va Voom","NICKI MINAJ",1469
+"I Will Wait","MUMFORD & SONS",1388
+"Who Booty f/Frenc...","JONN HART",1370
+"Turn Around f/Ne-...","CONOR MAYNARD",1346
+"When I Was Your M...","BRUNO MARS",1267
+"Gold","BRITT NICOLE",923
+"Hey Porsche","NELLY",796
+"C'mon Let Me Ride...","SKYLAR GREY",780
+"Carry On","FUN.",700
+"Feel Again","ONEREPUBLIC",696
+"Feel This Moment","PITBULL",633
+"Madness","MUSE",565
+"Lessons In Love (...","NEON TREES",553
+"Adorn","MIGUEL",537
+"Gangnam Style","PSY",508
+"Just A Fool","C. AGUILERA & B. ...",440
+"Endlessly","THE CAB",426
+"Say You're Just A...","AUSTIN MAHONE",425
+"Kiss You","ONE DIRECTION",409
+"Swimming Pools (D...","KENDRICK LAMAR",371
+"She Wolf (Falling...","DAVID GUETTA",342
+"Forever Now","NE-YO",299

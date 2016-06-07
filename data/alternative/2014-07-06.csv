@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","BLACK KEYS","Fever",2698,-26,29,-41,12.885,-0.31,104,"--",1,2724,1613,13.336
-2,"=","BLEACHERS","I Wanna Get Better",2230,-5,37,-14,8.519,-0.058,126,"150",2,2235,231,8.577
-3,"=","KONGOS","Come With Me Now",2132,-6,28,-22,10.417,-0.274,169,"23",1,2456,356,13.403
-4,"=","BIG DATA","Dangerous f/Joywave",1992,-12,118,-21,8.285,-0.17,126,"192",4,2004,240,8.455
-5,"=","ARCTIC MONKEYS","Why'd You Only Call Me When...",1978,-5,-15,-1,7.367,0.035,142,"--",4,2000,248,7.367
-6,"=","BASTILLE","Bad Blood",1894,-57,-187,-63,9.546,-0.232,184,"--",2,2314,195,11.227
-7,"=","VANCE JOY","Riptide",1703,19,143,-5,6.358,-0.056,92,"81",7,1703,296,6.414
-8,"=","JACK WHITE","Lazaretto",1494,13,52,12,4.345,0.035,74,"--",8,1494,450,5.652
-9,"=","FITZ & THE TANTRUMS","Walker",1451,-16,-94,4,8.251,-0.147,224,"--",1,2399,260,12.969
-10,"=","COLDPLAY","A Sky Full Of Stars",1346,2,110,-28,7.149,-0.044,49,"55",10,1346,259,7.203
-11,"=","CAGE THE ELEPHANT","Take It Or Leave It",1313,5,46,0,3.918,-0.019,146,"--",10,1313,173,3.969
-12,"=","DIRTY HEADS","My Sweet Summer",1208,21,148,8,4.191,0.082,54,"--",12,1208,200,4.191
-13,"+1","RISE AGAINST","I Don't Want To Be Here ...",1078,27,182,14,3.388,0.161,26,"--",13,1078,544,3.388
-14,"-1","BAD SUNS","Cardiac Arrest",1048,-8,31,-17,4.158,-0.016,158,"--",13,1056,131,4.174
-15,"+1","LORDE","Tennis Court",888,-12,19,-23,4.139,-0.117,54,"79",15,900,209,4.347
-16,"-1","FOSTER THE PEOPLE","Best Friend",884,-20,-28,-29,2.258,-0.008,87,"--",13,1011,174,3.841
-17,"+1","MILKY CHANCE","Stolen Dance",671,14,113,-12,2.451,-0.008,42,"136",17,671,143,2.459
-18,"-1","MAGIC!","Rude",646,-12,-21,-26,2.238,-0.082,73,"1",17,678,125,2.473
-19,"=","SOMEKINDAWONDERFUL","Reverse",631,8,21,3,2.413,0.011,96,"--",18,631,116,2.678
-20,"=","LINKIN PARK","Until It's Gone",604,7,63,-6,1.514,0.024,56,"--",20,604,160,1.514
-21,"=","TOVE LO","Habits (Stay High)",588,2,-10,14,1.355,-0.005,68,"93",18,619,130,2.245
-22,"=","PRETTY RECKLESS","Heaven Knows",528,-3,6,-12,1.567,0.005,100,"--",22,537,78,1.567
-23,"=","J. RODDY WALSTON/THE BUSINESS","Take It As It Comes",509,-4,1,-13,1.004,-0.004,92,"--",23,513,77,1.008
-24,"=","CAPITAL CITIES","One Minute More",504,-7,-6,-13,1.889,0.016,84,"--",23,515,80,1.889
-25,"=","TWENTY ONE PILOTS","Car Radio",439,-6,-30,-10,1.094,-0.126,82,"--",22,492,100,1.597
-26,"=","THIRTY SECONDS TO MARS","Do Or Die",399,-14,-30,-20,1.592,-0.128,61,"--",26,435,77,1.854
-27,"+1","HOZIER","Take Me To Church",382,16,93,-5,1.455,-0.071,19,"165",27,382,112,1.59
-28,"-1","COLDPLAY","Magic",373,-23,-126,-12,1.521,-0.187,125,"194",6,1677,790,8.515
-29,"=","LANA DEL REY","West Coast",346,3,72,-6,1.665,-0.048,28,"--",29,346,87,1.727
-30,"+1","JOYWAVE","Tongues",340,8,29,-3,0.571,0.021,41,"--",29,340,91,0.654
-31,"-1","ROYAL BLOOD","Out Of The Black",322,-13,-27,-12,0.62,-0.055,108,"--",26,401,89,0.996
-32,"=","BROODS","Bridges",293,-10,-76,3,0.504,-0.029,142,"--",22,465,92,1.216
-33,"=","GRISWOLDS","Beware The Dog",286,2,39,-7,0.447,0.005,24,"--",33,286,73,0.447
-34,"=","YOUNG THE GIANT","Mind Over Matter",279,7,12,3,0.579,0.014,49,"--",34,279,54,0.579
-35,"=","PHANTOGRAM","Black Out Days",278,8,47,0,0.601,0.059,22,"--",35,278,84,1.067
-36,"+2","KINGS OF LEON","Family Tree",263,5,51,-4,0.337,0.045,16,"--",36,263,108,0.337
-37,"-1","VAMPIRE WEEKEND","Step",262,-2,11,-15,0.469,-0.001,42,"--",36,266,71,0.586
-38,"-1","CHVRCHES","Recover",262,0,-16,6,0.422,-0.004,75,"--",33,314,47,0.44
-39,"=","PANIC! AT THE DISCO","This Is Gospel",241,-13,-89,-4,1.041,-0.086,122,"--",25,427,105,1.538
-40,"+4","KONGOS","I'm Only Joking",235,32,97,28,0.694,0.119,7,"--",40,235,97,0.694
-41,"-1","SEETHER","Words As Weapons",233,10,57,7,0.685,0.031,32,"181",40,233,57,0.685
-42,"=","MEG MYERS","Desire",212,7,54,-1,0.572,0.026,10,"--",42,212,55,0.572
-43,"-2","FUTURE ISLANDS","Seasons (Waiting On You)",207,-10,-11,-16,0.45,-0.04,32,"--",39,226,56,0.492
-44,"-1","QUEENS OF THE STONE AGE","Smooth Sailing",203,-1,6,-5,0.26,-0.015,44,"--",39,219,48,0.351
-45,"=","PANAMA","Always",184,-11,-23,-19,0.22,-0.013,23,"--",42,209,50,0.256
-46,"=","SEMI PRECIOUS WEAPONS","Aviation High",183,-10,-46,-11,0.623,-0.151,84,"--",36,252,40,1.255
-47,"+1","A DAY TO REMEMBER","End Of Me",162,1,15,-4,0.403,0.002,8,"--",47,162,37,0.403
-48,"-1","ORWELLS","Who Needs You",160,-3,-49,0,0.452,-0.007,129,"--",20,555,97,1.344
-49,"+1","MANCHESTER ORCHESTRA","Top Notch",141,-1,-2,1,0.197,0.009,13,"--",49,147,30,0.197
-50,"-1","SWITCHFOOT","When We Come Alive",141,-11,-41,-14,0.172,-0.044,42,"--",44,187,45,0.315
+"Title","Artist","Spins"
+"Fever","BLACK KEYS",2698
+"I Wanna Get Better","BLEACHERS",2230
+"Come With Me Now","KONGOS",2132
+"Dangerous f/Joywave","BIG DATA",1992
+"Why'd You Only Call Me When...","ARCTIC MONKEYS",1978
+"Bad Blood","BASTILLE",1894
+"Riptide","VANCE JOY",1703
+"Lazaretto","JACK WHITE",1494
+"Walker","FITZ & THE TANTRUMS",1451
+"A Sky Full Of Stars","COLDPLAY",1346
+"Take It Or Leave It","CAGE THE ELEPHANT",1313
+"My Sweet Summer","DIRTY HEADS",1208
+"I Don't Want To Be Here ...","RISE AGAINST",1078
+"Cardiac Arrest","BAD SUNS",1048
+"Tennis Court","LORDE",888
+"Best Friend","FOSTER THE PEOPLE",884
+"Stolen Dance","MILKY CHANCE",671
+"Rude","MAGIC!",646
+"Reverse","SOMEKINDAWONDERFUL",631
+"Until It's Gone","LINKIN PARK",604
+"Habits (Stay High)","TOVE LO",588
+"Heaven Knows","PRETTY RECKLESS",528
+"Take It As It Comes","J. RODDY WALSTON/THE BUSINESS",509
+"One Minute More","CAPITAL CITIES",504
+"Car Radio","TWENTY ONE PILOTS",439
+"Do Or Die","THIRTY SECONDS TO MARS",399
+"Take Me To Church","HOZIER",382
+"Magic","COLDPLAY",373
+"West Coast","LANA DEL REY",346
+"Tongues","JOYWAVE",340
+"Out Of The Black","ROYAL BLOOD",322
+"Bridges","BROODS",293
+"Beware The Dog","GRISWOLDS",286
+"Mind Over Matter","YOUNG THE GIANT",279
+"Black Out Days","PHANTOGRAM",278
+"Family Tree","KINGS OF LEON",263
+"Step","VAMPIRE WEEKEND",262
+"Recover","CHVRCHES",262
+"This Is Gospel","PANIC! AT THE DISCO",241
+"I'm Only Joking","KONGOS",235
+"Words As Weapons","SEETHER",233
+"Desire","MEG MYERS",212
+"Seasons (Waiting On You)","FUTURE ISLANDS",207
+"Smooth Sailing","QUEENS OF THE STONE AGE",203
+"Always","PANAMA",184
+"Aviation High","SEMI PRECIOUS WEAPONS",183
+"End Of Me","A DAY TO REMEMBER",162
+"Who Needs You","ORWELLS",160
+"Top Notch","MANCHESTER ORCHESTRA",141
+"When We Come Alive","SWITCHFOOT",141

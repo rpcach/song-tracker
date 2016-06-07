@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","TREY SONGZ","Touchin, Lovin f/Nicki Minaj",5475,"-44",-424,"+28",32.143,"-0.464",101,"143",1,6006,751,36.079
-2,"=","BIG SEAN","I Don't F**k With You f/E-40",4922,"+134",574,"+49",28.433,"+0.924",64,"252",2,4922,814,28.433
-3,"=","I LOVE MAKONNEN","Tuesday f/Drake",4245,"+95",628,"-2",25.504,"+0.413",61,"19",3,4245,661,25.504
-4,"=","WIZ KHALIFA F/SNOOP & TY DOLLA","You And Your Friends",4037,"-13",13,"-46",18.102,"-0.110",90,"307",3,4089,468,19.297
-5,"+1","ARIANA GRANDE & THE WEEKND","Love Me Harder",3969,"+37",281,"-22",20.321,"+0.388",53,"12",5,3969,622,20.321
-6,"-1","JEREMIH","Don't Tell 'Em f/YG",3909,"-31",-435,"+19",28.197,"-0.193",177,"58",1,7323,812,45.688
-7,"+1","JASON DERULO","Trumpets",3784,"+27",132,"-6",15.547,"+0.186",96,"22",7,3784,460,15.547
-8,"-1","CHRIS BROWN","New Flame f/Usher & Rick Ross",3780,"-68",-659,"+47",21.554,"+0.172",141,"108",1,5981,740,32.132
-9,"=","DJ KHALED","Hold You Down f/Chris Brown...",3269,"+24",149,"-18",20.936,"+0.057",82,"118",9,3269,364,20.936
-10,"=","KID INK","Body Language f/Usher/Tinashe",3256,"+26",232,"-25",17.293,"-0.182",68,"187",9,3256,520,17.475
-11,"=","TOVE LO","Habits (Stay High)",2994,"+19",125,"-30",16.049,"+0.053",66,"29",11,2994,458,16.049
-12,"=","IGGY AZALEA","Beg For It f/MØ",2860,"+46",270,"-8",13.775,"+0.171",31,"18",12,2860,950,13.775
-13,"=","KENDRICK LAMAR","i",2544,"-113",-972,"+90",12.885,"-0.319",65,"101",4,4301,1592,23.112
-14,"=","BOBBY SHMURDA","Hot Boy",2243,"+12",93,"-10",13.554,"+0.163",96,"665",14,2243,254,13.554
-15,"=","RICH GANG","Lifestyle f/Young Thug",2224,"+9",-605,"+158",12.825,"+0.548",119,"81",8,3327,360,19.196
-16,"=","T.I.","About The Money f/Young Thug",2202,"+36",226,"-24",15.401,"+0.354",71,"167",16,2202,336,15.401
-17,"=","FERGIE","L.A.LOVE (la la)",2027,"+21",96,"+23",8.813,"+0.358",55,"16",17,2027,641,8.958
-18,"=","DRAKE","0 To 100/The Catch Up",1915,"-36",-354,"+17",13.046,"-0.233",126,"111",4,4724,604,27.337
-19,"=","USHER","I Don't Mind f/Juicy J",1856,"+42",404,"-46",12.861,"+0.258",32,"25",19,1856,486,12.861
-20,"=","MR PROBZ","Waves",1723,"+41",337,"-21",9.875,"+0.187",70,"23",20,1723,366,9.875
-21,"=","NE-YO","She Knows f/Juicy J",1655,"+26",191,"-24",9.005,"+0.109",48,"154",20,1655,250,9.005
-22,"+1","DEJ LOAF","Try Me",1470,"+59",198,"+36",10.28,"+0.640",33,"86",22,1470,325,10.28
-23,"-1","MAROON 5","Animals",1449,"+5",22,"-23",7.882,"-0.048",38,"11",21,1461,288,8.082
-24,"=","ED SHEERAN","Don't",1421,"+22",114,"+7",7.771,"+0.087",50,"28",24,1421,285,7.771
-25,"=","SAM SMITH","I'm Not The Only One",1418,"+77",319,"+44",6.251,"+0.332",40,"10",25,1418,319,6.251
-26,"=","CALVIN HARRIS","Blame f/John Newman",1261,"-14",-69,"-6",6.085,"-0.072",68,"36",21,1347,227,6.546
-27,"=","NICKI MINAJ","Only f/Drake, Lil Wayne",1254,"+33",192,"+14",8.226,"+0.356",21,"33",27,1254,430,8.226
-28,"=","NICK JONAS","Jealous",1216,"+31",250,"-4",6.504,"+0.106",31,"9",28,1216,282,6.504
-29,"+1","RAE SREMMURD","No Type",1181,"+19",217,"-32",9.739,"+0.306",30,"40",29,1181,249,9.739
-30,"-1","TINASHE","Pretend f/A$AP Rocky",1178,"+11",33,"+12",5.292,"+0.089",74,"744",27,1178,322,5.292
-31,"=","THE WEEKND","Often",1170,"+21",172,"-7",6.846,"-0.071",54,"139",30,1170,182,6.995
-32,"=","TAYLOR SWIFT","Blank Space",1022,"+58",368,"+12",5.405,"+0.218",12,"1",32,1022,368,5.405
-33,"=","B.O.B","Not For Long f/Trey Songz",927,"+25",149,"+5",5.244,"-0.002",26,"368",32,927,229,5.402
-34,"=","MIKE STUD","Closer",900,"+20",94,"+5",3.71,"+0.102",59,"--",34,900,177,3.71
-35,"=","BABY BASH","Certified Freak",880,"+12",-69,"+38",5.098,"+0.189",94,"--",24,1212,154,5.604
-36,"+1","FLO RIDA","GDFR f/Sage The Gemini",798,"+19",89,"+15",3.118,"+0.243",26,"98",36,798,193,3.118
-37,"-1","AUGUST ALSINA","No Love",778,"-2",37,"-8",3.627,"-0.019",43,"256",36,791,112,3.678
-38,"+1","CLEAN BANDIT","Rather Be f/Jess Glynne",721,"-9",-3,"+1",6.851,"-0.364",125,"51",26,1157,189,7.663
-39,"-1","MEGHAN TRAINOR","All About That Bass",707,"-34",-215,"-10",4.088,"-0.381",104,"5",8,2876,518,15.562
-40,"+1","SNOOTIE WILD","Made Me f/K Camp",604,"+6",21,"+3",3.342,"+0.033",35,"475",40,604,141,3.412
-41,"-1","TAYLOR SWIFT","Shake It Off",588,"-21",-136,"+8",4.388,"-0.195",84,"7",21,1507,266,9.02
-42,"+1","SCHOOLBOY Q","Hell Of A Night",573,"+15",8,"+17",3.037,"+0.156",17,"577",42,573,318,3.087
-43,"-1","JASMINE V","That's Me Right There",570,"-22",-459,"+47",4.235,"+0.027",103,"--",14,2106,260,9.797
-44,"=","WALE","The Body f/Jeremih",533,"-5",16,"-8",3.4,"-0.010",19,"409",44,538,130,3.619
-45,"=","MIGOS","Handsome And Wealthy",463,"-16",-75,"-20",2.821,"-0.082",54,"314",40,612,159,4.779
-46,"+3","BEYONCE","7/11",457,"+82",457,"+82",4.79,"+0.781",2,"21/57",46,457,457,4.79
-47,"-1","ALESSO","Heroes",455,"+7",44,"+2",2.818,"+0.132",21,"43",46,455,67,2.818
-48,"=","MARK RONSON","Uptown Funk f/Bruno Mars",439,"+27",156,"+14",1.912,"+0.195",7,"3",48,439,156,1.912
-49,"-2","G-EAZY","I Mean It",399,"-22",-77,"-24",1.945,"-0.065",12,"259",46,479,60,2.442
-50,"--","HOODIE ALLEN","All About It f/Ed Sheeran",374,"--",222,"--",2.035,"--",3,"327",50,374,229,2.035
+"Title","Artist","Spins"
+"Touchin, Lovin f/Nicki Minaj","TREY SONGZ",5475
+"I Don't F**k With You f/E-40","BIG SEAN",4922
+"Tuesday f/Drake","I LOVE MAKONNEN",4245
+"You And Your Friends","WIZ KHALIFA F/SNOOP & TY DOLLA",4037
+"Love Me Harder","ARIANA GRANDE & THE WEEKND",3969
+"Don't Tell 'Em f/YG","JEREMIH",3909
+"Trumpets","JASON DERULO",3784
+"New Flame f/Usher & Rick Ross","CHRIS BROWN",3780
+"Hold You Down f/Chris Brown...","DJ KHALED",3269
+"Body Language f/Usher/Tinashe","KID INK",3256
+"Habits (Stay High)","TOVE LO",2994
+"Beg For It f/MØ","IGGY AZALEA",2860
+"i","KENDRICK LAMAR",2544
+"Hot Boy","BOBBY SHMURDA",2243
+"Lifestyle f/Young Thug","RICH GANG",2224
+"About The Money f/Young Thug","T.I.",2202
+"L.A.LOVE (la la)","FERGIE",2027
+"0 To 100/The Catch Up","DRAKE",1915
+"I Don't Mind f/Juicy J","USHER",1856
+"Waves","MR PROBZ",1723
+"She Knows f/Juicy J","NE-YO",1655
+"Try Me","DEJ LOAF",1470
+"Animals","MAROON 5",1449
+"Don't","ED SHEERAN",1421
+"I'm Not The Only One","SAM SMITH",1418
+"Blame f/John Newman","CALVIN HARRIS",1261
+"Only f/Drake, Lil Wayne","NICKI MINAJ",1254
+"Jealous","NICK JONAS",1216
+"No Type","RAE SREMMURD",1181
+"Pretend f/A$AP Rocky","TINASHE",1178
+"Often","THE WEEKND",1170
+"Blank Space","TAYLOR SWIFT",1022
+"Not For Long f/Trey Songz","B.O.B",927
+"Closer","MIKE STUD",900
+"Certified Freak","BABY BASH",880
+"GDFR f/Sage The Gemini","FLO RIDA",798
+"No Love","AUGUST ALSINA",778
+"Rather Be f/Jess Glynne","CLEAN BANDIT",721
+"All About That Bass","MEGHAN TRAINOR",707
+"Made Me f/K Camp","SNOOTIE WILD",604
+"Shake It Off","TAYLOR SWIFT",588
+"Hell Of A Night","SCHOOLBOY Q",573
+"That's Me Right There","JASMINE V",570
+"The Body f/Jeremih","WALE",533
+"Handsome And Wealthy","MIGOS",463
+"7/11","BEYONCE",457
+"Heroes","ALESSO",455
+"Uptown Funk f/Bruno Mars","MARK RONSON",439
+"I Mean It","G-EAZY",399
+"All About It f/Ed Sheeran","HOODIE ALLEN",374

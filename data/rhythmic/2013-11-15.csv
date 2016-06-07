@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","DRAKE","Hold On We're Goi...",6501,-18,-440,58,45.697,-0.23,100,"12",1,7242,1341,51.389
-2,"=","LORDE","Royals",5581,-30,-191,-34,34.783,-0.298,72,"2",2,5772,1070,35.585
-3,"=","CHRIS BROWN","Love More f/Nicki...",5332,-5,132,-40,32.572,-0.427,113,"71",3,5362,653,33.221
-4,"=","JAY Z","Holy Grail f/Just...",4666,-83,-420,-57,32.904,-0.926,134,"38",1,6908,1093,46.94
-5,"=","MACKLEMORE & RYAN...","White Walls f/ScH...",4513,47,302,-1,23.791,0.573,91,"27",5,4513,689,23.791
-6,"=","EMINEM","The Monster f/Rih...",3806,225,1453,33,25.611,2.007,17,"1/49",6,3806,1739,25.611
-7,"=","BIG SEAN","Beware f/Lil Wayn...",3191,-71,-426,-37,19.77,-0.314,131,"83",3,4608,596,25.752
-8,"=","ARIANA GRANDE","Right There f/Big...",2957,-16,57,-33,13.829,-0.232,63,"228",7,2973,726,14.362
-9,"=","SAGE THE GEMINI","Gas Pedal",2911,43,123,29,16.953,0.274,82,"64",9,2911,334,16.953
-10,"=","JAY Z","Tom Ford",2723,37,121,14,15.537,0.156,79,"98",10,2723,440,16.186
-11,"+1","JUSTIN TIMBERLAKE","TKO",2596,0,71,0,11.456,0.133,51,"59",11,2596,701,11.456
-12,"-1","J. COLE","Crooked Smile",2568,-88,-471,-42,19.899,-0.672,159,"218",3,5792,559,38.753
-13,"=","B.O.B","Headband  f/2 Cha...",2501,-14,-88,-31,13.963,-0.248,111,"69",12,2589,324,15.368
-14,"+1","AUGUST ALSINA","I Luv This Sh*t",2358,-17,-117,-24,14.029,-0.195,68,"255",13,2475,442,15.197
-15,"-1","BRUNO MARS","Gorilla",2344,-117,-348,-134,10.531,-0.655,61,"54",10,2692,584,11.885
-16,"=","AVICII","Wake Me Up",2168,-12,-72,-15,12.047,-0.149,89,"7",15,2248,309,12.834
-17,"=","MIKE WILL MADE-IT","23 f/Miley Cyrus,...",2157,36,270,-4,9.506,0.139,54,"19",17,2157,365,9.506
-18,"=","ROBIN THICKE","Give It 2 U f/Ken...",1860,-62,-1026,136,8.764,-0.426,101,"219",7,3498,502,16.647
-19,"=","KATY PERRY","Roar",1839,-35,-127,1,11.409,-0.207,93,"8",7,3153,628,17.713
-20,"+1","LUPE FIASCO","Old School Love f...",1818,68,487,16,9.439,0.717,26,"178",20,1818,487,9.439
-21,"-1","MILEY CYRUS","Wrecking Ball",1764,-14,-149,-17,10.042,0.056,54,"9",18,1913,380,11.362
-22,"=","DRAKE","All Me f/2 Chainz...",1752,19,62,23,12.906,0.254,67,"48",20,1752,263,13.734
-23,"=","KID INK","Show Me f/Chris B...",1552,32,153,-21,11.398,0.235,40,"58",23,1552,349,11.398
-24,"+1","SEVYN STREETER","It Won't Stop",1313,28,219,-6,8.936,0.001,43,"62",24,1313,225,8.936
-25,"-1","JUICY J","Bounce It f/Wale ...",1294,8,52,-26,7.107,-0.119,75,"93",24,1294,186,7.279
-26,"=","LADY GAGA","Applause",1233,-32,-237,-7,8.578,-0.278,85,"11",18,1689,375,10.74
-27,"=","JASON DERULO","Marry Me",1182,9,39,1,3.386,0.05,47,"21",24,1182,292,3.522
-28,"+1","PITBULL","Timber f/Ke$ha",1034,63,317,27,4.794,0.263,29,"4",28,1034,317,4.794
-29,"-1","LANA DEL REY","Summertime Sadnes...",960,-29,-79,-6,7.576,-0.2,106,"60/79",11,2300,393,13.751
-30,"=","T-PAIN","Up Down (Do This ...",946,5,52,-15,5.57,-0.137,48,"333",29,946,195,5.959
-31,"=","TY DOLLA $IGN","Paranoid",855,16,102,-3,6.156,0.03,42,"361",31,855,147,6.613
-32,"+1","WALE","Clappers f/Nicki ...",811,-3,37,-11,5.348,-0.121,37,"--",32,814,175,6.013
-33,"+1","FUTURE","Honest",798,-14,-178,22,6.452,0.113,78,"146",20,1421,317,7.494
-34,"+3","LADY GAGA","Do What U Want f/...",783,35,275,2,4.211,0.239,14,"15",34,783,275,4.211
-35,"=","RICH HOMIE QUAN","Type Of Way",776,-31,-30,-51,7.263,-0.12,110,"157",18,1661,270,10.823
-36,"=","SCHOOLBOY Q","Collard Greens f/...",774,-12,57,-18,6.596,-0.105,61,"110",33,786,144,6.701
-37,"-5","RIHANNA","What Now",757,-79,-225,-68,2.756,-0.286,54,"66",27,1051,292,4.079
-38,"=","ZEDD","Stay The Night f/...",747,20,187,-16,4.818,0.149,31,"29",37,747,210,4.818
-39,"=","DRAKE","The Language",722,53,471,-23,4.57,0.512,6,"134",39,722,494,4.57
-40,"=","TYGA F/JUSTIN BIE...","Wait For A Minute",685,31,169,22,3.236,0.198,13,"387",39,685,317,3.236
-41,"=","IGGY AZALEA","Change Your Life ...",565,20,33,25,1.461,0.03,28,"--",41,565,102,1.474
-42,"=","SELENA GOMEZ","Slow Down",542,5,-75,13,2.467,0,37,"37",36,644,235,3.429
-43,"+1","YG","My Hitta f/Jeezy,...",537,43,150,26,4.786,0.233,12,"--",43,537,160,4.786
-44,"-1","DJ KHALED","I Wanna Be With Y...",503,-16,-251,20,4.137,-0.126,72,"--",30,835,152,5.211
-45,"=","MAEJOR ALI","Lolly f/Justin Bi...",390,-9,-59,-16,0.918,-0.041,27,"191",41,455,159,1.244
-46,"=","HUSTLE GANG F/T.I...","Memories Back The...",388,-9,-14,-3,4.188,-0.054,21,"--",45,409,90,4.242
-47,"=","RICK ROSS","No Games f/Future",384,4,58,-2,2.734,0.013,7,"338",47,384,60,2.734
-48,"+1","SAGE THE GEMINI","Red Nose (Pitbull...",355,16,16,8,3.977,0.183,32,"--",45,373,89,4.259
-49,"-1","KATY PERRY","Unconditionally",338,-10,12,-16,1.78,-0.063,13,"20",47,359,191,2.089
-50,"=","E-40","Episode f/Chris B...",322,-1,24,-5,1.344,-0.014,7,"--",49,323,50,1.438
+"Title","Artist","Spins"
+"Hold On We're Goi...","DRAKE",6501
+"Royals","LORDE",5581
+"Love More f/Nicki...","CHRIS BROWN",5332
+"Holy Grail f/Just...","JAY Z",4666
+"White Walls f/ScH...","MACKLEMORE & RYAN...",4513
+"The Monster f/Rih...","EMINEM",3806
+"Beware f/Lil Wayn...","BIG SEAN",3191
+"Right There f/Big...","ARIANA GRANDE",2957
+"Gas Pedal","SAGE THE GEMINI",2911
+"Tom Ford","JAY Z",2723
+"TKO","JUSTIN TIMBERLAKE",2596
+"Crooked Smile","J. COLE",2568
+"Headband  f/2 Cha...","B.O.B",2501
+"I Luv This Sh*t","AUGUST ALSINA",2358
+"Gorilla","BRUNO MARS",2344
+"Wake Me Up","AVICII",2168
+"23 f/Miley Cyrus,...","MIKE WILL MADE-IT",2157
+"Give It 2 U f/Ken...","ROBIN THICKE",1860
+"Roar","KATY PERRY",1839
+"Old School Love f...","LUPE FIASCO",1818
+"Wrecking Ball","MILEY CYRUS",1764
+"All Me f/2 Chainz...","DRAKE",1752
+"Show Me f/Chris B...","KID INK",1552
+"It Won't Stop","SEVYN STREETER",1313
+"Bounce It f/Wale ...","JUICY J",1294
+"Applause","LADY GAGA",1233
+"Marry Me","JASON DERULO",1182
+"Timber f/Ke$ha","PITBULL",1034
+"Summertime Sadnes...","LANA DEL REY",960
+"Up Down (Do This ...","T-PAIN",946
+"Paranoid","TY DOLLA $IGN",855
+"Clappers f/Nicki ...","WALE",811
+"Honest","FUTURE",798
+"Do What U Want f/...","LADY GAGA",783
+"Type Of Way","RICH HOMIE QUAN",776
+"Collard Greens f/...","SCHOOLBOY Q",774
+"What Now","RIHANNA",757
+"Stay The Night f/...","ZEDD",747
+"The Language","DRAKE",722
+"Wait For A Minute","TYGA F/JUSTIN BIE...",685
+"Change Your Life ...","IGGY AZALEA",565
+"Slow Down","SELENA GOMEZ",542
+"My Hitta f/Jeezy,...","YG",537
+"I Wanna Be With Y...","DJ KHALED",503
+"Lolly f/Justin Bi...","MAEJOR ALI",390
+"Memories Back The...","HUSTLE GANG F/T.I...",388
+"No Games f/Future","RICK ROSS",384
+"Red Nose (Pitbull...","SAGE THE GEMINI",355
+"Unconditionally","KATY PERRY",338
+"Episode f/Chris B...","E-40",322

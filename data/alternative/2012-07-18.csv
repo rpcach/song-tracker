@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","OF MONSTERS AND MEN","Little Talks",1617,"-2",-118,"+10",8.622,"+0.026",226,"56",1,1759,158,9.215
-2,"+1","LINKIN PARK","Burn It Down",1540,"+11",19,"+10",8.628,"+0.142",93,"62",2,1645,1245,9.447
-3,"+1","IMAGINE DRAGONS","It's Time",1513,"+8",13,"+1",7.022,"+0.030",147,"86",3,1557,229,7.186
-4,"-2","BLACK KEYS","Gold On The Ceiling",1510,"-24",-147,"-28",8.05,"-0.234",182,"131",1,1915,266,9.583
-5,"=","GROUPLOVE","Tongue Tied",1489,"-13",-127,"+12",8.085,"-0.028",221,"51",1,1882,222,10.046
-6,"=","FUN.","Some Nights",1427,"+24",61,"+21",7.326,"+0.194",80,"9",6,1427,250,7.326
-7,"=","OFFSPRING","Days Go By",1285,"-9",-15,"-21",5.199,"-0.092",81,"--",7,1311,667,5.539
-8,"=","ALEX CLARE","Too Close",1255,"+0",64,"-12",6.764,"-0.091",86,"29",8,1255,260,6.855
-9,"=","SILVERSUN PICKUPS","Bloody Mary (Nerve E...",1162,"+0",-50,"-2",4.733,"-0.091",113,"--",7,1228,476,5.283
-10,"=","WALK THE MOON","Anna Sun",1146,"+21",-10,"+24",4.345,"+0.141",143,"279",9,1167,142,4.598
-11,"=","LUMINEERS","Ho Hey",869,"+0",78,"-18",4.637,"+0.026",93,"43",11,869,188,4.637
-12,"=","KILLERS","Runaways",822,"-6",684,"-144",4.523,"-0.547",8,"22",12,828,828,5.07
-13,"=","DIRTY HEADS","Spread Too Thin",755,"-21",-87,"-19",2.924,"-0.089",117,"--",11,907,144,3.825
-14,"=","METRIC","Youth Without Youth",746,"-19",-58,"-25",2.833,"-0.040",77,"--",12,809,340,3.237
-15,"=","ALABAMA SHAKES","Hold On",664,"-9",20,"-13",1.809,"-0.055",88,"--",14,673,126,1.923
-16,"=","GASLIGHT ANTHEM","45",611,"-2",5,"-14",1.59,"-0.040",67,"--",15,620,121,1.658
-17,"=","CHEVELLE","Hats Off To The Bull",608,"+6",-1,"+15",3.008,"-0.010",143,"--",15,636,107,3.15
-18,"=","AWOLNATION","Kill Your Heroes",582,"+1",62,"-11",2.073,"+0.004",46,"--",17,582,132,2.073
-19,"=","PASSION PIT","Take A Walk",570,"-1",59,"-24",2.041,"-0.010",67,"253",17,576,182,2.102
-20,"=","GOTYE","Eyes Wide Open",501,"-3",-13,"+6",1.859,"-0.024",89,"--",18,523,103,1.97
-21,"+10","GREEN DAY","Oh Love",432,"+138",432,"+138",3.769,"+0.686",2,"72",21,432,432,3.769
-22,"+1","SHINEDOWN","Unity",431,"-3",-15,"-12",1.675,"+0.009",61,"--",21,461,75,1.833
-23,"-1","JACK WHITE","Sixteen Saltines",420,"-16",-110,"-3",1.159,"-0.034",106,"--",12,844,151,2.73
-24,"-3","SWITCHFOOT","Afterlife",418,"-18",-56,"+0",1.231,"-0.056",133,"--",16,671,95,2.492
-25,"=","WOMBATS","Jump Into The Fog",414,"+3",-33,"+4",1.243,"-0.011",109,"--",22,454,98,1.392
-26,"-2","MORNING PARADE","Headlights",410,"-2",38,"-10",1.23,"-0.026",103,"--",24,418,66,1.313
-27,"-1","ATLAS GENIUS","Trojans",391,"+3",-21,"+11",1.048,"+0.007",71,"--",24,420,121,1.065
-28,"-1","ANIMAL KINGDOM","Strange Attractor",360,"-10",-26,"-16",0.877,"-0.046",118,"--",25,399,66,1.046
-29,"-1","RISE AGAINST","Wait For Me",356,"+3",36,"-1",1.17,"+0.011",38,"--",28,356,78,1.362
-30,"-1","BLACK KEYS","Little Black Submari...",341,"+7",65,"-7",1.687,"+0.049",36,"--",29,341,80,1.687
-31,"-1","FLORENCE + THE MACHI...","No Light, No Light",310,"-11",-87,"+2",1.247,"-0.029",120,"--",16,697,104,3.117
-32,"+1","SMASHING PUMPKINS","The Celestials",290,"-1",50,"-14",1.234,"-0.041",19,"--",32,291,98,1.275
-33,"+1","SOUNDGARDEN","Live To Rise",276,"+2",11,"+4",1.021,"+0.013",104,"--",13,847,388,3.762
-34,"-2","FOO FIGHTERS","Bridge Burning",269,"-25",-63,"-28",0.899,"-0.096",112,"--",25,404,69,1.421
-35,"=","M83","Reunion",254,"+4",6,"-2",0.881,"+0.005",48,"--",34,260,59,1.055
-36,"=","ROME","Dedication",245,"+0",7,"+3",0.649,"+0.002",34,"--",34,255,77,0.88
-37,"=","FOSTER THE PEOPLE","Houdini",245,"+2",-5,"+5",0.664,"-0.004",68,"--",32,303,61,0.869
-38,"=","ELECTRIC GUEST","This Head I Hold",245,"+8",-6,"+8",0.705,"-0.013",134,"--",29,254,41,0.78
-39,"=","THE ROYAL CONCEPT","Gimme Twice",225,"-2",7,"-6",0.57,"-0.010",31,"--",37,227,97,0.666
-40,"=","DEAD SARA","Weatherman",215,"-3",-7,"-6",1.534,"-0.015",81,"--",35,229,42,1.613
-41,"+2","ELLIE GOULDING","Lights",177,"+10",29,"+2",1.145,"+0.048",12,"8",41,177,61,1.145
-42,"=","P.O.D.","Lost In Forever",173,"+3",-21,"+5",0.753,"-0.013",49,"--",40,196,44,0.856
-43,"+5","NO DOUBT","Settle Down",168,"+60",168,"+60",1.645,"+0.533",2,"6",43,168,168,1.645
-44,"-3","MUSE","Survival",166,"-4",13,"-4",0.631,"-0.058",19,"--",39,204,204,1.648
-45,"-1","WOLF GANG","King And All Of His ...",146,"-3",-4,"-7",0.352,"-0.018",60,"--",39,180,60,0.529
-46,"=","SEETHER","Here And Now",142,"+3",-16,"+1",0.37,"+0.000",17,"--",41,158,54,0.421
-47,"-2","OBERHOFER","Away Frm U",136,"-3",-14,"-7",0.21,"+0.010",44,"--",43,153,47,0.221
-48,"-1","FOXY SHAZAM","Holy Touch",106,"-3",9,"-6",0.221,"-0.007",4,"--",46,109,15,0.228
-49,"=","A SILENT FILM","Danny, Dakota And Th...",102,"-1",5,"-2",0.194,"+0.006",21,"--",46,109,20,0.194
-50,"--","REDLIGHT KING","Comeback",98,"--",-20,"--",0.392,"--",24,"--",45,122,48,0.441
+"Title","Artist","Spins"
+"Little Talks","OF MONSTERS AND MEN",1617
+"Burn It Down","LINKIN PARK",1540
+"It's Time","IMAGINE DRAGONS",1513
+"Gold On The Ceiling","BLACK KEYS",1510
+"Tongue Tied","GROUPLOVE",1489
+"Some Nights","FUN.",1427
+"Days Go By","OFFSPRING",1285
+"Too Close","ALEX CLARE",1255
+"Bloody Mary (Nerve E...","SILVERSUN PICKUPS",1162
+"Anna Sun","WALK THE MOON",1146
+"Ho Hey","LUMINEERS",869
+"Runaways","KILLERS",822
+"Spread Too Thin","DIRTY HEADS",755
+"Youth Without Youth","METRIC",746
+"Hold On","ALABAMA SHAKES",664
+"45","GASLIGHT ANTHEM",611
+"Hats Off To The Bull","CHEVELLE",608
+"Kill Your Heroes","AWOLNATION",582
+"Take A Walk","PASSION PIT",570
+"Eyes Wide Open","GOTYE",501
+"Oh Love","GREEN DAY",432
+"Unity","SHINEDOWN",431
+"Sixteen Saltines","JACK WHITE",420
+"Afterlife","SWITCHFOOT",418
+"Jump Into The Fog","WOMBATS",414
+"Headlights","MORNING PARADE",410
+"Trojans","ATLAS GENIUS",391
+"Strange Attractor","ANIMAL KINGDOM",360
+"Wait For Me","RISE AGAINST",356
+"Little Black Submari...","BLACK KEYS",341
+"No Light, No Light","FLORENCE + THE MACHI...",310
+"The Celestials","SMASHING PUMPKINS",290
+"Live To Rise","SOUNDGARDEN",276
+"Bridge Burning","FOO FIGHTERS",269
+"Reunion","M83",254
+"Dedication","ROME",245
+"Houdini","FOSTER THE PEOPLE",245
+"This Head I Hold","ELECTRIC GUEST",245
+"Gimme Twice","THE ROYAL CONCEPT",225
+"Weatherman","DEAD SARA",215
+"Lights","ELLIE GOULDING",177
+"Lost In Forever","P.O.D.",173
+"Settle Down","NO DOUBT",168
+"Survival","MUSE",166
+"King And All Of His ...","WOLF GANG",146
+"Here And Now","SEETHER",142
+"Away Frm U","OBERHOFER",136
+"Holy Touch","FOXY SHAZAM",106
+"Danny, Dakota And Th...","A SILENT FILM",102
+"Comeback","REDLIGHT KING",98

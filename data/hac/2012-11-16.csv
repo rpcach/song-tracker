@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","MAROON 5","One More Night",4930,"-22",-117,"-33",39.12,"-0.102",121,"7",1,5047,752,39.595
-2,"+1","FUN.","Some Nights",4726,"+34",26,"+75",36.907,"+0.126",153,"10",1,4967,497,37.711
-3,"-1","PHILLIP PHILLIPS","Home",4704,"-25",79,"-74",34.113,"+0.020",163,"9",2,4729,490,34.138
-4,"=","ALEX CLARE","Too Close",4104,"-41",-62,"-48",27.741,"-0.248",169,"25",4,4216,461,28.264
-5,"=","TRAIN","50 Ways To Say Goodb...",4006,"-21",-107,"-18",28.453,"+0.073",167,"28",4,4130,401,28.605
-6,"=","PINK","Blow Me (One Last Ki...",3680,"-41",-191,"-34",30.262,"-0.178",134,"52",1,4893,1105,35.848
-7,"=","TAYLOR SWIFT","We Are Never Ever Ge...",3566,"-51",-161,"-51",24.143,"-0.848",94,"13",7,3730,1424,26.849
-8,"+1","ONEREPUBLIC","Feel Again",2810,"-11",67,"-43",17.625,"-0.310",84,"32",8,2826,508,17.935
-9,"-1","OWL CITY & CARLY RAE...","Good Time",2791,"-87",-553,"-40",20.539,"-0.510",131,"47",7,3486,318,24.773
-10,"=","BRUNO MARS","Locked Out Of Heaven",2789,"+47",266,"+11",19.481,"+0.218",45,"2",10,2789,735,19.481
-11,"=","ED SHEERAN","The A Team",2395,"-27",-20,"-38",19.811,"-0.129",229,"26",11,2439,212,20
-12,"=","OF MONSTERS AND MEN","Little Talks",2274,"+22",78,"+10",13.365,"+0.340",132,"58",12,2274,395,13.365
-13,"=","LUMINEERS","Ho Hey",2211,"+85",526,"+20",18.98,"+0.596",89,"4",13,2211,526,18.98
-14,"=","THE SCRIPT","Hall Of Fame f/will....",2039,"-14",21,"-37",11.836,"-0.154",106,"31",13,2078,310,12.161
-15,"=","ADELE","Skyfall",1964,"+35",123,"+52",14.779,"+0.329",42,"6",15,1964,849,14.779
-16,"=","IMAGINE DRAGONS","It's Time",1877,"+12",155,"-9",9.679,"+0.046",150,"22",16,1877,236,9.679
-17,"=","KELLY CLARKSON","Catch My Breath",1765,"+34",265,"-3",12.346,"+0.269",32,"73",17,1765,561,12.346
-18,"=","ANDY GRAMMER","Miss Me",1580,"-8",-1,"-1",8.004,"+0.009",100,"369",15,1602,237,8.038
-19,"=","PINK","Try",1540,"+52",353,"+1",12.498,"+0.430",27,"33",19,1540,382,12.498
-20,"=","KE$HA","Die Young",1506,"+25",101,"+26",8.963,"+0.233",46,"5",18,1506,410,8.963
-21,"=","MUMFORD & SONS","I Will Wait",1377,"+31",155,"+12",9.344,"+0.554",63,"38",21,1377,272,9.344
-22,"=","TRISTAN PRETTYMAN","My Oh My",1137,"-6",-32,"-4",5.266,"-0.094",105,"--",19,1174,148,5.734
-23,"=","AEROSMITH","What Could Have Been...",969,"-33",-121,"-41",5.043,"-0.245",82,"--",20,1090,226,5.952
-24,"+1","LIFEHOUSE F/N. BEDIN...","Between The Raindrop...",743,"-2",-29,"-10",2.282,"-0.023",54,"145",24,772,196,2.368
-25,"-1","HEDLEY","Kiss You Inside Out",738,"-10",-72,"-14",2.746,"-0.078",123,"--",23,817,88,3.038
-26,"=","RIHANNA","Diamonds",626,"+28",62,"+30",2.906,"+0.151",49,"1",26,626,327,2.964
-27,"=","JUSTIN BIEBER","As Long As You Love ...",560,"-9",-51,"-1",2.757,"-0.062",82,"40",26,733,143,3.356
-28,"=","MATCHBOX TWENTY","Overjoyed",557,"+32",134,"+25",3.169,"+0.100",21,"--",28,557,154,3.169
-29,"=","GAVIN DEGRAW","Soldier",500,"+2",52,"-20",1.837,"+0.052",50,"--",28,500,97,1.837
-30,"=","HUNTER HAYES","Wanted",477,"+20",147,"-1",2.796,"+0.160",21,"29",30,477,148,2.796
-31,"+1","JASON MRAZ","93 Million Miles",441,"+7",50,"+4",1.734,"+0.080",31,"--",31,441,96,1.734
-32,"+1","CHRIS BROWN","Don't Wake Me Up",439,"+6",27,"+17",2.722,"+0.122",58,"39",31,439,91,2.722
-33,"-2","DAUGHTRY","Start Of Something G...",432,"-11",-30,"-22",1.871,"-0.028",75,"--",30,483,144,2.837
-34,"=","MUSE","Madness",427,"+13",136,"+2",1.982,"-0.017",19,"70",34,427,136,1.999
-35,"=","CARRIE UNDERWOOD","Blown Away",358,"+0",11,"-1",1.702,"+0.045",47,"34",34,362,71,1.702
-36,"=","DAVID GUETTA","Titanium f/Sia",331,"+3",14,"+7",3.029,"+0.121",148,"71",21,877,194,4.358
-37,"=","GRACE POTTER & THE N...","Stars",330,"+4",27,"-1",1.198,"+0.022",51,"--",37,330,48,1.198
-38,"+1","NEON TREES","Lessons In Love (All...",303,"+12",95,"-4",0.862,"+0.085",17,"--",38,303,99,0.862
-39,"+3","NE-YO","Let Me Love You",302,"+18",84,"+2",1.021,"+0.085",12,"17",39,302,93,1.021
-40,"+1","ENRIQUE IGLESIAS","Finally Found You f/...",290,"+3",20,"+7",0.934,"+0.034",33,"64",40,312,107,0.98
-41,"-1","PSY","Gangnam Style",281,"-8",-66,"-2",1.122,"-0.017",47,"3",33,468,133,1.646
-42,"-4","FLO RIDA","Whistle",275,"-21",-95,"-16",1.882,"-0.120",110,"56",25,636,149,3.791
-43,"=","GREEN DAY","Oh Love",212,"-26",-302,"+30",0.976,"-0.098",110,"--",22,749,140,3.812
-44,"=","VICCI MARTINEZ","Come Along f/CeeLo G...",208,"+2",21,"-6",0.995,"-0.014",40,"--",44,208,80,1.117
-45,"=","GIN WIGMORE","Man Like That",182,"+9",47,"+7",0.535,"-0.037",7,"--",45,182,47,0.586
-46,"=","ONE DIRECTION","Live While We're You...",156,"-8",-65,"+2",0.721,"-0.028",40,"41",42,313,120,1.299
-47,"+1","PASSION PIT","Take A Walk",147,"+12",55,"+12",0.343,"+0.022",4,"140",47,147,55,0.343
-48,"-1","ELLIE GOULDING","Anything Could Happe...",138,"+0",-11,"-1",1.182,"-0.012",7,"46",47,148,3,1.305
-49,"--","MAROON 5","Daylight",131,"--",118,"--",0.913,"--",1,"165",49,131,118,0.913
-50,"=","SEETHER","Here And Now",119,"+1",-1,"+4",0.691,"-0.049",5,"--",50,120,0,0.783
+"Title","Artist","Spins"
+"One More Night","MAROON 5",4930
+"Some Nights","FUN.",4726
+"Home","PHILLIP PHILLIPS",4704
+"Too Close","ALEX CLARE",4104
+"50 Ways To Say Goodb...","TRAIN",4006
+"Blow Me (One Last Ki...","PINK",3680
+"We Are Never Ever Ge...","TAYLOR SWIFT",3566
+"Feel Again","ONEREPUBLIC",2810
+"Good Time","OWL CITY & CARLY RAE...",2791
+"Locked Out Of Heaven","BRUNO MARS",2789
+"The A Team","ED SHEERAN",2395
+"Little Talks","OF MONSTERS AND MEN",2274
+"Ho Hey","LUMINEERS",2211
+"Hall Of Fame f/will....","THE SCRIPT",2039
+"Skyfall","ADELE",1964
+"It's Time","IMAGINE DRAGONS",1877
+"Catch My Breath","KELLY CLARKSON",1765
+"Miss Me","ANDY GRAMMER",1580
+"Try","PINK",1540
+"Die Young","KE$HA",1506
+"I Will Wait","MUMFORD & SONS",1377
+"My Oh My","TRISTAN PRETTYMAN",1137
+"What Could Have Been...","AEROSMITH",969
+"Between The Raindrop...","LIFEHOUSE F/N. BEDIN...",743
+"Kiss You Inside Out","HEDLEY",738
+"Diamonds","RIHANNA",626
+"As Long As You Love ...","JUSTIN BIEBER",560
+"Overjoyed","MATCHBOX TWENTY",557
+"Soldier","GAVIN DEGRAW",500
+"Wanted","HUNTER HAYES",477
+"93 Million Miles","JASON MRAZ",441
+"Don't Wake Me Up","CHRIS BROWN",439
+"Start Of Something G...","DAUGHTRY",432
+"Madness","MUSE",427
+"Blown Away","CARRIE UNDERWOOD",358
+"Titanium f/Sia","DAVID GUETTA",331
+"Stars","GRACE POTTER & THE N...",330
+"Lessons In Love (All...","NEON TREES",303
+"Let Me Love You","NE-YO",302
+"Finally Found You f/...","ENRIQUE IGLESIAS",290
+"Gangnam Style","PSY",281
+"Whistle","FLO RIDA",275
+"Oh Love","GREEN DAY",212
+"Come Along f/CeeLo G...","VICCI MARTINEZ",208
+"Man Like That","GIN WIGMORE",182
+"Live While We're You...","ONE DIRECTION",156
+"Take A Walk","PASSION PIT",147
+"Anything Could Happe...","ELLIE GOULDING",138
+"Daylight","MAROON 5",131
+"Here And Now","SEETHER",119

@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","MUSE","Madness",2214,-5,-51,12,12.871,0.039,107,"83",1,2336,1204,14.318
-2,"=","MUMFORD & SONS","I Will Wait",2051,-8,-113,7,12.55,-0.017,120,"56",1,2257,1048,14.172
-3,"=","BLACK KEYS","Little Black Submari...",1855,12,83,14,10.856,0.121,176,"231",3,1897,189,11.037
-4,"=","LUMINEERS","Ho Hey",1824,-9,-53,-9,11.642,-0.044,233,"4",1,1976,197,12.963
-5,"=","PASSION PIT","Take A Walk",1503,-2,-47,12,8.759,0.095,207,"194",5,1837,183,9.469
-6,"=","ATLAS GENIUS","Trojans",1448,15,73,12,7.537,-0.009,211,"--",6,1448,166,7.607
-7,"=","YOUNGBLOOD HAWKE","We Come Running",1283,-19,11,-29,6.527,-0.128,125,"--",7,1302,136,6.655
-8,"=","AWOLNATION","Kill Your Heroes",1272,-7,-28,-1,6.453,-0.003,186,"326",6,1340,132,6.892
-9,"=","IMAGINE DRAGONS","It's Time",1255,-10,-52,-13,8.027,0.008,287,"38",3,1586,229,9.091
-10,"=","OF MONSTERS AND MEN","Mountain Sound",1169,1,64,-7,5.19,-0.087,110,"203",10,1170,156,5.277
-11,"+1","IMAGINE DRAGONS","Radioactive",1089,23,161,21,5.013,0.125,105,"69",11,1089,187,5.013
-12,"-1","GROUPLOVE","Itchin' On A Photogr...",1061,-22,-79,-16,4.24,-0.259,122,"--",10,1189,139,5.17
-13,"=","SILVERSUN PICKUPS","The Pit",1017,-5,28,-10,4.109,0.001,99,"--",12,1022,194,4.153
-14,"=","FUN.","Carry On",863,14,78,4,4.589,0.117,59,"263",14,863,138,4.589
-15,"+1","GREEN DAY","Let Yourself Go",779,13,60,9,3.769,0.108,76,"--",15,779,219,3.769
-16,"-1","SOUNDGARDEN","Been Away Too Long",776,-7,2,-18,3.309,-0.037,69,"--",13,783,597,3.442
-17,"=","THREE DAYS GRACE","Chalk Outline",754,6,-12,8,3.767,-0.018,112,"271",13,789,376,3.964
-18,"+1","METRIC","Breathing Underwater",642,0,58,-2,2.367,-0.054,80,"--",18,642,111,2.511
-19,"-1","LINKIN PARK","Lost In The Echo",612,-49,-265,-48,3.134,-0.174,115,"--",11,1052,152,5.578
-20,"=","TWO DOOR CINEMA CLUB","Sleep Alone",535,2,22,11,2.45,0.017,134,"--",19,643,135,3.181
-21,"=","WALK THE MOON","Tightrope",511,-4,58,-14,1.771,0.019,79,"--",21,515,85,1.771
-22,"=","MATT AND KIM","Let's Go",459,6,97,-2,1.843,0.065,98,"--",22,459,99,1.843
-23,"=","JOY FORMIDABLE","This Ladder Is Ours",454,4,50,-3,1.357,0.082,59,"--",22,454,73,1.357
-24,"=","CHURCHILL","Change",449,1,45,-9,1.394,-0.036,98,"--",22,449,89,1.484
-25,"=","KILLERS","Miss Atomic Bomb",420,7,46,10,2.094,0.166,44,"--",24,420,106,2.094
-26,"=","MACKLEMORE & RYAN LE...","Thrift Shop f/Wanz",403,13,86,7,2.551,-0.038,39,"20",25,403,98,2.589
-27,"=","DEFTONES","Tempest",361,0,46,-6,1.132,0.007,52,"--",26,361,61,1.141
-28,"=","ALT-J","Fitzpleasure",334,-1,43,-6,1.264,0,63,"--",28,335,62,1.264
-29,"=","JACK WHITE","Freedom At 21",329,-2,15,2,1.615,-0.014,125,"--",22,477,90,2.616
-30,"=","BLONDFIRE","Where The Kids Are",314,0,56,-9,0.839,0.011,68,"--",30,314,67,0.839
-31,"=","DIRTY HEADS","Dance All Night f/Ma...",306,-5,21,-5,0.723,-0.011,118,"--",26,311,72,0.735
-32,"=","NEON TREES","Lessons In Love (All...",296,3,-8,3,1.358,-0.03,87,"--",29,305,76,1.498
-33,"=","TEGAN & SARA","Closer",290,7,41,4,1.634,0.192,45,"--",29,290,68,1.634
-34,"=","SHINEDOWN","Enemies",249,8,21,8,1.074,0.021,65,"--",34,249,42,1.099
-35,"+1","LUMINEERS","Stubborn Love",247,11,62,8,1.121,0.057,30,"102",35,247,62,1.121
-36,"-1","IAMDYNAMITE","Where Will We Go",235,-3,5,-5,1.08,0.022,40,"--",34,238,59,1.08
-37,"=","STONE SOUR","Absolute Zero",227,-6,-16,-14,0.848,-0.004,99,"--",28,296,77,0.961
-38,"=","GOLD FIELDS","Dark Again",224,-4,13,-12,0.564,-0.01,31,"--",35,235,59,0.607
-39,"=","CAPITAL CITIES","Safe And Sound",224,4,6,2,0.767,-0.01,42,"--",35,224,77,0.784
-40,"=","PHILLIP PHILLIPS","Home",216,3,48,-3,0.944,-0.015,38,"10",40,216,54,0.959
-41,"=","ZZ WARD","Put The Gun Down",184,-2,21,-1,0.707,-0.004,31,"--",39,186,52,0.725
-42,"=","AVENGED SEVENFOLD","Carry On",159,-1,7,-5,0.35,-0.006,48,"371",42,163,40,0.363
-43,"=","FAMILY OF THE YEAR","Hero",154,-2,3,-5,0.724,-0.017,23,"--",42,163,49,0.764
-44,"=","TWENTY ONE PILOTS","Holding On To You",124,4,51,-4,0.489,0.027,6,"--",44,124,59,0.489
-45,"+3","DROPKICK MURPHYS","Season's Upon Us",121,13,97,1,0.865,0.062,2,"--",45,121,97,0.865
-46,"=","GASLIGHT ANTHEM","Here Comes My Man",115,4,3,-3,0.271,0.018,14,"--",46,117,51,0.299
-47,"+2","PASSION PIT","Carried Away",113,8,58,2,0.371,0.032,3,"--",47,113,58,0.371
-48,"+2","NEIGHBOURHOOD","Sweater Weather",112,7,27,1,0.279,0.011,4,"--",48,112,36,0.377
-49,"-2","ALABAMA SHAKES","I Ain't The Same",111,0,0,-1,0.241,-0.007,17,"--",45,115,23,0.264
-50,"-5","GO RADIO","Go To Hell",108,-4,-5,-7,0.253,-0.003,29,"--",45,123,48,0.396
+"Title","Artist","Spins"
+"Madness","MUSE",2214
+"I Will Wait","MUMFORD & SONS",2051
+"Little Black Submari...","BLACK KEYS",1855
+"Ho Hey","LUMINEERS",1824
+"Take A Walk","PASSION PIT",1503
+"Trojans","ATLAS GENIUS",1448
+"We Come Running","YOUNGBLOOD HAWKE",1283
+"Kill Your Heroes","AWOLNATION",1272
+"It's Time","IMAGINE DRAGONS",1255
+"Mountain Sound","OF MONSTERS AND MEN",1169
+"Radioactive","IMAGINE DRAGONS",1089
+"Itchin' On A Photogr...","GROUPLOVE",1061
+"The Pit","SILVERSUN PICKUPS",1017
+"Carry On","FUN.",863
+"Let Yourself Go","GREEN DAY",779
+"Been Away Too Long","SOUNDGARDEN",776
+"Chalk Outline","THREE DAYS GRACE",754
+"Breathing Underwater","METRIC",642
+"Lost In The Echo","LINKIN PARK",612
+"Sleep Alone","TWO DOOR CINEMA CLUB",535
+"Tightrope","WALK THE MOON",511
+"Let's Go","MATT AND KIM",459
+"This Ladder Is Ours","JOY FORMIDABLE",454
+"Change","CHURCHILL",449
+"Miss Atomic Bomb","KILLERS",420
+"Thrift Shop f/Wanz","MACKLEMORE & RYAN LE...",403
+"Tempest","DEFTONES",361
+"Fitzpleasure","ALT-J",334
+"Freedom At 21","JACK WHITE",329
+"Where The Kids Are","BLONDFIRE",314
+"Dance All Night f/Ma...","DIRTY HEADS",306
+"Lessons In Love (All...","NEON TREES",296
+"Closer","TEGAN & SARA",290
+"Enemies","SHINEDOWN",249
+"Stubborn Love","LUMINEERS",247
+"Where Will We Go","IAMDYNAMITE",235
+"Absolute Zero","STONE SOUR",227
+"Dark Again","GOLD FIELDS",224
+"Safe And Sound","CAPITAL CITIES",224
+"Home","PHILLIP PHILLIPS",216
+"Put The Gun Down","ZZ WARD",184
+"Carry On","AVENGED SEVENFOLD",159
+"Hero","FAMILY OF THE YEAR",154
+"Holding On To You","TWENTY ONE PILOTS",124
+"Season's Upon Us","DROPKICK MURPHYS",121
+"Here Comes My Man","GASLIGHT ANTHEM",115
+"Carried Away","PASSION PIT",113
+"Sweater Weather","NEIGHBOURHOOD",112
+"I Ain't The Same","ALABAMA SHAKES",111
+"Go To Hell","GO RADIO",108

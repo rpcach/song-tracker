@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","FOO FIGHTERS","Something From Nothing",2696,-5,-132,13,11.175,0.032,65,"468",1,2971,2029,12.15
-2,"=","HOZIER","Take Me To Church",2314,-20,-120,-16,11.605,-0.063,186,"3",2,2663,263,12.227
-3,"=","MILKY CHANCE","Stolen Dance",2280,-9,-94,-2,11.918,0.148,209,"35",1,2941,385,13.393
-4,"=","CAGE THE ELEPHANT","Cigarette Daydreams",1999,22,77,6,7.245,0.085,118,"242",4,1999,279,7.245
-5,"=","IMAGINE DRAGONS","I Bet My Life",1973,9,64,-17,7.094,0.014,54,"26",4,1973,892,7.094
-6,"=","ARCTIC MONKEYS","R U Mine?",1959,43,136,25,6.112,0.17,111,"609",6,1959,241,6.112
-7,"+1","WALK THE MOON","Shut Up And Dance",1857,17,120,15,7.08,0.012,88,"83",7,1857,250,7.08
-8,"-1","FALL OUT BOY","Centuries",1828,-19,-85,-9,7.707,-0.053,102,"6",4,1936,660,8.227
-9,"=","BIG DATA","Dangerous f/Joywave",1549,3,-30,25,8.02,0.073,293,"195",1,2657,249,12.343
-10,"=","BLEACHERS","Rollercoaster",1413,17,32,12,4.301,0.059,106,"420",10,1413,226,4.301
-11,"=","ROYAL BLOOD","Figure It Out",1347,16,83,-7,4.393,-0.035,111,"495",11,1347,201,4.431
-12,"=","BANKS","Beggin For Thread",1326,8,35,-13,4.954,-0.018,111,"308",11,1326,183,4.972
-13,"=","BASTILLE","Flaws",1169,-34,-290,6,4.809,0.055,164,"599",4,1886,221,7.175
-14,"=","LORDE","Yellow Flicker Beat",1120,-9,-20,-8,3.556,0.037,81,"79",10,1433,981,5.19
-15,"=","FITZ & THE TANTRUMS","Fools Gold",1071,-41,-97,-38,3.396,-0.161,125,"742",12,1212,152,4.144
-16,"=","BEAR HANDS","Agora",1018,-7,-6,-18,2.157,0.004,141,"--",16,1031,117,2.225
-17,"=","BUSH","The Only Way Out",991,5,-23,13,4.338,0.1,96,"--",16,1028,200,4.449
-18,"=","ROBERT DELONG","Long Way Down",875,9,125,-19,2.154,0.08,47,"679",18,875,178,2.154
-19,"=","ANDREW MCMAHON IN WILDERNESS","Cecilia And The Satellite",779,5,48,0,2.458,0.098,92,"752",19,779,113,2.644
-20,"+1","GEORGE EZRA","Budapest",751,14,44,5,1.613,0.036,97,"189",20,751,116,1.613
-21,"-1","NEW POLITICS","Everywhere I Go (Kings &...",729,-14,-137,1,1.353,-0.063,98,"--",18,972,200,2.707
-22,"=","CATFISH AND THE BOTTLEMEN","Kathleen",680,5,21,4,1.953,0.07,70,"--",21,680,143,1.953
-23,"+3","MODEST MOUSE","Lampshades On Fire",646,150,646,150,3.271,0.561,4,"175",23,646,646,3.271
-24,"-1","GLASS ANIMALS","Gooey",603,7,9,3,1.653,-0.004,84,"682",23,603,103,1.707
-25,"-1","U2","Every Breaking Wave",543,16,12,30,2.831,0.115,56,"--",23,565,191,3.101
-26,"-1","KOOKS","Bad Habit",530,4,15,4,0.803,-0.009,90,"1120",25,530,91,0.862
-27,"=","RISE AGAINST","Tragedy + Time",492,1,0,3,1.793,0.081,55,"--",26,494,110,1.793
-28,"=","YELAWOLF","Till It's Gone",440,10,25,7,1.34,0.039,48,"297",27,440,81,1.4
-29,"=","TV ON THE RADIO","Happy Idiot",432,5,10,5,0.838,0.023,86,"726",28,432,60,1.064
-30,"=","DIRTY HEADS","Sound Of Change",402,8,35,17,0.807,0.025,49,"--",29,402,109,0.902
-31,"=","LINKIN PARK","Final Masquerade",354,8,31,11,1.261,-0.022,34,"--",31,354,88,1.293
-32,"+1","ALT-J","Every Other Freckle",321,10,42,6,0.653,0.01,22,"897",32,321,86,0.705
-33,"+1","WEEZER","Da Vinci",320,10,7,16,0.601,0.016,27,"--",32,320,117,0.702
-34,"+1","MISTERWIVES","Reflections",303,7,-25,14,0.635,0.057,61,"239",31,355,87,1.321
-35,"-3","BLACK KEYS","Gotta Get Away",286,-32,-189,-17,0.634,-0.064,127,"1383",8,1710,241,4.914
-36,"=","VANCE JOY","Mess Is Mine",265,10,44,1,0.638,0.017,17,"457",36,265,90,0.716
-37,"=","COLD WAR KIDS","All This Could Be Yours",250,-4,-18,-7,0.94,0.028,74,"--",35,276,39,1.099
-38,"=","JOYWAVE","Somebody New",237,0,12,-10,0.525,0.008,27,"--",36,241,72,0.537
-39,"=","AIRBORNE TOXIC EVENT","Wrong",229,-3,-32,-7,0.481,-0.149,40,"--",36,261,56,1.325
-40,"=","DEATH FROM ABOVE 1979","Trainwreck 1979",223,-5,-42,1,0.493,-0.001,136,"--",11,1287,270,4.402
-41,"=","ECHOSMITH","Cool Kids",189,-9,-32,-11,0.614,-0.038,114,"74",35,269,59,0.982
-42,"=","THREE DAYS GRACE","I Am Machine",183,1,-4,0,0.584,0.005,34,"421",42,187,57,0.584
-43,"+1","YOUNG THE GIANT","Crystallized",178,13,46,8,0.263,0.016,12,"--",43,178,68,0.263
-44,"-1","YOU ME AT SIX","Room To Breathe",167,-8,-60,-2,0.596,-0.019,81,"--",37,248,43,0.815
-45,"+1","SEETHER","Same Damn Life",150,3,7,2,0.449,0.004,14,"658",44,150,40,0.464
-46,"-1","ORWELLS","The Righteous One",149,-1,-9,1,0.159,-0.002,27,"--",43,160,48,0.19
-47,"+3","BLACK KEYS","Weight Of Love",145,15,76,9,0.283,0.02,2,"--",47,145,76,0.283
-48,"-1","BENJAMIN BOOKER","Violent Shiver",142,-1,4,4,0.285,0,51,"--",43,158,36,0.289
-49,"=","EX COPS","Black Soap",136,2,14,6,0.161,0.003,14,"--",47,136,57,0.161
-50,"-2","CHET FAKER","Gold",136,-6,3,-13,0.294,-0.026,9,"999",46,145,44,0.38
+"Title","Artist","Spins"
+"Something From Nothing","FOO FIGHTERS",2696
+"Take Me To Church","HOZIER",2314
+"Stolen Dance","MILKY CHANCE",2280
+"Cigarette Daydreams","CAGE THE ELEPHANT",1999
+"I Bet My Life","IMAGINE DRAGONS",1973
+"R U Mine?","ARCTIC MONKEYS",1959
+"Shut Up And Dance","WALK THE MOON",1857
+"Centuries","FALL OUT BOY",1828
+"Dangerous f/Joywave","BIG DATA",1549
+"Rollercoaster","BLEACHERS",1413
+"Figure It Out","ROYAL BLOOD",1347
+"Beggin For Thread","BANKS",1326
+"Flaws","BASTILLE",1169
+"Yellow Flicker Beat","LORDE",1120
+"Fools Gold","FITZ & THE TANTRUMS",1071
+"Agora","BEAR HANDS",1018
+"The Only Way Out","BUSH",991
+"Long Way Down","ROBERT DELONG",875
+"Cecilia And The Satellite","ANDREW MCMAHON IN WILDERNESS",779
+"Budapest","GEORGE EZRA",751
+"Everywhere I Go (Kings &...","NEW POLITICS",729
+"Kathleen","CATFISH AND THE BOTTLEMEN",680
+"Lampshades On Fire","MODEST MOUSE",646
+"Gooey","GLASS ANIMALS",603
+"Every Breaking Wave","U2",543
+"Bad Habit","KOOKS",530
+"Tragedy + Time","RISE AGAINST",492
+"Till It's Gone","YELAWOLF",440
+"Happy Idiot","TV ON THE RADIO",432
+"Sound Of Change","DIRTY HEADS",402
+"Final Masquerade","LINKIN PARK",354
+"Every Other Freckle","ALT-J",321
+"Da Vinci","WEEZER",320
+"Reflections","MISTERWIVES",303
+"Gotta Get Away","BLACK KEYS",286
+"Mess Is Mine","VANCE JOY",265
+"All This Could Be Yours","COLD WAR KIDS",250
+"Somebody New","JOYWAVE",237
+"Wrong","AIRBORNE TOXIC EVENT",229
+"Trainwreck 1979","DEATH FROM ABOVE 1979",223
+"Cool Kids","ECHOSMITH",189
+"I Am Machine","THREE DAYS GRACE",183
+"Crystallized","YOUNG THE GIANT",178
+"Room To Breathe","YOU ME AT SIX",167
+"Same Damn Life","SEETHER",150
+"The Righteous One","ORWELLS",149
+"Weight Of Love","BLACK KEYS",145
+"Violent Shiver","BENJAMIN BOOKER",142
+"Black Soap","EX COPS",136
+"Gold","CHET FAKER",136

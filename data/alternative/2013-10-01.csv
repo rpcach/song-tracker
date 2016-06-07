@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","FITZ & THE TANTRU...","Out Of My League",2231,"+16",117,"+29",11.647,"+0.040",228,"232",1,2231,180,11.647
-2,"+1","BASTILLE","Pompeii",2002,"+14",150,"-14",9.427,"-0.001",98,"63",2,2002,317,9.428
-3,"-1","LORDE","Royals",1998,"-27",-125,"-8",9.524,"-0.138",114,"6",1,2239,336,10.822
-4,"=","GROUPLOVE","Ways To Go",1837,"+6",82,"-12",7.613,"-0.073",111,"268",4,1837,444,7.686
-5,"=","IMAGINE DRAGONS","Demons",1810,"-10",-89,"+12",9.436,"+0.026",190,"25",1,2097,281,11.561
-6,"=","CAGE THE ELEPHANT","Come A Little Clo...",1622,"+0",96,"-20",6.769,"+0.030",53,"345",6,1622,519,6.769
-7,"=","CAPITAL CITIES","Safe And Sound",1544,"+4",5,"-7",9.112,"+0.025",342,"21",1,2193,375,12.026
-8,"=","TAME IMPALA","Elephant",1410,"+1",42,"+5",6.819,"+0.114",167,"--",8,1411,165,6.819
-9,"=","NEIGHBOURHOOD","Sweater Weather",1340,"-21",-92,"-9",7.97,"-0.043",304,"40",1,2198,199,11.656
-10,"=","KINGS OF LEON","Supersoaker",1232,"-9",-42,"-20",4.164,"-0.014",75,"341",8,1382,627,5.372
-11,"+1","THIRTY SECONDS TO...","City Of Angels",1140,"+20",128,"+12",4.757,"+0.089",62,"--",11,1140,179,4.757
-12,"-1","PHOENIX","Trying To Be Cool",1135,"-25",-119,"-17",4.619,"-0.054",136,"--",10,1322,144,5.306
-13,"=","MS MR","Hurricane",971,"+21",121,"+12",3.379,"+0.069",159,"383",13,971,121,3.379
-14,"=","PANIC! AT THE DIS...","Miss Jackson f/Lo...",905,"+11",56,"+2",3.294,"+0.049",73,"124",13,905,203,3.294
-15,"=","AVICII","Wake Me Up",812,"+7",69,"-27",5.44,"+0.055",48,"4",15,812,193,5.44
-16,"+1","COLDPLAY","Atlas",739,"+27",93,"+30",2.885,"+0.134",23,"389",16,739,389,2.885
-17,"-1","LINKIN PARK X STE...","A Light That Neve...",728,"+16",213,"+94",4.23,"+0.086",15,"89",16,728,592,5.063
-18,"=","PEARL JAM","Sirens",637,"+43",299,"-14",2.309,"+0.181",11,"244",18,637,399,2.309
-19,"=","ARCADE FIRE","Reflektor",596,"+14",121,"-20",2.674,"-0.027",20,"98",18,596,365,2.701
-20,"=","MUSE","Follow Me",571,"+0",7,"-2",1.502,"-0.006",84,"--",18,574,121,1.515
-21,"+1","NEIGHBOURHOOD","Afraid",546,"+13",86,"+12",1.853,"+0.092",49,"354",21,546,100,1.853
-22,"+1","AFI","17 Crimes",533,"+4",27,"-11",1.665,"+0.007",51,"--",21,534,197,1.758
-23,"-2","PORTUGAL. THE MAN","Purple Yellow Red...",519,"-16",-137,"+1",1.689,"-0.040",140,"--",15,769,93,2.605
-24,"+2","NONONO","Pumpin Blood",507,"+10",-9,"+15",1.682,"-0.115",58,"--",20,524,114,2.665
-25,"-1","FOALS","My Number",504,"-17",-82,"-20",1.607,"-0.016",139,"--",17,601,81,1.878
-26,"-1","AVENGED SEVENFOLD","Hail To The King",497,"-5",-15,"-8",2.08,"+0.020",74,"188",20,518,238,2.196
-27,"=","ALT-J","Tessellate",490,"+5",74,"-4",1.953,"-0.024",57,"--",27,490,85,1.977
-28,"=","ARCTIC MONKEYS","Do I Wanna Know?",461,"+5",75,"-10",2.331,"+0.050",41,"235",28,461,89,2.331
-29,"=","BLUE OCTOBER","Bleed Out",443,"+9",64,"-5",2,"-0.041",80,"--",29,443,69,2.079
-30,"=","THE 1975","Chocolate",430,"+3",-24,"+5",0.906,"-0.012",85,"313",24,466,87,1.057
-31,"=","VAMPIRE WEEKEND","Unbelievers",376,"-3",9,"-21",1.224,"+0.002",41,"--",31,379,96,1.235
-32,"=","SWITCHFOOT","Who We Are",366,"+26",125,"+6",1.194,"+0.070",10,"--",32,366,228,1.194
-33,"+1","KILLERS","Shot At The Night",355,"+24",164,"+22",1.996,"-0.011",9,"187",33,355,188,2.007
-34,"+1","FALL OUT BOY","The Phoenix",330,"+9",-15,"+9",1.552,"-0.040",65,"--",33,350,55,1.971
-35,"+1","QUEENS OF THE STO...","I Sat By The Ocea...",318,"+1",-5,"+7",1.145,"+0.028",50,"--",34,329,107,1.258
-36,"-3","PEPPER","FKARND",316,"-17",-130,"-9",0.692,"-0.035",128,"--",20,545,167,1.653
-37,"=","NAKED AND FAMOUS","Hearts Like Ours",304,"-7",-46,"+2",0.466,"-0.023",64,"--",23,464,163,1.128
-38,"=","NINE INCH NAILS","Came Back Haunted",293,"-1",-26,"+4",1.324,"+0.013",117,"--",7,1418,1015,5.285
-39,"=","SMALLPOOLS","Dreaming",270,"-6",-58,"+1",0.921,"-0.015",121,"--",23,485,89,2.755
-40,"=","UNLIKELY CANDIDAT...","Follow My Feet",267,"-8",-14,"-16",1.275,"-0.034",161,"--",35,280,64,1.552
-41,"=","CHVRCHES","The Mother We Sha...",254,"-5",24,"-15",1.116,"-0.058",20,"--",41,259,68,1.174
-42,"=","TWENTY ONE PILOTS","House Of Gold",247,"+4",31,"-3",1.172,"+0.043",32,"--",42,247,43,1.172
-43,"+1","J. RODDY WALSTON/...","Heavy Bells",203,"+3",25,"+3",0.396,"+0.028",37,"--",43,203,26,0.396
-44,"-1","KORN","Never Never",197,"-5",-3,"-11",0.587,"-0.026",29,"--",43,202,44,0.622
-45,"+4","LORDE","Team",193,"+26",128,"+18",0.828,"+0.119",2,"27",45,193,128,0.828
-46,"+1","THREE DAYS GRACE","Misery Loves My C...",187,"+2",7,"+3",0.833,"-0.013",33,"--",46,189,33,0.874
-47,"-1","MAN MAN","Head On",185,"+0",48,"-11",0.526,"+0.000",3,"--",46,185,59,0.526
-48,"-3","SAID THE WHALE","I Love You",183,"-4",-2,"-6",0.301,"-0.002",115,"--",38,253,68,0.902
-49,"-1","TERRAPLANE SUN","Get Me Golden",175,"+1",3,"-7",0.347,"+0.046",25,"--",47,178,29,0.347
-50,"--","ALICE IN CHAINS","Voices",136,"--",21,"--",0.402,"--",1,"--",50,136,21,0.402
+"Title","Artist","Spins"
+"Out Of My League","FITZ & THE TANTRU...",2231
+"Pompeii","BASTILLE",2002
+"Royals","LORDE",1998
+"Ways To Go","GROUPLOVE",1837
+"Demons","IMAGINE DRAGONS",1810
+"Come A Little Clo...","CAGE THE ELEPHANT",1622
+"Safe And Sound","CAPITAL CITIES",1544
+"Elephant","TAME IMPALA",1410
+"Sweater Weather","NEIGHBOURHOOD",1340
+"Supersoaker","KINGS OF LEON",1232
+"City Of Angels","THIRTY SECONDS TO...",1140
+"Trying To Be Cool","PHOENIX",1135
+"Hurricane","MS MR",971
+"Miss Jackson f/Lo...","PANIC! AT THE DIS...",905
+"Wake Me Up","AVICII",812
+"Atlas","COLDPLAY",739
+"A Light That Neve...","LINKIN PARK X STE...",728
+"Sirens","PEARL JAM",637
+"Reflektor","ARCADE FIRE",596
+"Follow Me","MUSE",571
+"Afraid","NEIGHBOURHOOD",546
+"17 Crimes","AFI",533
+"Purple Yellow Red...","PORTUGAL. THE MAN",519
+"Pumpin Blood","NONONO",507
+"My Number","FOALS",504
+"Hail To The King","AVENGED SEVENFOLD",497
+"Tessellate","ALT-J",490
+"Do I Wanna Know?","ARCTIC MONKEYS",461
+"Bleed Out","BLUE OCTOBER",443
+"Chocolate","THE 1975",430
+"Unbelievers","VAMPIRE WEEKEND",376
+"Who We Are","SWITCHFOOT",366
+"Shot At The Night","KILLERS",355
+"The Phoenix","FALL OUT BOY",330
+"I Sat By The Ocea...","QUEENS OF THE STO...",318
+"FKARND","PEPPER",316
+"Hearts Like Ours","NAKED AND FAMOUS",304
+"Came Back Haunted","NINE INCH NAILS",293
+"Dreaming","SMALLPOOLS",270
+"Follow My Feet","UNLIKELY CANDIDAT...",267
+"The Mother We Sha...","CHVRCHES",254
+"House Of Gold","TWENTY ONE PILOTS",247
+"Heavy Bells","J. RODDY WALSTON/...",203
+"Never Never","KORN",197
+"Team","LORDE",193
+"Misery Loves My C...","THREE DAYS GRACE",187
+"Head On","MAN MAN",185
+"I Love You","SAID THE WHALE",183
+"Get Me Golden","TERRAPLANE SUN",175
+"Voices","ALICE IN CHAINS",136

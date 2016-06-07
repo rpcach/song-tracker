@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","RIHANNA","Diamonds",6371,"-41",79,"-64",49.277,"-0.571",83,"6",1,6412,1194,49.848
-2,"=","KANYE WEST","Clique f/Big Sean & ...",4221,"-83",-503,"-33",31.93,"-0.784",98,"40",2,4937,803,34.83
-3,"+1","FLO RIDA","I Cry",4183,"+38",145,"+7",27.552,"+0.156",91,"17",3,4183,482,27.58
-4,"-1","MIGUEL","Adorn",4123,"-59",-306,"+10",28.979,"-0.305",146,"116",1,5374,553,39.679
-5,"+1","KENDRICK LAMAR","Swimming Pools (Dran...",3932,"+0",118,"-10",25.973,"-0.053",117,"36",5,3932,424,29.139
-6,"-1","NE-YO","Let Me Love You",3916,"-46",-414,"+2",30.839,"-0.227",136,"47",1,5176,736,38.776
-7,"=","BRUNO MARS","Locked Out Of Heaven",3385,"+37",309,"-34",23.348,"+0.300",68,"1",7,3385,526,23.348
-8,"+1","JONN HART","Who Booty f/iamSU",3213,"+81",431,"+38",20.494,"+0.417",80,"207",8,3213,431,20.494
-9,"-1","NICKI MINAJ","Va Va Voom",3158,"+22",210,"-13",20.487,"+0.234",55,"46",8,3158,694,20.487
-10,"=","JUICY J","Bands A Make Her Dan...",2886,"-14",-12,"-46",19.216,"-0.301",100,"51",9,2915,307,19.945
-11,"=","FRANK OCEAN","Thinkin Bout You",2843,"+64",143,"+64",20.296,"-0.037",74,"77",11,2843,409,20.759
-12,"=","JUSTIN BIEBER","Beauty And A Beat f/...",2414,"+24",207,"-20",14.484,"+0.042",53,"9",12,2414,478,14.484
-13,"=","KE$HA","Die Young",2252,"-106",-278,"-150",14.732,"-0.788",80,"16",12,2565,383,17.015
-14,"+1","THE WEEKND","Wicked Games",2081,"+61",227,"+57",13.892,"+0.532",74,"74",14,2081,342,13.892
-15,"-1","LIL WAYNE","No Worries f/Detail",2077,"+48",173,"+34",14.308,"+0.170",92,"45",14,2077,331,14.308
-16,"=","MAROON 5","One More Night",1956,"+5",-201,"+33",15.159,"+0.120",102,"22",13,2357,274,16.851
-17,"=","PITBULL","Don't Stop The Party",1946,"+48",177,"+17",12.863,"+0.330",81,"26",17,1946,242,12.863
-18,"=","T.I.","Ball f/Lil Wayne",1783,"+31",219,"+15",12.176,"-0.088",54,"143",18,1783,269,12.264
-19,"+1","A$AP ROCKY","F**kin Problems f/Dr...",1714,"+74",476,"+31",18.183,"+0.560",35,"--",19,1714,476,18.183
-20,"-1","GAME","Celebration f/Chris ...",1650,"-37",-262,"+5",11.646,"-0.061",95,"109",16,1995,251,13.656
-21,"=","2 CHAINZ","I'm Different",1632,"+18",235,"-25",11.098,"+0.090",39,"30",21,1632,356,11.098
-22,"+1","ALICIA KEYS","Girl On Fire",1562,"+75",347,"+69",12.25,"+0.498",88,"32/50",22,1562,347,12.25
-23,"-1","MEEK MILL","Young And Gettin It ...",1553,"-31",-138,"-5",9.314,"-0.149",69,"168",20,1717,277,10.771
-24,"=","LUDACRIS F/USHER/DAV...","Rest Of My Life",1436,"+5",112,"-4",8.557,"-0.001",39,"136",23,1436,451,8.558
-25,"=","MACKLEMORE & RYAN LE...","Thrift Shop f/Wanz",1318,"+56",445,"-15",8.335,"+0.369",30,"5",25,1318,460,8.335
-26,"=","WIZ KHALIFA","Remember You f/The W...",1169,"+20",118,"+3",6.893,"+0.153",60,"69",26,1169,170,6.893
-27,"=","SWEDISH HOUSE MAFIA","Don't You Worry Chil...",1059,"+49",338,"+15",6.721,"+0.404",32,"11",27,1059,338,6.721
-28,"=","LUPE FIASCO","Battle Scars f/Guy S...",1006,"+15",126,"-3",5.619,"+0.180",60,"171",27,1006,137,5.619
-29,"=","FUTURE","Turn On The Lights",943,"-7",-63,"+15",7.294,"-0.257",137,"159",9,2955,302,19.255
-30,"=","50 CENT","My Life f/Eminem & A...",931,"+38",163,"+0",5.47,"+0.170",16,"128",30,931,394,5.47
-31,"+1","WILL.I.AM F/BRITNEY ...","Scream And Shout",897,"+49",324,"+15",5.05,"+0.263",17,"4",31,897,330,5.05
-32,"-1","BIG SEAN","Guap",851,"-2",-18,"+2",6.204,"+0.015",44,"68",30,951,233,6.204
-33,"=","KELLY ROWLAND","Ice f/Lil Wayne",764,"-27",-129,"-19",4.399,"-0.085",76,"201",29,928,197,5.315
-34,"=","KENDRICK LAMAR","Poetic Justice f/Dra...",738,"+1",74,"-18",6.708,"+0.079",28,"106",34,738,149,6.708
-35,"+1","FUTURE","Neva End f/Kelly Row...",673,"+40",125,"+5",3.331,"+0.353",18,"140",35,673,177,3.331
-36,"-1","RICK ROSS","Diced Pineapples f/D...",668,"-13",-142,"+10",8.572,"+0.359",75,"191",32,833,143,11.169
-37,"=","2 CHAINZ","Birthday Song f/Kany...",620,"+10",-20,"+20",5.99,"+0.043",116,"82",15,1929,295,13.494
-38,"=","ALEX CLARE","Too Close",593,"+1",-27,"+4",4.509,"+0.046",84,"60",35,771,119,6.05
-39,"=","CHIEF KEEF","Love Sosa",577,"+11",178,"-11",3.144,"-0.044",11,"49",39,577,189,3.558
-40,"=","TRINIDAD JAMES","All Gold Everything",557,"+41",180,"+46",6.864,"+0.620",12,"89",40,557,180,6.864
-41,"=","JOE BUDDEN","She Don't Put It Dow...",510,"+26",181,"-2",3.01,"+0.074",11,"--",41,510,199,3.01
-42,"+1","CALVIN HARRIS","Sweet Nothing f/Flor...",475,"+32",135,"+42",3.183,"+0.306",14,"27",42,475,135,3.183
-43,"-1","CHRIS BROWN","Don't Judge Me",457,"+5",22,"-9",3.852,"+0.046",25,"125",41,457,94,3.852
-44,"=","LUDACRIS","Representin' f/Kelly...",353,"+1",0,"+2",3.067,"+0.052",29,"--",44,364,67,3.124
-45,"=","CA$H OUT","Hold Up f/Wale",330,"-17",-137,"-1",2.192,"-0.014",45,"--",41,529,142,2.71
-46,"+2","CONOR MAYNARD","Turn Around f/Ne-Yo",284,"+19",62,"+25",0.829,"+0.056",4,"--",46,284,62,0.829
-47,"=","BIG BOI","Mama Told Me f/Kelly...",281,"+3",52,"-9",0.591,"+0.003",4,"--",47,281,61,0.591
-48,"-2","CIARA","Got Me Good",280,"-7",-42,"-1",0.805,"-0.015",19,"--",46,349,93,1.107
-49,"=","RIHANNA","Nobody's Business f/...",256,"+22",65,"+17",2.427,"+0.201",4,"393",49,256,69,2.427
-50,"--","KIRKO BANGZ","Keep It Trill",233,"--",69,"--",1.239,"--",1,"--",50,233,69,1.239
+"Title","Artist","Spins"
+"Diamonds","RIHANNA",6371
+"Clique f/Big Sean & ...","KANYE WEST",4221
+"I Cry","FLO RIDA",4183
+"Adorn","MIGUEL",4123
+"Swimming Pools (Dran...","KENDRICK LAMAR",3932
+"Let Me Love You","NE-YO",3916
+"Locked Out Of Heaven","BRUNO MARS",3385
+"Who Booty f/iamSU","JONN HART",3213
+"Va Va Voom","NICKI MINAJ",3158
+"Bands A Make Her Dan...","JUICY J",2886
+"Thinkin Bout You","FRANK OCEAN",2843
+"Beauty And A Beat f/...","JUSTIN BIEBER",2414
+"Die Young","KE$HA",2252
+"Wicked Games","THE WEEKND",2081
+"No Worries f/Detail","LIL WAYNE",2077
+"One More Night","MAROON 5",1956
+"Don't Stop The Party","PITBULL",1946
+"Ball f/Lil Wayne","T.I.",1783
+"F**kin Problems f/Dr...","A$AP ROCKY",1714
+"Celebration f/Chris ...","GAME",1650
+"I'm Different","2 CHAINZ",1632
+"Girl On Fire","ALICIA KEYS",1562
+"Young And Gettin It ...","MEEK MILL",1553
+"Rest Of My Life","LUDACRIS F/USHER/DAV...",1436
+"Thrift Shop f/Wanz","MACKLEMORE & RYAN LE...",1318
+"Remember You f/The W...","WIZ KHALIFA",1169
+"Don't You Worry Chil...","SWEDISH HOUSE MAFIA",1059
+"Battle Scars f/Guy S...","LUPE FIASCO",1006
+"Turn On The Lights","FUTURE",943
+"My Life f/Eminem & A...","50 CENT",931
+"Scream And Shout","WILL.I.AM F/BRITNEY ...",897
+"Guap","BIG SEAN",851
+"Ice f/Lil Wayne","KELLY ROWLAND",764
+"Poetic Justice f/Dra...","KENDRICK LAMAR",738
+"Neva End f/Kelly Row...","FUTURE",673
+"Diced Pineapples f/D...","RICK ROSS",668
+"Birthday Song f/Kany...","2 CHAINZ",620
+"Too Close","ALEX CLARE",593
+"Love Sosa","CHIEF KEEF",577
+"All Gold Everything","TRINIDAD JAMES",557
+"She Don't Put It Dow...","JOE BUDDEN",510
+"Sweet Nothing f/Flor...","CALVIN HARRIS",475
+"Don't Judge Me","CHRIS BROWN",457
+"Representin' f/Kelly...","LUDACRIS",353
+"Hold Up f/Wale","CA$H OUT",330
+"Turn Around f/Ne-Yo","CONOR MAYNARD",284
+"Mama Told Me f/Kelly...","BIG BOI",281
+"Got Me Good","CIARA",280
+"Nobody's Business f/...","RIHANNA",256
+"Keep It Trill","KIRKO BANGZ",233

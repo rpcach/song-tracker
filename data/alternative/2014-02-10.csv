@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"+1","LORDE","Team",2555,"+56",178,"+54",13.451,"+0.352",134,"9",1,2555,332,13.451
-2,"-1","ARCTIC MONKEYS","Do I Wanna Know?",2518,"+15",-4,"+27",13.417,"+0.138",173,"96",1,2578,229,13.417
-3,"=","CAGE THE ELEPHANT","Come A Little Closer",1878,"-14",-202,"+24",9.773,"-0.075",185,"400",1,2572,519,14.39
-4,"=","NEIGHBOURHOOD","Afraid",1824,"+38",79,"+50",8.429,"+0.072",181,"287",4,1824,162,8.429
-5,"=","BASTILLE","Pompeii",1684,"+17",3,"+21",10.485,"+0.176",230,"5",1,2402,317,13.012
-6,"=","YOUNG THE GIANT","It's About Time",1659,"+9",30,"+4",6.796,"+0.058",104,"--",6,1659,537,6.796
-7,"=","FOSTER THE PEOPLE","Coming Of Age",1651,"+30",171,"+18",8.214,"+0.189",28,"282",7,1651,931,8.214
-8,"=","VAMPIRE WEEKEND","Unbelievers",1572,"+21",16,"+20",8.016,"+0.117",173,"--",7,1575,192,8.862
-9,"=","IMAGINE DRAGONS","Demons",1175,"+22",-13,"+31",7.369,"+0.210",322,"21",1,2097,281,11.561
-10,"=","PEARL JAM","Sirens",1080,"-44",-247,"-22",4.134,"-0.111",143,"--",4,1601,399,6.198
-11,"=","CHVRCHES","The Mother We Share",1062,"+4",-19,"+3",3.981,"+0.019",152,"--",11,1107,164,4.006
-12,"=","PHANTOGRAM","Fall In Love",1050,"+18",75,"+8",4.016,"+0.153",67,"379",12,1050,193,4.254
-13,"=","J. RODDY WALSTON/THE BUSINESS","Heavy Bells",1043,"+12",58,"+10",3.355,"+0.002",169,"--",12,1043,113,3.355
-14,"=","FITZ & THE TANTRUMS","Walker",1010,"+19",120,"-1",4.041,"+0.050",78,"184",14,1010,157,4.041
-15,"+1","KONGOS","Come With Me Now",900,"+31",341,"-11",5.167,"+0.281",23,"376",15,900,356,5.167
-16,"+3","NEON TREES","Sleeping With A Friend",870,"+28",152,"+32",2.992,"+0.097",29,"247",16,870,327,2.992
-17,"-2","TWENTY ONE PILOTS","House Of Gold",865,"-19",-147,"-13",3.386,"-0.022",164,"--",10,1214,155,4.583
-18,"=","SILVERSUN PICKUPS","Cannibal",864,"+10",31,"+3",2.657,"+0.078",36,"--",17,864,388,2.657
-19,"+1","BROKEN BELLS","Holding On For Life",749,"+5",-20,"+10",2.158,"+0.058",92,"143",15,783,149,2.451
-20,"+2","AIRBORNE TOXIC EVENT","Hell And Back",713,"+3",3,"+1",2.629,"+0.017",120,"--",16,727,118,2.711
-21,"=","KINGS OF LEON","Temple",706,"-6",-48,"+0",2.615,"-0.021",120,"--",17,760,129,2.936
-22,"+1","BASTILLE","Bad Blood",699,"+18",132,"+1",2.898,"+0.144",38,"--",22,699,161,2.898
-23,"+1","NEW POLITICS","Tonight You're Perfect",634,"+10",17,"+13",2.285,"+0.074",106,"--",22,634,87,2.332
-24,"+2","OF MONSTERS AND MEN","Dirty Paws",592,"+2",11,"+6",2.911,"-0.005",93,"--",23,607,124,3.177
-25,"+2","IMAGINE DRAGONS","On Top Of The World",576,"-3",-44,"+8",2.205,"+0.035",92,"86",17,711,124,2.441
-26,"+2","ARCADE FIRE","Afterlife",518,"-3",4,"-9",1.534,"+0.005",65,"--",25,521,133,1.601
-27,"-2","U2","Invisible",503,"-98",355,"-246",3.578,"-1.564",8,"72",25,601,601,5.142
-28,"+1","AMERICAN AUTHORS","Best Day Of My Life",453,"+8",45,"+9",2.003,"+0.161",86,"19",28,453,76,2.188
-29,"+1","BEAR HANDS","Giants",382,"+9",55,"+7",0.871,"+0.037",57,"--",29,382,84,0.931
-30,"+1","GROUPLOVE","Shark Attack",362,"+7",53,"+4",0.714,"+0.030",29,"--",30,362,111,0.714
-31,"+1","CROSSES","The Epilogue",346,"+11",45,"+10",0.828,"+0.022",83,"--",31,346,58,0.828
-32,"+1","PORTUGAL. THE MAN","Modern Jesus",299,"-12",-94,"-9",0.796,"-0.043",113,"--",26,462,87,1.877
-33,"+1","WILD CUB","Thunder Clatter",272,"+1",45,"-6",0.512,"+0.033",28,"--",33,272,86,0.707
-34,"+1","AVENGED SEVENFOLD","Shepherd Of Fire",263,"+5",18,"+8",0.672,"+0.011",57,"--",34,263,58,0.687
-35,"+2","A DAY TO REMEMBER","Right Back At It Again",214,"-1",-14,"+0",0.659,"-0.009",106,"--",35,239,48,0.821
-36,"=","SWITCHFOOT","Who We Are",210,"-21",-162,"+24",0.572,"-0.091",142,"--",14,873,228,2.522
-37,"+1","SIR SLY","Gold",202,"+0",22,"+1",1.234,"-0.006",24,"--",37,202,41,1.24
-38,"+1","BAD SUNS","Cardiac Arrest",198,"+3",60,"-3",0.479,"-0.014",12,"--",38,198,63,0.493
-39,"+1","HAIM","Forever",196,"+4",31,"-3",0.733,"+0.048",10,"--",39,196,64,0.733
-40,"+2","SLEEPER AGENT","Waves",185,"+4",38,"-7",0.213,"+0.010",9,"--",40,185,77,0.213
-41,"+8","CHEVELLE","Take Out The Gunman",172,"+27",172,"+27",0.908,"+0.152",2,"--",41,172,172,0.908
-42,"+1","TAME IMPALA","Feels Like We Only Go...",172,"+4",37,"-7",0.387,"+0.007",7,"--",42,172,56,0.387
-43,"+3","MAGIC MAN","Paris",157,"+6",10,"+7",0.419,"+0.058",24,"--",42,167,70,0.557
-44,"+3","KINGS OF LEON","Wait For Me",150,"+0",-16,"-1",0.995,"+0.058",37,"--",42,173,57,1.421
-45,"+3","HEAD AND THE HEART","Shake",148,"-1",-3,"+5",0.511,"+0.015",68,"--",41,171,49,0.682
-46,"-1","JAKE BUGG","What Doesn't Kill You",148,"-6",-61,"+1",0.308,"-0.007",91,"--",33,251,51,0.54
-47,"--","BASIC VACATION","I Believe",138,"--",-34,"--",0.41,"--",89,"--",36,222,74,0.793
-48,"+2","VOLBEAT","Lola Montez",136,"-9",-30,"-8",0.408,"-0.022",41,"--",41,166,34,0.45
-49,"--","MORNING PARADE","Alienation",135,"--",21,"--",0.191,"--",6,"--",47,135,29,0.191
-50,"--","BIRDY","Skinny Love",128,"--",-13,"--",0.337,"--",53,"292",39,199,44,0.697
+"Title","Artist","Spins"
+"Team","LORDE",2555
+"Do I Wanna Know?","ARCTIC MONKEYS",2518
+"Come A Little Closer","CAGE THE ELEPHANT",1878
+"Afraid","NEIGHBOURHOOD",1824
+"Pompeii","BASTILLE",1684
+"It's About Time","YOUNG THE GIANT",1659
+"Coming Of Age","FOSTER THE PEOPLE",1651
+"Unbelievers","VAMPIRE WEEKEND",1572
+"Demons","IMAGINE DRAGONS",1175
+"Sirens","PEARL JAM",1080
+"The Mother We Share","CHVRCHES",1062
+"Fall In Love","PHANTOGRAM",1050
+"Heavy Bells","J. RODDY WALSTON/THE BUSINESS",1043
+"Walker","FITZ & THE TANTRUMS",1010
+"Come With Me Now","KONGOS",900
+"Sleeping With A Friend","NEON TREES",870
+"House Of Gold","TWENTY ONE PILOTS",865
+"Cannibal","SILVERSUN PICKUPS",864
+"Holding On For Life","BROKEN BELLS",749
+"Hell And Back","AIRBORNE TOXIC EVENT",713
+"Temple","KINGS OF LEON",706
+"Bad Blood","BASTILLE",699
+"Tonight You're Perfect","NEW POLITICS",634
+"Dirty Paws","OF MONSTERS AND MEN",592
+"On Top Of The World","IMAGINE DRAGONS",576
+"Afterlife","ARCADE FIRE",518
+"Invisible","U2",503
+"Best Day Of My Life","AMERICAN AUTHORS",453
+"Giants","BEAR HANDS",382
+"Shark Attack","GROUPLOVE",362
+"The Epilogue","CROSSES",346
+"Modern Jesus","PORTUGAL. THE MAN",299
+"Thunder Clatter","WILD CUB",272
+"Shepherd Of Fire","AVENGED SEVENFOLD",263
+"Right Back At It Again","A DAY TO REMEMBER",214
+"Who We Are","SWITCHFOOT",210
+"Gold","SIR SLY",202
+"Cardiac Arrest","BAD SUNS",198
+"Forever","HAIM",196
+"Waves","SLEEPER AGENT",185
+"Take Out The Gunman","CHEVELLE",172
+"Feels Like We Only Go...","TAME IMPALA",172
+"Paris","MAGIC MAN",157
+"Wait For Me","KINGS OF LEON",150
+"Shake","HEAD AND THE HEART",148
+"What Doesn't Kill You","JAKE BUGG",148
+"I Believe","BASIC VACATION",138
+"Lola Montez","VOLBEAT",136
+"Alienation","MORNING PARADE",135
+"Skinny Love","BIRDY",128

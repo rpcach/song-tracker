@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","NICO & VINZ","Am I Wrong",6045,"+88",687,"-3",38.927,"+0.811",106,"5",1,6045,913,38.927
-2,"=","PARAMORE","Ain't It Fun",5782,"-12",-62,"-1",38.359,"+0.006",155,"39",1,6082,656,39.024
-3,"=","SAM SMITH","Stay With Me",5039,"+104",819,"-11",33.284,"+0.920",85,"3",3,5039,835,33.284
-4,"+1","MAGIC!","Rude",4896,"+59",743,"-45",34.456,"+0.458",80,"2",4,4896,794,34.456
-5,"-1","ED SHEERAN","Sing",4863,"-13",-66,"-31",30.04,"-0.164",83,"18",3,4946,986,30.638
-6,"=","RIXTON","Me And My Broken Heart",4717,"+19",44,"+9",28.98,"-0.081",93,"52",6,4736,593,29.871
-7,"=","JUSTIN TIMBERLAKE","Not A Bad Thing",4529,"-151",-901,"-115",30.217,"-0.911",120,"53",1,5967,816,40.013
-8,"=","JOHN LEGEND","All Of Me",4520,"-90",-604,"-32",32.161,"-0.735",218,"24",1,6473,707,44.045
-9,"=","INGRID MICHAELSON","Girls Chase Boys",3865,"+23",184,"-2",23.637,"-0.068",139,"49",9,3865,326,23.827
-10,"=","ONEREPUBLIC","Love Runs Out",3862,"+21",208,"-21",24.395,"+0.472",73,"16",9,3862,577,24.395
-11,"+1","KATY PERRY","Birthday",3262,"-20",-39,"-28",20.14,"-0.126",76,"56",11,3321,568,21.033
-12,"+2","MAROON 5","Maps",3014,"+149",823,"-178",20.628,"+0.976",14,"8",12,3014,2191,20.628
-13,"=","ARIANA GRANDE","Problem f/Iggy Azalea",2912,"+31",374,"-44",20.706,"-0.225",50,"4",13,2912,594,21.252
-14,"+1","O.A.R.","Peace",2071,"+30",241,"+10",9.377,"+0.441",126,"168",14,2071,287,9.377
-15,"+3","COLDPLAY","A Sky Full Of Stars",1925,"+74",429,"+16",10.861,"+0.351",40,"59",15,1925,429,10.861
-16,"=","LORDE","Tennis Court",1916,"+29",251,"-4",8.678,"+0.273",66,"85",16,1916,255,8.678
-17,"+2","TRAIN","Angel In Blue Jeans",1883,"+138",766,"+56",9.475,"+0.712",19,"--",17,1883,766,9.475
-18,"-1","PHILLIP PHILLIPS","Raging Fire",1718,"-149",-874,"-16",9.885,"-1.320",116,"139",7,4089,872,24.767
-19,"+1","MKTO","Classic",1632,"+29",252,"+7",7.307,"+0.101",78,"25",19,1632,279,7.307
-20,"+1","CALVIN HARRIS","Summer",1576,"+38",320,"-21",10.918,"+0.194",46,"13",20,1576,349,10.918
-21,"+1","FRAY","Break Your Plans",1512,"+6",57,"+0",6.928,"-0.023",77,"--",19,1512,247,6.951
-22,"+1","AMERICAN AUTHORS","Believer",1386,"+37",243,"+13",6.34,"+0.246",43,"--",22,1386,250,6.34
-23,"+3","A GREAT BIG WORLD","Already Home",1174,"+12",46,"-2",4.976,"+0.033",90,"--",22,1174,174,5.003
-24,"+1","SARA BAREILLES","I Choose You",1133,"-61",-483,"+32",9.12,"-0.464",148,"134",13,2731,331,16.875
-25,"+2","KONGOS","Come With Me Now",1088,"+30",187,"+22",6.336,"+0.283",57,"26",25,1088,187,6.336
-26,"+2","ANDY GRAMMER","Back Home",926,"+11",105,"+6",3.197,"+0.030",64,"--",26,926,151,3.197
-27,"+2","IGGY AZALEA","Fancy f/Charli XCX",886,"+45",114,"+19",5.1,"+0.433",39,"6/28",27,886,229,5.1
-28,"+3","OH HONEY","Be Okay",570,"+7",35,"-4",2.318,"+0.085",63,"--",28,570,103,2.318
-29,"+1","ONE DIRECTION","You & I",569,"-42",-166,"-48",2.176,"-0.158",57,"107",29,735,148,3.317
-30,"+2","JASON DERULO","Talk Dirty f/2 Chainz",546,"+2",7,"+32",3.566,"+0.043",147,"108",19,1412,202,6.873
-31,"+4","DISCLOSURE","Latch f/Sam Smith",525,"+24",171,"+9",2.424,"+0.060",23,"10",31,525,171,2.424
-32,"+2","ZZ WARD","Last Love Song",514,"+0",63,"-11",1.592,"-0.008",74,"--",32,514,74,1.618
-33,"=","M. JACKSON & J. TIMBERLAKE","Love Never Felt So Good",477,"-53",-375,"-22",2.032,"-0.141",59,"60",22,1021,541,5.319
-34,"+2","DAUGHTRY","Battleships",446,"+3",24,"+9",1.315,"+0.117",42,"--",34,446,114,1.351
-35,"+2","TEGAN & SARA","I Was A Fool",322,"+2",39,"-7",1.22,"+0.011",33,"--",35,322,102,1.22
-36,"+2","CAPITAL CITIES","One Minute More",312,"+18",86,"+16",1.529,"+0.116",16,"--",36,312,113,1.529
-37,"+2","FLORIDA-GEORGIA LINE","This Is How We Roll f/J.Derulo",304,"+13",94,"-8",1.706,"-0.020",10,"48",37,304,125,1.735
-38,"+3","JILLETTE JOHNSON","Torpedo",281,"+1",3,"+7",0.444,"+0.000",53,"--",38,285,61,0.582
-39,"+1","KODALINE","All I Want",280,"-2",-10,"+0",0.542,"-0.007",91,"--",38,300,71,0.673
-40,"+2","BETTER THAN EZRA","Crazy Lucky",264,"+3",18,"+8",0.662,"+0.006",44,"--",40,264,57,0.692
-41,"+2","NEON TREES","Text Me In The Morning",259,"+29",135,"+8",0.482,"+0.064",5,"--",41,259,135,0.482
-42,"+3","LUKE BRYAN","Play It Again",221,"+7",38,"+10",2.108,"+0.033",22,"36",42,221,38,2.108
-43,"+7","ECHOSMITH","Cool Kids",220,"+35",170,"+28",2.032,"+0.365",2,"120",43,220,170,2.032
-44,"+2","MADDEN BROTHERS","We Are Done",215,"+2",20,"-9",1.036,"+0.114",15,"--",44,215,96,1.036
-45,"+2","DJ SNAKE & LIL JON","Turn Down For What",211,"+1",-2,"+0",1.09,"+0.006",22,"22",44,215,92,1.09
-46,"+2","PHARRELL WILLIAMS","Come Get It Bae",197,"+3",23,"-1",0.925,"+0.030",11,"41",46,197,115,0.925
-47,"+2","KATY TIZ","The Big Bang",196,"+2",-23,"+15",0.79,"+0.034",32,"181",43,234,59,1.087
-48,"--","AVICII","Addicted To You",189,"--",26,"--",0.496,"--",9,"--",48,189,45,0.509
-49,"--","DEMI LOVATO","Really Don't Care f/Cher Lloyd",156,"--",93,"--",0.499,"--",1,"33",49,156,93,0.499
-50,"--","BLEACHERS","I Wanna Get Better",149,"--",12,"--",0.48,"--",1,"147",50,149,12,0.48
+"Title","Artist","Spins"
+"Am I Wrong","NICO & VINZ",6045
+"Ain't It Fun","PARAMORE",5782
+"Stay With Me","SAM SMITH",5039
+"Rude","MAGIC!",4896
+"Sing","ED SHEERAN",4863
+"Me And My Broken Heart","RIXTON",4717
+"Not A Bad Thing","JUSTIN TIMBERLAKE",4529
+"All Of Me","JOHN LEGEND",4520
+"Girls Chase Boys","INGRID MICHAELSON",3865
+"Love Runs Out","ONEREPUBLIC",3862
+"Birthday","KATY PERRY",3262
+"Maps","MAROON 5",3014
+"Problem f/Iggy Azalea","ARIANA GRANDE",2912
+"Peace","O.A.R.",2071
+"A Sky Full Of Stars","COLDPLAY",1925
+"Tennis Court","LORDE",1916
+"Angel In Blue Jeans","TRAIN",1883
+"Raging Fire","PHILLIP PHILLIPS",1718
+"Classic","MKTO",1632
+"Summer","CALVIN HARRIS",1576
+"Break Your Plans","FRAY",1512
+"Believer","AMERICAN AUTHORS",1386
+"Already Home","A GREAT BIG WORLD",1174
+"I Choose You","SARA BAREILLES",1133
+"Come With Me Now","KONGOS",1088
+"Back Home","ANDY GRAMMER",926
+"Fancy f/Charli XCX","IGGY AZALEA",886
+"Be Okay","OH HONEY",570
+"You & I","ONE DIRECTION",569
+"Talk Dirty f/2 Chainz","JASON DERULO",546
+"Latch f/Sam Smith","DISCLOSURE",525
+"Last Love Song","ZZ WARD",514
+"Love Never Felt So Good","M. JACKSON & J. TIMBERLAKE",477
+"Battleships","DAUGHTRY",446
+"I Was A Fool","TEGAN & SARA",322
+"One Minute More","CAPITAL CITIES",312
+"This Is How We Roll f/J.Derulo","FLORIDA-GEORGIA LINE",304
+"Torpedo","JILLETTE JOHNSON",281
+"All I Want","KODALINE",280
+"Crazy Lucky","BETTER THAN EZRA",264
+"Text Me In The Morning","NEON TREES",259
+"Play It Again","LUKE BRYAN",221
+"Cool Kids","ECHOSMITH",220
+"We Are Done","MADDEN BROTHERS",215
+"Turn Down For What","DJ SNAKE & LIL JON",211
+"Come Get It Bae","PHARRELL WILLIAMS",197
+"The Big Bang","KATY TIZ",196
+"Addicted To You","AVICII",189
+"Really Don't Care f/Cher Lloyd","DEMI LOVATO",156
+"I Wanna Get Better","BLEACHERS",149

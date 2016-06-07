@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","ARCTIC MONKEYS","Do I Wanna Know?",2368,"-23",-57,"-17",13.642,"-0.048",212,"83",1,2578,229,14.325
-2,"=","KONGOS","Come With Me Now",1986,"+27",172,"+14",8.898,"+0.095",62,"105",2,1986,356,8.898
-3,"=","YOUNG THE GIANT","It's About Time",1848,"-2",18,"+4",7.608,"-0.010",143,"--",2,1856,537,7.781
-4,"+1","PHANTOGRAM","Fall In Love",1766,"+15",89,"+12",7.171,"+0.059",106,"174",4,1766,203,7.509
-5,"-1","FOSTER THE PEOPLE","Coming Of Age",1761,"-8",-2,"-12",7.735,"-0.021",67,"95",4,1786,931,8.265
-6,"=","FITZ & THE TANTRUMS","Walker",1666,"+15",77,"+1",8.26,"-0.038",117,"103",6,1666,189,8.298
-7,"=","CAGE THE ELEPHANT","Come A Little Closer",1609,"-16",-84,"-11",10.207,"-0.320",224,"--",1,2572,519,14.39
-8,"=","BASTILLE","Bad Blood",1602,"+2",147,"-41",7.424,"+0.024",77,"206",8,1602,195,7.424
-9,"=","LORDE","Team",1457,"-9",-133,"+20",8.707,"+0.070",173,"13",1,2582,332,13.636
-10,"=","NEIGHBOURHOOD","Afraid",1399,"-43",-284,"-11",7.778,"-0.216",220,"--",3,1853,162,9.31
-11,"=","NEON TREES","Sleeping With A Friend",1158,"+12",-21,"+32",4.576,"-0.010",68,"75",11,1199,327,4.783
-12,"=","BEAR HANDS","Giants",1113,"+16",126,"-1",4.086,"+0.064",96,"--",12,1113,175,4.086
-13,"=","COLDPLAY","Magic",1011,"+5",174,"-25",5.177,"-0.011",18,"32",13,1011,790,5.901
-14,"=","SILVERSUN PICKUPS","Cannibal",890,"-16",-30,"-20",2.539,"-0.013",75,"--",13,942,388,3.028
-15,"=","NEW POLITICS","Tonight You're Perfect",831,"-8",-18,"-5",3.452,"-0.125",145,"--",15,852,96,3.776
-16,"=","KINGS OF LEON","Wait For Me",777,"+10",80,"-11",2.535,"+0.051",76,"--",16,777,235,2.535
-17,"=","AMERICAN AUTHORS","Best Day Of My Life",633,"+13",54,"+6",4.345,"+0.228",125,"15",17,633,76,4.345
-18,"=","BLEACHERS","I Wanna Get Better",617,"+36",201,"+0",2.766,"+0.227",19,"--",18,617,212,2.766
-19,"=","GROUPLOVE","Shark Attack",564,"+11",40,"+8",1.251,"+0.001",68,"--",18,564,111,1.251
-20,"=","LINKIN PARK","Guilty All The Same",563,"+25",215,"+7",2.07,"+0.086",12,"--",20,563,330,2.07
-21,"=","WILD CUB","Thunder Clatter",538,"+17",58,"+9",1.295,"+0.039",67,"--",19,538,97,1.295
-22,"+1","BAD SUNS","Cardiac Arrest",467,"+10",74,"+8",1.375,"+0.104",51,"--",22,467,75,1.375
-23,"-1","IMAGINE DRAGONS","On Top Of The World",456,"-5",46,"-1",3.146,"-0.182",131,"74",17,711,124,3.485
-24,"=","CHEVELLE","Take Out The Gunman",421,"+3",32,"+1",1.385,"+0.029",41,"--",24,421,172,1.39
-25,"=","ARCTIC MONKEYS","Why'd You Only Call Me When...",409,"+10",82,"+1",1.057,"+0.032",35,"--",25,409,98,1.057
-26,"+1","CHERUB","Doses & Mimosas",376,"+5",-4,"+10",2.233,"+0.090",36,"--",25,399,115,2.534
-27,"+1","SLEEPER AGENT","Waves",374,"+6",28,"+4",0.693,"-0.004",48,"--",27,374,77,0.742
-28,"-2","OF MONSTERS AND MEN","Dirty Paws",367,"-10",-78,"+2",2.259,"-0.022",132,"--",19,607,124,3.177
-29,"=","BIRDS OF TOKYO","Lanterns",310,"+9",8,"+6",1.738,"+0.059",25,"--",29,310,106,1.968
-30,"=","LORDE","Glory And Gore",307,"+12",107,"-2",0.63,"+0.019",11,"138",30,307,127,0.63
-31,"=","CROSSES","The Epilogue",300,"+5",-2,"+9",0.725,"+0.025",122,"--",28,356,58,0.911
-32,"+1","ORWELLS","Who Needs You",297,"+11",49,"+6",0.786,"+0.035",22,"--",31,297,66,0.799
-33,"+1","SKATERS","Deadbolt",295,"+10",46,"+12",0.803,"+0.047",33,"--",33,295,57,0.803
-34,"-2","SIR SLY","Gold",292,"+5",34,"+1",1.661,"+0.071",63,"--",31,292,41,1.661
-35,"+1","CAGE THE ELEPHANT","Take It Or Leave It",274,"+15",64,"+20",0.719,"+0.039",39,"--",35,274,64,0.719
-36,"-1","MS MR","Think Of You",267,"+2",25,"-1",0.555,"+0.008",38,"--",35,267,69,0.61
-37,"=","BIG DATA","Dangerous f/Joywave",260,"+2",19,"-5",0.969,"+0.034",19,"--",36,260,64,0.969
-38,"=","MORNING PARADE","Alienation",252,"+3",37,"+3",0.419,"+0.007",45,"--",38,252,48,0.419
-39,"=","TAME IMPALA","Feels Like We Only Go...",252,"+4",12,"+3",0.373,"-0.016",46,"--",36,252,56,0.477
-40,"=","MAGIC MAN","Paris",247,"+3",12,"+2",0.441,"+0.003",63,"--",35,247,70,0.557
-41,"=","BROKEN BELLS","Holding On For Life",242,"-1",-91,"+23",0.771,"+0.005",131,"--",15,783,149,2.451
-42,"=","BROODS","Bridges",235,"+4",-4,"+2",0.669,"+0.000",35,"--",37,243,92,0.793
-43,"=","ARCADE FIRE","Afterlife",208,"-13",-98,"+0",0.616,"-0.094",104,"--",23,521,133,1.601
-44,"=","BRICK+MORTAR","Locked In A Cage",199,"+7",13,"+1",1.067,"-0.046",12,"--",44,201,65,1.46
-45,"=","311","Five Of Everything",178,"+2",2,"+0",0.448,"-0.009",13,"--",45,189,41,0.528
-46,"=","BECK","Blue Moon",167,"+1",23,"-2",0.628,"-0.005",8,"--",46,167,115,0.84
-47,"+2","MAX FROST","White Lies",164,"+8",9,"+14",0.391,"+0.035",28,"--",45,165,45,0.415
-48,"-1","PEARL JAM","Lightning Bolt",162,"-1",29,"-6",0.276,"-0.026",5,"--",47,163,35,0.31
-49,"-1","HEAD AND THE HEART","Shake",156,"-2",10,"-7",0.812,"-0.013",77,"--",41,171,49,0.825
-50,"--","ROYAL BLOOD","Out Of The Black",153,"--",51,"--",0.22,"--",1,"--",50,153,51,0.22
+"Title","Artist","Spins"
+"Do I Wanna Know?","ARCTIC MONKEYS",2368
+"Come With Me Now","KONGOS",1986
+"It's About Time","YOUNG THE GIANT",1848
+"Fall In Love","PHANTOGRAM",1766
+"Coming Of Age","FOSTER THE PEOPLE",1761
+"Walker","FITZ & THE TANTRUMS",1666
+"Come A Little Closer","CAGE THE ELEPHANT",1609
+"Bad Blood","BASTILLE",1602
+"Team","LORDE",1457
+"Afraid","NEIGHBOURHOOD",1399
+"Sleeping With A Friend","NEON TREES",1158
+"Giants","BEAR HANDS",1113
+"Magic","COLDPLAY",1011
+"Cannibal","SILVERSUN PICKUPS",890
+"Tonight You're Perfect","NEW POLITICS",831
+"Wait For Me","KINGS OF LEON",777
+"Best Day Of My Life","AMERICAN AUTHORS",633
+"I Wanna Get Better","BLEACHERS",617
+"Shark Attack","GROUPLOVE",564
+"Guilty All The Same","LINKIN PARK",563
+"Thunder Clatter","WILD CUB",538
+"Cardiac Arrest","BAD SUNS",467
+"On Top Of The World","IMAGINE DRAGONS",456
+"Take Out The Gunman","CHEVELLE",421
+"Why'd You Only Call Me When...","ARCTIC MONKEYS",409
+"Doses & Mimosas","CHERUB",376
+"Waves","SLEEPER AGENT",374
+"Dirty Paws","OF MONSTERS AND MEN",367
+"Lanterns","BIRDS OF TOKYO",310
+"Glory And Gore","LORDE",307
+"The Epilogue","CROSSES",300
+"Who Needs You","ORWELLS",297
+"Deadbolt","SKATERS",295
+"Gold","SIR SLY",292
+"Take It Or Leave It","CAGE THE ELEPHANT",274
+"Think Of You","MS MR",267
+"Dangerous f/Joywave","BIG DATA",260
+"Alienation","MORNING PARADE",252
+"Feels Like We Only Go...","TAME IMPALA",252
+"Paris","MAGIC MAN",247
+"Holding On For Life","BROKEN BELLS",242
+"Bridges","BROODS",235
+"Afterlife","ARCADE FIRE",208
+"Locked In A Cage","BRICK+MORTAR",199
+"Five Of Everything","311",178
+"Blue Moon","BECK",167
+"White Lies","MAX FROST",164
+"Lightning Bolt","PEARL JAM",162
+"Shake","HEAD AND THE HEART",156
+"Out Of The Black","ROYAL BLOOD",153

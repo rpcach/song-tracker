@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","NEIGHBOURHOOD","Sweater Weather",2154,-6,-32,-23,11.162,-0.03,200,"180",1,2187,199,11.192
-2,"=","CAPITAL CITIES","Safe And Sound",2097,-6,-5,2,11.816,0.054,238,"50",1,2193,375,11.816
-3,"=","IMAGINE DRAGONS","Radioactive",1892,16,47,5,11.438,0.103,301,"2",1,2299,225,13.169
-4,"=","MUSE","Panic Station",1714,-4,47,7,6.777,-0.039,164,"--",2,1718,200,7.42
-5,"+1","THIRTY SECONDS TO...","Up In The Air",1590,4,-49,32,6.218,-0.049,93,"--",4,1732,1084,8.913
-6,"-1","NEW POLITICS","Harlem",1578,-25,54,-53,7.268,0.037,148,"--",5,1603,222,7.268
-7,"=","IMAGINE DRAGONS","Demons",1563,24,248,8,8.513,0.212,86,"72",7,1563,281,8.513
-8,"=","FALL OUT BOY","My Songs Know Wha...",1468,-23,-84,-24,6.454,-0.084,133,"9",6,1563,387,7.107
-9,"=","ALT-J","Breezeblocks",1228,1,47,-1,4.128,0.004,143,"326",9,1228,177,4.128
-10,"=","VAMPIRE WEEKEND","Diane Young",1159,-15,-16,-23,4.674,-0.071,90,"--",9,1175,285,4.852
-11,"=","OF MONSTERS AND M...","Mountain Sound",1155,-18,-120,5,6.613,-0.114,306,"381",2,1786,156,10.044
-12,"=","DAFT PUNK","Get Lucky",1134,27,205,-8,6.875,0.307,59,"3",12,1134,288,6.875
-13,"=","FITZ & THE TANTRU...","Out Of My League",1077,8,40,-5,4.407,-0.037,124,"--",12,1077,122,4.444
-14,"=","NINE INCH NAILS","Came Back Haunted",1063,25,178,-100,4.03,0.034,13,"--",13,1063,1015,5.285
-15,"=","ATLAS GENIUS","If So",939,-1,71,-15,3.122,0.027,109,"--",14,940,175,3.122
-16,"=","FRANK TURNER","Recovery",771,3,-8,4,2.955,-0.005,97,"--",15,779,127,3.062
-17,"=","LINKIN PARK","Castle Of Glass",736,16,82,9,3.042,0.069,112,"--",17,736,102,3.042
-18,"+2","PHOENIX","Trying To Be Cool",554,29,124,20,1.846,0.062,32,"--",18,554,124,1.846
-19,"-1","MUMFORD & SONS","Babel",526,-4,70,-30,2.196,0.045,34,"--",18,530,112,2.196
-20,"-1","QUEENS OF THE STO...","My God Is The Sun",525,-5,-17,13,1.967,0.076,69,"--",17,606,262,2.403
-21,"=","MACKLEMORE & RYAN...","Same Love f/Mary ...",517,4,22,-2,3.535,0.022,82,"32",19,517,120,3.535
-22,"=","OF MONSTERS AND M...","King And Lionhear...",503,5,54,-11,1.382,0.005,33,"--",21,503,146,1.471
-23,"+2","GROUPLOVE","Ways To Go",496,44,375,-4,3.412,0.114,7,"--",23,496,444,3.785
-24,"=","STONE TEMPLE PILO...","Out Of Time",488,12,56,10,1.973,0.062,28,"--",22,488,231,2.197
-25,"-2","COLD WAR KIDS","Miracle Mile",485,4,29,3,1.747,0.036,122,"--",20,485,51,1.747
-26,"=","JIMMY EAT WORLD","I Will Steal You ...",403,-11,20,-18,1.166,0.018,64,"--",22,416,126,1.283
-27,"=","SICK PUPPIES","There's No Going ...",374,-3,24,-4,1.178,-0.05,31,"--",26,377,158,1.228
-28,"+4","LORDE","Royals",364,35,181,10,2.842,0.225,10,"177",28,364,191,2.842
-29,"-1","TAME IMPALA","Elephant",352,-1,12,-10,1.224,0.015,63,"--",27,358,76,1.236
-30,"-1","DIRTY HEADS","Cabin By The Sea",351,-1,3,-8,0.983,0.021,73,"--",27,352,61,0.983
-31,"-1","PEPPER","FKARND",349,7,24,7,1.279,0.065,24,"--",27,349,167,1.653
-32,"-1","PORTUGAL. THE MAN","Purple Yellow Red...",336,-1,43,-7,1.259,-0.005,36,"--",30,337,78,1.264
-33,"=","MS MR","Hurricane",306,6,24,7,1.031,0.034,55,"--",27,306,64,1.265
-34,"=","THREE DAYS GRACE","The High Road",260,4,36,2,1.009,0.068,156,"--",24,393,85,1.342
-35,"+1","SHINEDOWN","I'll Follow You",239,2,1,3,1.105,-0.043,117,"--",31,265,60,1.416
-36,"-1","1975","Sex",231,-9,-45,-11,0.465,-0.03,80,"--",31,276,60,0.787
-37,"=","WAVVES","Demon To Lean On",227,3,17,1,0.826,0.107,73,"--",37,227,33,0.826
-38,"=","FEATURES","This Disorder",211,2,-2,3,0.514,0.014,72,"--",36,216,66,0.525
-39,"+2","SILVERSUN PICKUPS","Dots And Dashes (...",207,8,27,2,0.367,0.03,20,"--",39,207,58,0.388
-40,"-1","UNLIKELY CANDIDAT...","Follow My Feet",207,-1,-2,4,0.964,-0.018,64,"--",36,219,42,1.262
-41,"-1","SMALLPOOLS","Dreaming",200,-1,46,-7,1.294,-0.032,17,"--",40,201,89,1.326
-42,"=","AWOLNATION","Thiskidsnotalrigh...",181,3,-18,6,0.633,0.029,47,"--",38,217,61,0.946
-43,"+2","FOALS","My Number",175,5,32,6,0.413,0.008,35,"--",43,175,46,0.587
-44,"-1","DAN CROLL","From Nowhere",168,-8,-44,-5,0.279,-0.015,61,"--",36,224,40,0.427
-45,"+1","ALICE IN CHAINS","Stone",164,-1,9,0,0.461,-0.013,19,"--",44,165,42,0.479
-46,"+1","VOLBEAT","Hangman's Bodycou...",154,3,4,2,0.537,0.002,15,"--",46,157,42,0.541
-47,"+1","SAID THE WHALE","I Love You",149,3,20,7,0.523,0.019,11,"--",47,149,26,0.523
-48,"-4","BIFFY CLYRO","Black Chandelier",145,-27,-193,-14,0.307,-0.11,129,"--",21,400,96,1.483
-49,"+1","IAMDYNAMITE","Hey Girl",138,1,2,2,0.25,0.01,27,"--",45,144,44,0.44
-50,"-1","P.O.D.","Beautiful",138,-4,-31,-7,0.325,-0.017,46,"--",42,169,38,0.564
+"Title","Artist","Spins"
+"Sweater Weather","NEIGHBOURHOOD",2154
+"Safe And Sound","CAPITAL CITIES",2097
+"Radioactive","IMAGINE DRAGONS",1892
+"Panic Station","MUSE",1714
+"Up In The Air","THIRTY SECONDS TO...",1590
+"Harlem","NEW POLITICS",1578
+"Demons","IMAGINE DRAGONS",1563
+"My Songs Know Wha...","FALL OUT BOY",1468
+"Breezeblocks","ALT-J",1228
+"Diane Young","VAMPIRE WEEKEND",1159
+"Mountain Sound","OF MONSTERS AND M...",1155
+"Get Lucky","DAFT PUNK",1134
+"Out Of My League","FITZ & THE TANTRU...",1077
+"Came Back Haunted","NINE INCH NAILS",1063
+"If So","ATLAS GENIUS",939
+"Recovery","FRANK TURNER",771
+"Castle Of Glass","LINKIN PARK",736
+"Trying To Be Cool","PHOENIX",554
+"Babel","MUMFORD & SONS",526
+"My God Is The Sun","QUEENS OF THE STO...",525
+"Same Love f/Mary ...","MACKLEMORE & RYAN...",517
+"King And Lionhear...","OF MONSTERS AND M...",503
+"Ways To Go","GROUPLOVE",496
+"Out Of Time","STONE TEMPLE PILO...",488
+"Miracle Mile","COLD WAR KIDS",485
+"I Will Steal You ...","JIMMY EAT WORLD",403
+"There's No Going ...","SICK PUPPIES",374
+"Royals","LORDE",364
+"Elephant","TAME IMPALA",352
+"Cabin By The Sea","DIRTY HEADS",351
+"FKARND","PEPPER",349
+"Purple Yellow Red...","PORTUGAL. THE MAN",336
+"Hurricane","MS MR",306
+"The High Road","THREE DAYS GRACE",260
+"I'll Follow You","SHINEDOWN",239
+"Sex","1975",231
+"Demon To Lean On","WAVVES",227
+"This Disorder","FEATURES",211
+"Dots And Dashes (...","SILVERSUN PICKUPS",207
+"Follow My Feet","UNLIKELY CANDIDAT...",207
+"Dreaming","SMALLPOOLS",200
+"Thiskidsnotalrigh...","AWOLNATION",181
+"My Number","FOALS",175
+"From Nowhere","DAN CROLL",168
+"Stone","ALICE IN CHAINS",164
+"Hangman's Bodycou...","VOLBEAT",154
+"I Love You","SAID THE WHALE",149
+"Black Chandelier","BIFFY CLYRO",145
+"Hey Girl","IAMDYNAMITE",138
+"Beautiful","P.O.D.",138

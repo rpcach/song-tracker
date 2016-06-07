@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","ALEX CLARE","Too Close",1952,-1,23,-9,11.241,-0.155,127,"11",1,1962,260,11.91
-2,"=","FUN.","Some Nights",1764,28,26,40,9.861,0.299,121,"3",1,1764,250,9.861
-3,"=","LUMINEERS","Ho Hey",1641,16,132,5,8.952,0.057,134,"25",3,1641,197,8.952
-4,"=","IMAGINE DRAGONS","It's Time",1570,1,23,-2,7.182,0.076,188,"55",3,1583,229,7.235
-5,"=","GREEN DAY","Oh Love",1511,-6,-113,2,6.652,-0.119,43,"168",2,1676,1355,8.726
-6,"+1","MUMFORD & SONS","I Will Wait",1370,22,90,5,7.044,0.066,21,"34",6,1370,1048,7.109
-7,"-1","KILLERS","Runaways",1369,17,34,23,5.684,0.062,49,"165",6,1369,828,5.768
-8,"=","LINKIN PARK","Burn It Down",1268,-26,-128,-7,7.704,-0.152,134,"60",1,1740,1245,9.693
-9,"=","OF MONSTERS AND MEN","Little Talks",1255,-6,-163,4,6.871,-0.118,267,"27",1,1759,158,9.215
-10,"=","MUSE","Madness",1159,-45,932,-272,5.836,-1.11,8,"71",10,1204,1204,6.946
-11,"=","GROUPLOVE","Tongue Tied",1152,-9,-29,-24,7.37,-0.103,262,"54",1,1882,222,10.046
-12,"=","AWOLNATION","Kill Your Heroes",1084,9,76,9,3.774,0.094,87,"298",11,1084,132,3.774
-13,"=","BLACK KEYS","Little Black Submari...",991,28,122,-6,3.6,0.099,77,"346",13,991,176,3.6
-14,"=","GASLIGHT ANTHEM","45",967,5,-3,1,3.503,-0.006,108,"--",12,973,121,3.609
-15,"=","PASSION PIT","Take A Walk",828,6,18,-6,3.096,0.038,108,"117",14,836,182,3.234
-16,"=","ATLAS GENIUS","Trojans",572,11,68,-3,1.704,0.046,112,"--",16,572,121,1.704
-17,"+1","RISE AGAINST","Wait For Me",523,4,29,4,2.031,0.033,79,"--",17,523,78,2.031
-18,"+2","WOMBATS","Jump Into The Fog",521,17,45,23,2.273,0.081,150,"--",18,521,98,2.273
-19,"-2","OFFSPRING","Days Go By",521,-40,-259,-46,1.863,-0.178,122,"--",7,1322,667,5.539
-20,"+1","MORNING PARADE","Headlights",503,1,9,-10,1.694,-0.019,144,"--",18,506,72,1.713
-21,"-2","ALABAMA SHAKES","Hold On",503,-11,-65,2,1.204,-0.002,129,"395",14,673,126,1.923
-22,"=","THREE DAYS GRACE","Chalk Outline",488,13,100,1,1.631,0.07,13,"249",22,488,376,1.631
-23,"=","SHINEDOWN","Unity",405,-11,-69,-1,1.536,-0.013,102,"--",19,518,75,1.852
-24,"=","NO DOUBT","Settle Down",381,-9,-113,7,2.103,-0.108,43,"70",17,616,489,4.461
-25,"=","GROUPLOVE","Itchin' On A Photogr...",378,8,55,7,1.255,0.044,23,"--",25,378,139,1.255
-26,"=","YOUNGBLOOD HAWKE","We Come Running",359,10,41,3,1.796,0.134,26,"--",26,359,117,1.796
-27,"=","TWO DOOR CINEMA CLUB","Sleep Alone",344,4,10,6,1.082,0.061,35,"--",25,345,135,1.082
-28,"=","M83","Reunion",341,9,61,6,0.927,0.033,89,"--",28,341,61,1.055
-29,"=","SEETHER","Here And Now",289,-4,15,-5,0.994,-0.017,58,"--",29,293,67,1.011
-30,"+1","P.O.D.","Lost In Forever",285,0,-9,1,1.157,0.014,90,"--",26,301,65,1.325
-31,"-1","METRIC","Youth Without Youth",283,-6,-53,8,0.811,-0.043,118,"--",12,809,340,3.237
-32,"=","SLIGHTLY STOOPID","Top Of The World",278,-5,-43,-5,1.458,-0.033,31,"--",27,321,120,1.772
-33,"=","COLDPLAY","Hurts Like Heaven",265,4,55,-6,0.786,-0.006,17,"--",33,265,82,0.792
-34,"=","ELLIE GOULDING","Lights",239,-5,-38,-7,1.095,-0.037,53,"20",26,291,61,1.582
-35,"=","BUSH","The Afterlife",233,-2,1,-7,0.87,0.027,39,"--",33,235,61,0.87
-36,"=","LINKIN PARK","Lost In The Echo",217,8,57,4,0.607,0.022,16,"--",36,217,57,0.607
-37,"=","JACK WHITE","Freedom At 21",201,1,25,-4,0.482,-0.006,26,"--",37,201,90,0.488
-38,"=","PAPA ROACH","Still Swingin",200,7,14,10,0.577,-0.007,24,"--",38,200,74,0.584
-39,"=","SMASHING PUMPKINS","The Celestials",170,-8,-56,-5,0.279,-0.021,60,"--",28,291,98,1.275
-40,"=","GOTYE","Eyes Wide Open",168,-2,-13,8,0.378,-0.011,130,"--",18,523,103,1.97
-41,"=","OF MONSTERS AND MEN","Mountain Sound",155,5,41,0,0.907,0.014,11,"272",41,155,41,0.907
-42,"+1","DEADMAU5 F/GERARD WA...","Professional Griefer...",154,13,22,10,0.729,0.026,12,"--",42,154,37,0.729
-43,"+1","IMAGINE DRAGONS","Radioactive",150,10,73,1,0.696,0.026,6,"85",43,150,73,0.696
-44,"-2","DIRTY HEADS","Dance All Night f/Ma...",147,3,21,11,0.32,-0.003,19,"--",42,150,72,0.378
-45,"+1","FIVE FINGER DEATH PU...","Coming Down",133,-2,-10,-4,0.446,0.025,49,"343",41,148,45,0.446
-46,"-1","THE ROYAL CONCEPT","Gimme Twice",128,-8,-64,-4,0.301,0.007,72,"--",35,227,97,0.666
-47,"+1","MATT AND KIM","Let's Go",111,3,-2,2,0.212,0.009,9,"--",45,113,23,0.257
-48,"-1","NERO","Promises",111,-4,-26,-4,0.38,-0.034,15,"101",42,136,71,0.572
-49,"=","HEAVY","What Makes A Good Ma...",104,2,18,-1,0.215,0.006,5,"--",49,104,19,0.215
-50,"=","CHURCHILL","Change",98,-1,14,-1,0.36,0.002,3,"--",50,99,15,0.36
+"Title","Artist","Spins"
+"Too Close","ALEX CLARE",1952
+"Some Nights","FUN.",1764
+"Ho Hey","LUMINEERS",1641
+"It's Time","IMAGINE DRAGONS",1570
+"Oh Love","GREEN DAY",1511
+"I Will Wait","MUMFORD & SONS",1370
+"Runaways","KILLERS",1369
+"Burn It Down","LINKIN PARK",1268
+"Little Talks","OF MONSTERS AND MEN",1255
+"Madness","MUSE",1159
+"Tongue Tied","GROUPLOVE",1152
+"Kill Your Heroes","AWOLNATION",1084
+"Little Black Submari...","BLACK KEYS",991
+"45","GASLIGHT ANTHEM",967
+"Take A Walk","PASSION PIT",828
+"Trojans","ATLAS GENIUS",572
+"Wait For Me","RISE AGAINST",523
+"Jump Into The Fog","WOMBATS",521
+"Days Go By","OFFSPRING",521
+"Headlights","MORNING PARADE",503
+"Hold On","ALABAMA SHAKES",503
+"Chalk Outline","THREE DAYS GRACE",488
+"Unity","SHINEDOWN",405
+"Settle Down","NO DOUBT",381
+"Itchin' On A Photogr...","GROUPLOVE",378
+"We Come Running","YOUNGBLOOD HAWKE",359
+"Sleep Alone","TWO DOOR CINEMA CLUB",344
+"Reunion","M83",341
+"Here And Now","SEETHER",289
+"Lost In Forever","P.O.D.",285
+"Youth Without Youth","METRIC",283
+"Top Of The World","SLIGHTLY STOOPID",278
+"Hurts Like Heaven","COLDPLAY",265
+"Lights","ELLIE GOULDING",239
+"The Afterlife","BUSH",233
+"Lost In The Echo","LINKIN PARK",217
+"Freedom At 21","JACK WHITE",201
+"Still Swingin","PAPA ROACH",200
+"The Celestials","SMASHING PUMPKINS",170
+"Eyes Wide Open","GOTYE",168
+"Mountain Sound","OF MONSTERS AND MEN",155
+"Professional Griefer...","DEADMAU5 F/GERARD WA...",154
+"Radioactive","IMAGINE DRAGONS",150
+"Dance All Night f/Ma...","DIRTY HEADS",147
+"Coming Down","FIVE FINGER DEATH PU...",133
+"Gimme Twice","THE ROYAL CONCEPT",128
+"Let's Go","MATT AND KIM",111
+"Promises","NERO",111
+"What Makes A Good Ma...","HEAVY",104
+"Change","CHURCHILL",98

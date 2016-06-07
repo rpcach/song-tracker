@@ -1,51 +1,51 @@
-"Pos","Pos.","Artist","Title","Spins","Spins.","Bullet","Bullet.","Aud","Aud.","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"+1","IMAGINE DRAGONS","Demons",13714,"+203",1692,"+61",91.955,"+1.462",92,"9",1,13714,1982,91.955
-2,"-1","MILEY CYRUS","Wrecking Ball",13434,"-95",-1099,"+13",91.214,"-0.729",82,"12",1,15459,2954,107.57
-3,"=","AVICII","Wake Me Up",12788,"-12",-658,"+255",101.792,"-0.003",128,"11",1,17010,2103,116.977
-4,"=","EMINEM","The Monster f/Rih...",12258,"+239",2218,"-100",91.096,"+1.494",34,"3/35",4,12258,2904,91.096
-5,"=","LORDE","Royals",11828,"-58",-1023,"+182",77.967,"-0.521",112,"5",1,16495,2817,112.509
-6,"=","ONEREPUBLIC","Counting Stars",11366,"+365",2609,"+113",85.398,"+1.910",51,"4/95",6,11366,2609,85.398
-7,"=","DRAKE","Hold On We're Goi...",10868,"-49",-677,"+44",60.958,"-0.447",113,"21",4,11961,1610,74.25
-8,"=","SELENA GOMEZ","Slow Down",9732,"+36",12,"+122",52.862,"-0.367",106,"34",7,9868,1167,57.795
-9,"=","PITBULL","Timber f/Ke$ha",9331,"+189",1521,"+74",62.2,"+1.279",49,"1",9,9331,1716,62.2
-10,"=","KATY PERRY","Unconditionally",8936,"+15",598,"-78",51.293,"+0.421",44,"15",9,8936,3384,51.293
-11,"+1","ZEDD","Stay The Night f/...",8098,"+64",738,"-81",55.383,"+0.344",64,"18",11,8098,1238,55.383
-12,"-1","LADY GAGA","Applause",7944,"-350",-2406,"-104",56.67,"-1.562",112,"19",4,12273,3922,81.876
-13,"=","KATY PERRY","Roar",7093,"-183",-1685,"+85",50.453,"-0.899",113,"10",1,17176,6098,117.145
-14,"=","JUSTIN TIMBERLAKE","TKO",6586,"+2",-25,"-7",30.702,"-0.307",69,"61",11,6739,1724,32.813
-15,"=","NEIGHBOURHOOD","Sweater Weather",6525,"+66",564,"-12",34.156,"+0.323",156,"14",15,6525,869,34.156
-16,"=","LADY GAGA","Do What U Want f/...",6255,"+164",1245,"+38",41.355,"+0.623",34,"16",16,6255,1408,41.355
-17,"=","JASON DERULO","Marry Me",6118,"+56",251,"+107",31.763,"+0.230",79,"28",14,6118,856,31.947
-18,"=","PASSENGER","Let Her Go",5221,"+129",909,"-48",31.135,"+0.541",64,"8",18,5221,1223,31.135
-19,"=","ONE DIRECTION","Story Of My Life",5123,"+94",901,"-98",29.92,"+0.841",33,"7",19,5123,1292,29.92
-20,"=","MACKLEMORE & RYAN...","White Walls f/ScH...",4840,"+12",593,"-125",27.097,"-0.367",79,"22",19,4840,762,27.464
-21,"=","ELLIE GOULDING","Burn",4244,"+114",840,"-81",30.736,"+1.154",57,"13",21,4244,1109,30.736
-22,"+1","FALL OUT BOY","Alone Together",2701,"+11",265,"-7",12.054,"+0.253",105,"51",22,2701,357,12.054
-23,"+1","ENRIQUE IGLESIAS","Heart Attack",2558,"-75",-138,"-120",11.437,"-0.422",57,"68",23,2696,649,13.314
-24,"+2","SARA BAREILLES","Brave",2499,"+76",265,"+30",15.321,"+0.531",92,"20",24,2499,380,15.321
-25,"+2","BRITNEY SPEARS","Perfume",2481,"+214",743,"+237",11.288,"+1.364",23,"102",25,2481,896,11.288
-26,"-1","TRAVIE MCCOY","Rough Water f/Jas...",2438,"-123",-1006,"-86",11.313,"-0.628",70,"86",20,3883,705,22.115
-27,"+1","JOHN NEWMAN","Love Me Again",2379,"+130",383,"+107",11.551,"+0.885",59,"57",27,2379,392,11.551
-28,"+1","ZENDAYA","Replay",2305,"+98",362,"+107",9.164,"+0.834",46,"53",28,2305,457,9.164
-29,"+1","BASTILLE","Pompeii",1883,"+70",395,"+9",13.219,"+0.259",24,"32",29,1883,548,13.219
-30,"+1","RIHANNA","What Now",1765,"-19",-1012,"+151",7.534,"-0.135",72,"105",19,4043,821,17.344
-31,"+1","LORDE","Team",1749,"+136",964,"+31",12.054,"+0.871",9,"42",31,1749,964,12.054
-32,"+2","FLO RIDA","How I Feel",1566,"+80",439,"+99",7.547,"+0.442",24,"148",32,1566,439,7.547
-33,"=","CALVIN HARRIS","Thinking About Yo...",1549,"+14",240,"-2",9.059,"+0.090",31,"261",32,1549,242,9.059
-34,"+1","A GREAT BIG WORLD","Say Something w/C...",1496,"+58",628,"-27",9.854,"+0.504",10,"6/82",34,1496,656,9.854
-35,"+1","NEW POLITICS","Harlem",1422,"+25",65,"+45",4.836,"+0.023",88,"192",33,1422,285,4.934
-36,"+1","ARIANA GRANDE","Right There f/Big...",1147,"-24",85,"-53",5.279,"+0.009",30,"149",36,1171,258,5.513
-37,"+1","CHRIS WALLACE","Keep Me Crazy",1094,"+3",55,"-9",2.558,"+0.023",89,"--",37,1094,133,2.558
-38,"+2","ROBIN THICKE","Feel Good",1076,"+23",223,"+1",4.019,"+0.399",15,"--",38,1076,544,4.019
-39,"+2","LUPE FIASCO","Old School Love f...",986,"+10",127,"-38",5.017,"+0.146",15,"199",39,986,284,5.017
-40,"-1","BRUNO MARS","Gorilla",956,"-100",-799,"+6",4.819,"-0.526",84,"115",10,7264,1872,38.774
-41,"+2","CHRIS BROWN","Love More f/Nicki...",893,"+28",1,"+23",3.96,"+0.076",70,"85",39,1132,161,6.171
-42,"+2","EMBLEM3","3000 Miles",844,"+28",112,"+17",2.58,"+0.132",16,"--",42,844,149,2.58
-43,"+2","CASH CASH","Take Me Home f/Be...",665,"-42",-26,"-37",2.473,"-0.133",15,"364",43,722,160,2.729
-44,"+4","DEMI LOVATO","Neon Lights",660,"+28",324,"-31",2.704,"+0.249",4,"267",44,660,367,2.704
-45,"+2","KATY PERRY","Dark Horse",648,"-2",99,"-33",6.093,"+0.248",10,"23",45,650,328,6.093
-46,"+3","THE 1975","Chocolate",610,"+3",37,"-5",1.46,"+0.008",8,"295",46,632,68,1.586
-47,"+3","MARTIN GARRIX","Animals",595,"+16",156,"-13",6.017,"+0.162",2,"46",47,595,169,6.017
-48,"--","BIG SEAN","Beware f/Lil Wayn...",572,"--",-32,"--",3.456,"--",36,"116",44,837,225,3.577
-49,"--","MKTO","Classic",544,"--",47,"--",0.904,"--",1,"194",49,544,47,0.904
-50,"--","JAKE MILLER","Collide",529,"--",65,"--",0.857,"--",1,"--",50,529,65,0.857
+"Title","Artist","Spins"
+"Demons","IMAGINE DRAGONS",13714
+"Wrecking Ball","MILEY CYRUS",13434
+"Wake Me Up","AVICII",12788
+"The Monster f/Rih...","EMINEM",12258
+"Royals","LORDE",11828
+"Counting Stars","ONEREPUBLIC",11366
+"Hold On We're Goi...","DRAKE",10868
+"Slow Down","SELENA GOMEZ",9732
+"Timber f/Ke$ha","PITBULL",9331
+"Unconditionally","KATY PERRY",8936
+"Stay The Night f/...","ZEDD",8098
+"Applause","LADY GAGA",7944
+"Roar","KATY PERRY",7093
+"TKO","JUSTIN TIMBERLAKE",6586
+"Sweater Weather","NEIGHBOURHOOD",6525
+"Do What U Want f/...","LADY GAGA",6255
+"Marry Me","JASON DERULO",6118
+"Let Her Go","PASSENGER",5221
+"Story Of My Life","ONE DIRECTION",5123
+"White Walls f/ScH...","MACKLEMORE & RYAN...",4840
+"Burn","ELLIE GOULDING",4244
+"Alone Together","FALL OUT BOY",2701
+"Heart Attack","ENRIQUE IGLESIAS",2558
+"Brave","SARA BAREILLES",2499
+"Perfume","BRITNEY SPEARS",2481
+"Rough Water f/Jas...","TRAVIE MCCOY",2438
+"Love Me Again","JOHN NEWMAN",2379
+"Replay","ZENDAYA",2305
+"Pompeii","BASTILLE",1883
+"What Now","RIHANNA",1765
+"Team","LORDE",1749
+"How I Feel","FLO RIDA",1566
+"Thinking About Yo...","CALVIN HARRIS",1549
+"Say Something w/C...","A GREAT BIG WORLD",1496
+"Harlem","NEW POLITICS",1422
+"Right There f/Big...","ARIANA GRANDE",1147
+"Keep Me Crazy","CHRIS WALLACE",1094
+"Feel Good","ROBIN THICKE",1076
+"Old School Love f...","LUPE FIASCO",986
+"Gorilla","BRUNO MARS",956
+"Love More f/Nicki...","CHRIS BROWN",893
+"3000 Miles","EMBLEM3",844
+"Take Me Home f/Be...","CASH CASH",665
+"Neon Lights","DEMI LOVATO",660
+"Dark Horse","KATY PERRY",648
+"Chocolate","THE 1975",610
+"Animals","MARTIN GARRIX",595
+"Beware f/Lil Wayn...","BIG SEAN",572
+"Classic","MKTO",544
+"Collide","JAKE MILLER",529

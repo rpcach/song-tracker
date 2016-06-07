@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","PINK","Blow Me (One Last Ki...",4808,"+15",56,"+10",35.513,"+0.030",78,"6",1,4813,1105,35.689
-2,"=","NEON TREES","Everybody Talks",4123,"-62",-349,"-32",27.393,"-0.332",189,"19",1,4580,466,32.967
-3,"=","KATY PERRY","Wide Awake",4002,"+0",-96,"+21",29.342,"-0.118",121,"36",1,4614,654,33.813
-4,"=","FUN.","Some Nights",3983,"+75",276,"+40",26.637,"+0.735",97,"4",4,3983,497,26.637
-5,"=","ELLIE GOULDING","Lights",3724,"-60",-159,"-58",26.502,"-0.205",285,"43",4,3932,480,29.217
-6,"=","MAROON 5","One More Night",3273,"+108",473,"+67",23.4,"+0.850",65,"2",6,3273,473,23.4
-7,"+1","TRAIN","50 Ways To Say Goodb...",3198,"+51",238,"+40",19.96,"+0.366",111,"17",7,3198,401,19.96
-8,"-1","MATCHBOX TWENTY","She's So Mean",3154,"-8",63,"-27",21.453,"-0.125",100,"73",6,3162,820,21.665
-9,"=","PHILLIP PHILLIPS","Home",3003,"+33",150,"+7",17.457,"+0.245",107,"12",8,3003,383,17.457
-10,"=","TAYLOR SWIFT","We Are Never Ever Ge...",2743,"+29",136,"+28",19.889,"+0.001",38,"3",10,2743,1424,19.889
-11,"=","MAROON 5","Payphone f/Wiz Khali...",2627,"-69",-383,"-2",20.96,"-0.452",157,"50",1,5337,1497,36.256
-12,"=","OWL CITY & CARLY RAE...","Good Time",2468,"+29",229,"-16",16.963,"+0.239",75,"15",12,2468,318,16.963
-13,"=","ALEX CLARE","Too Close",2316,"+54",289,"+34",13.869,"+0.405",113,"5",13,2316,311,13.869
-14,"=","ED SHEERAN","The A Team",2074,"+15",133,"+9",15.12,"+0.223",173,"45",14,2074,180,15.12
-15,"=","ONEREPUBLIC","Feel Again",1654,"+32",301,"-23",10.216,"+0.275",28,"60",15,1654,508,10.216
-16,"=","KELLY CLARKSON","Dark Side",1472,"-58",-581,"+16",8.573,"-0.420",116,"81",8,3199,443,19.085
-17,"=","KARMIN","Broken Hearted",1373,"-9",-109,"+13",11.676,"-0.014",151,"191",8,2797,464,17.522
-18,"=","LINKIN PARK","Burn It Down",1138,"+3",67,"-3",4.476,"+0.003",104,"88",18,1138,119,4.501
-19,"=","OF MONSTERS AND MEN","Little Talks",1048,"+8",126,"-4",5.515,"-0.072",76,"52",19,1048,143,5.587
-20,"=","ANDY GRAMMER","Miss Me",949,"+27",157,"+5",4.013,"+0.130",44,"--",20,949,188,4.013
-21,"=","CHER LLOYD","Want U Back",877,"+0",-10,"-19",4.451,"+0.024",62,"33",21,892,148,4.451
-22,"+1","THE SCRIPT","Hall Of Fame f/will....",860,"+21",137,"+3",2.945,"-0.004",50,"186",22,860,137,2.949
-23,"-1","DAVID GUETTA","Titanium f/Sia",857,"-5",0,"+2",3.652,"+0.123",92,"46",21,877,194,4.358
-24,"+1","CHRISTINA PERRI","Distance",797,"-5",-61,"+15",3.027,"-0.012",77,"--",20,878,135,3.378
-25,"-1","NO DOUBT","Settle Down",750,"-82",-559,"-10",3.618,"-0.212",66,"213",13,2079,920,12.924
-26,"=","IMAGINE DRAGONS","It's Time",747,"+18",127,"+6",2.018,"+0.110",94,"24",26,747,127,2.018
-27,"=","TRISTAN PRETTYMAN","My Oh My",733,"+12",124,"-1",2.48,"+0.022",49,"--",27,733,132,2.48
-28,"+1","GREEN DAY","Oh Love",626,"+4",72,"+3",3.115,"-0.118",54,"177",28,626,140,3.237
-29,"+1","AEROSMITH","What Could Have Been...",609,"+22",109,"+13",3.534,"+0.139",26,"--",29,609,226,3.534
-30,"-2","RIHANNA","Where Have You Been",600,"-26",-74,"-24",4.123,"-0.426",132,"87",20,1292,206,6.52
-31,"=","FLO RIDA","Whistle",572,"+14",115,"+8",3.468,"+0.167",54,"7",31,572,149,3.468
-32,"=","HEDLEY","Kiss You Inside Out",569,"+20",78,"+29",1.622,"+0.061",67,"--",31,569,88,1.636
-33,"=","FLO RIDA","Wild Ones f/Sia",529,"-6",1,"-6",3.214,"-0.038",170,"110",16,1556,254,8.849
-34,"+1","RYAN STAR","Stay Awhile",474,"+18",53,"+23",1.527,"+0.030",126,"--",34,474,74,1.642
-35,"-1","GROUPLOVE","Tongue Tied",459,"-10",-111,"+14",3.082,"+0.073",131,"170",18,1537,172,7.375
-36,"=","CALVIN HARRIS","Let's Go f/Ne-Yo",374,"+4",-33,"+9",1.325,"+0.041",70,"89",31,517,142,1.715
-37,"=","JUSTIN BIEBER","As Long As You Love ...",326,"+11",74,"+17",1.369,"+0.087",26,"13",37,326,95,1.369
-38,"=","NICKI MINAJ","Starships",306,"+3",-57,"+19",2.076,"+0.049",149,"148",24,858,127,6.112
-39,"+1","DAUGHTRY","Start Of Something G...",298,"+24",68,"+17",1.535,"+0.222",19,"--",39,298,114,1.535
-40,"-1","WALK THE MOON","Anna Sun",296,"+15",66,"+3",0.684,"+0.009",26,"290",39,296,66,0.684
-41,"=","KARMIN","Hello",274,"+20",108,"+12",1.172,"+0.062",17,"57",41,274,108,1.172
-42,"=","LUMINEERS","Ho Hey",264,"+12",32,"+6",1.526,"+0.076",33,"16",40,264,52,1.526
-43,"=","NICKI MINAJ","Pound The Alarm",234,"+6",57,"-3",0.831,"+0.037",17,"32",42,234,80,0.831
-44,"=","JOHN MAYER","Queen Of California",213,"-4",-9,"-5",1.026,"+0.017",26,"--",41,226,56,1.085
-45,"=","CASEY ABRAMS","Get Out",203,"+2",13,"+0",0.317,"-0.003",36,"--",43,203,38,0.355
-46,"=","OLLY MURS","Heart Skips A Beat",196,"+10",65,"+3",0.521,"+0.006",26,"99",46,196,65,0.521
-47,"+1","A ROCKET TO THE MOON","Whole Lotta You",181,"+6",83,"-8",0.241,"-0.005",5,"--",47,181,91,0.246
-48,"--","PRINCE","Rock And Roll Love A...",179,"--",179,"--",2.43,"--",1,"--",48,179,179,2.43
-49,"=","CHRIS BROWN","Don't Wake Me Up",152,"+8",57,"+1",0.61,"+0.039",4,"21",49,152,57,0.61
-50,"=","GRACE POTTER & THE N...","Stars",146,"+3",19,"-1",0.486,"-0.013",7,"--",47,146,48,0.499
+"Title","Artist","Spins"
+"Blow Me (One Last Ki...","PINK",4808
+"Everybody Talks","NEON TREES",4123
+"Wide Awake","KATY PERRY",4002
+"Some Nights","FUN.",3983
+"Lights","ELLIE GOULDING",3724
+"One More Night","MAROON 5",3273
+"50 Ways To Say Goodb...","TRAIN",3198
+"She's So Mean","MATCHBOX TWENTY",3154
+"Home","PHILLIP PHILLIPS",3003
+"We Are Never Ever Ge...","TAYLOR SWIFT",2743
+"Payphone f/Wiz Khali...","MAROON 5",2627
+"Good Time","OWL CITY & CARLY RAE...",2468
+"Too Close","ALEX CLARE",2316
+"The A Team","ED SHEERAN",2074
+"Feel Again","ONEREPUBLIC",1654
+"Dark Side","KELLY CLARKSON",1472
+"Broken Hearted","KARMIN",1373
+"Burn It Down","LINKIN PARK",1138
+"Little Talks","OF MONSTERS AND MEN",1048
+"Miss Me","ANDY GRAMMER",949
+"Want U Back","CHER LLOYD",877
+"Hall Of Fame f/will....","THE SCRIPT",860
+"Titanium f/Sia","DAVID GUETTA",857
+"Distance","CHRISTINA PERRI",797
+"Settle Down","NO DOUBT",750
+"It's Time","IMAGINE DRAGONS",747
+"My Oh My","TRISTAN PRETTYMAN",733
+"Oh Love","GREEN DAY",626
+"What Could Have Been...","AEROSMITH",609
+"Where Have You Been","RIHANNA",600
+"Whistle","FLO RIDA",572
+"Kiss You Inside Out","HEDLEY",569
+"Wild Ones f/Sia","FLO RIDA",529
+"Stay Awhile","RYAN STAR",474
+"Tongue Tied","GROUPLOVE",459
+"Let's Go f/Ne-Yo","CALVIN HARRIS",374
+"As Long As You Love ...","JUSTIN BIEBER",326
+"Starships","NICKI MINAJ",306
+"Start Of Something G...","DAUGHTRY",298
+"Anna Sun","WALK THE MOON",296
+"Hello","KARMIN",274
+"Ho Hey","LUMINEERS",264
+"Pound The Alarm","NICKI MINAJ",234
+"Queen Of California","JOHN MAYER",213
+"Get Out","CASEY ABRAMS",203
+"Heart Skips A Beat","OLLY MURS",196
+"Whole Lotta You","A ROCKET TO THE MOON",181
+"Rock And Roll Love A...","PRINCE",179
+"Don't Wake Me Up","CHRIS BROWN",152
+"Stars","GRACE POTTER & THE N...",146

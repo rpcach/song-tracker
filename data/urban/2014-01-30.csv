@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","BEYONCE","Drunk In Love f/Jay Z",4524,6,442,-126,34.326,-0.105,46,"6",1,4524,1296,34.431
-2,"=","YG","My Hitta f/Jeezy,RichHomieQuan",3988,4,123,-13,26.604,0.315,123,"350",1,3988,395,26.604
-3,"=","LORDE","Royals",3713,-44,-227,-60,26.595,-0.128,94,"10",1,3976,624,27.057
-4,"=","SEVYN STREETER","It Won't Stop",3227,-9,-17,50,23.74,-0.049,214,"129",1,3784,479,26.425
-5,"=","DRAKE","All Me f/2 Chainz & Big Sean",3000,-47,-222,9,23.221,-0.398,158,"114",1,3818,477,27.175
-6,"=","RICO LOVE","They Don't Know",2994,37,290,68,18.354,0.356,129,"268",5,2994,341,19.808
-7,"=","KID INK","Show Me f/Chris Brown",2961,41,283,-18,19.853,0.168,78,"36",6,2961,447,19.853
-8,"=","CHRIS BROWN","Love More f/Nicki Minaj",2434,-62,-262,-26,17.505,-0.967,190,"173",5,3027,583,21.058
-9,"=","AUGUST ALSINA","I Luv This Sh*t",2226,-38,-201,-28,17.911,-0.269,283,"377",1,4359,669,30.627
-10,"=","DRAKE","The Language",2164,4,7,-23,15.34,-0.049,85,"152",10,2174,404,15.555
-11,"=","T-PAIN","Up Down (Do This All Day)",2156,25,237,-8,13.654,-0.092,123,"122",11,2156,321,13.861
-12,"=","TY DOLLA $IGN","Paranoid",2149,29,392,-34,13.898,0.216,75,"94",12,2149,426,13.898
-13,"=","MACK WILDS","Own It",1508,-61,-239,-38,8.779,-0.378,139,"--",12,1938,337,13.559
-14,"=","YO GOTTI","Cold Blood",1492,12,15,8,6.934,0.232,78,"--",14,1492,350,7.335
-15,"=","JOHN LEGEND","All Of Me",1430,4,267,-50,8.541,-0.009,64,"9",15,1430,406,8.55
-16,"=","J. COLE","She Knows",1400,17,45,19,8.738,-0.085,70,"177",16,1400,256,8.823
-17,"=","JANELLE MONAE","Primetime f/Miguel",1395,41,232,-2,9.155,0.156,132,"283",17,1395,249,9.155
-18,"=","EMINEM","The Monster f/Rihanna",1311,-16,-126,9,6.973,-0.013,74,"24/97",16,1600,413,10.713
-19,"+2","CHRIS BROWN","Loyal f/Lil' Wayne",1211,28,411,-32,8.73,0.235,25,"239",19,1211,443,8.73
-20,"-1","QUE","O.G. Bobby Johnson",1194,3,255,-82,8.362,-0.136,46,"346",19,1194,476,8.498
-21,"-1","MIKE WILL MADE-IT","23 f/Miley Cyrus, Wiz Khalifa",1164,-27,-375,76,5.044,-0.148,124,"65",9,2246,346,12.273
-22,"=","TREY SONGZ","Na Na",1120,39,477,-34,8.002,0.409,18,"154",22,1120,511,8.002
-23,"=","K. MICHELLE","Can't Raise A Man",1073,64,319,12,5.928,0.449,15,"110",23,1073,522,5.928
-24,"=","R. KELLY","Cookie",994,0,70,-38,6.412,-0.006,27,"--",23,994,327,6.418
-25,"=","AUGUST ALSINA","Ghetto f/Rich Homie Quan",945,-11,-25,-44,5.553,-0.088,53,"--",22,987,280,5.825
-26,"=","K CAMP","Money Baby f/Kwony Cash",943,31,133,12,4.922,0.232,83,"--",26,943,183,4.922
-27,"=","SAGE THE GEMINI","Gas Pedal",878,-19,-70,-23,5.098,-0.056,62,"123",24,977,225,5.689
-28,"=","JHENE AIKO","The Worst",806,25,257,-29,5.236,0.056,14,"182",28,806,368,5.236
-29,"=","JAY Z","Part II (On The Run) f/Beyonce",730,50,263,3,5.884,0.386,14,"--",29,730,327,5.884
-30,"=","FUTURE","Shhh",655,6,-64,2,3.97,-0.061,73,"--",28,724,149,5.168
-31,"=","JABO","What I'm About",646,3,20,9,1.486,0.043,74,"--",31,654,128,1.693
-32,"=","BANDO JONEZ","Sex You",631,-10,64,-35,3.005,-0.008,21,"--",32,641,244,3.013
-33,"=","WALE","Clappers f/Nicki Minaj/Juicy J",627,-13,-335,39,4.394,-0.127,140,"--",11,2133,341,13.611
-34,"=","TAMAR BRAXTON","All The Way Home",620,-5,96,-7,4.898,-0.007,144,"--",27,830,146,4.905
-35,"+1","RICK ROSS","The Devil Is A Lie f/Jay Z",618,1,161,-55,4.236,-0.173,38,"280",35,618,267,4.489
-36,"-1","B.O.B","Ready f/Future",593,-31,-307,12,3.222,-0.175,106,"--",22,1151,180,7.48
-37,"=","DJ INFAMOUS","Double Cup f/Jeezy, Ludacris",566,24,195,11,2.849,0.19,14,"--",37,566,197,2.849
-38,"=","OMARION","Know You Better f/Pusha T/Fabo",471,-22,-99,-19,1.956,-0.075,109,"--",33,647,161,3.124
-39,"=","SCHOOLBOY Q","Man Of The Year",433,14,176,-22,1.694,-0.012,8,"92",39,433,198,1.706
-40,"=","BEYONCE","Partition",402,11,31,5,3.728,0.116,13,"96",39,402,169,3.781
-41,"=","YOUNG THUG","Stoner",338,12,65,6,2.319,0.048,11,"--",41,338,85,2.319
-42,"+1","WE ARE TOONZ","Drop That #NaeNae",322,32,114,14,1.689,0.261,6,"--",42,322,162,1.689
-43,"-1","ROBIN THICKE","For The Rest Of My Life",315,9,-32,12,2.136,0.018,102,"--",39,428,195,2.701
-44,"=","SNOOTIE WILD","Yayo",260,-6,13,-11,1.47,-0.008,22,"--",44,266,44,1.478
-45,"+2","PHARRELL WILLIAMS","Happy",250,36,128,18,2.706,0.524,4,"2",45,250,128,2.706
-46,"-1","K CAMP","Cut Her Off",248,9,76,12,1.793,0.091,4,"--",45,248,76,1.793
-47,"-1","KATAZTROFEE","Polo, Polo, Polo",232,6,25,5,0.386,-0.028,18,"--",46,232,69,0.414
-48,"+1","TREVOR JACKSON","Drop It f/B.o.B.",219,21,97,8,1.403,0.07,2,"--",48,219,97,1.403
-49,"-1","DRAKE","Trophies",208,2,9,11,1.563,-0.054,4,"--",45,218,28,1.806
-50,"=","DRAKE","Worst Behavior",197,1,7,-10,2.068,0.262,4,"278",48,203,36,2.068
+"Title","Artist","Spins"
+"Drunk In Love f/Jay Z","BEYONCE",4524
+"My Hitta f/Jeezy,RichHomieQuan","YG",3988
+"Royals","LORDE",3713
+"It Won't Stop","SEVYN STREETER",3227
+"All Me f/2 Chainz & Big Sean","DRAKE",3000
+"They Don't Know","RICO LOVE",2994
+"Show Me f/Chris Brown","KID INK",2961
+"Love More f/Nicki Minaj","CHRIS BROWN",2434
+"I Luv This Sh*t","AUGUST ALSINA",2226
+"The Language","DRAKE",2164
+"Up Down (Do This All Day)","T-PAIN",2156
+"Paranoid","TY DOLLA $IGN",2149
+"Own It","MACK WILDS",1508
+"Cold Blood","YO GOTTI",1492
+"All Of Me","JOHN LEGEND",1430
+"She Knows","J. COLE",1400
+"Primetime f/Miguel","JANELLE MONAE",1395
+"The Monster f/Rihanna","EMINEM",1311
+"Loyal f/Lil' Wayne","CHRIS BROWN",1211
+"O.G. Bobby Johnson","QUE",1194
+"23 f/Miley Cyrus, Wiz Khalifa","MIKE WILL MADE-IT",1164
+"Na Na","TREY SONGZ",1120
+"Can't Raise A Man","K. MICHELLE",1073
+"Cookie","R. KELLY",994
+"Ghetto f/Rich Homie Quan","AUGUST ALSINA",945
+"Money Baby f/Kwony Cash","K CAMP",943
+"Gas Pedal","SAGE THE GEMINI",878
+"The Worst","JHENE AIKO",806
+"Part II (On The Run) f/Beyonce","JAY Z",730
+"Shhh","FUTURE",655
+"What I'm About","JABO",646
+"Sex You","BANDO JONEZ",631
+"Clappers f/Nicki Minaj/Juicy J","WALE",627
+"All The Way Home","TAMAR BRAXTON",620
+"The Devil Is A Lie f/Jay Z","RICK ROSS",618
+"Ready f/Future","B.O.B",593
+"Double Cup f/Jeezy, Ludacris","DJ INFAMOUS",566
+"Know You Better f/Pusha T/Fabo","OMARION",471
+"Man Of The Year","SCHOOLBOY Q",433
+"Partition","BEYONCE",402
+"Stoner","YOUNG THUG",338
+"Drop That #NaeNae","WE ARE TOONZ",322
+"For The Rest Of My Life","ROBIN THICKE",315
+"Yayo","SNOOTIE WILD",260
+"Happy","PHARRELL WILLIAMS",250
+"Cut Her Off","K CAMP",248
+"Polo, Polo, Polo","KATAZTROFEE",232
+"Drop It f/B.o.B.","TREVOR JACKSON",219
+"Trophies","DRAKE",208
+"Worst Behavior","DRAKE",197

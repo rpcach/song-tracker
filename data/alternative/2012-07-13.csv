@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","OF MONSTERS AND MEN","Little Talks",1689,-32,-25,-46,8.986,-0.012,221,"54",1,1759,158,9.215
-2,"=","BLACK KEYS","Gold On The Ceiling",1630,-15,-12,-1,8.662,-0.12,177,"140",1,1915,266,9.583
-3,"=","GROUPLOVE","Tongue Tied",1583,-19,-96,-18,8.384,-0.185,216,"49",1,1882,222,10.046
-4,"=","LINKIN PARK","Burn It Down",1529,1,-65,20,8.463,0.067,88,"59",3,1645,1245,9.447
-5,"=","IMAGINE DRAGONS","It's Time",1518,8,21,5,7.106,0.112,142,"95",4,1557,229,7.106
-6,"=","FUN.","Some Nights",1383,1,41,-14,6.959,0.014,75,"11",6,1383,250,6.959
-7,"=","OFFSPRING","Days Go By",1309,-2,69,-23,5.407,-0.075,76,"--",7,1311,667,5.539
-8,"=","ALEX CLARE","Too Close",1214,4,108,-9,6.616,0.137,81,"25",8,1214,260,6.616
-9,"=","SILVERSUN PICKUPS","Bloody Mary (Nerve E...",1190,-13,16,-17,5.037,-0.124,108,"--",7,1228,476,5.283
-10,"=","WALK THE MOON","Anna Sun",1167,10,47,7,4.598,0.068,138,"256",9,1167,142,4.598
-11,"=","DIRTY HEADS","Spread Too Thin",837,-2,-19,-7,3.054,0.03,112,"--",11,907,144,3.825
-12,"=","LUMINEERS","Ho Hey",825,14,107,-5,4.353,0.042,88,"41",12,825,188,4.353
-13,"=","METRIC","Youth Without Youth",809,5,26,10,3.058,-0.05,72,"--",12,809,340,3.237
-14,"=","ALABAMA SHAKES","Hold On",641,-5,-6,-3,1.826,0,83,"326",14,649,126,1.923
-15,"+1","GASLIGHT ANTHEM","45",620,8,70,8,1.656,-0.002,62,"--",15,620,121,1.658
-16,"-1","CHEVELLE","Hats Off To The Bull",613,-8,-12,-11,3.065,-0.038,138,"--",15,636,107,3.15
-17,"+1","PASSION PIT","Take A Walk",540,12,77,13,1.995,0.038,62,"284",17,540,182,1.995
-18,"-1","AWOLNATION","Kill Your Heroes",536,7,10,6,1.823,0,41,"--",17,536,132,1.882
-19,"+1","GOTYE","Eyes Wide Open",516,2,22,5,1.957,0.006,84,"--",18,523,103,1.957
-20,"-1","JACK WHITE","Sixteen Saltines",510,-15,-110,5,1.395,-0.05,101,"--",12,844,151,2.73
-21,"+2","SHINEDOWN","Unity",454,5,33,2,1.795,0.016,56,"--",21,454,75,1.795
-22,"-1","SWITCHFOOT","Afterlife",441,-16,-145,2,1.423,-0.057,128,"--",16,671,95,2.492
-23,"-1","WOMBATS","Jump Into The Fog",440,-14,12,-19,1.333,-0.057,104,"--",22,454,98,1.392
-24,"=","ATLAS GENIUS","Trojans",406,0,43,-20,1.031,0.01,66,"--",24,420,121,1.065
-25,"=","ANIMAL KINGDOM","Strange Attractor",399,1,61,-5,1.046,0.014,113,"--",25,399,66,1.046
-26,"=","MORNING PARADE","Headlights",395,5,36,4,1.126,-0.005,98,"--",26,395,66,1.131
-27,"=","FLORENCE + THE MACHI...","No Light, No Light",375,-9,-79,4,1.572,-0.053,115,"--",16,697,104,3.117
-28,"+7","KILLERS","Runaways",365,112,365,112,2.516,0.628,3,"--",28,365,365,2.516
-29,"=","RISE AGAINST","Wait For Me",325,-2,6,-5,1.062,-0.03,33,"--",29,327,78,1.362
-30,"-2","FOO FIGHTERS","Bridge Burning",324,-6,-18,7,1.153,-0.063,107,"--",25,404,69,1.421
-31,"-1","BLACK KEYS","Little Black Submari...",295,9,79,-1,1.508,0.072,31,"--",30,295,80,1.508
-32,"-1","SOUNDGARDEN","Live To Rise",269,2,-3,1,1.093,0.008,99,"--",13,847,388,3.762
-33,"=","SMASHING PUMPKINS","The Celestials",261,6,67,-5,1.084,0.049,14,"--",33,261,98,1.084
-34,"=","M83","Reunion",260,5,58,-1,1.055,0.032,43,"--",34,260,59,1.055
-35,"+1","ELECTRIC GUEST","This Head I Hold",252,0,12,-4,0.769,0.069,129,"--",29,252,41,0.769
-36,"-4","FOSTER THE PEOPLE","Houdini",249,-7,0,-12,0.688,-0.016,63,"--",32,303,61,0.869
-37,"=","ROME","Dedication",248,0,28,2,0.693,-0.006,29,"--",34,248,77,0.88
-38,"+1","THE ROYAL CONCEPT","Gimme Twice",221,2,23,2,0.605,-0.038,26,"--",37,221,97,0.666
-39,"-1","DEAD SARA","Weatherman",221,1,3,5,1.607,0.011,76,"--",35,223,42,1.607
-40,"+1","P.O.D.","Lost In Forever",192,1,1,4,0.838,0,44,"--",40,196,44,0.856
-41,"-1","EVE 6","Victoria",191,-5,-21,-5,0.775,-0.018,131,"--",24,347,81,1.35
-42,"=","MUSE","Survival",167,1,21,19,0.733,-0.006,14,"216",39,204,204,1.648
-43,"=","SEETHER","Here And Now",154,-3,29,-12,0.411,-0.01,12,"--",41,158,54,0.421
-44,"=","WOLF GANG","King And All Of His ...",154,-3,12,-2,0.431,-0.026,55,"--",39,180,60,0.529
-45,"=","OBERHOFER","Away Frm U",153,0,13,0,0.211,-0.006,39,"--",43,153,47,0.221
-46,"=","ELLIE GOULDING","Lights",152,4,45,-4,1.079,0.017,7,"7",45,152,61,1.079
-47,"+1","FIVE FINGER DEATH PU...","Coming Down",118,1,8,-7,0.296,-0.013,8,"--",47,118,45,0.32
-48,"+1","REDLIGHT KING","Comeback",115,-2,1,-1,0.384,-0.017,20,"--",45,122,48,0.441
-49,"-2","FEATURES","How It Starts",113,-6,-12,-8,0.329,-0.013,122,"--",40,188,29,0.699
-50,"=","HIVES","Go Right Ahead",110,-2,11,-2,0.166,0,88,"--",40,171,36,0.328
+"Title","Artist","Spins"
+"Little Talks","OF MONSTERS AND MEN",1689
+"Gold On The Ceiling","BLACK KEYS",1630
+"Tongue Tied","GROUPLOVE",1583
+"Burn It Down","LINKIN PARK",1529
+"It's Time","IMAGINE DRAGONS",1518
+"Some Nights","FUN.",1383
+"Days Go By","OFFSPRING",1309
+"Too Close","ALEX CLARE",1214
+"Bloody Mary (Nerve E...","SILVERSUN PICKUPS",1190
+"Anna Sun","WALK THE MOON",1167
+"Spread Too Thin","DIRTY HEADS",837
+"Ho Hey","LUMINEERS",825
+"Youth Without Youth","METRIC",809
+"Hold On","ALABAMA SHAKES",641
+"45","GASLIGHT ANTHEM",620
+"Hats Off To The Bull","CHEVELLE",613
+"Take A Walk","PASSION PIT",540
+"Kill Your Heroes","AWOLNATION",536
+"Eyes Wide Open","GOTYE",516
+"Sixteen Saltines","JACK WHITE",510
+"Unity","SHINEDOWN",454
+"Afterlife","SWITCHFOOT",441
+"Jump Into The Fog","WOMBATS",440
+"Trojans","ATLAS GENIUS",406
+"Strange Attractor","ANIMAL KINGDOM",399
+"Headlights","MORNING PARADE",395
+"No Light, No Light","FLORENCE + THE MACHI...",375
+"Runaways","KILLERS",365
+"Wait For Me","RISE AGAINST",325
+"Bridge Burning","FOO FIGHTERS",324
+"Little Black Submari...","BLACK KEYS",295
+"Live To Rise","SOUNDGARDEN",269
+"The Celestials","SMASHING PUMPKINS",261
+"Reunion","M83",260
+"This Head I Hold","ELECTRIC GUEST",252
+"Houdini","FOSTER THE PEOPLE",249
+"Dedication","ROME",248
+"Gimme Twice","THE ROYAL CONCEPT",221
+"Weatherman","DEAD SARA",221
+"Lost In Forever","P.O.D.",192
+"Victoria","EVE 6",191
+"Survival","MUSE",167
+"Here And Now","SEETHER",154
+"King And All Of His ...","WOLF GANG",154
+"Away Frm U","OBERHOFER",153
+"Lights","ELLIE GOULDING",152
+"Coming Down","FIVE FINGER DEATH PU...",118
+"Comeback","REDLIGHT KING",115
+"How It Starts","FEATURES",113
+"Go Right Ahead","HIVES",110

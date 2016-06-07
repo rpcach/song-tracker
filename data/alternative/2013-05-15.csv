@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","IMAGINE DRAGONS","Radioactive",1943,"-23",-111,"-17",11.289,"-0.155",266,"6",1,2299,225,13.169
-2,"=","NEIGHBOURHOOD","Sweater Weather",1843,"+11",29,"+6",9.285,"+0.019",165,"145",2,1843,192,9.285
-3,"=","CAPITAL CITIES","Safe And Sound",1749,"+16",61,"+5",9.853,"+0.041",203,"109",3,1749,181,9.853
-4,"=","MUSE","Panic Station",1669,"+18",23,"+20",6.919,"+0.082",129,"--",2,1669,200,6.982
-5,"=","THIRTY SECONDS TO...","Up In The Air",1602,"+8",29,"-4",8.909,"+0.153",58,"340",4,1602,1084,8.909
-6,"=","OF MONSTERS AND M...","Mountain Sound",1589,"+0",66,"-9",8.551,"+0.014",271,"199",2,1786,156,10.044
-7,"=","FALL OUT BOY","My Songs Know Wha...",1426,"+7",73,"+7",7.069,"-0.037",98,"14",7,1426,387,7.106
-8,"=","LUMINEERS","Stubborn Love",1396,"-3",-115,"+16",5.732,"+0.043",191,"142",2,1730,202,7.576
-9,"=","MUSE","Madness",1155,"-21",-81,"-20",6.683,"-0.140",268,"76",1,2336,1204,14.318
-10,"=","NEW POLITICS","Harlem",1107,"+10",145,"-13",5.074,"-0.012",113,"--",10,1107,158,5.086
-11,"+1","TWENTY ONE PILOTS","Holding On To You",1042,"+15",56,"+28",3.805,"+0.009",167,"--",11,1042,134,3.805
-12,"-1","FAMILY OF THE YEA...","Hero",1010,"-24",8,"-27",3.772,"-0.070",184,"318",11,1047,123,3.907
-13,"=","MUMFORD & SONS","Lover Of The Ligh...",969,"-3",-89,"+29",5.234,"+0.007",153,"--",3,1563,214,7.109
-14,"=","THE MOWGLI'S","San Francisco",939,"-11",-63,"-14",3.111,"-0.068",151,"--",11,1002,100,3.486
-15,"+1","VAMPIRE WEEKEND","Diane Young",868,"+22",154,"+8",3.667,"+0.111",55,"113",15,868,285,3.667
-16,"+1","FITZ & THE TANTRU...","Out Of My League",861,"+17",97,"+7",3.028,"+0.134",89,"198",16,861,112,3.028
-17,"-2","ALT-J","Breezeblocks",847,"-2",28,"-6",3.459,"-0.055",108,"295",15,849,93,3.514
-18,"=","PHOENIX","Entertainment",745,"-34",-235,"-7",2.461,"-0.094",85,"--",11,1190,606,4.599
-19,"=","FRANK TURNER","Recovery",666,"+2",39,"-1",1.764,"+0.033",62,"--",19,666,127,1.907
-20,"=","IMAGINE DRAGONS","Demons",642,"+12",86,"-2",2.951,"+0.040",51,"47",20,642,122,2.951
-21,"+1","DAFT PUNK","Get Lucky",591,"+12",80,"+3",2.662,"+0.154",24,"12",21,591,288,2.662
-22,"-1","QUEENS OF THE STO...","My God Is The Sun",587,"+7",34,"+19",2.175,"+0.000",34,"--",20,587,262,2.403
-23,"=","ATLAS GENIUS","If So",388,"+10",36,"+4",1.081,"+0.022",74,"--",23,388,60,1.186
-24,"+3","MACKLEMORE & RYAN...","Same Love f/Mary ...",377,"+14",26,"+11",2.906,"+0.058",47,"71",24,377,120,2.906
-25,"-1","THREE DAYS GRACE","The High Road",373,"-4",-3,"-7",1.133,"-0.006",121,"--",24,393,85,1.342
-26,"-1","BIFFY CLYRO","Black Chandelier",372,"-3",13,"-5",1.354,"-0.008",94,"--",24,375,96,1.362
-27,"-1","FOALS","Inhaler",368,"+0",-76,"+10",0.722,"-0.018",126,"--",17,670,123,2.429
-28,"+1","COLD WAR KIDS","Miracle Mile",353,"+5",33,"+0",1.283,"+0.009",87,"--",28,353,48,1.295
-29,"-1","LINKIN PARK","Castle Of Glass",345,"-4",81,"-20",1.012,"-0.032",77,"--",25,349,102,1.584
-30,"+1","JIMMY EAT WORLD","I Will Steal You ...",313,"+4",29,"-4",0.964,"+0.069",29,"--",30,313,126,1.073
-31,"-1","C2C","Down The Road",309,"-1",-38,"+18",1.116,"+0.001",98,"--",22,496,98,1.385
-32,"=","DEPECHE MODE","Soothe My Soul",280,"-7",-63,"-3",0.94,"-0.035",53,"--",25,377,123,1.654
-33,"=","SHINEDOWN","I'll Follow You",254,"+0",29,"-2",1.395,"+0.002",82,"393",33,254,60,1.395
-34,"+1","1975","Sex",249,"+0",-8,"-7",0.549,"+0.001",45,"--",34,259,60,0.787
-35,"-1","PASSION PIT","Carried Away",237,"-13",-93,"+2",1.088,"-0.094",164,"342",17,691,81,2.551
-36,"=","DIRTY HEADS","Cabin By The Sea",234,"+8",11,"+2",0.598,"+0.010",38,"--",36,234,57,0.651
-37,"=","THE VIRGINMARYS","Dead Man's Shoes",204,"-9",-53,"-7",0.421,"-0.039",88,"--",29,308,70,0.669
-38,"=","MS MR","Hurricane",201,"+5",40,"-9",0.895,"+0.130",20,"--",38,201,60,0.895
-39,"=","DAN CROLL","From Nowhere",182,"-6",12,"-10",0.358,"-0.025",26,"--",38,188,40,0.41
-40,"+1","MIDDLE CLASS RUT","Aunt Betty",172,"-2",0,"-3",0.407,"+0.013",70,"--",34,208,50,0.458
-41,"+2","AWOLNATION","Thiskidsnotalrigh...",170,"+7",28,"+4",0.533,"+0.035",12,"--",41,170,61,0.533
-42,"-2","AIRBORNE TOXIC EV...","Timeless",167,"-8",-35,"-6",0.285,"-0.027",116,"--",13,925,256,4.28
-43,"-1","P.O.D.","Beautiful",164,"-1",17,"-8",0.537,"+0.005",11,"--",42,166,38,0.564
-44,"=","WAVVES","Demon To Lean On",164,"+5",-1,"-3",0.419,"+0.018",38,"--",42,165,33,0.419
-45,"=","UNLIKELY CANDIDAT...","Follow My Feet",157,"+2",21,"-1",0.744,"-0.002",29,"--",44,157,29,0.762
-46,"+1","TAME IMPALA","Elephant",154,"+4",11,"+0",0.353,"+0.028",28,"--",46,154,52,0.353
-47,"-1","PAPA ROACH","Before I Die",148,"-3",-24,"-3",1.008,"-0.035",79,"--",40,177,55,1.167
-48,"=","FOALS","My Number",143,"+1",39,"-2",0.471,"+0.014",3,"--",48,143,46,0.471
-49,"=","COREY TAYLOR/DAVE...","From Can To Can't",142,"+1",16,"+0",0.257,"+0.003",100,"--",33,248,134,0.591
-50,"--","PORTUGAL. THE MAN","Purple Yellow Red...",141,"--",26,"--",0.345,"--",1,"--",50,141,26,0.345
+"Title","Artist","Spins"
+"Radioactive","IMAGINE DRAGONS",1943
+"Sweater Weather","NEIGHBOURHOOD",1843
+"Safe And Sound","CAPITAL CITIES",1749
+"Panic Station","MUSE",1669
+"Up In The Air","THIRTY SECONDS TO...",1602
+"Mountain Sound","OF MONSTERS AND M...",1589
+"My Songs Know Wha...","FALL OUT BOY",1426
+"Stubborn Love","LUMINEERS",1396
+"Madness","MUSE",1155
+"Harlem","NEW POLITICS",1107
+"Holding On To You","TWENTY ONE PILOTS",1042
+"Hero","FAMILY OF THE YEA...",1010
+"Lover Of The Ligh...","MUMFORD & SONS",969
+"San Francisco","THE MOWGLI'S",939
+"Diane Young","VAMPIRE WEEKEND",868
+"Out Of My League","FITZ & THE TANTRU...",861
+"Breezeblocks","ALT-J",847
+"Entertainment","PHOENIX",745
+"Recovery","FRANK TURNER",666
+"Demons","IMAGINE DRAGONS",642
+"Get Lucky","DAFT PUNK",591
+"My God Is The Sun","QUEENS OF THE STO...",587
+"If So","ATLAS GENIUS",388
+"Same Love f/Mary ...","MACKLEMORE & RYAN...",377
+"The High Road","THREE DAYS GRACE",373
+"Black Chandelier","BIFFY CLYRO",372
+"Inhaler","FOALS",368
+"Miracle Mile","COLD WAR KIDS",353
+"Castle Of Glass","LINKIN PARK",345
+"I Will Steal You ...","JIMMY EAT WORLD",313
+"Down The Road","C2C",309
+"Soothe My Soul","DEPECHE MODE",280
+"I'll Follow You","SHINEDOWN",254
+"Sex","1975",249
+"Carried Away","PASSION PIT",237
+"Cabin By The Sea","DIRTY HEADS",234
+"Dead Man's Shoes","THE VIRGINMARYS",204
+"Hurricane","MS MR",201
+"From Nowhere","DAN CROLL",182
+"Aunt Betty","MIDDLE CLASS RUT",172
+"Thiskidsnotalrigh...","AWOLNATION",170
+"Timeless","AIRBORNE TOXIC EV...",167
+"Beautiful","P.O.D.",164
+"Demon To Lean On","WAVVES",164
+"Follow My Feet","UNLIKELY CANDIDAT...",157
+"Elephant","TAME IMPALA",154
+"Before I Die","PAPA ROACH",148
+"My Number","FOALS",143
+"From Can To Can't","COREY TAYLOR/DAVE...",142
+"Purple Yellow Red...","PORTUGAL. THE MAN",141

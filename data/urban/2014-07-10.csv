@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","LIL WAYNE","Believe Me f/Drake",3690,"+45",158,"+4",22.477,"+0.480",62,"43",1,3690,613,22.477
-2,"=","DRAKE","Trophies",3667,"+38",145,"-34",21.222,"+0.317",147,"119",2,3667,515,22.461
-3,"=","CHRIS BROWN","Loyal f/Lil' Wayne",3229,"-20",-261,"-6",23.872,"-0.012",186,"96",1,4368,522,30.035
-4,"=","SCHOOLBOY Q","Studio",3218,"+53",223,"-48",18.933,"+0.383",76,"72",4,3218,480,18.933
-5,"+1","K CAMP","Cut Her Off",3000,"+19",-267,"+103",17.757,"+0.106",165,"109",1,3900,421,22.582
-6,"-1","USHER","Good Kisser",2981,"-59",-273,"-81",17.03,"-0.507",63,"142",4,3274,793,19.422
-7,"=","IGGY AZALEA","Fancy f/Charli XCX",2916,"+44",204,"-13",20.46,"+0.249",49,"9/30",7,2916,573,20.46
-8,"=","WIZ KHALIFA","We Dem Boyz",2900,"+60",90,"+30",17.425,"+0.499",95,"81",6,2900,392,17.425
-9,"=","CA$H OUT","She Twerkin",2681,"+58",168,"+24",14.566,"+0.316",106,"198",9,2681,335,14.566
-10,"=","TINASHE","2 On f/Schoolboy Q",2577,"+20",29,"+3",14.949,"+0.122",110,"61",9,2577,359,15.169
-11,"=","FUTURE","Move That Doh f/Pharrel",2125,"-30",-203,"-30",12.51,"-0.141",142,"--",1,3934,510,22.963
-12,"=","MIGOS","Fight Night",2070,"+24",91,"-17",10.617,"+0.292",74,"103",12,2070,289,10.617
-13,"=","YO GOTTI","I Know f/Rich Homie Quan",1760,"-50",-602,"+11",9.272,"-0.209",113,"--",9,2538,388,13.447
-14,"=","KID INK","Main Chick f/Chris Brown",1680,"-1",-170,"-16",9.437,"-0.026",102,"98",14,1850,350,10.983
-15,"+1","RICH HOMIE QUAN","Walk Thru f/Problem",1644,"+30",78,"+13",8.16,"+0.107",115,"--",15,1644,216,8.218
-16,"-1","FUTURE","I Won f/Kanye West",1609,"-30",-199,"-17",7.382,"-0.351",87,"--",15,1891,286,9.848
-17,"=","NE-YO","Money Can't Buy f/Jeezy",1552,"+34",38,"+43",8.42,"+0.132",42,"--",17,1552,546,9.384
-18,"=","TREY SONGZ","SmartPhones",1493,"+9",-145,"-6",8.267,"-0.148",62,"--",18,1638,292,9.908
-19,"+1","JEREMIH","Don't Tell 'Em f/YG",1457,"+61",255,"+30",10.01,"+0.393",33,"51",19,1457,329,10.01
-20,"-1","DJ KHALED","They Don't Love You No More",1434,"-14",-176,"+2",6.659,"-0.164",68,"--",17,1626,470,7.429
-21,"=","NICKI MINAJ","Pills N Potions",1413,"+52",60,"+53",8.25,"+0.057",36,"44",20,1413,404,8.438
-22,"+1","T.I.","No Mediocre f/Iggy Azalea",1205,"+54",465,"-2",7.582,"+0.260",20,"70",22,1205,509,7.582
-23,"-1","DJ SNAKE & LIL JON","Turn Down For What",1188,"-3",20,"+2",6.544,"+0.021",57,"22",22,1206,253,6.6
-24,"=","TY DOLLA $IGN","Or Nah f/Wiz Khalifa",1009,"+10",-58,"+7",4.678,"+0.133",67,"123",24,1071,215,5.398
-25,"=","RAE SREMMURD","No Flex Zone",987,"+45",186,"+26",5.236,"+0.371",32,"--",25,987,186,5.236
-26,"=","JENNIFER HUDSON","Walk It Out",913,"-3",-54,"-21",3.098,"-0.068",60,"--",25,983,326,3.38
-27,"=","YOUNG THUG","Danny Glover",840,"-8",37,"-53",5.035,"-0.137",69,"--",27,848,262,5.186
-28,"=","MEEK MILL","I Don't Know f/Paloma Ford",832,"+40",147,"+28",3.988,"+0.276",26,"--",28,832,226,3.988
-29,"=","JAZMINE SULLIVAN","Dumb",655,"-3",-122,"-9",3.057,"-0.036",47,"--",29,777,354,3.685
-30,"+2","MIKE JAY","Birthday Suit",636,"+9",20,"-14",1.772,"+0.048",42,"--",30,636,148,1.772
-31,"+3","RICH GANG","Lifestyle f/Young Thug",630,"+39",183,"+43",2.581,"+0.229",15,"194",31,630,269,2.581
-32,"-2","AUGUST ALSINA","Make It Home f/Jeezy",626,"-25",-103,"-6",3.593,"+0.016",121,"--",28,1031,146,4.83
-33,"=","TYGA","Hookah f/Young Thug",610,"-11",45,"-47",2.896,"-0.230",12,"--",33,621,311,3.126
-34,"+1","BEYONCE","Pretty Hurts",596,"+19",-9,"+17",2.054,"+0.059",23,"--",34,605,298,2.054
-35,"-4","ANTHONY LEWIS","Candy Rain f/Billy Bang",593,"-41",-414,"-4",2.378,"-0.155",128,"--",13,1801,301,9.129
-36,"=","T.I.","About The Money f/Young Thug",581,"+15",125,"-14",4.565,"+0.032",10,"--",35,581,187,4.565
-37,"+1","TEEFLII","24 Hours",559,"+23",109,"+14",2.489,"+0.199",27,"--",37,559,109,2.489
-38,"-1","PHARRELL WILLIAMS","Come Get It Bae",541,"+3",-16,"-2",1.595,"+0.031",38,"28",37,557,128,1.67
-39,"=","ARIANA GRANDE","Problem f/Iggy Azalea",530,"+5",8,"+5",2.595,"-0.013",21,"4",37,531,197,2.663
-40,"=","MIKE WILL MADE-IT","Buy The World f/Lil Wayne",510,"+24",269,"-8",1.941,"+0.174",4,"--",40,510,277,1.941
-41,"=","MARY J. BLIGE","Suitcase",494,"+16",29,"+9",1.431,"+0.017",18,"--",40,494,101,1.431
-42,"=","DRIICKY GRAHAM","We Up f/Sebastian Mikael",420,"-2",-29,"-12",0.905,"-0.020",49,"--",41,466,120,1.322
-43,"+1","MIGOS","Handsome And Wealthy",417,"+15",150,"+16",3.013,"+0.090",4,"--",43,417,162,3.013
-44,"--","ADRIAN MARCEL","2AM",414,"--",-16,"--",1.305,"--",59,"176",39,554,154,1.648
-45,"-2","DRAKE","0 To 100/The Catch Up",412,"+6",56,"+13",2.944,"+0.001",6,"--",43,412,137,2.944
-46,"+2","CHRIS BROWN","New Flame f/Rick Ross",405,"+81",319,"+58",3.147,"+0.388",3,"117",46,405,319,3.147
-47,"-2","DJ MUSTARD","Down On Me f/Ty Dolla $ign",401,"+5",10,"+5",1.184,"+0.049",10,"--",43,405,115,1.184
-48,"-2","PUFF DADDY","I Want The Love f/Meek Mill",387,"+6",57,"-19",1.517,"-0.057",6,"--",46,387,318,3.036
-49,"-2","TWISTA","It's Yours f/Tia London",331,"+2",-31,"+10",0.988,"-0.002",15,"--",47,342,112,1.183
-50,"=","DIGGY","My Girl f/Trevor Jackson",293,"+31",140,"+21",1.295,"+0.158",2,"--",50,293,140,1.295
+"Title","Artist","Spins"
+"Believe Me f/Drake","LIL WAYNE",3690
+"Trophies","DRAKE",3667
+"Loyal f/Lil' Wayne","CHRIS BROWN",3229
+"Studio","SCHOOLBOY Q",3218
+"Cut Her Off","K CAMP",3000
+"Good Kisser","USHER",2981
+"Fancy f/Charli XCX","IGGY AZALEA",2916
+"We Dem Boyz","WIZ KHALIFA",2900
+"She Twerkin","CA$H OUT",2681
+"2 On f/Schoolboy Q","TINASHE",2577
+"Move That Doh f/Pharrel","FUTURE",2125
+"Fight Night","MIGOS",2070
+"I Know f/Rich Homie Quan","YO GOTTI",1760
+"Main Chick f/Chris Brown","KID INK",1680
+"Walk Thru f/Problem","RICH HOMIE QUAN",1644
+"I Won f/Kanye West","FUTURE",1609
+"Money Can't Buy f/Jeezy","NE-YO",1552
+"SmartPhones","TREY SONGZ",1493
+"Don't Tell 'Em f/YG","JEREMIH",1457
+"They Don't Love You No More","DJ KHALED",1434
+"Pills N Potions","NICKI MINAJ",1413
+"No Mediocre f/Iggy Azalea","T.I.",1205
+"Turn Down For What","DJ SNAKE & LIL JON",1188
+"Or Nah f/Wiz Khalifa","TY DOLLA $IGN",1009
+"No Flex Zone","RAE SREMMURD",987
+"Walk It Out","JENNIFER HUDSON",913
+"Danny Glover","YOUNG THUG",840
+"I Don't Know f/Paloma Ford","MEEK MILL",832
+"Dumb","JAZMINE SULLIVAN",655
+"Birthday Suit","MIKE JAY",636
+"Lifestyle f/Young Thug","RICH GANG",630
+"Make It Home f/Jeezy","AUGUST ALSINA",626
+"Hookah f/Young Thug","TYGA",610
+"Pretty Hurts","BEYONCE",596
+"Candy Rain f/Billy Bang","ANTHONY LEWIS",593
+"About The Money f/Young Thug","T.I.",581
+"24 Hours","TEEFLII",559
+"Come Get It Bae","PHARRELL WILLIAMS",541
+"Problem f/Iggy Azalea","ARIANA GRANDE",530
+"Buy The World f/Lil Wayne","MIKE WILL MADE-IT",510
+"Suitcase","MARY J. BLIGE",494
+"We Up f/Sebastian Mikael","DRIICKY GRAHAM",420
+"Handsome And Wealthy","MIGOS",417
+"2AM","ADRIAN MARCEL",414
+"0 To 100/The Catch Up","DRAKE",412
+"New Flame f/Rick Ross","CHRIS BROWN",405
+"Down On Me f/Ty Dolla $ign","DJ MUSTARD",401
+"I Want The Love f/Meek Mill","PUFF DADDY",387
+"It's Yours f/Tia London","TWISTA",331
+"My Girl f/Trevor Jackson","DIGGY",293

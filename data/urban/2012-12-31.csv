@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","LIL WAYNE","No Worries f/Deta...",3656,"+28",13,"+45",24.565,"+0.210",110,"45",1,3675,439,24.879
-2,"=","KENDRICK LAMAR","Swimming Pools (D...",3581,"+18",-85,"+50",27.293,"+0.035",138,"29",1,3879,635,27.765
-3,"=","CHRIS BROWN","Don't Judge Me",3225,"+37",159,"+14",24.023,"+0.269",125,"133",3,3225,383,24.023
-4,"=","MIGUEL","Adorn",2906,"-42",-374,"-11",26.636,"-0.155",179,"140",1,4133,707,32.175
-5,"=","THE WEEKND","Wicked Games",2714,"+11",100,"-22",16.35,"+0.012",90,"110",5,2714,400,16.35
-6,"=","JUICY J","Bands A Make Her ...",2616,"+0",-227,"+48",19.756,"+0.073",134,"50",1,3864,506,28.599
-7,"=","KANYE WEST","Clique f/Big Sean...",2611,"+10",-93,"+40",20.836,"+0.084",114,"39",3,3590,774,26.918
-8,"=","2 CHAINZ","I'm Different",2596,"+17",80,"+4",19.121,"-0.014",58,"31",8,2596,522,19.179
-9,"=","T.I.","Ball f/Lil Wayne",2573,"+4",0,"+14",19.514,"-0.116",71,"336",8,2594,444,20.099
-10,"=","FRANK OCEAN","Thinking About Yo...",2504,"-33",-221,"-23",20.213,"-0.196",289,"76",5,3355,567,26.126
-11,"=","RIHANNA","Diamonds",2270,"+12",129,"+4",17.723,"+0.084",80,"8",11,2270,475,17.723
-12,"=","RICK ROSS","Diced Pineapples ...",2179,"+7",-183,"+53",17.585,"+0.019",128,"205",7,2885,347,22.21
-13,"=","WIZ KHALIFA","Remember You f/Th...",2169,"+13",22,"-12",13.75,"+0.132",78,"97",12,2169,324,13.939
-14,"=","FUTURE","Neva End f/Kelly ...",2079,"+10",1,"-15",14.249,"+0.104",60,"206",14,2079,437,14.313
-15,"=","TRINIDAD JAMES","All Gold Everythi...",1985,"+0",170,"-44",15.813,"-0.056",50,"144",15,1985,476,15.869
-16,"=","A$AP ROCKY","F**kin Problems f...",1780,"+44",234,"+62",15.299,"+0.475",50,"--",16,1780,432,15.299
-17,"=","KELLY ROWLAND","Ice f/Lil Wayne",1676,"+24",-74,"+27",10.432,"+0.083",147,"223",6,2883,468,17.34
-18,"=","KEYSHIA COLE","Trust And Believe",1670,"+40",147,"+14",10.782,"+0.236",66,"--",18,1670,399,10.782
-19,"=","BIG SEAN","Guap",1522,"+26",7,"+23",9.705,"+0.158",51,"88",19,1522,322,9.705
-20,"+1","LUDACRIS","Representin' f/Ke...",1407,"+7",-133,"+50",9.823,"-0.054",86,"--",14,1914,331,13.512
-21,"+1","MIGUEL","Do You",1365,"-3",4,"-19",8.988,"-0.209",61,"--",21,1368,362,9.197
-22,"-2","2 CHAINZ","Birthday Song f/K...",1360,"-88",-389,"-47",10.459,"-0.551",142,"81",9,2728,364,19.959
-23,"=","GAME","Celebration f/Chr...",1346,"+19",3,"+34",6.791,"+0.086",95,"160",22,1379,297,6.878
-24,"=","CIARA","Sorry",1261,"+7",-128,"+33",6.149,"-0.091",93,"--",19,1547,234,8.604
-25,"=","MEEK MILL","Young And Gettin ...",1101,"-4",-111,"+56",6.318,"-0.041",91,"135",13,1991,504,12.105
-26,"=","TREY SONGZ","Dive In",1067,"-7",-70,"+8",8.616,"-0.026",157,"--",4,3484,698,23.57
-27,"=","CHIEF KEEF","Love Sosa",921,"-7",-30,"-12",5.643,"-0.040",51,"87",27,988,310,5.892
-28,"=","KENDRICK LAMAR","Poetic Justice f/...",852,"+4",131,"-16",6.569,"-0.016",48,"114",28,852,170,6.585
-29,"=","OMARION","M.I.A. f/Wale",834,"-2",54,"-23",3.834,"+0.013",45,"--",28,836,224,4.025
-30,"=","ALICIA KEYS","Brand New Me",806,"+8",42,"-20",4.193,"+0.120",31,"--",28,806,289,4.193
-31,"=","YO GOTTI","Check",624,"+5",54,"+0",2.542,"-0.049",53,"--",31,624,122,3.05
-32,"=","JONN HART","Who Booty f/Frenc...",602,"+13",12,"+24",2.409,"+0.104",36,"247",30,632,199,2.409
-33,"=","RIHANNA","Pour It Up",577,"+21",201,"+3",7.183,"+0.227",10,"136",33,577,266,7.183
-34,"=","ACE HOOD","Need Your Love",534,"-2",-37,"-6",2.23,"+0.014",65,"--",32,619,212,2.932
-35,"=","JOE BUDDEN","She Don't Put It ...",533,"+6",-1,"+10",2.96,"+0.016",43,"--",34,539,203,3.203
-36,"+1","FAT JOE","Yellow Tape f/Lil...",528,"+15",100,"+18",3.086,"+0.104",15,"--",36,528,300,3.086
-37,"-1","SEVYN STREETER","I Like It",508,"-10",-11,"-15",1.876,"-0.056",29,"--",36,531,166,2.172
-38,"+1","WATCH THE DUCK","Poppin' Off",507,"-1",-30,"+0",1.202,"-0.013",30,"--",33,577,136,1.296
-39,"+1","BRIDGET KELLY","Special Delivery",499,"+10",9,"+17",2.111,"+0.078",81,"--",32,541,177,2.74
-40,"-2","TITO LOPEZ","The Blues",497,"-13",-52,"-11",1.61,"-0.051",99,"--",32,605,99,2.033
-41,"=","ALICIA KEYS","Girl On Fire",433,"-4",-30,"+22",3.441,"+0.036",113,"22/58",14,1954,806,12.352
-42,"=","B.O.B","Still In This B**...",429,"-1",13,"-11",2.213,"+0.004",22,"--",41,437,128,2.228
-43,"=","BIRDMAN","Shout Out f/Gudda...",401,"-8",120,"-47",1.501,"-0.062",27,"--",43,411,220,1.67
-44,"+1","YOUNG JEEZY","Get Right",388,"+16",-42,"+34",1.77,"+0.051",59,"--",30,641,282,3.86
-45,"-1","NE-YO","Don't Make Em Lik...",369,"-8",-82,"+18",1.46,"-0.029",64,"--",33,569,193,2.562
-46,"=","CA$H OUT","Hold Up f/Wale",352,"-3",-50,"+5",1.465,"-0.078",91,"--",23,1116,230,5.303
-47,"=","TEX JAMES","Smart Girl (Dumb ...",332,"-6",-58,"-5",1.097,"-0.024",72,"--",38,481,199,1.71
-48,"+1","JARVIS","Make A Little Roo...",318,"-6",-48,"-10",1.406,"-0.031",34,"--",46,366,63,1.592
-49,"-1","SLICE9","Another One f/Fut...",317,"-10",-12,"-16",1.015,"-0.025",11,"--",48,329,77,1.08
-50,"--","MARCUS CANTY","Used By You",306,"--",-27,"--",0.901,"--",26,"--",47,343,114,1.135
+"Title","Artist","Spins"
+"No Worries f/Deta...","LIL WAYNE",3656
+"Swimming Pools (D...","KENDRICK LAMAR",3581
+"Don't Judge Me","CHRIS BROWN",3225
+"Adorn","MIGUEL",2906
+"Wicked Games","THE WEEKND",2714
+"Bands A Make Her ...","JUICY J",2616
+"Clique f/Big Sean...","KANYE WEST",2611
+"I'm Different","2 CHAINZ",2596
+"Ball f/Lil Wayne","T.I.",2573
+"Thinking About Yo...","FRANK OCEAN",2504
+"Diamonds","RIHANNA",2270
+"Diced Pineapples ...","RICK ROSS",2179
+"Remember You f/Th...","WIZ KHALIFA",2169
+"Neva End f/Kelly ...","FUTURE",2079
+"All Gold Everythi...","TRINIDAD JAMES",1985
+"F**kin Problems f...","A$AP ROCKY",1780
+"Ice f/Lil Wayne","KELLY ROWLAND",1676
+"Trust And Believe","KEYSHIA COLE",1670
+"Guap","BIG SEAN",1522
+"Representin' f/Ke...","LUDACRIS",1407
+"Do You","MIGUEL",1365
+"Birthday Song f/K...","2 CHAINZ",1360
+"Celebration f/Chr...","GAME",1346
+"Sorry","CIARA",1261
+"Young And Gettin ...","MEEK MILL",1101
+"Dive In","TREY SONGZ",1067
+"Love Sosa","CHIEF KEEF",921
+"Poetic Justice f/...","KENDRICK LAMAR",852
+"M.I.A. f/Wale","OMARION",834
+"Brand New Me","ALICIA KEYS",806
+"Check","YO GOTTI",624
+"Who Booty f/Frenc...","JONN HART",602
+"Pour It Up","RIHANNA",577
+"Need Your Love","ACE HOOD",534
+"She Don't Put It ...","JOE BUDDEN",533
+"Yellow Tape f/Lil...","FAT JOE",528
+"I Like It","SEVYN STREETER",508
+"Poppin' Off","WATCH THE DUCK",507
+"Special Delivery","BRIDGET KELLY",499
+"The Blues","TITO LOPEZ",497
+"Girl On Fire","ALICIA KEYS",433
+"Still In This B**...","B.O.B",429
+"Shout Out f/Gudda...","BIRDMAN",401
+"Get Right","YOUNG JEEZY",388
+"Don't Make Em Lik...","NE-YO",369
+"Hold Up f/Wale","CA$H OUT",352
+"Smart Girl (Dumb ...","TEX JAMES",332
+"Make A Little Roo...","JARVIS",318
+"Another One f/Fut...","SLICE9",317
+"Used By You","MARCUS CANTY",306

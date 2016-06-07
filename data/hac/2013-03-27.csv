@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","MAROON 5","Daylight",5393,-14,-41,-25,37.774,-0.129,132,"24",1,5446,538,38.886
-2,"=","MUMFORD & SONS","I Will Wait",4807,23,123,-2,32.825,-0.052,194,"29",2,4807,445,33.115
-3,"=","KELLY CLARKSON","Catch My Breath",4219,3,40,19,30.151,0.256,163,"54",3,4224,561,32.536
-4,"=","LUMINEERS","Ho Hey",4185,-21,-152,6,30.131,-0.427,220,"42",1,5471,586,41.173
-5,"+1","BRUNO MARS","When I Was Your M...",4122,94,597,8,30.432,0.663,67,"3",5,4122,755,30.432
-6,"-1","TAYLOR SWIFT","I Knew You Were T...",3955,-89,-532,-12,27.544,-0.63,126,"27",1,4928,642,37.065
-7,"=","FUN.","Carry On",3870,46,296,14,25.261,0.244,101,"17",7,3870,570,25.261
-8,"=","PINK","Try",3373,-30,-360,42,26.84,0.024,158,"55",1,5267,602,40.167
-9,"+2","PINK","Just Give Me A Re...",2674,94,690,-28,19.508,0.532,34,"2",9,2674,763,19.508
-10,"=","OF MONSTERS AND M...","Little Talks",2650,-29,-206,8,18.275,-0.467,263,"31",6,3773,395,27.364
-11,"-2","BRUNO MARS","Locked Out Of Hea...",2607,-73,-406,-47,20.626,-0.726,176,"36",2,5010,735,37.73
-12,"=","MUSE","Madness",2494,36,215,52,13.972,0.187,150,"34",11,2494,245,13.972
-13,"=","JUSTIN TIMBERLAKE","Suit & Tie f/JAY ...",2359,12,199,-28,13.257,0.017,72,"5",13,2359,1009,13.257
-14,"+1","EMELI SANDE","Next To Me",2191,39,306,17,13.087,0.438,82,"61",14,2191,306,13.087
-15,"-1","THE SCRIPT","Hall Of Fame f/wi...",2177,-17,7,-25,12.546,-0.3,214,"67",13,2223,376,14.028
-16,"=","SWEDISH HOUSE MAF...","Don't You Worry C...",2097,5,65,-25,12.59,-0.008,105,"52",16,2097,270,12.884
-17,"=","TRAIN","Mermaid",1973,-107,-315,-95,10.155,-0.461,115,"193",12,2331,307,13.531
-18,"=","PHILLIP PHILLIPS","Gone, Gone, Gone",1956,12,236,-32,10.09,0.042,51,"48",18,1956,336,10.09
-19,"=","ALICIA KEYS","Girl On Fire",1784,-117,-659,-37,11.993,-0.467,118,"60",10,2941,413,21.383
-20,"=","BON JOVI","Because We Can",1323,-5,4,-12,6.109,-0.125,79,"275",20,1346,534,6.234
-21,"=","RIHANNA","Stay f/Mikky Ekko",1309,49,273,2,8.261,0.181,49,"6",21,1309,275,8.261
-22,"=","VICCI MARTINEZ","Come Along f/CeeL...",1255,-3,66,-15,6.412,0.006,171,"274",21,1258,124,6.412
-23,"=","ED SHEERAN","Lego House",1225,20,202,-18,6.695,0.008,59,"139",23,1225,220,6.695
-24,"+1","GOO GOO DOLLS","Rebel Beat",1088,-3,60,-32,5.273,0.073,62,"--",23,1091,213,5.273
-25,"-1","HUNTER HAYES","Wanted",1081,-54,-539,39,5.394,-0.198,152,"74",12,2330,264,14.776
-26,"+1","CALVIN HARRIS","Sweet Nothing f/F...",967,10,95,8,6.114,0.072,89,"39",26,967,161,6.114
-27,"-1","WILL.I.AM F/BRITN...","Scream And Shout",956,-9,11,-19,5.003,-0.226,75,"25",26,966,168,5.241
-28,"=","ONEREPUBLIC","If I Lose Myself",828,10,15,18,3.561,0.062,54,"109",27,828,242,3.649
-29,"=","OLLY MURS","Troublemaker f/Fl...",799,18,118,-3,3.43,0.061,55,"22",29,799,158,3.43
-30,"=","TAYLOR SWIFT","22",730,61,374,22,4.546,0.19,15,"28",30,730,374,4.546
-31,"=","YOUNGBLOOD HAWKE","We Come Running",618,-1,34,-12,1.944,0.005,46,"--",30,626,117,1.959
-32,"=","TEGAN AND SARA","Closer",483,1,46,-18,1.874,0.139,48,"169",32,483,113,1.874
-33,"=","DEMI LOVATO","Heart Attack",475,2,138,-37,2.482,-0.002,18,"12",33,475,187,2.484
-34,"+1","PITBULL","Feel This Moment ...",400,26,113,5,2.152,0.107,24,"7",34,400,142,2.152
-35,"-1","KE$HA","C'mon",373,-35,-153,-41,2.357,-0.05,69,"89",30,591,138,3.142
-36,"+1","WALK OFF THE EART...","Red Hands",364,19,169,7,1.208,0.047,11,"--",36,364,169,1.208
-37,"-1","FALL OUT BOY","My Songs Know Wha...",355,9,69,3,1.119,0.05,24,"10",36,355,106,1.119
-38,"=","MATT HIRES","Restless Heart",346,3,43,-9,0.836,-0.005,28,"--",35,346,81,0.841
-39,"=","ALABAMA SHAKES","Hold On",337,7,50,1,0.687,-0.005,34,"319",37,337,91,0.692
-40,"=","IMAGINE DRAGONS","Radioactive",316,18,51,14,0.91,0.068,34,"4",39,316,63,0.91
-41,"=","MACKLEMORE & RYAN...","Thrift Shop f/Wan...",266,-1,-13,-1,1.221,0.025,41,"9/15",35,285,82,1.255
-42,"=","GINNY BLACKMORE","Bones",260,11,35,1,0.772,0.066,13,"--",42,260,117,0.772
-43,"=","THE DUNWELLS","I Could Be A King",224,-2,43,-11,0.327,0.013,39,"--",43,226,64,0.327
-44,"=","NEW KIDS ON THE B...","Remix (I Like The...",208,-2,-4,-10,0.531,0.006,24,"--",44,219,46,0.548
-45,"=","TRISTAN PRETTYMAN","The Rebound",176,0,-17,7,0.417,0.012,36,"--",41,212,62,0.525
-46,"=","CARO EMERALD","Back It Up",167,-7,-40,-5,0.34,-0.011,93,"--",41,209,35,0.76
-47,"=","MICHAEL BUBLE","It's A Beautiful ...",161,1,25,0,0.94,0.048,10,"--",47,161,40,0.94
-48,"+1","MUMFORD & SONS","Lover Of The Ligh...",148,9,37,12,0.46,0.053,3,"--",48,148,37,0.46
-49,"-1","ZAC BROWN BAND","Goodbye In Her Ey...",147,6,27,2,0.711,0.07,3,"370",48,147,27,0.711
-50,"=","ATLAS GENIUS","Trojans",137,1,30,1,0.498,0.018,4,"395",50,137,30,0.498
+"Title","Artist","Spins"
+"Daylight","MAROON 5",5393
+"I Will Wait","MUMFORD & SONS",4807
+"Catch My Breath","KELLY CLARKSON",4219
+"Ho Hey","LUMINEERS",4185
+"When I Was Your M...","BRUNO MARS",4122
+"I Knew You Were T...","TAYLOR SWIFT",3955
+"Carry On","FUN.",3870
+"Try","PINK",3373
+"Just Give Me A Re...","PINK",2674
+"Little Talks","OF MONSTERS AND M...",2650
+"Locked Out Of Hea...","BRUNO MARS",2607
+"Madness","MUSE",2494
+"Suit & Tie f/JAY ...","JUSTIN TIMBERLAKE",2359
+"Next To Me","EMELI SANDE",2191
+"Hall Of Fame f/wi...","THE SCRIPT",2177
+"Don't You Worry C...","SWEDISH HOUSE MAF...",2097
+"Mermaid","TRAIN",1973
+"Gone, Gone, Gone","PHILLIP PHILLIPS",1956
+"Girl On Fire","ALICIA KEYS",1784
+"Because We Can","BON JOVI",1323
+"Stay f/Mikky Ekko","RIHANNA",1309
+"Come Along f/CeeL...","VICCI MARTINEZ",1255
+"Lego House","ED SHEERAN",1225
+"Rebel Beat","GOO GOO DOLLS",1088
+"Wanted","HUNTER HAYES",1081
+"Sweet Nothing f/F...","CALVIN HARRIS",967
+"Scream And Shout","WILL.I.AM F/BRITN...",956
+"If I Lose Myself","ONEREPUBLIC",828
+"Troublemaker f/Fl...","OLLY MURS",799
+"22","TAYLOR SWIFT",730
+"We Come Running","YOUNGBLOOD HAWKE",618
+"Closer","TEGAN AND SARA",483
+"Heart Attack","DEMI LOVATO",475
+"Feel This Moment ...","PITBULL",400
+"C'mon","KE$HA",373
+"Red Hands","WALK OFF THE EART...",364
+"My Songs Know Wha...","FALL OUT BOY",355
+"Restless Heart","MATT HIRES",346
+"Hold On","ALABAMA SHAKES",337
+"Radioactive","IMAGINE DRAGONS",316
+"Thrift Shop f/Wan...","MACKLEMORE & RYAN...",266
+"Bones","GINNY BLACKMORE",260
+"I Could Be A King","THE DUNWELLS",224
+"Remix (I Like The...","NEW KIDS ON THE B...",208
+"The Rebound","TRISTAN PRETTYMAN",176
+"Back It Up","CARO EMERALD",167
+"It's A Beautiful ...","MICHAEL BUBLE",161
+"Lover Of The Ligh...","MUMFORD & SONS",148
+"Goodbye In Her Ey...","ZAC BROWN BAND",147
+"Trojans","ATLAS GENIUS",137

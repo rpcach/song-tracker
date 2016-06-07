@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","MAROON 5","Maps",6527,"+0",26,"-23",41.029,"+0.099",91,"8",1,6538,2191,41.029
-2,"=","SAM SMITH","Stay With Me",5731,"-50",-531,"-51",38.126,"-0.325",162,"16",1,6703,835,44.159
-3,"=","COLDPLAY","A Sky Full Of Stars",5584,"+41",337,"-44",36.79,"+0.174",117,"27",3,5584,556,36.79
-4,"+1","TAYLOR SWIFT","Shake It Off",5432,"+56",714,"-77",36.768,"+0.384",28,"1",4,5432,3324,36.768
-5,"-1","MAGIC!","Rude",5293,"-86",-457,"-65",35.284,"-0.786",157,"25",1,6994,794,45.854
-6,"=","ONEREPUBLIC","Love Runs Out",5049,"-48",-486,"-32",29.861,"-0.105",150,"42",4,5761,577,35.19
-7,"=","MEGHAN TRAINOR","All About That Bass",4708,"+119",859,"+3",29.857,"+0.763",50,"2",7,4708,889,29.857
-8,"=","NICO & VINZ","Am I Wrong",4195,"-60",-532,"-38",27.377,"-0.375",183,"39",1,6652,913,43.734
-9,"=","TRAIN","Angel In Blue Jeans",3978,"+6",110,"-35",20.435,"+0.002",96,"82",8,3978,766,20.435
-10,"=","CHARLI XCX","Boom Clap",3709,"+49",482,"-51",23.2,"+0.163",72,"17",10,3709,565,23.2
-11,"+1","ECHOSMITH","Cool Kids",3497,"+34",271,"-11",20.948,"+0.480",79,"14",11,3497,428,20.948
-12,"+1","DISCLOSURE","Latch f/Sam Smith",3148,"-36",-112,"-39",16.838,"-0.354",100,"41",9,3260,540,18.668
-13,"+1","AMERICAN AUTHORS","Believer",2931,"+10",13,"-13",14.972,"+0.019",120,"269",12,2931,260,15.021
-14,"+1","ED SHEERAN","Don't",2744,"+39",199,"+3",15.14,"+0.433",67,"18",14,2744,369,15.14
-15,"+1","MARY LAMBERT","Secrets",2494,"+17",89,"-16",13.369,"+0.017",65,"87",15,2494,441,13.457
-16,"+1","THE SCRIPT","Superheroes",2182,"+9",203,"-43",9.829,"-0.146",55,"77",16,2182,488,9.975
-17,"+1","SIA","Chandelier",2102,"+38",264,"-12",13.753,"+0.171",57,"12",17,2102,341,13.753
-18,"+1","COLBIE CAILLAT","Try",1911,"+15",149,"-21",10.682,"+0.071",55,"74",18,1911,410,10.682
-19,"+2","CLEAN BANDIT","Rather Be f/Jess Glynne",1805,"+40",293,"-11",11.819,"+0.215",72,"7",19,1805,342,11.819
-20,"=","ARIANA GRANDE","Problem f/Iggy Azalea",1805,"-19",-154,"+8",11.236,"+0.012",127,"28",7,4093,594,26.8
-21,"+1","JESSIE J/A. GRANDE/N. MINAJ","Bang Bang",1355,"+38",266,"-2",6.927,"+0.134",39,"3",21,1355,286,6.927
-22,"+1","ANDY GRAMMER","Back Home",1244,"+18",80,"+11",5.227,"+0.039",141,"576",22,1244,151,5.227
-23,"+1","DAUGHTRY","Battleships",1048,"+14",33,"-2",3.695,"+0.147",119,"619",23,1048,140,3.695
-24,"+1","ENRIQUE IGLESIAS","Bailando f/D.Bueno/S.Paul/GDZ",1045,"+24",159,"-5",4.76,"+0.086",60,"26",24,1045,204,4.76
-25,"+1","DEMI LOVATO","Really Don't Care f/Cher Lloyd",1022,"+8",91,"-12",4.684,"+0.001",78,"52",25,1022,157,4.684
-26,"+1","KONGOS","Come With Me Now",966,"-21",-97,"-28",7.119,"-0.053",134,"62",16,1890,248,11.579
-27,"+1","KATY PERRY","This Is How We Do",921,"+12",52,"-18",3.852,"+0.022",34,"23",27,921,306,3.852
-28,"+2","CHRISTINA PERRI","Burning Gold",804,"+6",69,"-13",2.289,"-0.018",64,"965",28,804,130,2.307
-29,"+2","G.R.L.","Ugly Heart",731,"+8",81,"-5",3.175,"+0.026",22,"196",29,731,311,3.175
-30,"+4","PHILLIP PHILLIPS","Unpack Your Heart",636,"+21",115,"+2",1.55,"+0.065",29,"--",30,636,152,1.55
-31,"+2","MATT NATHANSON","Headphones f/LOLO",635,"+4",76,"-20",2.856,"+0.021",41,"1302",31,635,139,2.864
-32,"=","CALVIN HARRIS","Summer",627,"-17",-242,"+42",3.96,"-0.021",123,"92",10,3003,462,18.308
-33,"+4","TOVE LO","Habits (Stay High)",608,"+51",216,"+32",4.977,"+0.340",30,"13",33,608,216,4.977
-34,"+4","MILKY CHANCE","Stolen Dance",599,"+43",308,"+10",2.938,"+0.245",14,"47",34,599,308,2.938
-35,"=","ARIANA GRANDE","Break Free f/Zedd",594,"+21",86,"+8",2.578,"+0.261",43,"10",35,594,133,2.578
-36,"+3","GAVIN DEGRAW","Fire",520,"+9",74,"-19",2.364,"+0.019",22,"810",36,520,174,2.364
-37,"-1","OH HONEY","Be Okay",496,"-62",-382,"-38",2.196,"-0.135",140,"1396",25,1057,153,4.187
-38,"+2","VANCE JOY","Riptide",462,"+23",142,"-8",1.909,"+0.138",17,"48",38,462,159,1.909
-39,"+4","ELLA HENDERSON","Ghost",340,"+9",88,"+0",1.088,"+0.036",11,"238",39,340,158,1.088
-40,"+4","JASON MRAZ","Love Someone",314,"-10",-12,"-7",0.665,"-0.008",64,"1126",40,335,78,0.858
-41,"+4","5 SECONDS OF SUMMER","Amnesia",310,"+14",79,"+3",1.236,"+0.037",20,"21",41,310,79,1.236
-42,"+4","LINDSEY STIRLING","Shatter Me f/Lzzy Hale",245,"-2",-2,"-11",1.157,"-0.014",43,"367",42,255,39,1.231
-43,"+4","ALEX & SIERRA","Scarecrow",231,"-9",-57,"-5",0.535,"-0.013",45,"841",39,334,99,0.731
-44,"+4","PALOMA FAITH","Only Love Can Hurt Like This",207,"+4",12,"+1",0.224,"-0.019",13,"1195",44,207,64,0.33
-45,"+4","HOZIER","Take Me To Church",200,"+4",25,"+0",0.674,"+0.035",4,"55",45,200,25,0.674
-46,"+4","SWITCHFOOT","When We Come Alive",186,"+3",0,"+8",0.494,"-0.006",41,"--",45,232,49,0.512
-47,"--","IGGY AZALEA","Black Widow f/Rita Ora",180,"--",-7,"--",0.962,"--",6,"6",47,187,33,0.994
-48,"--","KIESZA","Hideaway",169,"--",2,"--",0.671,"--",4,"38",48,188,50,0.777
-49,"--","JONATHAN JACKSON + ENATION","Everything Is Possible",117,"--",4,"--",0.187,"--",1,"--",49,117,4,0.187
-50,"--","JACQUIE LEE","Broken Ones",116,"--",3,"--",0.138,"--",1,"--",50,116,3,0.138
+"Title","Artist","Spins"
+"Maps","MAROON 5",6527
+"Stay With Me","SAM SMITH",5731
+"A Sky Full Of Stars","COLDPLAY",5584
+"Shake It Off","TAYLOR SWIFT",5432
+"Rude","MAGIC!",5293
+"Love Runs Out","ONEREPUBLIC",5049
+"All About That Bass","MEGHAN TRAINOR",4708
+"Am I Wrong","NICO & VINZ",4195
+"Angel In Blue Jeans","TRAIN",3978
+"Boom Clap","CHARLI XCX",3709
+"Cool Kids","ECHOSMITH",3497
+"Latch f/Sam Smith","DISCLOSURE",3148
+"Believer","AMERICAN AUTHORS",2931
+"Don't","ED SHEERAN",2744
+"Secrets","MARY LAMBERT",2494
+"Superheroes","THE SCRIPT",2182
+"Chandelier","SIA",2102
+"Try","COLBIE CAILLAT",1911
+"Rather Be f/Jess Glynne","CLEAN BANDIT",1805
+"Problem f/Iggy Azalea","ARIANA GRANDE",1805
+"Bang Bang","JESSIE J/A. GRANDE/N. MINAJ",1355
+"Back Home","ANDY GRAMMER",1244
+"Battleships","DAUGHTRY",1048
+"Bailando f/D.Bueno/S.Paul/GDZ","ENRIQUE IGLESIAS",1045
+"Really Don't Care f/Cher Lloyd","DEMI LOVATO",1022
+"Come With Me Now","KONGOS",966
+"This Is How We Do","KATY PERRY",921
+"Burning Gold","CHRISTINA PERRI",804
+"Ugly Heart","G.R.L.",731
+"Unpack Your Heart","PHILLIP PHILLIPS",636
+"Headphones f/LOLO","MATT NATHANSON",635
+"Summer","CALVIN HARRIS",627
+"Habits (Stay High)","TOVE LO",608
+"Stolen Dance","MILKY CHANCE",599
+"Break Free f/Zedd","ARIANA GRANDE",594
+"Fire","GAVIN DEGRAW",520
+"Be Okay","OH HONEY",496
+"Riptide","VANCE JOY",462
+"Ghost","ELLA HENDERSON",340
+"Love Someone","JASON MRAZ",314
+"Amnesia","5 SECONDS OF SUMMER",310
+"Shatter Me f/Lzzy Hale","LINDSEY STIRLING",245
+"Scarecrow","ALEX & SIERRA",231
+"Only Love Can Hurt Like This","PALOMA FAITH",207
+"Take Me To Church","HOZIER",200
+"When We Come Alive","SWITCHFOOT",186
+"Black Widow f/Rita Ora","IGGY AZALEA",180
+"Hideaway","KIESZA",169
+"Everything Is Possible","JONATHAN JACKSON + ENATION",117
+"Broken Ones","JACQUIE LEE",116

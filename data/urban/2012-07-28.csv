@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","USHER","Lemme See f/Rick Ros...",3930,"-61",167,"-100",27.425,"-0.398",87,"77",1,3991,662,27.831
-2,"=","2 CHAINZ","No Lie f/Drake",3906,"+41",252,"+32",26.361,"+0.236",78,"33",2,3906,632,26.501
-3,"=","KANYE WEST","Mercy f/Big Sean/Pus...",3615,"-27",-223,"-9",28.015,"-0.093",111,"19",1,4008,596,30.226
-4,"=","WALE","Bag Of Money f/Rick ...",3353,"+38",271,"+12",21.939,"+0.432",111,"299",4,3353,432,21.939
-5,"+1","J. COLE","Nobody's Perfect",2640,"+16",-176,"+92",20.028,"+0.191",175,"--",2,3708,501,25.02
-6,"-1","DJ KHALED","Take It To The Head",2610,"-67",-614,"+8",19.255,"-0.160",119,"117",4,3366,455,24.935
-7,"=","TREY SONGZ","2 Reasons /T.I.",2495,"+57",356,"-14",16.186,"+0.103",43,"119",7,2495,542,16.186
-8,"+1","MEEK MILL","Amen f/Drake & Jerem...",2434,"+66",258,"+24",16.406,"+0.063",55,"89",8,2434,446,16.643
-9,"-1","TREY SONGZ","Heart Attack",2423,"-14",-114,"+44",17.312,"-0.013",122,"81",1,3755,550,25.522
-10,"=","WIZ KHALIFA","Work Hard, Play Hard",2366,"+13",107,"-26",11.869,"+0.040",83,"41",8,2366,401,11.869
-11,"=","CASH OUT","Cashin Out",2068,"-22",-167,"-22",13.609,"-0.283",181,"45",1,3936,572,26.96
-12,"=","CHRIS BROWN","Till I Die f/Wiz Kha...",2018,"+32",147,"+28",11.282,"+0.205",78,"252",12,2018,272,11.282
-13,"=","LIL WAYNE","My Homies Still f/Bi...",1826,"+17",247,"-26",9.316,"-0.095",52,"66",13,1826,463,9.411
-14,"=","RICK ROSS","Touch 'N You f/Usher",1787,"+32",40,"+59",11.23,"+0.019",70,"--",13,1787,444,11.23
-15,"=","DRIICKY GRAHAM","Snapbacks & Tattoos",1649,"+25",137,"+14",9.222,"+0.104",97,"62",15,1649,244,9.222
-16,"=","DRAKE","Crew Love f/The Week...",1482,"-32",-65,"-55",12.511,"-0.395",139,"348",11,2098,410,18.674
-17,"=","KEYSHIA COLE","Enough Of No Love f/...",1412,"+39",337,"-13",8.784,"+0.233",24,"300",17,1412,537,8.784
-18,"+3","MIGUEL","Adorn",1296,"+27",314,"-21",7.973,"+0.283",23,"--",18,1296,376,7.973
-19,"+1","CHRIS BROWN","Sweet Love",1292,"+1",-92,"+33",8.724,"+0.036",109,"305",13,1748,336,10.681
-20,"-2","NICKI MINAJ","Beez In The Trap f/2...",1288,"-45",-453,"+13",8.108,"-0.349",111,"82",6,2658,475,18.747
-21,"+1","BRANDY","Put It Down f/Chris ...",1262,"+47",225,"+25",7.661,"+0.168",48,"280",21,1262,230,7.661
-22,"-3","MARY J. BLIGE","Why f/Rick Ross",1215,"-83",-429,"-51",5.685,"-0.271",104,"--",13,1753,303,9.079
-23,"=","FUTURE","Turn On The Lights",1158,"+52",247,"+25",7.1,"+0.307",27,"251",23,1158,306,7.1
-24,"=","NE-YO","Lazy Love",1100,"-3",58,"-6",5.481,"-0.023",54,"201",23,1103,281,5.504
-25,"=","ELLE VARNER","Refill",1061,"-21",-252,"+45",7.396,"-0.133",153,"--",9,2233,321,13.746
-26,"+1","FRENCH MONTANA","Pop That f/Rick Ross",989,"+30",179,"-3",6.625,"+0.027",34,"70",26,989,291,6.625
-27,"-1","BIRDMAN","Born Stunna f/Rick R...",972,"-12",71,"-31",4.66,"-0.072",62,"--",26,984,231,4.732
-28,"=","BEYONCE","Dance For You",966,"+45",208,"+44",7.607,"+0.203",67,"--",28,966,208,7.607
-29,"+1","OMARION","Let's Talk f/Rick Ro...",834,"+22",4,"+6",4.826,"+0.203",49,"--",29,834,234,5.092
-30,"-1","DRAKE","HYFR (Hell Ya F**kin...",780,"-40",-220,"-21",4.775,"-0.054",97,"148",18,1512,406,10.202
-31,"=","YO GOTTI","I Got That Sack",712,"-32",-318,"+10",3.39,"-0.144",118,"--",22,1215,182,5.8
-32,"+1","CHIEF KEEF","I Don't Like f/Lil R...",684,"+32",150,"+12",5.413,"+0.097",36,"155",32,684,150,5.413
-33,"-1","FRANK OCEAN","Thinking About You",654,"+1",162,"-42",4.548,"-0.028",133,"205",28,782,249,5.07
-34,"=","BOBBY V","Mirror f/Lil Wayne",626,"+17",130,"+4",2.503,"+0.067",27,"--",33,626,177,2.503
-35,"=","STERLING SIMMS","Tell Her Again",560,"+8",146,"-11",2.474,"+0.030",32,"--",35,560,157,2.474
-36,"=","FUTURE","Same Damn Time",525,"-12",-97,"+46",3.288,"-0.119",132,"--",9,2379,389,15.324
-37,"+2","DJ KHALED","I Wish You Would",522,"+23",188,"+12",3.595,"+0.184",9,"162",37,522,204,3.595
-38,"-1","WAKA FLOCKA FLAME","Get Low f/Nicki Mina...",515,"+5",91,"-15",2.253,"-0.056",19,"--",37,515,230,2.309
-39,"-1","THE-DREAM","Dope Chick f/Pusha T",508,"+6",37,"+12",3.871,"-0.051",13,"--",38,508,329,3.922
-40,"=","DIGGY","4 Letter Word",505,"+20",-6,"+37",2.391,"-0.002",47,"--",36,554,180,3.082
-41,"=","FAT JOE","Pride N Joy",437,"-2",44,"-3",1.404,"-0.014",17,"--",41,439,131,1.472
-42,"+2","NICKI MINAJ","Right By My Side f/C...",387,"-13",-132,"-4",2.929,"-0.050",124,"259",16,1698,486,10.488
-43,"=","LUDACRIS","Jingalin",384,"-18",-85,"-15",1.481,"-0.030",43,"--",38,474,143,2.233
-44,"-2","KENDRICK LAMAR","The Recipe f/Dr. Dre",379,"-49",-376,"-39",2.006,"-0.153",90,"268",23,1170,210,5.666
-45,"+1","MYKKO MONTANA","Do It f/K-Camp",374,"+29",75,"+22",1.919,"+0.070",15,"--",45,374,75,2.448
-46,"-1","LIL CHUCKEE","Da Wop",353,"+4",14,"-2",1.663,"-0.014",16,"--",45,353,124,1.677
-47,"=","KING L","Val Venis",345,"+2",97,"-13",1.173,"+0.009",6,"--",46,345,110,1.173
-48,"=","ACE HOOD","B.L.A.B (Ballin Like...",312,"-6",20,"-7",1.366,"-0.012",8,"--",46,318,70,1.409
-49,"+1","KRUSHAI","Legal",301,"+8",26,"+5",0.648,"+0.028",6,"--",48,301,26,0.648
-50,"--","TREY SONGZ","Dive In",285,"--",174,"--",2.37,"--",1,"--",50,285,174,2.37
+"Title","Artist","Spins"
+"Lemme See f/Rick Ros...","USHER",3930
+"No Lie f/Drake","2 CHAINZ",3906
+"Mercy f/Big Sean/Pus...","KANYE WEST",3615
+"Bag Of Money f/Rick ...","WALE",3353
+"Nobody's Perfect","J. COLE",2640
+"Take It To The Head","DJ KHALED",2610
+"2 Reasons /T.I.","TREY SONGZ",2495
+"Amen f/Drake & Jerem...","MEEK MILL",2434
+"Heart Attack","TREY SONGZ",2423
+"Work Hard, Play Hard","WIZ KHALIFA",2366
+"Cashin Out","CASH OUT",2068
+"Till I Die f/Wiz Kha...","CHRIS BROWN",2018
+"My Homies Still f/Bi...","LIL WAYNE",1826
+"Touch 'N You f/Usher","RICK ROSS",1787
+"Snapbacks & Tattoos","DRIICKY GRAHAM",1649
+"Crew Love f/The Week...","DRAKE",1482
+"Enough Of No Love f/...","KEYSHIA COLE",1412
+"Adorn","MIGUEL",1296
+"Sweet Love","CHRIS BROWN",1292
+"Beez In The Trap f/2...","NICKI MINAJ",1288
+"Put It Down f/Chris ...","BRANDY",1262
+"Why f/Rick Ross","MARY J. BLIGE",1215
+"Turn On The Lights","FUTURE",1158
+"Lazy Love","NE-YO",1100
+"Refill","ELLE VARNER",1061
+"Pop That f/Rick Ross","FRENCH MONTANA",989
+"Born Stunna f/Rick R...","BIRDMAN",972
+"Dance For You","BEYONCE",966
+"Let's Talk f/Rick Ro...","OMARION",834
+"HYFR (Hell Ya F**kin...","DRAKE",780
+"I Got That Sack","YO GOTTI",712
+"I Don't Like f/Lil R...","CHIEF KEEF",684
+"Thinking About You","FRANK OCEAN",654
+"Mirror f/Lil Wayne","BOBBY V",626
+"Tell Her Again","STERLING SIMMS",560
+"Same Damn Time","FUTURE",525
+"I Wish You Would","DJ KHALED",522
+"Get Low f/Nicki Mina...","WAKA FLOCKA FLAME",515
+"Dope Chick f/Pusha T","THE-DREAM",508
+"4 Letter Word","DIGGY",505
+"Pride N Joy","FAT JOE",437
+"Right By My Side f/C...","NICKI MINAJ",387
+"Jingalin","LUDACRIS",384
+"The Recipe f/Dr. Dre","KENDRICK LAMAR",379
+"Do It f/K-Camp","MYKKO MONTANA",374
+"Da Wop","LIL CHUCKEE",353
+"Val Venis","KING L",345
+"B.L.A.B (Ballin Like...","ACE HOOD",312
+"Legal","KRUSHAI",301
+"Dive In","TREY SONGZ",285

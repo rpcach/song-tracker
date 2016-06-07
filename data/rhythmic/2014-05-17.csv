@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","TREY SONGZ","Na Na",5966,-107,-38,-229,35.914,-0.663,124,"56",1,6166,600,36.747
-2,"=","CHRIS BROWN","Loyal f/Lil' Wayne",5756,-44,-290,-24,37.428,-0.776,129,"90",1,6195,601,40.65
-3,"=","DJ SNAKE & LIL JON","Turn Down For What",5675,45,319,-25,32.54,0.064,119,"5",3,5675,929,32.54
-4,"=","IGGY AZALEA","Fancy",5336,97,614,29,29.761,0.752,62,"2",4,5336,882,29.761
-5,"=","BEYONCE","Partition",4404,-67,-220,-51,24.878,-0.192,111,"82",5,4687,680,26.289
-6,"=","JOHN LEGEND","All Of Me",4199,-36,-411,59,23.204,-0.061,167,"4",1,5977,848,34.314
-7,"=","JASON DERULO","Talk Dirty f/2 Chainz",4032,-100,-532,-47,23.887,-0.511,134,"23/51",1,6246,884,36.925
-8,"=","JHENE AIKO","The Worst",3138,-15,-39,6,19.644,-0.16,118,"163",8,3211,352,20.753
-9,"=","YOUNG MONEY","Trophies f/Drake",3102,-25,-115,-17,16.138,0.073,73,"78",8,3225,544,16.619
-10,"=","JUSTIN TIMBERLAKE","Not A Bad Thing",3055,53,216,29,14.183,0.259,62,"15",10,3055,481,14.183
-11,"=","KATY PERRY","Dark Horse",2907,-48,-307,10,22.282,-0.542,180,"19",2,5716,639,34.543
-12,"=","PHARRELL WILLIAMS","Happy",2595,-53,-486,62,15.893,-0.203,116,"6",1,6311,1153,41.469
-13,"=","YG","Who Do You Love f/Drake",2577,43,348,-5,16.389,0.082,76,"150",13,2577,385,16.389
-14,"=","TECH N9NE","Fragile",2522,14,82,9,10.253,0.037,94,"146",13,2522,376,10.253
-15,"=","ARIANA GRANDE","Problem f/Iggy Azalea",2370,85,647,-25,13.555,0.429,16,"1",15,2370,1195,13.555
-16,"+1","TINASHE","2 On f/Schoolboy Q",2142,63,301,40,12.972,0.491,48,"141",16,2142,380,12.972
-17,"-1","KID INK","Main Chick f/Chris Brown",2130,33,253,18,13.046,0.243,63,"149",15,2130,398,13.046
-18,"=","FUTURE","Move That Doh f/Pharrell",1810,7,71,5,12.293,-0.006,62,"--",18,1810,318,12.299
-19,"+1","CHILDISH GAMBINO","V. 3005",1768,16,177,-27,9.654,0.169,68,"--",19,1768,339,9.654
-20,"-1","LORDE","Team",1754,-8,-227,27,11.905,-0.069,153,"79",7,3743,655,21.182
-21,"=","EMINEM","Headlights",1488,-90,-371,-93,5.631,-0.259,81,"130",16,1907,342,7.015
-22,"=","JASON DERULO","Wiggle f/Snoop Dogg",1452,74,466,5,5.53,0.354,20,"8",22,1452,466,5.53
-23,"=","CALVIN HARRIS","Summer",1330,16,176,-9,7.328,0.023,41,"13",22,1330,252,7.328
-24,"=","USHER","Good Kisser",1311,77,692,-78,7.648,0.465,9,"101",24,1311,930,7.648
-25,"=","ADRIAN MARCEL","2AM",1212,30,31,34,5.572,0.157,61,"392",22,1212,193,5.674
-26,"=","KAT DAHLIA","Crazy",1150,11,65,1,4.006,0.092,101,"301",25,1150,183,4.006
-27,"+1","K CAMP","Cut Her Off",1055,23,165,-12,6.953,0.388,34,"91",27,1055,225,6.953
-28,"-1","ED SHEERAN","Sing",1049,14,107,-14,3.887,0.008,28,"12",27,1049,339,4.324
-29,"=","AUGUST ALSINA","Numb f/B.o.B. & Yo Gotti",1007,23,31,25,4.075,0.014,41,"--",26,1007,185,4.177
-30,"=","JAY Z","Part II (On The Run) f/Beyonce",901,-34,-127,-19,7.387,-0.154,111,"264",12,2471,323,16.487
-31,"+2","LIL WAYNE","Believe Me f/Drake",895,99,589,10,7.863,0.399,7,"--",31,895,589,7.863
-32,"=","PITBULL","Wild Wild Love f/GRL",867,11,38,10,3.78,0.064,58,"21",32,867,189,3.78
-33,"-2","YOUNG THUG","Stoner",833,-30,-134,-15,6.512,-0.195,80,"151",22,1314,282,9.308
-34,"=","KATY PERRY","Birthday",720,31,175,-2,3.626,0.197,20,"26",34,720,295,3.626
-35,"=","WILL.I.AM","Feelin' Myself f/Miley Cyrus",655,-20,-197,-6,2.831,-0.001,91,"278",17,1581,278,7.612
-36,"=","SOMO","Show Off",643,-5,-7,-2,1.756,-0.033,32,"--",34,659,232,1.846
-37,"=","RICK ROSS","Thug Cry f/Lil Wayne",613,-2,25,-19,2.584,-0.045,39,"255",36,619,212,3.1
-38,"=","MAGIC!","Rude",610,11,184,-22,4.137,0.126,10,"14",38,610,209,4.137
-39,"+2","NAUGHTY BOY","La La La f/Sam Smith",587,23,69,24,3.556,0.208,93,"33",38,587,154,3.556
-40,"-1","BANDO JONEZ","Sex You",565,-9,-74,9,2.976,-0.004,35,"--",33,657,175,3.907
-41,"-1","ALOE BLACC","The Man",536,-30,-256,10,2.535,-0.126,113,"45",11,2659,527,12.258
-42,"=","SAGE THE GEMINI","College Drop",528,27,79,18,3.027,0.148,13,"--",42,528,150,3.027
-43,"=","MALLY MALL & TYGA","Wake Up In It",478,-5,16,-14,2.179,-0.115,19,"--",41,483,196,2.341
-44,"=","CA$H OUT","She Twerkin",475,3,25,2,2.354,0.029,24,"--",42,475,146,2.405
-45,"=","SEVYN STREETER","Next",409,-5,10,-10,2.197,-0.109,16,"--",45,414,108,2.991
-46,"+1","DISCLOSURE","Latch f/Sam Smith",382,10,57,-4,1.832,0.066,6,"22",46,382,61,1.832
-47,"-1","50 CENT","Smoke f/Trey Songz",378,3,-12,-4,2.451,-0.071,26,"330",43,452,108,3.763
-48,"+1","NICO & VINZ","Am I Wrong",347,13,45,3,1.007,0.068,5,"7",48,347,63,1.007
-49,"-1","BOOSIE & WEBBIE","Show Da World f/Kiara",339,-10,-15,-8,3.613,-0.121,38,"--",43,442,123,5.222
-50,"=","PROPAIN","2 Rounds f/Rich Homie Quan",280,-6,24,-13,3.091,-0.047,2,"--",50,286,37,3.138
+"Title","Artist","Spins"
+"Na Na","TREY SONGZ",5966
+"Loyal f/Lil' Wayne","CHRIS BROWN",5756
+"Turn Down For What","DJ SNAKE & LIL JON",5675
+"Fancy","IGGY AZALEA",5336
+"Partition","BEYONCE",4404
+"All Of Me","JOHN LEGEND",4199
+"Talk Dirty f/2 Chainz","JASON DERULO",4032
+"The Worst","JHENE AIKO",3138
+"Trophies f/Drake","YOUNG MONEY",3102
+"Not A Bad Thing","JUSTIN TIMBERLAKE",3055
+"Dark Horse","KATY PERRY",2907
+"Happy","PHARRELL WILLIAMS",2595
+"Who Do You Love f/Drake","YG",2577
+"Fragile","TECH N9NE",2522
+"Problem f/Iggy Azalea","ARIANA GRANDE",2370
+"2 On f/Schoolboy Q","TINASHE",2142
+"Main Chick f/Chris Brown","KID INK",2130
+"Move That Doh f/Pharrell","FUTURE",1810
+"V. 3005","CHILDISH GAMBINO",1768
+"Team","LORDE",1754
+"Headlights","EMINEM",1488
+"Wiggle f/Snoop Dogg","JASON DERULO",1452
+"Summer","CALVIN HARRIS",1330
+"Good Kisser","USHER",1311
+"2AM","ADRIAN MARCEL",1212
+"Crazy","KAT DAHLIA",1150
+"Cut Her Off","K CAMP",1055
+"Sing","ED SHEERAN",1049
+"Numb f/B.o.B. & Yo Gotti","AUGUST ALSINA",1007
+"Part II (On The Run) f/Beyonce","JAY Z",901
+"Believe Me f/Drake","LIL WAYNE",895
+"Wild Wild Love f/GRL","PITBULL",867
+"Stoner","YOUNG THUG",833
+"Birthday","KATY PERRY",720
+"Feelin' Myself f/Miley Cyrus","WILL.I.AM",655
+"Show Off","SOMO",643
+"Thug Cry f/Lil Wayne","RICK ROSS",613
+"Rude","MAGIC!",610
+"La La La f/Sam Smith","NAUGHTY BOY",587
+"Sex You","BANDO JONEZ",565
+"The Man","ALOE BLACC",536
+"College Drop","SAGE THE GEMINI",528
+"Wake Up In It","MALLY MALL & TYGA",478
+"She Twerkin","CA$H OUT",475
+"Next","SEVYN STREETER",409
+"Latch f/Sam Smith","DISCLOSURE",382
+"Smoke f/Trey Songz","50 CENT",378
+"Am I Wrong","NICO & VINZ",347
+"Show Da World f/Kiara","BOOSIE & WEBBIE",339
+"2 Rounds f/Rich Homie Quan","PROPAIN",280

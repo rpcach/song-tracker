@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","ROBIN THICKE","Blurred Lines f/P...",6953,-40,-143,-34,47.484,-0.211,111,"2/90",1,7105,942,48.795
-2,"=","DAFT PUNK","Get Lucky",5033,-142,-585,-118,30.554,-0.88,114,"14",2,5752,568,35.139
-3,"=","BRUNO MARS","Treasure",4798,51,280,-17,27.406,0.56,97,"18/63",3,4798,562,27.406
-4,"=","JAY Z","Holy Grail f/Just...",4625,100,715,-32,29.267,0.681,44,"5",4,4625,1093,29.267
-5,"=","MACKLEMORE & RYAN...","Same Love f/Mary ...",4497,-13,-263,22,23.568,-0.236,91,"13",3,4863,642,26.678
-6,"=","J. COLE","Crooked Smile",4241,18,312,-32,25.666,-0.219,69,"--",6,4241,518,25.885
-7,"=","ARIANA GRANDE","The Way f/Mac Mil...",3765,-56,-307,-22,26.235,-0.018,125,"67",2,5092,672,31.307
-8,"=","J. COLE","Power Trip f/Migu...",3036,-68,-498,-3,23.755,-0.299,174,"117",1,6001,606,37.419
-9,"=","JASON DERULO","The Other Side",2956,6,102,-15,16.405,-0.05,111,"51",9,2963,293,16.589
-10,"+1","ZEDD","Clarity f/Foxes",2597,25,228,-19,16.041,0.053,76,"19",10,2597,377,16.041
-11,"+1","JUSTIN TIMBERLAKE","Take Back The Nig...",2565,13,171,-31,12.864,0.049,35,"54",11,2565,1216,12.864
-12,"-2","MACKLEMORE & RYAN...","Can't Hold Us f/R...",2563,-34,-412,17,19.931,-0.111,169,"23",1,6131,932,40.124
-13,"=","CIARA","Body Party",2461,-72,-358,-31,13.694,-0.203,116,"132",9,3022,362,17.712
-14,"=","RIHANNA","Right Now f/David...",2136,-62,-205,-71,10.745,-0.535,79,"188",13,2339,377,12.887
-15,"+1","CALVIN HARRIS F/E...","I Need Your Love",1985,0,102,-20,9.843,-0.178,82,"35",15,1985,262,10.021
-16,"-1","JUSTIN TIMBERLAKE","Mirrors",1976,-48,-340,12,13.86,-0.468,144,"45",1,5966,892,39.213
-17,"=","SEAN KINGSTON","Beat It f/Chris B...",1870,-26,-247,21,13.684,-0.093,128,"232",8,3355,418,22.085
-18,"=","RICH GANG","Tapout f/Birdman,...",1790,15,72,7,10.08,-0.005,95,"88",18,1790,262,10.266
-19,"+3","DRAKE","Hold On We're Goi...",1778,207,1073,38,15.728,1.057,10,"--",19,1778,1264,15.728
-20,"=","CHRIS BROWN","Love More f/Nicki...",1751,53,426,17,9.957,-0.066,23,"158",20,1751,653,10.023
-21,"-2","2 CHAINZ","Feds Watching f/P...",1721,1,170,-12,9.344,0.112,63,"95",19,1721,269,9.344
-22,"-1","BIG SEAN","Beware f/Lil Wayn...",1611,30,331,4,9.01,0.209,41,"38",21,1611,331,9.01
-23,"+1","MILEY CYRUS","We Can't Stop",1484,19,182,-20,7.157,0.182,48,"6",22,1484,278,7.157
-24,"-1","DJ KHALED F/DRAKE...","No New Friends",1440,-34,-197,3,11.792,-0.133,112,"182",10,2977,469,17.854
-25,"=","WALE","LoveHate Thing f/...",1242,8,66,4,8.425,0.017,58,"208",25,1242,232,8.425
-26,"=","FRENCH MONTANA","Ain't Worried Abo...",1228,0,-41,10,7.738,0.143,63,"118",23,1279,220,8.276
-27,"=","KENDRICK LAMAR","B**ch, Don't Kill...",1161,-24,-138,-5,8.604,-0.113,146,"--",8,3392,428,23.087
-28,"=","NELLY","Get Like Me f/Min...",1002,12,66,11,3.474,0.066,37,"247",28,1002,284,3.696
-29,"=","LIL WAYNE","Rich As F**k f/2 ...",882,-46,-304,-3,6.322,-0.181,131,"--",16,2244,295,15.866
-30,"=","JAY SEAN","Mars f/Rick Ross",876,-9,41,-19,2.522,-0.11,54,"--",30,885,183,2.658
-31,"=","FLO RIDA","Can't Believe It ...",845,31,458,-45,4.276,0.137,8,"86",31,845,551,4.276
-32,"=","LANA DEL REY","Summertime Sadnes...",825,35,196,8,4.841,0.225,16,"16/28",32,825,295,4.841
-33,"=","MAJOR LAZER","Bubble Butt f/Bru...",748,-17,-556,109,2.837,-0.091,75,"120",15,2420,394,11.817
-34,"=","ARIANA GRANDE","Baby I",712,9,269,-42,3.404,0.016,10,"200",34,712,378,3.404
-35,"=","YO GOTTI","Act Right f/Young...",696,-4,24,-3,3.391,0.166,48,"190",34,702,163,3.391
-36,"=","MARIAH CAREY","#Beautiful f/Migu...",673,-12,-166,22,5.315,-0.04,102,"157",10,3100,1474,18.227
-37,"=","MIGUEL","How Many Drinks?",670,3,58,-20,8.893,0.169,111,"--",27,1021,314,8.893
-38,"+6","KATY PERRY","Roar",617,91,617,91,4.697,0.484,3,"1",38,617,617,4.697
-39,"-1","MARIO","Somebody Else f/N...",591,-17,-119,-1,2.869,-0.142,48,"327",33,767,184,3.981
-40,"-1","FANTASIA","Without Me f/Kell...",568,-17,-44,-15,3.968,-0.146,69,"268",35,626,113,4.897
-41,"+1","IMAGINE DRAGONS","Radioactive",557,11,43,-2,3.862,0.093,27,"9",40,557,161,3.862
-42,"+3","ROBIN THICKE","Give It 2 U f/Ken...",550,29,158,-7,3.868,0.091,11,"181",42,550,256,3.868
-43,"-2","DORROUGH MUSIC","After Party",550,-1,-7,-3,2.059,-0.013,40,"--",38,557,105,2.072
-44,"-1","ENRIQUE IGLESIAS","Turn The Night Up",535,-6,33,-6,2.447,-0.007,20,"55",41,541,298,2.454
-45,"+2","B.O.B","Headband  f/2 Cha...",520,2,102,-23,4.356,-0.215,21,"56",45,520,125,4.571
-46,"-6","DJ FELLI FEL","Reason To Hate f/...",520,-51,-455,2,3.778,-0.157,86,"--",25,1225,182,8.099
-47,"-1","ROCKO","U.O.E.N.O",513,-8,-132,13,5.285,0.017,69,"205",28,864,175,7.855
-48,"=","RICH HOMIE QUAN","Type Of Way",511,18,49,21,5.036,0.154,20,"153",43,511,155,5.036
-49,"=","IGGY AZALEA","Work",494,17,53,10,1.68,0.099,27,"--",44,494,85,1.68
-50,"=","BECKY G","Play It Again",431,7,32,7,1.622,0.004,34,"--",44,431,75,1.944
+"Title","Artist","Spins"
+"Blurred Lines f/P...","ROBIN THICKE",6953
+"Get Lucky","DAFT PUNK",5033
+"Treasure","BRUNO MARS",4798
+"Holy Grail f/Just...","JAY Z",4625
+"Same Love f/Mary ...","MACKLEMORE & RYAN...",4497
+"Crooked Smile","J. COLE",4241
+"The Way f/Mac Mil...","ARIANA GRANDE",3765
+"Power Trip f/Migu...","J. COLE",3036
+"The Other Side","JASON DERULO",2956
+"Clarity f/Foxes","ZEDD",2597
+"Take Back The Nig...","JUSTIN TIMBERLAKE",2565
+"Can't Hold Us f/R...","MACKLEMORE & RYAN...",2563
+"Body Party","CIARA",2461
+"Right Now f/David...","RIHANNA",2136
+"I Need Your Love","CALVIN HARRIS F/E...",1985
+"Mirrors","JUSTIN TIMBERLAKE",1976
+"Beat It f/Chris B...","SEAN KINGSTON",1870
+"Tapout f/Birdman,...","RICH GANG",1790
+"Hold On We're Goi...","DRAKE",1778
+"Love More f/Nicki...","CHRIS BROWN",1751
+"Feds Watching f/P...","2 CHAINZ",1721
+"Beware f/Lil Wayn...","BIG SEAN",1611
+"We Can't Stop","MILEY CYRUS",1484
+"No New Friends","DJ KHALED F/DRAKE...",1440
+"LoveHate Thing f/...","WALE",1242
+"Ain't Worried Abo...","FRENCH MONTANA",1228
+"B**ch, Don't Kill...","KENDRICK LAMAR",1161
+"Get Like Me f/Min...","NELLY",1002
+"Rich As F**k f/2 ...","LIL WAYNE",882
+"Mars f/Rick Ross","JAY SEAN",876
+"Can't Believe It ...","FLO RIDA",845
+"Summertime Sadnes...","LANA DEL REY",825
+"Bubble Butt f/Bru...","MAJOR LAZER",748
+"Baby I","ARIANA GRANDE",712
+"Act Right f/Young...","YO GOTTI",696
+"#Beautiful f/Migu...","MARIAH CAREY",673
+"How Many Drinks?","MIGUEL",670
+"Roar","KATY PERRY",617
+"Somebody Else f/N...","MARIO",591
+"Without Me f/Kell...","FANTASIA",568
+"Radioactive","IMAGINE DRAGONS",557
+"Give It 2 U f/Ken...","ROBIN THICKE",550
+"After Party","DORROUGH MUSIC",550
+"Turn The Night Up","ENRIQUE IGLESIAS",535
+"Headband  f/2 Cha...","B.O.B",520
+"Reason To Hate f/...","DJ FELLI FEL",520
+"U.O.E.N.O","ROCKO",513
+"Type Of Way","RICH HOMIE QUAN",511
+"Work","IGGY AZALEA",494
+"Play It Again","BECKY G",431

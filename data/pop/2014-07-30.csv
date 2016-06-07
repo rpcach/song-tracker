@@ -1,51 +1,51 @@
-"Pos","Pos.","Artist","Title","Spins","Spins.","Bullet","Bullet.","Aud","Aud.","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","MAGIC!","Rude",17893,"-62",281,"-177",116.822,"-0.387",105,"4",1,17955,2371,118.65
-2,"=","NICO & VINZ","Am I Wrong",17126,"-117",-599,"-137",111.711,"-1.344",120,"10",1,17731,2409,119.274
-3,"=","SAM SMITH","Stay With Me",15496,"+109",1748,"-223",101.325,"+0.458",79,"6",3,15496,2202,101.325
-4,"+1","DISCLOSURE","Latch f/Sam Smith",14202,"+91",1221,"-154",86.574,"+0.062",178,"21",4,14202,1542,86.574
-5,"-1","ARIANA GRANDE","Problem f/Iggy Azalea",13997,"-225",-1974,"+121",89.881,"-2.316",91,"11",1,17403,2576,116.283
-6,"=","CALVIN HARRIS","Summer",10649,"-259",-2438,"+133",64.942,"-1.445",131,"35",3,14953,1917,95.785
-7,"=","IGGY AZALEA","Fancy f/Charlie XCX",10131,"-155",-1050,"+118",76.064,"-1.632",131,"19/47",1,17156,2440,116.166
-8,"=","MAROON 5","Maps",9961,"+97",792,"-45",55.103,"-0.012",44,"7",8,9961,4866,55.115
-9,"=","CHARLI XCX","Boom Clap",9500,"+155",1469,"-159",55.855,"+0.990",46,"9",9,9500,1942,55.855
-10,"=","ONEREPUBLIC","Love Runs Out",8804,"+5",372,"-56",45.133,"+0.001",89,"20",9,8804,1336,45.354
-11,"=","DEMI LOVATO","Really Don't Care f/Cher Lloyd",8618,"+59",862,"-127",49.028,"+0.443",66,"44",10,8618,1152,49.028
-12,"=","PHARRELL WILLIAMS","Come Get It Bae",6736,"-34",228,"-136",28.832,"-0.168",68,"43",12,6770,993,29
-13,"=","ARIANA GRANDE","Break Free f/Zedd",6660,"+97",1231,"-187",41.015,"+0.128",25,"12",13,6660,2327,41.015
-14,"=","SIA","Chandelier",6311,"+176",827,"+44",38.476,"+0.678",101,"8",13,6311,1217,38.476
-15,"=","CLEAN BANDIT","Rather Be f/Jess Glynne",6017,"+70",676,"-23",39.361,"+0.255",62,"16",14,6017,1347,39.361
-16,"=","BECKY G","Shower",4936,"+23",472,"-78",21.54,"+0.256",75,"14",16,4936,853,21.54
-17,"=","IGGY AZALEA","Black Widow f/Rita Ora",4914,"+77",1068,"-111",28.678,"-0.008",31,"17",17,4914,1396,28.686
-18,"=","ENRIQUE IGLESIAS","Bailando f/Gente De Zona",4723,"+159",1073,"+51",44.712,"+1.339",66,"41",18,4723,1073,44.712
-19,"+1","TIESTO","Wasted",3796,"-29",31,"-41",17.332,"-0.384",78,"48",19,3825,775,19.749
-20,"-1","KONGOS","Come With Me Now",3746,"-220",-1275,"-150",15.727,"-0.721",103,"29",14,5298,652,21.39
-21,"=","AFROJACK","Ten Feet Tall f/Wrabel",3155,"-167",-661,"-151",12.42,"-0.685",122,"138",19,3920,633,17.363
-22,"=","RITA ORA","I Will Never Let You Down",3002,"+66",215,"+66",13.483,"-0.063",66,"119",22,3002,643,13.729
-23,"=","KIESZA","Hideaway",2940,"+80",684,"+10",21.379,"+0.500",31,"65",23,2940,714,21.379
-24,"=","AJR","I'm Ready",2452,"-49",-81,"-53",7.521,"-0.150",110,"40",24,2537,461,8.111
-25,"=","JASON DERULO","Wiggle f/Snoop Dogg",2262,"-141",-1849,"+232",9.588,"-0.641",82,"34",10,7555,1666,36.719
-26,"=","FLORIDA-GEORGIA LINE","This Is How We Roll f/J.Derulo",2096,"+35",259,"+16",10.686,"+0.243",13,"69",26,2096,1589,10.686
-27,"+1","MEGHAN TRAINOR","All About That Bass",1984,"+144",866,"+55",9.872,"+0.690",22,"2",27,1984,866,9.872
-28,"-1","ECHOSMITH","Cool Kids",1952,"+47",314,"-1",9.449,"+0.260",52,"28",27,1952,377,9.449
-29,"+2","5 SECONDS OF SUMMER","Amnesia",1912,"+103",794,"-40",7.571,"+0.287",14,"62",29,1912,912,7.571
-30,"=","ED SHEERAN","Don't",1910,"+98",671,"-14",8.918,"+0.314",17,"79",29,1910,795,8.918
-31,"-2","INGRID MICHAELSON","Girls Chase Boys",1869,"+31",286,"-26",8.276,"+0.013",52,"49",28,1869,420,8.276
-32,"=","TINASHE","2 On f/Schoolboy Q",1831,"+56",367,"-7",9.884,"+0.123",51,"60",32,1831,374,9.884
-33,"=","MADDEN BROTHERS","We Are Done",1753,"-6",110,"-30",5.825,"-0.017",47,"--",31,1759,424,6.009
-34,"=","TREY SONGZ","Na Na",1511,"-109",-699,"-31",11.598,"-0.846",117,"86",27,2847,394,18.704
-35,"+1","COLDPLAY","A Sky Full Of Stars",1421,"+45",277,"+24",7.235,"+0.216",31,"42",35,1421,277,7.235
-36,"-1","LORDE","Tennis Court",1333,"-161",-1424,"+32",6.459,"-0.587",92,"109",22,3658,590,16.188
-37,"+1","TOVE LO","Habits (Stay High)",1319,"+26",194,"+7",5.334,"+0.214",37,"82",37,1319,231,5.334
-38,"-1","ED SHEERAN","Sing",1303,"-5",-348,"+89",6.101,"-0.033",113,"76",6,10622,2778,57.807
-39,"--","JESSIE J/A. GRANDE/N. MINAJ","Bang Bang",1288,"--",1288,"--",13.499,"--",1,"1",39,1288,1288,13.499
-40,"-1","KATY PERRY","Birthday",1163,"-64",-782,"+183",5.479,"-0.317",115,"140",7,9576,2209,52.775
-41,"-1","STEVE AOKI, C. LAKE & TUJAMO","Delirious (Boneless) f/Kid Ink",969,"+28",244,"+2",6.599,"-0.067",17,"95",40,969,337,6.666
-42,"-1","FIFTH HARMONY","BO$$",900,"+42",283,"-15",2.851,"+0.123",10,"75",41,900,398,2.851
-43,"-1","CHROMEO","Jealous (I Ain't With It)",845,"-11",-18,"-14",2.077,"-0.059",59,"--",40,922,182,3.368
-44,"-1","JEREMIH","Don't Tell 'Em f/YG",834,"+26",350,"-20",7.578,"+0.114",10,"38",43,834,370,7.578
-45,"-1","CAPITAL CITIES","One Minute More",804,"+4",45,"+16",2.023,"-0.014",38,"--",42,804,180,2.058
-46,"=","USHER","She Came To Give It To You",635,"+81",396,"+64",2.835,"+0.094",3,"--",46,635,396,2.835
-47,"-2","THE 1975","Girls",595,"+6",140,"-61",1.425,"-0.024",9,"--",45,595,353,1.449
-48,"-1","MR PROBZ","Waves",550,"+1",31,"-16",2.831,"-0.113",17,"114",46,550,116,3.029
-49,"-1","DILLON FRANCIS & DJ SNAKE","Get Low",539,"+7",66,"-14",1.386,"-0.023",13,"--",47,552,204,1.622
-50,"-1","G.R.L.","Ugly Heart",533,"+14",25,"+27",1.482,"-0.010",23,"--",45,533,134,1.757
+"Title","Artist","Spins"
+"Rude","MAGIC!",17893
+"Am I Wrong","NICO & VINZ",17126
+"Stay With Me","SAM SMITH",15496
+"Latch f/Sam Smith","DISCLOSURE",14202
+"Problem f/Iggy Azalea","ARIANA GRANDE",13997
+"Summer","CALVIN HARRIS",10649
+"Fancy f/Charlie XCX","IGGY AZALEA",10131
+"Maps","MAROON 5",9961
+"Boom Clap","CHARLI XCX",9500
+"Love Runs Out","ONEREPUBLIC",8804
+"Really Don't Care f/Cher Lloyd","DEMI LOVATO",8618
+"Come Get It Bae","PHARRELL WILLIAMS",6736
+"Break Free f/Zedd","ARIANA GRANDE",6660
+"Chandelier","SIA",6311
+"Rather Be f/Jess Glynne","CLEAN BANDIT",6017
+"Shower","BECKY G",4936
+"Black Widow f/Rita Ora","IGGY AZALEA",4914
+"Bailando f/Gente De Zona","ENRIQUE IGLESIAS",4723
+"Wasted","TIESTO",3796
+"Come With Me Now","KONGOS",3746
+"Ten Feet Tall f/Wrabel","AFROJACK",3155
+"I Will Never Let You Down","RITA ORA",3002
+"Hideaway","KIESZA",2940
+"I'm Ready","AJR",2452
+"Wiggle f/Snoop Dogg","JASON DERULO",2262
+"This Is How We Roll f/J.Derulo","FLORIDA-GEORGIA LINE",2096
+"All About That Bass","MEGHAN TRAINOR",1984
+"Cool Kids","ECHOSMITH",1952
+"Amnesia","5 SECONDS OF SUMMER",1912
+"Don't","ED SHEERAN",1910
+"Girls Chase Boys","INGRID MICHAELSON",1869
+"2 On f/Schoolboy Q","TINASHE",1831
+"We Are Done","MADDEN BROTHERS",1753
+"Na Na","TREY SONGZ",1511
+"A Sky Full Of Stars","COLDPLAY",1421
+"Tennis Court","LORDE",1333
+"Habits (Stay High)","TOVE LO",1319
+"Sing","ED SHEERAN",1303
+"Bang Bang","JESSIE J/A. GRANDE/N. MINAJ",1288
+"Birthday","KATY PERRY",1163
+"Delirious (Boneless) f/Kid Ink","STEVE AOKI, C. LAKE & TUJAMO",969
+"BO$$","FIFTH HARMONY",900
+"Jealous (I Ain't With It)","CHROMEO",845
+"Don't Tell 'Em f/YG","JEREMIH",834
+"One Minute More","CAPITAL CITIES",804
+"She Came To Give It To You","USHER",635
+"Girls","THE 1975",595
+"Waves","MR PROBZ",550
+"Get Low","DILLON FRANCIS & DJ SNAKE",539
+"Ugly Heart","G.R.L.",533

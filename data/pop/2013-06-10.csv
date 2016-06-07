@@ -1,51 +1,51 @@
-"Pos","Pos.","Artist","Title","Spins","Spins.","Bullet","Bullet.","Aud","Aud.","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","MACKLEMORE & RYAN...","Can't Hold Us f/R...",16425,"-1",329,"-163",111.727,"-0.160",88,"4",1,16503,2448,111.887
-2,"=","JUSTIN TIMBERLAKE","Mirrors",15890,"-27",-164,"-86",109.877,"-0.474",80,"10",1,16201,3114,111.865
-3,"=","ICONA POP","I Love It f/Charl...",14267,"+64",601,"-186",93.264,"+0.210",122,"14",3,14267,1359,93.264
-4,"=","PINK","Just Give Me A Re...",11658,"-80",-1128,"+111",79.912,"-1.026",110,"8",1,15624,1949,106.133
-5,"=","SELENA GOMEZ","Come & Get It",11610,"+121",1092,"-152",73.595,"+1.293",62,"7",5,11610,2034,73.595
-6,"=","DEMI LOVATO","Heart Attack",10569,"-234",-1573,"-279",62.613,"-1.526",102,"29",4,12179,2482,74.905
-7,"=","FLORIDA-GEORGIA L...","Cruise",8951,"+63",694,"-119",46.084,"-0.032",76,"5/17",7,8951,1411,46.48
-8,"+1","DAFT PUNK","Get Lucky",8629,"+61",1463,"-260",56.994,"+1.144",49,"2",8,8629,1817,56.994
-9,"+1","FALL OUT BOY","My Songs Know Wha...",8527,"+32",485,"-138",49.402,"+0.314",120,"15",8,8527,1015,49.402
-10,"-2","RIHANNA","Stay f/Mikky Ekko",8392,"-275",-1203,"-201",55.33,"-2.078",134,"30",1,15599,1920,102.136
-11,"=","JASON DERULO","The Other Side",7565,"+22",281,"-142",43.803,"-0.265",52,"25",11,7565,2399,44.068
-12,"=","ARIANA GRANDE","The Way f/Mac Mil...",7537,"+21",404,"-65",38.99,"+0.177",71,"16",12,7537,1373,38.99
-13,"=","BRUNO MARS","Treasure",6979,"+267",1534,"+60",44.959,"+1.792",30,"19",13,6979,2114,44.959
-14,"+1","IMAGINE DRAGONS","Radioactive",6518,"+248",1281,"+92",37.949,"+1.552",58,"3",14,6518,1281,37.949
-15,"-1","MARIAH CAREY","#Beautiful f/Migu...",6331,"+30",330,"+0",34.779,"-0.221",35,"18",14,6331,3429,35
-16,"+2","ROBIN THICKE","Blurred Lines f/P...",6032,"+247",2245,"-103",43.882,"+1.901",32,"1",16,6032,2498,43.882
-17,"=","ZEDD","Clarity f/Foxes",5931,"+138",919,"+58",45.675,"+0.873",85,"23",17,5931,919,45.675
-18,"-2","WILL.I.AM F/JUSTI...","#thatpower",5685,"-249",-1607,"-247",25.783,"-1.787",78,"32",9,7421,1416,38.399
-19,"+1","EMELI SANDE","Next To Me",5132,"+19",-65,"-3",24.124,"-0.126",114,"37",17,5214,560,24.65
-20,"+2","AVRIL LAVIGNE","Here's To Never G...",4774,"+65",17,"+44",21.139,"+0.265",60,"31",18,4774,1758,21.911
-21,"+2","CALVIN HARRIS F/E...","I Need Your Love",4149,"+26",399,"-104",29.668,"+0.083",66,"36",21,4149,579,29.668
-22,"+2","MAROON 5","Love Somebody",3999,"+195",906,"-11",23.5,"+1.578",26,"28",22,3999,1161,23.5
-23,"+2","ED SHEERAN","Lego House",3794,"+26",161,"-69",20.507,"+0.138",92,"39",23,3794,788,20.507
-24,"+2","ANNA KENDRICK","Cups (Pitch Perfe...",3361,"+46",215,"+12",22.729,"+0.445",74,"26",24,3361,599,22.729
-25,"+3","JENNIFER LOPEZ F/...","Live It Up",2662,"+1",82,"-31",13.907,"-0.222",33,"72",25,2662,1818,17.613
-26,"+4","KE$HA","Crazy Kids",2488,"+21",268,"-57",11.755,"+0.399",39,"85",26,2488,529,11.755
-27,"+4","CHRIS BROWN","Fine China",2395,"-54",-43,"-102",8.565,"-0.262",52,"69",27,2489,533,10.241
-28,"+1","KREWELLA","Alive",2350,"-233",-1067,"-42",21.346,"-1.000",123,"103",9,7991,1026,53.493
-29,"+3","NIKKI WILLIAMS","Glowing",2015,"+21",163,"-80",12.18,"-0.091",64,"170",29,2015,309,12.316
-30,"+3","KELLY CLARKSON","People Like Us",1804,"-5",39,"-39",8.072,"+0.020",44,"66",30,1809,571,8.072
-31,"+3","CAPITAL CITIES","Safe And Sound",1784,"+57",348,"+5",12.199,"+1.010",50,"53",31,1784,369,12.199
-32,"+4","EMBLEM3","Chloe (You're The...",1218,"-4",173,"-35",4.12,"-0.142",43,"145",32,1222,221,4.262
-33,"+2","TAYLOR SWIFT","22",1187,"-134",-989,"+114",7.711,"-0.737",99,"20",10,7057,2327,34.286
-34,"+3","LABRINTH","Beneath Your Beau...",1169,"+23",187,"-2",7.678,"+0.142",24,"102",34,1169,362,7.678
-35,"+4","SEAN KINGSTON","Beat It f/Chris B...",1101,"+40",264,"+10",3.374,"+0.029",28,"89",35,1101,264,3.374
-36,"+4","MACKLEMORE & RYAN...","Same Love f/Mary ...",1085,"+67",369,"+20",9.469,"+0.768",17,"33",36,1085,369,9.469
-37,"+4","RIHANNA","Right Now f/David...",1068,"+60",459,"+14",7.439,"+0.806",15,"294",37,1068,459,7.439
-38,"=","DROP CITY YACHT C...","Crickets f/Jeremi...",1057,"-16",-121,"-8",3.034,"-0.089",61,"180",36,1211,202,3.75
-39,"+4","MILEY CYRUS","We Can't Stop",972,"+143",972,"+143",8.977,"+1.206",5,"9",39,972,972,8.977
-40,"+2","J. COLE","Power Trip f/Migu...",954,"+1",176,"-14",2.472,"+0.015",22,"47",40,954,205,2.472
-41,"+3","PARAMORE","Still Into You",828,"+18",86,"+11",3.039,"+0.150",32,"184",41,828,186,3.039
-42,"+3","PHILLIP PHILLIPS","Gone, Gone, Gone",730,"+17",181,"-14",4.305,"+0.093",13,"40",42,730,229,4.305
-43,"+4","JAKE MILLER","A Million Lives",675,"-2",79,"-24",1.461,"+0.030",33,"--",43,677,120,1.461
-44,"+4","A GREAT BIG WORLD","This Is The New Y...",673,"-4",50,"-26",2.496,"-0.059",22,"--",44,678,104,2.555
-45,"+4","AWOLNATION","Sail",493,"+18",45,"+16",1.365,"+0.082",18,"45",45,493,94,1.365
-46,"+4","DAVID GUETTA","Play Hard f/Ne-Yo...",474,"+30",132,"+25",2.965,"+0.281",2,"87",46,474,132,2.965
-47,"--","AUSTIN MAHONE","What About Love",425,"--",425,"--",4.873,"--",1,"6",47,425,425,4.873
-48,"--","KATY TIZ","Red Cup",424,"--",36,"--",1.721,"--",7,"--",48,424,106,1.926
-49,"--","CLASSIFIED","Inner Ninja",399,"--",-4,"--",0.957,"--",4,"329",49,403,21,0.957
-50,"--","MAJOR LAZER","Bubble Butt f/Bru...",384,"--",165,"--",1.998,"--",1,"186",50,384,165,1.998
+"Title","Artist","Spins"
+"Can't Hold Us f/R...","MACKLEMORE & RYAN...",16425
+"Mirrors","JUSTIN TIMBERLAKE",15890
+"I Love It f/Charl...","ICONA POP",14267
+"Just Give Me A Re...","PINK",11658
+"Come & Get It","SELENA GOMEZ",11610
+"Heart Attack","DEMI LOVATO",10569
+"Cruise","FLORIDA-GEORGIA L...",8951
+"Get Lucky","DAFT PUNK",8629
+"My Songs Know Wha...","FALL OUT BOY",8527
+"Stay f/Mikky Ekko","RIHANNA",8392
+"The Other Side","JASON DERULO",7565
+"The Way f/Mac Mil...","ARIANA GRANDE",7537
+"Treasure","BRUNO MARS",6979
+"Radioactive","IMAGINE DRAGONS",6518
+"#Beautiful f/Migu...","MARIAH CAREY",6331
+"Blurred Lines f/P...","ROBIN THICKE",6032
+"Clarity f/Foxes","ZEDD",5931
+"#thatpower","WILL.I.AM F/JUSTI...",5685
+"Next To Me","EMELI SANDE",5132
+"Here's To Never G...","AVRIL LAVIGNE",4774
+"I Need Your Love","CALVIN HARRIS F/E...",4149
+"Love Somebody","MAROON 5",3999
+"Lego House","ED SHEERAN",3794
+"Cups (Pitch Perfe...","ANNA KENDRICK",3361
+"Live It Up","JENNIFER LOPEZ F/...",2662
+"Crazy Kids","KE$HA",2488
+"Fine China","CHRIS BROWN",2395
+"Alive","KREWELLA",2350
+"Glowing","NIKKI WILLIAMS",2015
+"People Like Us","KELLY CLARKSON",1804
+"Safe And Sound","CAPITAL CITIES",1784
+"Chloe (You're The...","EMBLEM3",1218
+"22","TAYLOR SWIFT",1187
+"Beneath Your Beau...","LABRINTH",1169
+"Beat It f/Chris B...","SEAN KINGSTON",1101
+"Same Love f/Mary ...","MACKLEMORE & RYAN...",1085
+"Right Now f/David...","RIHANNA",1068
+"Crickets f/Jeremi...","DROP CITY YACHT C...",1057
+"We Can't Stop","MILEY CYRUS",972
+"Power Trip f/Migu...","J. COLE",954
+"Still Into You","PARAMORE",828
+"Gone, Gone, Gone","PHILLIP PHILLIPS",730
+"A Million Lives","JAKE MILLER",675
+"This Is The New Y...","A GREAT BIG WORLD",673
+"Sail","AWOLNATION",493
+"Play Hard f/Ne-Yo...","DAVID GUETTA",474
+"What About Love","AUSTIN MAHONE",425
+"Red Cup","KATY TIZ",424
+"Inner Ninja","CLASSIFIED",399
+"Bubble Butt f/Bru...","MAJOR LAZER",384

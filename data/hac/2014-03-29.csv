@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","PHARRELL WILLIAMS","Happy",6023,"+33",447,"-95",43.415,"+0.122",63,"1",1,6023,928,43.415
-2,"=","BASTILLE","Pompeii",5717,"-22",93,"-75",39.725,"+0.153",157,"9",2,5739,515,39.725
-3,"=","LORDE","Team",5580,"-46",-109,"-56",39.334,"-0.558",122,"17",1,5689,561,40.128
-4,"=","KATY PERRY","Dark Horse",5537,"+64",308,"+18",39.297,"+0.399",83,"3",4,5537,793,39.297
-5,"=","ONE DIRECTION","Story Of My Life",4994,"-43",-282,"+5",34.819,"-0.384",130,"33",1,5588,738,39.142
-6,"=","AMERICAN AUTHORS","Best Day Of My Life",4465,"-52",-267,"-25",30.903,"-0.432",199,"15",1,5660,590,37.639
-7,"=","ELLIE GOULDING","Burn",4257,"-1",3,"-13",29.17,"-0.166",111,"66",7,4293,591,29.398
-8,"=","JOHN LEGEND","All Of Me",4213,"+62",349,"-8",29.829,"+0.373",125,"2",8,4213,540,29.829
-9,"=","ONEREPUBLIC","Counting Stars",3682,"+1",-161,"+76",26.778,"-0.008",296,"25",1,6255,573,43.972
-10,"=","A GREAT BIG WORLD","Say Something",2971,"-57",-519,"+47",19.918,"-0.823",181,"29",1,5911,545,41.461
-11,"=","NEON TREES","Sleeping With A Friend",2964,"+17",239,"-8",17.705,"+0.106",72,"34",11,2964,540,17.705
-12,"=","CHRISTINA PERRI","Human",2588,"+51",193,"+44",14.526,"+0.377",128,"24",12,2588,237,14.526
-13,"=","FITZ & THE TANTRUMS","The Walker",2461,"+28",259,"-14",14.537,"+0.385",71,"94",13,2461,450,14.537
-14,"+1","PITBULL","Timber f/Ke$ha",2319,"-20",-344,"+38",15.022,"-0.222",139,"20",11,3262,550,22.056
-15,"-1","BRUNO MARS","Young Girls",2302,"-65",-258,"-62",14.433,"-0.582",107,"116",12,2588,414,16.255
-16,"+1","PHILLIP PHILLIPS","Raging Fire",2165,"+73",723,"-44",14.502,"+0.569",23,"111",16,2165,872,14.502
-17,"-1","ALOE BLACC","The Man",2142,"+6",85,"+0",10.74,"+0.178",66,"5",15,2142,379,10.74
-18,"=","SARA BAREILLES","I Choose You",1598,"+14",228,"-27",8.628,"-0.024",55,"171",18,1598,331,8.652
-19,"=","PARAMORE","Ain't It Fun",1572,"+22",323,"-37",8.125,"+0.383",62,"26",19,1572,394,8.125
-20,"=","NEW POLITICS","Tonight You're Perfect",1499,"+11",69,"-8",8.108,"-0.073",48,"294",18,1499,352,8.419
-21,"=","THE 1975","Chocolate",1350,"-29",-78,"-23",6.248,"-0.163",78,"136",17,1459,233,7.12
-22,"=","MARY LAMBERT","She Keeps Me Warm",1301,"+5",53,"-9",8.041,"+0.063",83,"--",19,1301,219,8.041
-23,"+1","JUSTIN TIMBERLAKE","Not A Bad Thing",1184,"+68",444,"+15",7.399,"+0.468",27,"12",23,1184,444,7.399
-24,"-1","INGRID MICHAELSON","Girls Chase Boys",1176,"+45",287,"+23",6.901,"+0.036",46,"157",23,1176,287,6.901
-25,"=","AVICII","Hey Brother",1103,"+12",54,"-2",5.73,"+0.104",102,"13",22,1103,154,5.73
-26,"=","CAGE THE ELEPHANT","Come A Little Closer",979,"-1",55,"-20",3.501,"+0.057",69,"262",23,980,167,3.501
-27,"=","JASON DERULO","Talk Dirty f/2 Chainz",765,"+21",84,"+11",3.032,"+0.123",54,"6/19",27,765,127,3.032
-28,"+2","IMAGINE DRAGONS","On Top Of The World",742,"+30",33,"+32",5.918,"+0.252",79,"65",27,742,121,5.918
-29,"-1","MATT NATHANSON","Kinks Shirt",731,"+7",74,"+2",2.734,"+0.043",80,"--",28,731,111,2.734
-30,"-1","EMINEM","The Monster f/Rihanna",726,"+2",-99,"+16",6.376,"-0.149",134,"68",23,1039,148,8.879
-31,"=","IDINA MENZEL","Let It Go",659,"+22",261,"-11",4.894,"+0.080",20,"4/45",31,659,272,4.894
-32,"=","DEMI LOVATO","Neon Lights",622,"+1",84,"-9",2.893,"+0.054",40,"50",30,622,124,2.893
-33,"=","CHVRCHES","The Mother We Share",497,"+14",70,"+17",1.876,"+0.056",36,"--",33,497,124,1.876
-34,"+1","O.A.R.","Peace",421,"+24",91,"+26",2.181,"+0.155",33,"309",34,421,91,2.181
-35,"-1","NONONO","Pumpin Blood",408,"-16",-89,"-14",1.685,"+0.016",80,"310",31,499,100,1.744
-36,"=","COLDPLAY","Magic",378,"+8",101,"+2",2.16,"+0.005",20,"38",36,378,134,2.16
-37,"=","CASH CASH","Take Me Home f/Bebe Rexha",308,"+2",0,"+5",1.17,"+0.010",45,"75",36,313,96,1.264
-38,"+1","BIRDY","Skinny Love",301,"+18",72,"+20",0.816,"+0.024",41,"244",38,301,107,0.816
-39,"-1","NICO & VINZ","Am I Wrong",299,"+12",55,"+0",1.239,"+0.023",13,"--",38,299,138,1.247
-40,"=","NAUGHTY BOY","La La La f/Sam Smith",251,"-9",-28,"-3",1.752,"-0.015",48,"11",37,295,120,2.051
-41,"+3","NEW HOLLOW","She Ain't You",189,"+23",76,"+20",0.861,"+0.083",13,"--",41,189,76,0.861
-42,"-1","RYAN STAR","Impossible",189,"+0",19,"-2",0.391,"-0.003",27,"--",41,189,50,0.394
-43,"=","U2","Ordinary Love",180,"+8",47,"+2",0.782,"+0.042",13,"228",43,180,72,0.782
-44,"-2","JAMES DURBIN","Parachute",177,"+1",16,"-5",0.223,"-0.009",21,"--",42,177,45,0.233
-45,"+2","THE CHAINSMOKERS","#SELFIE",154,"+21",91,"+17",0.777,"+0.117",5,"8",45,154,91,0.777
-46,"-1","PHANTOGRAM","Fall In Love",150,"+11",89,"+1",0.477,"+0.047",6,"153",45,150,89,0.477
-47,"-1","JETTA","Feels Like Coming Home",127,"-11",-72,"+4",0.644,"-0.038",51,"--",40,253,54,1.66
-48,"=","CELESTE BUCKINGHAM","Run Run Run",113,"-12",-94,"+0",0.192,"-0.024",60,"--",41,259,58,0.43
-49,"=","DEMI LOVATO","Let It Go",111,"+0",44,"-8",0.682,"-0.005",7,"72",48,111,61,0.687
-50,"--","BIRDS OF TOKYO","Lanterns",100,"--",39,"--",0.648,"--",1,"--",50,100,39,0.648
+"Title","Artist","Spins"
+"Happy","PHARRELL WILLIAMS",6023
+"Pompeii","BASTILLE",5717
+"Team","LORDE",5580
+"Dark Horse","KATY PERRY",5537
+"Story Of My Life","ONE DIRECTION",4994
+"Best Day Of My Life","AMERICAN AUTHORS",4465
+"Burn","ELLIE GOULDING",4257
+"All Of Me","JOHN LEGEND",4213
+"Counting Stars","ONEREPUBLIC",3682
+"Say Something","A GREAT BIG WORLD",2971
+"Sleeping With A Friend","NEON TREES",2964
+"Human","CHRISTINA PERRI",2588
+"The Walker","FITZ & THE TANTRUMS",2461
+"Timber f/Ke$ha","PITBULL",2319
+"Young Girls","BRUNO MARS",2302
+"Raging Fire","PHILLIP PHILLIPS",2165
+"The Man","ALOE BLACC",2142
+"I Choose You","SARA BAREILLES",1598
+"Ain't It Fun","PARAMORE",1572
+"Tonight You're Perfect","NEW POLITICS",1499
+"Chocolate","THE 1975",1350
+"She Keeps Me Warm","MARY LAMBERT",1301
+"Not A Bad Thing","JUSTIN TIMBERLAKE",1184
+"Girls Chase Boys","INGRID MICHAELSON",1176
+"Hey Brother","AVICII",1103
+"Come A Little Closer","CAGE THE ELEPHANT",979
+"Talk Dirty f/2 Chainz","JASON DERULO",765
+"On Top Of The World","IMAGINE DRAGONS",742
+"Kinks Shirt","MATT NATHANSON",731
+"The Monster f/Rihanna","EMINEM",726
+"Let It Go","IDINA MENZEL",659
+"Neon Lights","DEMI LOVATO",622
+"The Mother We Share","CHVRCHES",497
+"Peace","O.A.R.",421
+"Pumpin Blood","NONONO",408
+"Magic","COLDPLAY",378
+"Take Me Home f/Bebe Rexha","CASH CASH",308
+"Skinny Love","BIRDY",301
+"Am I Wrong","NICO & VINZ",299
+"La La La f/Sam Smith","NAUGHTY BOY",251
+"She Ain't You","NEW HOLLOW",189
+"Impossible","RYAN STAR",189
+"Ordinary Love","U2",180
+"Parachute","JAMES DURBIN",177
+"#SELFIE","THE CHAINSMOKERS",154
+"Fall In Love","PHANTOGRAM",150
+"Feels Like Coming Home","JETTA",127
+"Run Run Run","CELESTE BUCKINGHAM",113
+"Let It Go","DEMI LOVATO",111
+"Lanterns","BIRDS OF TOKYO",100

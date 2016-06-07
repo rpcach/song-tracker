@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","KATY PERRY","Roar",5721,"+58",457,"+5",41.422,"+0.326",48,"2",1,5721,1969,41.422
-2,"=","CAPITAL CITIES","Safe And Sound",5248,"+25",309,"-58",35.578,"+0.020",106,"18",2,5248,598,35.578
-3,"=","ROBIN THICKE","Blurred Lines f/P...",4579,"-64",-450,"-27",30.836,"-0.914",110,"14",1,5676,923,40.852
-4,"=","ANNA KENDRICK","Cups (Pitch Perfe...",4247,"-80",-655,"-4",28.391,"-0.606",147,"64",2,5272,502,35.447
-5,"=","MAROON 5","Love Somebody",4116,"-69",-519,"-45",28.428,"-0.256",145,"93",1,5324,640,38.08
-6,"=","SARA BAREILLES","Brave",4003,"+20",75,"-1",27.112,"+0.323",152,"39",6,4003,322,27.112
-7,"=","PINK","True Love f/Lily ...",3961,"+33",253,"+21",26.481,"+0.430",82,"97",7,3961,632,26.481
-8,"=","LORDE","Royals",3866,"+103",449,"+33",24.668,"+0.754",68,"1",8,3866,727,24.668
-9,"=","IMAGINE DRAGONS","Radioactive",3504,"-50",-384,"+1",25.204,"-0.432",218,"22",2,5289,586,36.801
-10,"=","ONEREPUBLIC","Counting Stars",3151,"+41",284,"+8",20.806,"+0.333",113,"15",10,3151,422,20.806
-11,"=","TAYLOR SWIFT","Everything Has .....",2765,"+24",109,"-4",18.921,"+0.118",77,"53",11,2765,418,18.921
-12,"=","TRAIN","Bruises f/Ashley ...",2666,"+5",125,"+2",14.999,"-0.152",125,"75",12,2666,282,15.178
-13,"+1","PASSENGER","Let Her Go",2393,"+55",238,"+38",15.576,"+0.556",96,"20",13,2393,435,15.576
-14,"-1","GAVIN DEGRAW","Best I Ever Had",2373,"-9",-6,"-12",13.444,"-0.057",94,"65",12,2399,349,14.364
-15,"=","AVICII","Wake Me Up",2352,"+87",597,"+10",15.115,"+0.573",40,"4",15,2352,597,15.115
-16,"=","ZEDD","Clarity f/Foxes",2123,"+5",100,"-12",12.272,"+0.185",96,"42",15,2123,273,12.272
-17,"=","LADY GAGA","Applause",2116,"+56",364,"+19",12.322,"+0.528",46,"6",17,2116,703,12.322
-18,"=","BRUNO MARS","Treasure",1819,"-34",-599,"+103",13.094,"-0.030",134,"90",5,3972,506,25.32
-19,"=","PARAMORE","Still Into You",1672,"+11",207,"-26",9.059,"+0.108",145,"28",19,1672,284,9.059
-20,"=","DAFT PUNK","Get Lucky",1507,"-32",-447,"+9",11.143,"-0.195",139,"66",7,3507,444,23.022
-21,"=","LANA DEL REY","Summertime Sadnes...",1367,"+33",208,"-2",7.124,"+0.212",49,"19/36",21,1367,290,7.124
-22,"=","IMAGINE DRAGONS","Demons",1310,"+77",503,"+10",8.907,"+0.558",35,"27",22,1310,503,8.907
-23,"=","LABRINTH","Beneath Your Beau...",956,"-55",-118,"-63",4.415,"-0.103",147,"94",22,1078,129,4.769
-24,"+1","CALVIN HARRIS F/E...","I Need Your Love",887,"+11",121,"-2",5.547,"+0.141",86,"108",24,887,123,5.547
-25,"+1","MICHAEL FRANTI & ...","I'm Alive (Life S...",853,"-14",-60,"+5",3.416,"-0.042",117,"--",24,935,127,3.968
-26,"-2","JUSTIN TIMBERLAKE","Take Back The Nig...",853,"-89",-401,"-54",3.301,"-0.427",72,"29",20,1354,224,6.246
-27,"=","PARACHUTE","Can't Help",850,"+16",19,"+17",3.171,"+0.032",96,"--",25,851,112,3.222
-28,"=","GOO GOO DOLLS","Come To Me",684,"+31",79,"+27",4.102,"+0.136",56,"--",28,684,94,4.102
-29,"=","NEIGHBOURHOOD","Sweater Weather",647,"+14",75,"+6",2.71,"+0.091",52,"54",29,647,113,2.799
-30,"=","FITZ & THE TANTRU...","Out Of My League",596,"+26",109,"+11",2.626,"+0.124",33,"243",30,596,109,2.626
-31,"=","MACKLEMORE & RYAN...","Can't Hold Us f/R...",527,"-8",2,"-10",4.057,"-0.163",138,"84",27,748,139,5.133
-32,"=","FIVE FOR FIGHTING","What If",504,"+11",61,"+0",1.627,"-0.047",62,"--",32,504,88,1.674
-33,"=","JASON DERULO","The Other Side",477,"-14",-83,"-2",1.984,"-0.155",114,"175",21,1262,137,5.698
-34,"+1","AMERICAN AUTHORS","Best Day Of My Li...",413,"+19",123,"-3",2.251,"+0.178",16,"299",34,413,129,2.251
-35,"-1","EMELI SANDE","My Kind Of Love",409,"+8",21,"+4",2.015,"-0.043",31,"--",34,409,93,2.058
-36,"=","BONNIE MCKEE","American Girl",397,"+5",47,"+4",0.897,"+0.033",26,"79",35,397,75,0.897
-37,"+3","BRUNO MARS","Gorilla",388,"+35",215,"+17",2.238,"+0.137",10,"34",37,388,215,2.238
-38,"+1","MILEY CYRUS","Wrecking Ball",376,"+18",180,"-10",2.645,"+0.122",10,"3",38,376,195,2.645
-39,"-2","SELENA GOMEZ","Come & Get It",371,"-4",-95,"+23",1.97,"-0.060",159,"142",17,1856,244,10.463
-40,"-2","MATT NATHANSON","Mission Bells",364,"-1",11,"-4",0.891,"-0.010",59,"--",36,365,92,0.901
-41,"=","JOHN MAYER","Who You Love f/Ka...",350,"+11",91,"-3",1.441,"+0.039",22,"--",40,350,94,1.441
-42,"=","AWOLNATION","Sail",332,"+9",60,"-4",1.41,"+0.015",34,"17",40,332,71,1.41
-43,"=","BACKSTREET BOYS","In A World Like T...",295,"+3",27,"+4",1.257,"-0.009",47,"--",40,295,78,1.285
-44,"=","ONE DIRECTION","Best Song Ever",269,"-3",-57,"+0",1.507,"+0.006",44,"51",38,329,91,1.756
-45,"=","MACKLEMORE & RYAN...","Same Love f/Mary ...",236,"-9",-6,"-11",1.876,"-0.034",45,"43",42,249,45,1.917
-46,"+3","JOHN NEWMAN","Love Me Again",229,"+20",126,"+9",0.844,"+0.075",4,"240",46,229,126,0.844
-47,"=","ZZ WARD","365 Days",226,"+5",4,"+2",0.927,"+0.029",19,"--",46,226,43,0.927
-48,"-2","SERENA RYDER","Stompa",224,"-14",-103,"+3",0.983,"-0.108",124,"--",33,525,74,3.318
-49,"-1","NEW POLITICS","Harlem",218,"+6",28,"+3",0.507,"+0.043",19,"304",47,218,28,0.507
-50,"--","DAUGHTRY","Waiting For Super...",198,"--",163,"--",1.674,"--",1,"96",50,198,163,1.674
+"Title","Artist","Spins"
+"Roar","KATY PERRY",5721
+"Safe And Sound","CAPITAL CITIES",5248
+"Blurred Lines f/P...","ROBIN THICKE",4579
+"Cups (Pitch Perfe...","ANNA KENDRICK",4247
+"Love Somebody","MAROON 5",4116
+"Brave","SARA BAREILLES",4003
+"True Love f/Lily ...","PINK",3961
+"Royals","LORDE",3866
+"Radioactive","IMAGINE DRAGONS",3504
+"Counting Stars","ONEREPUBLIC",3151
+"Everything Has .....","TAYLOR SWIFT",2765
+"Bruises f/Ashley ...","TRAIN",2666
+"Let Her Go","PASSENGER",2393
+"Best I Ever Had","GAVIN DEGRAW",2373
+"Wake Me Up","AVICII",2352
+"Clarity f/Foxes","ZEDD",2123
+"Applause","LADY GAGA",2116
+"Treasure","BRUNO MARS",1819
+"Still Into You","PARAMORE",1672
+"Get Lucky","DAFT PUNK",1507
+"Summertime Sadnes...","LANA DEL REY",1367
+"Demons","IMAGINE DRAGONS",1310
+"Beneath Your Beau...","LABRINTH",956
+"I Need Your Love","CALVIN HARRIS F/E...",887
+"I'm Alive (Life S...","MICHAEL FRANTI & ...",853
+"Take Back The Nig...","JUSTIN TIMBERLAKE",853
+"Can't Help","PARACHUTE",850
+"Come To Me","GOO GOO DOLLS",684
+"Sweater Weather","NEIGHBOURHOOD",647
+"Out Of My League","FITZ & THE TANTRU...",596
+"Can't Hold Us f/R...","MACKLEMORE & RYAN...",527
+"What If","FIVE FOR FIGHTING",504
+"The Other Side","JASON DERULO",477
+"Best Day Of My Li...","AMERICAN AUTHORS",413
+"My Kind Of Love","EMELI SANDE",409
+"American Girl","BONNIE MCKEE",397
+"Gorilla","BRUNO MARS",388
+"Wrecking Ball","MILEY CYRUS",376
+"Come & Get It","SELENA GOMEZ",371
+"Mission Bells","MATT NATHANSON",364
+"Who You Love f/Ka...","JOHN MAYER",350
+"Sail","AWOLNATION",332
+"In A World Like T...","BACKSTREET BOYS",295
+"Best Song Ever","ONE DIRECTION",269
+"Same Love f/Mary ...","MACKLEMORE & RYAN...",236
+"Love Me Again","JOHN NEWMAN",229
+"365 Days","ZZ WARD",226
+"Stompa","SERENA RYDER",224
+"Harlem","NEW POLITICS",218
+"Waiting For Super...","DAUGHTRY",198

@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","IMAGINE DRAGONS","Demons",2020,2,-67,5,10.811,0.089,131,"48",1,2091,281,11.317
-2,"=","NEIGHBOURHOOD","Sweater Weather",1968,-17,-85,-17,11.013,-0.005,245,"75",1,2198,199,11.656
-3,"=","CAPITAL CITIES","Safe And Sound",1963,9,40,17,10.945,0.057,283,"5",1,2193,375,12.026
-4,"=","LORDE","Royals",1914,33,225,4,8.827,0.228,55,"17",4,1914,336,8.827
-5,"=","NEW POLITICS","Harlem",1730,-21,-29,-12,7.76,-0.181,193,"288",4,1786,222,8.184
-6,"=","FITZ & THE TANTRU...","Out Of My League",1536,28,94,19,7.189,0.178,169,"235",6,1536,143,7.189
-7,"=","IMAGINE DRAGONS","Radioactive",1484,-12,-42,9,8.686,-0.07,346,"3",1,2299,225,13.169
-8,"=","GROUPLOVE","Ways To Go",1463,5,51,-8,5.986,0.035,52,"201",8,1463,444,5.986
-9,"=","ATLAS GENIUS","If So",1411,4,-10,7,5.099,-0.112,154,"--",8,1424,175,5.614
-10,"=","DAFT PUNK","Get Lucky",1359,-22,-119,-2,6.638,-0.119,104,"6",6,1563,288,8.599
-11,"=","NINE INCH NAILS","Came Back Haunted",1339,-10,-56,6,4.538,0.021,58,"--",7,1418,1015,5.285
-12,"=","PEARL JAM","Mind Your Manners",1164,2,121,-16,3.799,-0.047,23,"--",12,1164,904,4.812
-13,"=","BASTILLE","Pompeii",1141,26,205,11,5.452,0.04,39,"100",13,1141,317,5.452
-14,"=","PHOENIX","Trying To Be Cool",981,1,84,-31,3.134,-0.042,77,"--",14,985,144,3.218
-15,"=","TAME IMPALA","Elephant",977,3,34,0,4.031,-0.02,108,"--",13,977,154,4.708
-16,"=","KINGS OF LEON","Supersoaker",969,27,258,-11,4.141,-0.033,16,"368",16,969,627,4.642
-17,"=","OF MONSTERS AND M...","King And Lionhear...",826,11,115,0,3.26,0.071,78,"376",17,826,146,3.26
-18,"+1","MUMFORD & SONS","Babel",684,-6,-33,-5,2.257,-0.03,79,"--",17,718,112,2.815
-19,"-1","THIRTY SECONDS TO...","Up In The Air",666,-32,-157,-23,2.363,-0.107,138,"--",4,1732,1084,8.913
-20,"=","PORTUGAL. THE MAN","Purple Yellow Red...",661,3,76,-3,2.166,0.042,81,"--",20,661,93,2.166
-21,"=","VAMPIRE WEEKEND","Diane Young",625,-19,-62,4,1.737,-0.037,135,"--",9,1175,285,4.895
-22,"=","MS MR","Hurricane",540,1,28,-15,2.272,0.009,100,"--",22,540,85,2.33
-23,"+1","PEPPER","FKARND",508,6,25,2,1.292,0.021,69,"--",23,508,167,1.653
-24,"-1","LINKIN PARK","Castle Of Glass",501,-24,-200,5,2.116,-0.019,157,"--",14,900,102,4.243
-25,"+1","PANIC! AT THE DIS...","Miss Jackson f/Lo...",463,27,183,8,1.737,0.113,14,"213",25,463,203,1.737
-26,"-1","SICK PUPPIES","There's No Going ...",452,1,12,-4,1.383,0.042,76,"--",25,452,158,1.383
-27,"=","SMALLPOOLS","Dreaming",437,9,42,1,2.643,0.005,62,"--",26,437,89,2.651
-28,"=","FRANZ FERDINAND","Right Action",417,-6,20,-10,1.096,0.022,32,"--",26,423,159,1.666
-29,"=","FOALS","My Number",405,-2,27,-13,1.194,-0.108,80,"--",29,407,81,1.487
-30,"=","DIRTY HEADS","Cabin By The Sea",404,4,2,4,1.108,0.032,118,"--",26,410,61,1.146
-31,"=","SILVERSUN PICKUPS","Dots And Dashes (...",380,-3,17,-10,0.872,-0.019,65,"--",30,383,74,0.95
-32,"=","AVENGED SEVENFOLD","Hail To The King",357,2,73,-15,1.74,0.05,15,"113",32,357,238,1.74
-33,"+1","MUSE","Follow Me",335,-2,-5,-5,1.06,-0.023,25,"--",32,340,121,1.215
-34,"-1","COLD WAR KIDS","Miracle Mile",331,-13,-61,-2,1.171,-0.055,167,"--",20,503,51,1.788
-35,"=","THE 1975","Chocolate",320,15,60,18,0.892,0.052,26,"--",35,320,87,1.057
-36,"=","FEATURES","This Disorder",274,-1,31,-8,0.668,-0.013,117,"--",34,275,66,0.721
-37,"=","MACKLEMORE & RYAN...","Same Love f/Mary ...",272,0,-98,22,1.339,0.028,127,"8",19,611,120,3.535
-38,"=","STONE TEMPLE PILO...","Out Of Time",261,2,-27,15,0.593,0.006,73,"--",22,514,231,2.197
-39,"=","SAID THE WHALE","I Love You",239,1,5,1,0.829,0.002,56,"--",39,253,68,0.902
-40,"=","NAKED AND FAMOUS","Hearts Like Ours",210,12,137,-10,0.777,0.039,5,"--",40,210,163,0.777
-41,"+5","THIRTY SECONDS TO...","City Of Angels",195,24,108,17,0.747,0.047,3,"--",41,195,108,0.747
-42,"-1","LUMINEERS","Submarines",195,-3,-10,-7,0.646,0.003,41,"--",40,205,55,0.717
-43,"-1","FALL OUT BOY","The Phoenix",194,4,50,-4,1.079,0.015,6,"--",42,194,54,1.079
-44,"-1","LANGHORNE SLIM","Way We Move",190,3,27,-1,0.76,-0.013,44,"--",41,190,28,0.806
-45,"-1","FAMILY OF THE YEA...","St. Croix",186,1,2,-8,0.592,0.021,23,"--",41,193,38,0.614
-46,"-1","FRANK TURNER","Recovery",179,1,-53,23,0.543,-0.02,142,"--",15,779,127,3.062
-47,"=","BLUE OCTOBER","Bleed Out",167,-1,2,0,0.761,-0.008,21,"--",45,169,27,0.801
-48,"=","AWOLNATION","Thiskidsnotalrigh...",162,-5,-34,-3,0.533,-0.019,92,"--",38,217,61,0.946
-49,"=","ROYAL TEETH","Wild",153,0,0,0,0.858,0.011,18,"--",45,160,34,0.872
-50,"=","JAKE BUGG","Lightning Bolt",147,0,3,-1,0.397,0.002,33,"--",42,161,24,0.445
+"Title","Artist","Spins"
+"Demons","IMAGINE DRAGONS",2020
+"Sweater Weather","NEIGHBOURHOOD",1968
+"Safe And Sound","CAPITAL CITIES",1963
+"Royals","LORDE",1914
+"Harlem","NEW POLITICS",1730
+"Out Of My League","FITZ & THE TANTRU...",1536
+"Radioactive","IMAGINE DRAGONS",1484
+"Ways To Go","GROUPLOVE",1463
+"If So","ATLAS GENIUS",1411
+"Get Lucky","DAFT PUNK",1359
+"Came Back Haunted","NINE INCH NAILS",1339
+"Mind Your Manners","PEARL JAM",1164
+"Pompeii","BASTILLE",1141
+"Trying To Be Cool","PHOENIX",981
+"Elephant","TAME IMPALA",977
+"Supersoaker","KINGS OF LEON",969
+"King And Lionhear...","OF MONSTERS AND M...",826
+"Babel","MUMFORD & SONS",684
+"Up In The Air","THIRTY SECONDS TO...",666
+"Purple Yellow Red...","PORTUGAL. THE MAN",661
+"Diane Young","VAMPIRE WEEKEND",625
+"Hurricane","MS MR",540
+"FKARND","PEPPER",508
+"Castle Of Glass","LINKIN PARK",501
+"Miss Jackson f/Lo...","PANIC! AT THE DIS...",463
+"There's No Going ...","SICK PUPPIES",452
+"Dreaming","SMALLPOOLS",437
+"Right Action","FRANZ FERDINAND",417
+"My Number","FOALS",405
+"Cabin By The Sea","DIRTY HEADS",404
+"Dots And Dashes (...","SILVERSUN PICKUPS",380
+"Hail To The King","AVENGED SEVENFOLD",357
+"Follow Me","MUSE",335
+"Miracle Mile","COLD WAR KIDS",331
+"Chocolate","THE 1975",320
+"This Disorder","FEATURES",274
+"Same Love f/Mary ...","MACKLEMORE & RYAN...",272
+"Out Of Time","STONE TEMPLE PILO...",261
+"I Love You","SAID THE WHALE",239
+"Hearts Like Ours","NAKED AND FAMOUS",210
+"City Of Angels","THIRTY SECONDS TO...",195
+"Submarines","LUMINEERS",195
+"The Phoenix","FALL OUT BOY",194
+"Way We Move","LANGHORNE SLIM",190
+"St. Croix","FAMILY OF THE YEA...",186
+"Recovery","FRANK TURNER",179
+"Bleed Out","BLUE OCTOBER",167
+"Thiskidsnotalrigh...","AWOLNATION",162
+"Wild","ROYAL TEETH",153
+"Lightning Bolt","JAKE BUGG",147

@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","IMAGINE DRAGONS","Radioactive",2184,"-2",69,"-29",11.925,"-0.004",193,"12",1,2186,225,11.929
-2,"=","OF MONSTERS AND M...","Mountain Sound",1755,"+23",94,"+32",9.952,"+0.078",198,"172",2,1755,156,9.952
-3,"=","MUSE","Madness",1632,"+18",-26,"+42",9.705,"+0.074",195,"49",1,2336,1204,14.318
-4,"=","MUMFORD & SONS","I Will Wait",1518,"-12",-16,"-17",9.05,"+0.013",208,"17",1,2257,1048,14.172
-5,"=","BLACK KEYS","Little Black Subm...",1433,"-8",-49,"-7",8.805,"-0.219",264,"289",2,1984,189,11.483
-6,"=","SILVERSUN PICKUPS","The Pit",1418,"+10",11,"+10",7.267,"+0.004",187,"--",6,1418,194,7.267
-7,"=","ATLAS GENIUS","Trojans",1366,"-42",-106,"-45",8.929,"-0.119",299,"279",4,1728,202,10.865
-8,"=","LUMINEERS","Stubborn Love",1296,"+17",71,"+8",6.668,"+0.185",118,"91",8,1296,181,6.668
-9,"+1","FUN.","Carry On",1286,"+15",47,"+20",7.47,"+0.128",147,"19",8,1291,138,7.47
-10,"-1","MUMFORD & SONS","Lover Of The Ligh...",1275,"+3",85,"-29",6.975,"-0.001",80,"--",9,1275,214,7.109
-11,"=","LUMINEERS","Ho Hey",1249,"-20",-86,"-5",7.938,"-0.189",321,"14",1,1976,197,12.963
-12,"=","CAPITAL CITIES","Safe And Sound",1065,"+24",77,"+18",5.541,"+0.180",130,"224",12,1065,170,5.541
-13,"=","NEIGHBOURHOOD","Sweater Weather",968,"+10",78,"-3",3.941,"+0.058",92,"258",13,968,133,3.941
-14,"=","PARAMORE","Now",952,"+6",28,"-4",4.22,"-0.141",38,"--",13,953,306,4.419
-15,"=","AIRBORNE TOXIC EV...","Timeless",901,"+17",66,"+18",3.814,"-0.006",43,"--",15,901,256,4.28
-16,"=","MUSE","Panic Station",866,"+0",19,"-28",4.007,"+0.090",56,"--",15,866,170,4.097
-17,"=","PHOENIX","Entertainment",833,"+30",319,"-85",3.683,"+0.167",12,"--",17,833,606,3.683
-18,"=","FALL OUT BOY","My Songs Know Wha...",797,"+11",74,"-5",4.496,"+0.109",25,"31",17,797,387,4.496
-19,"=","MACKLEMORE & RYAN...","Thrift Shop f/Wan...",703,"-13",-89,"-6",4.684,"-0.028",127,"2",13,823,115,5.84
-20,"=","PASSION PIT","Carried Away",527,"+17",54,"+15",2.045,"+0.082",91,"372",20,527,81,2.045
-21,"=","TWENTY ONE PILOTS","Holding On To You",501,"+2",18,"+1",2.484,"+0.009",94,"--",20,501,88,2.617
-22,"=","FAMILY OF THE YEA...","Hero",493,"-1",-14,"+2",2.257,"-0.042",111,"--",20,514,91,2.685
-23,"=","THE MOWGLI'S","San Francisco",452,"+6",43,"+0",2.254,"-0.013",78,"--",23,452,71,2.292
-24,"=","FOALS","Inhaler",434,"+16",74,"+13",1.75,"+0.195",53,"--",24,434,116,1.75
-25,"=","ALICE IN CHAINS","Hollow",397,"+8",-12,"+11",1.252,"+0.030",56,"--",24,435,100,1.439
-26,"=","DEFTONES","Tempest",372,"+3",-11,"+11",1.151,"-0.022",140,"--",18,544,93,1.953
-27,"=","ALT-J","Breezeblocks",356,"+8",55,"+2",1.373,"+0.038",35,"--",27,356,67,1.373
-28,"=","THREE DAYS GRACE","The High Road",320,"+1",13,"-6",1.192,"-0.017",48,"--",27,332,85,1.277
-29,"=","C2C","Down The Road",316,"+9",49,"+0",0.916,"-0.019",25,"--",29,316,98,0.935
-30,"=","NEW POLITICS","Harlem",289,"-8",7,"-21",1.737,"-0.009",40,"--",29,303,77,1.884
-31,"=","FITZ & THE TANTRU...","Out Of My League",278,"+15",52,"+17",1.175,"+0.024",16,"--",31,278,112,1.546
-32,"=","IAMDYNAMITE","Where Will We Go",240,"-1",-5,"+2",0.926,"+0.003",128,"--",30,263,59,1.204
-33,"=","POSTAL SERVICE","A Tattered Line O...",232,"+2",-2,"+0",0.947,"+0.002",16,"--",30,240,240,1.358
-34,"=","BIFFY CLYRO","Black Chandelier",220,"+6",15,"+5",0.883,"-0.020",21,"--",34,220,96,0.903
-35,"+2","YEAH YEAH YEAHS","Sacrilege",214,"+34",214,"+34",1.106,"+0.136",3,"--",35,214,214,1.106
-36,"-1","GREEN DAY","X-Kid",203,"+9",29,"+9",0.413,"+0.030",19,"--",35,203,41,0.413
-37,"+1","ROBERT DELONG","Global Concepts",189,"+9",13,"+16",0.577,"+0.020",36,"--",37,189,38,0.577
-38,"-2","MATT AND KIM","Let's Go",184,"-1",-24,"+0",0.51,"+0.003",186,"--",21,503,99,2.265
-39,"=","PHILLIP PHILLIPS","Home",180,"+0",-13,"+1",0.625,"+0.007",125,"44",34,265,54,1.275
-40,"=","DEPECHE MODE","Heaven",169,"-5",-26,"+2",0.856,"-0.042",24,"--",37,204,149,1.419
-41,"=","DROPKICK MURPHYS","Boys Are Back",164,"-5",-19,"-1",0.605,"-0.094",45,"--",39,193,59,0.801
-42,"=","COREY TAYLOR/DAVE...","From Can To Can't",155,"-10",-64,"-11",0.392,"-0.032",34,"--",33,248,134,0.591
-43,"=","COLD WAR KIDS","Miracle Mile",151,"+4",8,"+6",0.73,"-0.009",14,"--",42,151,31,0.739
-44,"=","THE VIRGINMARYS","Dead Man's Shoes",139,"-2",-9,"-5",0.355,"-0.005",15,"--",42,151,22,0.405
-45,"=","SHINEDOWN","I'll Follow You",134,"+5",10,"+8",0.853,"+0.020",9,"--",45,134,60,0.853
-46,"=","SOUNDGARDEN","By Crooked Steps",132,"+5",6,"+1",0.67,"+0.025",8,"--",44,132,22,0.67
-47,"=","STROKES","All The Time",127,"+3",4,"+0",0.226,"-0.054",7,"--",45,127,31,0.336
-48,"=","BAD RELIGION","F**k You",123,"+1",-2,"+4",0.185,"-0.002",19,"--",45,137,12,0.252
-49,"+1","LINKIN PARK","Castle Of Glass",122,"+6",38,"+2",1.204,"+0.101",4,"--",49,122,43,1.204
-50,"--","ATLAS GENIUS","If So",120,"--",42,"--",0.422,"--",1,"--",50,120,42,0.422
+"Title","Artist","Spins"
+"Radioactive","IMAGINE DRAGONS",2184
+"Mountain Sound","OF MONSTERS AND M...",1755
+"Madness","MUSE",1632
+"I Will Wait","MUMFORD & SONS",1518
+"Little Black Subm...","BLACK KEYS",1433
+"The Pit","SILVERSUN PICKUPS",1418
+"Trojans","ATLAS GENIUS",1366
+"Stubborn Love","LUMINEERS",1296
+"Carry On","FUN.",1286
+"Lover Of The Ligh...","MUMFORD & SONS",1275
+"Ho Hey","LUMINEERS",1249
+"Safe And Sound","CAPITAL CITIES",1065
+"Sweater Weather","NEIGHBOURHOOD",968
+"Now","PARAMORE",952
+"Timeless","AIRBORNE TOXIC EV...",901
+"Panic Station","MUSE",866
+"Entertainment","PHOENIX",833
+"My Songs Know Wha...","FALL OUT BOY",797
+"Thrift Shop f/Wan...","MACKLEMORE & RYAN...",703
+"Carried Away","PASSION PIT",527
+"Holding On To You","TWENTY ONE PILOTS",501
+"Hero","FAMILY OF THE YEA...",493
+"San Francisco","THE MOWGLI'S",452
+"Inhaler","FOALS",434
+"Hollow","ALICE IN CHAINS",397
+"Tempest","DEFTONES",372
+"Breezeblocks","ALT-J",356
+"The High Road","THREE DAYS GRACE",320
+"Down The Road","C2C",316
+"Harlem","NEW POLITICS",289
+"Out Of My League","FITZ & THE TANTRU...",278
+"Where Will We Go","IAMDYNAMITE",240
+"A Tattered Line O...","POSTAL SERVICE",232
+"Black Chandelier","BIFFY CLYRO",220
+"Sacrilege","YEAH YEAH YEAHS",214
+"X-Kid","GREEN DAY",203
+"Global Concepts","ROBERT DELONG",189
+"Let's Go","MATT AND KIM",184
+"Home","PHILLIP PHILLIPS",180
+"Heaven","DEPECHE MODE",169
+"Boys Are Back","DROPKICK MURPHYS",164
+"From Can To Can't","COREY TAYLOR/DAVE...",155
+"Miracle Mile","COLD WAR KIDS",151
+"Dead Man's Shoes","THE VIRGINMARYS",139
+"I'll Follow You","SHINEDOWN",134
+"By Crooked Steps","SOUNDGARDEN",132
+"All The Time","STROKES",127
+"F**k You","BAD RELIGION",123
+"Castle Of Glass","LINKIN PARK",122
+"If So","ATLAS GENIUS",120

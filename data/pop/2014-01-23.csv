@@ -1,51 +1,51 @@
-"Pos","Pos.","Artist","Title","Spins","Spins.","Bullet","Bullet.","Aud","Aud.","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","PITBULL","Timber f/Ke$ha",16723,"-119",38,"-192",116.491,"-0.970",101,"5",1,16901,2001,117.778
-2,"=","ONEREPUBLIC","Counting Stars",15979,"+4",-455,"+43",110.613,"+0.172",103,"9",1,16524,2609,113.696
-3,"=","EMINEM","The Monster f/Rih...",15293,"-188",-755,"-98",105.927,"-1.366",86,"14/72",1,16414,2904,117.022
-4,"=","ELLIE GOULDING","Burn",12540,"+89",1273,"-184",87.45,"+0.001",109,"12",4,12540,1574,87.45
-5,"=","KATY PERRY","Dark Horse",11105,"+236",1810,"-99",76.862,"+1.426",62,"1",5,11105,2297,76.862
-6,"=","ONE DIRECTION","Story Of My Life",10368,"+97",735,"-62",73.347,"+0.990",85,"13",6,10368,1292,73.347
-7,"=","ZEDD","Stay The Night f/...",10053,"-26",-24,"-43",63.637,"-0.543",116,"42",5,10105,1238,64.483
-8,"=","LADY GAGA","Do What U Want f/...",9834,"-76",-78,"-82",54.638,"-0.524",86,"38",7,9983,1408,60.79
-9,"=","PASSENGER","Let Her Go",9574,"+25",370,"-37",59.609,"+0.196",116,"10",9,9574,1223,59.609
-10,"+1","LORDE","Team",8614,"+95",932,"-112",58.953,"+0.649",61,"8",10,8614,1348,58.953
-11,"+1","A GREAT BIG WORLD","Say Something w/C...",8353,"+89",825,"-65",54.8,"+0.299",62,"3/48",11,8353,1506,54.8
-12,"-2","IMAGINE DRAGONS","Demons",8285,"-267",-2050,"+107",53.538,"-1.320",144,"20",1,14595,1982,96.313
-13,"=","MACKLEMORE & RYAN...","White Walls f/ScH...",6973,"-106",-244,"-93",36.774,"-0.518",131,"29",12,7258,764,39.457
-14,"=","BASTILLE","Pompeii",6583,"+57",523,"-64",40.908,"+0.518",76,"7",14,6583,1030,40.908
-15,"=","JOHN NEWMAN","Love Me Again",5329,"+71",610,"-58",29.827,"+0.243",111,"21",15,5329,697,29.827
-16,"=","BRUNO MARS","Young Girls",5115,"+103",809,"-70",27.801,"+0.615",41,"88",16,5115,938,27.801
-17,"=","BEYONCE","XO",5002,"+49",482,"-9",29.373,"-0.102",34,"53",16,5002,1464,29.475
-18,"=","MILEY CYRUS","Adore You",4266,"+85",1096,"-144",20.764,"+0.439",28,"17",18,4266,1542,20.764
-19,"=","MILEY CYRUS","Wrecking Ball",3724,"-123",-1002,"+67",23.194,"-0.874",134,"39",1,15459,2954,107.57
-20,"=","ZENDAYA","Replay",3685,"+80",281,"+74",12.775,"+0.234",98,"34",20,3685,472,12.775
-21,"=","JASON DERULO","Talk Dirty f/2 Ch...",3521,"+156",1378,"-88",26.205,"+1.525",25,"6",21,3521,1471,26.205
-22,"=","DEMI LOVATO","Neon Lights",3349,"+115",612,"+68",20.399,"+0.174",56,"67",22,3349,612,20.399
-23,"+1","CASH CASH","Take Me Home f/Be...",3120,"+72",736,"+2",21.367,"+0.521",67,"104",23,3120,836,21.367
-24,"-1","SARA BAREILLES","Brave",3029,"-20",40,"-34",16.39,"-0.082",144,"31",21,3095,380,19.453
-25,"=","CALVIN HARRIS","Thinking About Yo...",2949,"+38",185,"+10",19.177,"+0.503",83,"150",23,2949,605,19.177
-26,"+1","THE 1975","Chocolate",2277,"+21",216,"-47",9.773,"+0.146",60,"100",26,2277,389,9.773
-27,"+1","AVICII","Hey Brother",2185,"+35",346,"-5",13.229,"-0.047",49,"19",27,2185,388,13.289
-28,"-2","FLO RIDA","How I Feel",2077,"-202",-535,"-140",9.156,"-0.749",76,"93",23,2794,547,12.521
-29,"=","AMERICAN AUTHORS","Best Day Of My Li...",1701,"+6",-13,"-15",7.837,"+0.072",45,"18",29,1727,394,8.2
-30,"=","SHAKIRA F/RIHANNA","Can't Remember To...",1570,"+202",421,"+80",13.136,"+0.767",10,"80",29,1848,1848,20.193
-31,"+1","CHRIS WALLACE","Keep Me Crazy",1291,"+18",118,"-14",2.966,"-0.021",141,"--",31,1291,133,3.11
-32,"+1","MARTIN GARRIX","Animals",1289,"+41",185,"-3",11.219,"+0.233",53,"52",32,1289,402,11.219
-33,"-2","FALL OUT BOY","Alone Together",1227,"-77",-1055,"+131",4.818,"-0.207",157,"94",22,3296,471,18.251
-34,"=","MKTO","Classic",1094,"+21",34,"+39",2.601,"+0.107",53,"121",34,1094,163,2.601
-35,"=","PHARRELL WILLIAMS","Happy",1055,"+151",846,"+73",8.497,"+1.525",5,"4",35,1055,846,8.497
-36,"=","NONONO","Pumpin Blood",925,"+27",186,"+3",2.811,"+0.249",44,"--",36,925,186,2.811
-37,"=","KID INK","Show Me f/Chris B...",917,"+37",296,"+7",4.55,"+0.389",18,"30",37,917,296,4.55
-38,"+3","NAUGHTY BOY","La La La f/Sam Sm...",827,"+52",389,"+17",2.16,"+0.151",11,"--",38,827,389,2.16
-39,"-1","KATY PERRY","Unconditionally",800,"-38",-570,"+94",4.201,"-0.109",96,"50",8,8987,3384,51.293
-40,"=","JUSTIN TIMBERLAKE","TKO",759,"-29",-697,"+57",3.424,"-0.209",121,"271",11,6739,1724,32.813
-41,"-2","BRITNEY SPEARS","Perfume",703,"-124",-1207,"+86",2.498,"-0.245",75,"241",22,3580,896,17.467
-42,"=","CAMRYN","LoveSick",602,"+4",38,"-16",0.604,"-0.005",30,"--",42,682,125,0.944
-43,"=","DJ SNAKE & LIL JO...","Turn Down For Wha...",601,"+36",353,"+12",2.568,"+0.186",4,"15",43,601,353,2.568
-44,"=","FRAY","Love Don't Die",543,"+4",34,"-1",1.518,"+0.052",18,"82",43,543,64,1.546
-45,"+1","PANIC! AT THE DIS...","Miss Jackson f/Lo...",504,"+16",76,"+23",0.931,"+0.024",15,"152",45,504,83,0.931
-46,"-1","JAKE MILLER","Collide",504,"-23",-50,"-17",0.905,"-0.077",44,"--",43,688,134,1.677
-47,"+1","BEYONCE","Drunk In Love f/J...",477,"+17",219,"-22",2.183,"+0.085",4,"24",47,477,241,2.183
-48,"--","ALOE BLACC","The Man",462,"--",399,"--",2.358,"--",1,"2",48,462,399,2.358
-49,"-2","MIKE WILL MADE-IT","23 f/Miley Cyrus/...",444,"-19",-1,"-24",2.465,"-0.182",12,"54",45,472,64,2.724
-50,"-1","DAUGHTRY","Waiting For Super...",425,"+10",99,"-30",1.404,"+0.039",4,"62",49,425,147,1.404
+"Title","Artist","Spins"
+"Timber f/Ke$ha","PITBULL",16723
+"Counting Stars","ONEREPUBLIC",15979
+"The Monster f/Rih...","EMINEM",15293
+"Burn","ELLIE GOULDING",12540
+"Dark Horse","KATY PERRY",11105
+"Story Of My Life","ONE DIRECTION",10368
+"Stay The Night f/...","ZEDD",10053
+"Do What U Want f/...","LADY GAGA",9834
+"Let Her Go","PASSENGER",9574
+"Team","LORDE",8614
+"Say Something w/C...","A GREAT BIG WORLD",8353
+"Demons","IMAGINE DRAGONS",8285
+"White Walls f/ScH...","MACKLEMORE & RYAN...",6973
+"Pompeii","BASTILLE",6583
+"Love Me Again","JOHN NEWMAN",5329
+"Young Girls","BRUNO MARS",5115
+"XO","BEYONCE",5002
+"Adore You","MILEY CYRUS",4266
+"Wrecking Ball","MILEY CYRUS",3724
+"Replay","ZENDAYA",3685
+"Talk Dirty f/2 Ch...","JASON DERULO",3521
+"Neon Lights","DEMI LOVATO",3349
+"Take Me Home f/Be...","CASH CASH",3120
+"Brave","SARA BAREILLES",3029
+"Thinking About Yo...","CALVIN HARRIS",2949
+"Chocolate","THE 1975",2277
+"Hey Brother","AVICII",2185
+"How I Feel","FLO RIDA",2077
+"Best Day Of My Li...","AMERICAN AUTHORS",1701
+"Can't Remember To...","SHAKIRA F/RIHANNA",1570
+"Keep Me Crazy","CHRIS WALLACE",1291
+"Animals","MARTIN GARRIX",1289
+"Alone Together","FALL OUT BOY",1227
+"Classic","MKTO",1094
+"Happy","PHARRELL WILLIAMS",1055
+"Pumpin Blood","NONONO",925
+"Show Me f/Chris B...","KID INK",917
+"La La La f/Sam Sm...","NAUGHTY BOY",827
+"Unconditionally","KATY PERRY",800
+"TKO","JUSTIN TIMBERLAKE",759
+"Perfume","BRITNEY SPEARS",703
+"LoveSick","CAMRYN",602
+"Turn Down For Wha...","DJ SNAKE & LIL JO...",601
+"Love Don't Die","FRAY",543
+"Miss Jackson f/Lo...","PANIC! AT THE DIS...",504
+"Collide","JAKE MILLER",504
+"Drunk In Love f/J...","BEYONCE",477
+"The Man","ALOE BLACC",462
+"23 f/Miley Cyrus/...","MIKE WILL MADE-IT",444
+"Waiting For Super...","DAUGHTRY",425

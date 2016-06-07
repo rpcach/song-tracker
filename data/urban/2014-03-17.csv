@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","KID INK","Show Me f/Chris Brown",3961,"+40",96,"+119",27.654,"+0.523",124,"22",1,4017,447,28.371
-2,"=","BEYONCE","Drunk In Love f/Jay Z",3770,"-50",-437,"-9",30.561,"+0.002",92,"13",1,4741,1296,35.847
-3,"=","TY DOLLA $IGN","Paranoid",3268,"+16",11,"+84",21.165,"+0.229",121,"50",3,3369,442,22.032
-4,"=","PHARRELL WILLIAMS","Happy",3224,"+77",441,"+28",23.339,"+0.562",50,"1",4,3224,655,23.339
-5,"=","YG","My Hitta f/Jeezy,RichHomieQuan",2854,"-6",-189,"+38",19.264,"-0.031",169,"--",1,4192,395,28.78
-6,"+1","BEYONCE","Partition",2655,"+79",391,"+86",20.735,"+0.697",59,"43",6,2655,734,20.735
-7,"-1","T-PAIN","Up Down (Do This All Day)",2647,"-25",-193,"+9",17.491,"-0.023",169,"91",6,2869,321,18.419
-8,"=","CHRIS BROWN","Loyal f/Lil' Wayne",2640,"+69",288,"+69",16.689,"+0.249",71,"69",8,2640,443,16.689
-9,"+1","JAY Z","Part II (On The Run) f/Beyonce",2567,"+21",151,"+36",18.433,"+0.006",60,"158",9,2567,672,18.433
-10,"+2","JHENE AIKO","The Worst",2548,"+34",247,"+63",19.516,"+0.367",60,"98",10,2548,448,19.516
-11,"-2","TREY SONGZ","Na Na",2544,"-5",-2,"-1",18.529,"+0.098",64,"35",7,2560,511,19.336
-12,"-1","JOHN LEGEND","All Of Me",2529,"+11",59,"+18",16.211,"+0.205",110,"2",7,2539,406,16.211
-13,"=","K. MICHELLE","Can't Raise A Man",2224,"+36",117,"+8",13.79,"+0.262",61,"253",13,2224,522,13.79
-14,"=","YOUNG THUG","Stoner",2188,"+68",277,"+57",14.693,"+0.623",57,"77",14,2188,544,14.693
-15,"=","DRAKE","The Language",1849,"-138",-1089,"-87",11.44,"-0.653",131,"226",4,3255,538,20.354
-16,"=","LORDE","Royals",1709,"-24",-125,"+27",12.222,"-0.013",140,"28",1,3976,624,27.057
-17,"=","BANDO JONEZ","Sex You",1706,"+22",89,"-1",8.629,"+0.178",67,"--",17,1706,285,8.629
-18,"=","SCHOOLBOY Q","Man Of The Year",1635,"+79",265,"+74",9.313,"+0.233",54,"79",18,1635,349,9.313
-19,"=","DJ INFAMOUS","Double Cup f/Jeezy, Ludacris",1205,"+46",162,"+60",5.505,"+0.211",60,"--",19,1205,197,5.505
-20,"=","FUTURE","Move That Doh f/Pharrel",1164,"+73",385,"+47",6.66,"+0.379",27,"--",20,1164,385,6.66
-21,"=","DRAKE","Trophies",1078,"+60",442,"+1",8.21,"+0.605",32,"58",21,1078,461,8.21
-22,"=","BOOSIE & WEBBIE","Show Da World f/Kiara",1071,"+60",332,"+43",5.328,"+0.284",36,"--",21,1071,332,5.328
-23,"=","YG","Who Do You Love f/Drake",943,"+21",168,"+7",6.278,"+0.124",36,"111",23,943,258,6.278
-24,"=","SNOOTIE WILD","Yayo",879,"+24",177,"+5",4.253,"+0.144",68,"231",24,879,177,4.253
-25,"=","RICK ROSS","The Devil Is A Lie f/Jay Z",812,"+1",-100,"+28",3.162,"-0.152",84,"161",21,941,267,4.571
-26,"+1","SEVYN STREETER","Next",692,"+23",125,"+29",3.909,"+0.178",27,"--",26,692,228,3.909
-27,"+5","YOUNG MONEY","Lookin Ass f/Nicki Minaj",663,"+48",204,"+36",4.899,"+0.132",28,"302",27,663,305,4.899
-28,"+1","K CAMP","Cut Her Off",657,"+19",121,"+21",3.928,"+0.047",50,"--",28,657,121,3.928
-29,"+1","TREVOR JACKSON","Drop It f/B.o.B.",652,"+20",27,"+27",3.063,"+0.128",48,"--",27,652,148,3.063
-30,"-2","K CAMP","Money Baby f/Kwony Cash",642,"+1",-64,"+17",3.353,"-0.046",129,"--",24,987,183,5.048
-31,"-5","QUE","O.G. Bobby Johnson",627,"-45",-275,"-9",3.731,"-0.200",92,"275",18,1390,476,9.52
-32,"+2","KATY PERRY","Dark Horse f/Juicy J",604,"+70",304,"+53",4.956,"+0.463",8,"3",32,604,304,4.956
-33,"=","LUDACRIS","Party Girls f/Wiz & Jeremih",570,"+19",107,"-1",2.414,"-0.071",22,"274",33,570,277,2.609
-34,"-3","AUGUST ALSINA","Ghetto f/Rich Homie Quan",560,"-71",-508,"-26",2.518,"-0.197",99,"--",18,1273,280,6.638
-35,"+1","ANTHONY LEWIS","Candy Rain f/Billy Bang",501,"+21",132,"+4",1.841,"+0.066",13,"--",35,501,159,1.841
-36,"-1","KESINGTON KROSS","Gimme Your Love",492,"+8",75,"-1",1.214,"+0.022",22,"--",35,492,129,1.214
-37,"=","B.O.B","Throwback f/Chris Brown",476,"+9",47,"+5",2.607,"+0.011",39,"--",35,483,150,2.671
-38,"+2","MILA J","Smoke, Drink, Break-Up",460,"+39",113,"+41",1.249,"+0.122",18,"--",38,460,134,1.249
-39,"-1","WE ARE TOONZ","Drop That #NaeNae",459,"-3",-43,"-2",2.09,"-0.051",52,"179",32,517,162,3.057
-40,"-1","SEBASTIAN MIKAEL","Forever",441,"+10",15,"+13",1.761,"+0.008",18,"--",39,441,195,1.819
-41,"+3","MARIAH CAREY","You're Mine (Eternal)",401,"+8",39,"-3",2.112,"-0.010",13,"--",41,401,182,2.122
-42,"-1","ALOE BLACC","The Man",400,"-19",-121,"-13",1.916,"-0.040",40,"4",31,547,278,2.556
-43,"+2","CASHIUS GREEN","Right Now f/Pheo",392,"+9",8,"+23",0.722,"+0.017",34,"--",39,409,164,0.785
-44,"-2","YOUNG MONEY","We Alright f/Euro, Birdman",391,"-9",-59,"+14",1.204,"+0.015",36,"--",36,491,264,1.563
-45,"+3","AUGUST ALSINA","Make It Home f/Jeezy",340,"+12",87,"-7",1.296,"+0.002",6,"--",45,340,129,1.296
-46,"+1","MACK WILDS","Henny",334,"-3",49,"-28",1.875,"+0.053",8,"--",46,339,115,1.882
-47,"+2","KATIE GOT BANDZ","Pop Out f/King Louie",327,"+2",-9,"-1",1.224,"-0.075",26,"--",46,340,93,1.506
-48,"--","JASON DERULO","Talk Dirty f/2 Chainz",319,"--",70,"--",1.611,"--",1,"120",48,319,70,1.611
-49,"+1","JUICY J","Talkin Bout f/Chris Brown, Wiz",318,"+1",35,"+5",1.404,"-0.011",8,"--",49,318,102,1.456
-50,"--","RICH HOMIE QUAN","Walk Thru f/Problem",305,"--",61,"--",1.031,"--",1,"358",50,305,61,1.031
+"Title","Artist","Spins"
+"Show Me f/Chris Brown","KID INK",3961
+"Drunk In Love f/Jay Z","BEYONCE",3770
+"Paranoid","TY DOLLA $IGN",3268
+"Happy","PHARRELL WILLIAMS",3224
+"My Hitta f/Jeezy,RichHomieQuan","YG",2854
+"Partition","BEYONCE",2655
+"Up Down (Do This All Day)","T-PAIN",2647
+"Loyal f/Lil' Wayne","CHRIS BROWN",2640
+"Part II (On The Run) f/Beyonce","JAY Z",2567
+"The Worst","JHENE AIKO",2548
+"Na Na","TREY SONGZ",2544
+"All Of Me","JOHN LEGEND",2529
+"Can't Raise A Man","K. MICHELLE",2224
+"Stoner","YOUNG THUG",2188
+"The Language","DRAKE",1849
+"Royals","LORDE",1709
+"Sex You","BANDO JONEZ",1706
+"Man Of The Year","SCHOOLBOY Q",1635
+"Double Cup f/Jeezy, Ludacris","DJ INFAMOUS",1205
+"Move That Doh f/Pharrel","FUTURE",1164
+"Trophies","DRAKE",1078
+"Show Da World f/Kiara","BOOSIE & WEBBIE",1071
+"Who Do You Love f/Drake","YG",943
+"Yayo","SNOOTIE WILD",879
+"The Devil Is A Lie f/Jay Z","RICK ROSS",812
+"Next","SEVYN STREETER",692
+"Lookin Ass f/Nicki Minaj","YOUNG MONEY",663
+"Cut Her Off","K CAMP",657
+"Drop It f/B.o.B.","TREVOR JACKSON",652
+"Money Baby f/Kwony Cash","K CAMP",642
+"O.G. Bobby Johnson","QUE",627
+"Dark Horse f/Juicy J","KATY PERRY",604
+"Party Girls f/Wiz & Jeremih","LUDACRIS",570
+"Ghetto f/Rich Homie Quan","AUGUST ALSINA",560
+"Candy Rain f/Billy Bang","ANTHONY LEWIS",501
+"Gimme Your Love","KESINGTON KROSS",492
+"Throwback f/Chris Brown","B.O.B",476
+"Smoke, Drink, Break-Up","MILA J",460
+"Drop That #NaeNae","WE ARE TOONZ",459
+"Forever","SEBASTIAN MIKAEL",441
+"You're Mine (Eternal)","MARIAH CAREY",401
+"The Man","ALOE BLACC",400
+"Right Now f/Pheo","CASHIUS GREEN",392
+"We Alright f/Euro, Birdman","YOUNG MONEY",391
+"Make It Home f/Jeezy","AUGUST ALSINA",340
+"Henny","MACK WILDS",334
+"Pop Out f/King Louie","KATIE GOT BANDZ",327
+"Talk Dirty f/2 Chainz","JASON DERULO",319
+"Talkin Bout f/Chris Brown, Wiz","JUICY J",318
+"Walk Thru f/Problem","RICH HOMIE QUAN",305

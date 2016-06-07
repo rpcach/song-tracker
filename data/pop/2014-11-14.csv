@@ -1,51 +1,51 @@
-"Pos","Pos.","Artist","Title","Spins","Spins.","Bullet","Bullet.","Aud","Aud.","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","TOVE LO","Habits (Stay High)",16662,"-29",333,"-158",110.186,"+0.108",144,"22",1,16744,2816,110.186
-2,"=","MAROON 5","Animals",16525,"+300",2675,"-165",108.69,"+1.254",52,"8",2,16525,3186,108.69
-3,"=","ED SHEERAN","Don't",13406,"+317",1395,"+235",79.566,"+1.585",124,"25",3,13406,1458,79.566
-4,"=","TAYLOR SWIFT","Shake It Off",12662,"-340",-1494,"-212",84.451,"-1.575",88,"5",1,17531,9016,110.142
-5,"=","JESSIE J/A. GRANDE/N. MINAJ","Bang Bang",12572,"-428",-2682,"-98",72.682,"-1.323",108,"20",1,15754,4716,94.236
-6,"+1","CALVIN HARRIS","Blame f/John Newman",10748,"+220",910,"+145",66.516,"+0.829",67,"31",6,10748,1988,66.516
-7,"-1","MEGHAN TRAINOR","All About That Bass",10504,"-175",-1339,"+34",75.885,"-2.407",129,"7",1,17875,3030,116.17
-8,"=","JEREMIH","Don't Tell 'Em f/YG",10100,"-392",-1901,"-170",59.366,"-1.518",117,"46",5,12620,1458,74.757
-9,"+1","MR PROBZ","Waves",10061,"+212",1254,"+25",69.589,"+1.410",124,"29",9,10061,1254,69.589
-10,"-1","IGGY AZALEA","Black Widow f/Rita Ora",9460,"-427",-2683,"-72",66.078,"-1.229",138,"49",1,17547,2437,115.226
-11,"=","NICK JONAS","Jealous",9262,"+101",666,"+10",52.277,"+0.931",64,"11",11,9262,1846,52.277
-12,"=","JASON DERULO","Trumpets",8470,"+83",465,"+25",45.439,"+0.515",81,"19",12,8470,1238,45.439
-13,"+1","TAYLOR SWIFT","Blank Space",7436,"+382",2941,"-155",52.072,"+2.723",17,"2",13,7436,3248,52.072
-14,"-1","ARIANA GRANDE & THE WEEKND","Love Me Harder",7364,"+169",1038,"+43",46.842,"+0.950",38,"27",13,7364,1751,46.842
-15,"=","SAM SMITH","I'm Not The Only One",7034,"+82",758,"-35",38.447,"+1.268",50,"10",14,7034,1424,38.447
-16,"=","IGGY AZALEA","Beg For It f/MØ",5339,"+151",1381,"-61",30.627,"+0.473",21,"33",16,5339,2920,30.627
-17,"=","ONE DIRECTION","Steal My Girl",5138,"+40",76,"+108",19.472,"-0.103",46,"12",17,5160,2502,19.893
-18,"=","ECHOSMITH","Cool Kids",4778,"-205",-1453,"-1",27.779,"-0.823",159,"28",8,8425,978,46.431
-19,"=","ALESSO","Heroes",4608,"+116",722,"+7",23.776,"+0.549",67,"48",19,4608,896,23.776
-20,"=","FERGIE","L.A.LOVE (la la)",4260,"+10",192,"-9",16.918,"-0.060",42,"40",20,4260,1105,18.09
-21,"=","GWEN STEFANI","Baby Don't Lie",4227,"+79",452,"+19",18.3,"-0.044",25,"79",21,4227,2651,20.798
-22,"=","MEGHAN TRAINOR","Lips Are Movin",4053,"+73",841,"-33",18.973,"+0.611",25,"21",22,4053,1423,18.973
-23,"+1","NICO & VINZ","In Your Arms",3904,"+40",61,"+19",16.192,"+0.249",51,"75",22,3909,1121,16.487
-24,"-1","ARIANA GRANDE","Break Free f/Zedd",3886,"-94",-795,"+10",32.746,"-0.394",132,"73",4,14321,2327,87.942
-25,"=","HOZIER","Take Me To Church",3548,"+97",869,"-23",16.519,"+0.697",32,"6",25,3548,899,16.519
-26,"=","FALL OUT BOY","Centuries",3134,"+59",378,"+32",16.411,"+0.219",58,"18",26,3134,556,16.411
-27,"=","DAVID GUETTA","Dangerous f/Sam Martin",2884,"+63",369,"+19",15.484,"+0.480",39,"53",27,2884,1540,16.342
-28,"=","CHARLI XCX","Break The Rules",2492,"+27",325,"+14",8.871,"+0.108",44,"244",28,2492,609,8.879
-29,"+2","BEBE REXHA","Can't Stop Drinking About You",1904,"-25",49,"-28",5.869,"-0.088",84,"160",29,1929,292,6.05
-30,"+4","MARK RONSON","Uptown Funk f/Bruno Mars",1862,"+262",1862,"+262",17.045,"+1.942",4,"17",30,1862,1862,17.045
-31,"-1","KENDRICK LAMAR","i",1809,"-140",-470,"-129",8.252,"-0.793",47,"83",29,2310,591,13.612
-32,"=","PITBULL","Fireball f/John Ryan",1713,"-118",-1734,"+234",8.184,"-0.475",103,"35",17,5516,739,26.223
-33,"=","CHRIS BROWN","New Flame f/Usher & Rick Ross",1700,"+57",184,"+33",9.99,"+0.012",38,"81",33,1700,299,9.99
-34,"+1","JESSIE J","Burnin' Up f/2 Chainz",1553,"+59",452,"+37",8.849,"+0.263",25,"131",34,1553,468,8.849
-35,"+1","ELLA HENDERSON","Ghost",1501,"+16",164,"-34",4.249,"+0.116",64,"60",34,1501,236,4.314
-36,"-7","SELENA GOMEZ","The Heart Wants What It Wants",1421,"-610",443,"-1588",9.605,"-8.466",8,"15",29,2031,2031,18.071
-37,"=","MARY LAMBERT","Secrets",1219,"-124",-1169,"+81",5.446,"-0.469",76,"171",26,2950,817,12.871
-38,"+1","TREY SONGZ","Touchin, Lovin f/Nicki Minaj",1109,"+21",191,"-5",5.815,"+0.225",30,"92",38,1109,227,5.815
-39,"-1","TINASHE","2 On f/Schoolboy Q",1079,"-32",-156,"-53",11.548,"-0.514",158,"183",20,3927,419,21.823
-40,"=","BEA MILLER","Young Blood",1055,"+17",118,"-14",2.529,"+0.047",28,"301",40,1055,232,2.529
-41,"+1","EDEN XO","Too Cool To Dance",1031,"+46",401,"+25",3.84,"+0.153",12,"--",41,1031,401,3.84
-42,"+1","MILKY CHANCE","Stolen Dance",986,"+15",167,"-17",4.218,"+0.017",20,"38",42,986,203,4.218
-43,"-2","COLDPLAY","A Sky Full Of Stars",956,"-33",-441,"+19",7.802,"-0.267",138,"104",12,6757,946,41.834
-44,"+1","VANCE JOY","Riptide",952,"+24",157,"-6",4.264,"+0.191",17,"16",43,952,201,4.264
-45,"-1","5 SECONDS OF SUMMER","Amnesia",901,"-53",-1064,"+161",4.922,"-0.240",121,"66",14,5943,912,27.287
-46,"=","LILLYWOOD & ROBIN SCHULZ","Prayer In C",874,"+24",163,"-7",7.379,"+0.148",12,"144",45,874,222,7.379
-47,"=","BIG SEAN","I Don't F**k With You f/E-40",708,"+23",146,"-6",4.464,"+0.082",5,"265",47,708,166,4.476
-48,"=","MAGIC!","Let Your Hair Down",641,"+6",38,"-1",1.351,"-0.001",9,"433",48,641,101,1.36
-49,"+1","KAT DAHLIA","Crazy",518,"-2",55,"-24",1.691,"-0.061",5,"316",49,520,91,2.003
-50,"--","THE SCRIPT","Superheroes",504,"--",191,"--",1.742,"--",1,"102",50,504,191,1.742
+"Title","Artist","Spins"
+"Habits (Stay High)","TOVE LO",16662
+"Animals","MAROON 5",16525
+"Don't","ED SHEERAN",13406
+"Shake It Off","TAYLOR SWIFT",12662
+"Bang Bang","JESSIE J/A. GRANDE/N. MINAJ",12572
+"Blame f/John Newman","CALVIN HARRIS",10748
+"All About That Bass","MEGHAN TRAINOR",10504
+"Don't Tell 'Em f/YG","JEREMIH",10100
+"Waves","MR PROBZ",10061
+"Black Widow f/Rita Ora","IGGY AZALEA",9460
+"Jealous","NICK JONAS",9262
+"Trumpets","JASON DERULO",8470
+"Blank Space","TAYLOR SWIFT",7436
+"Love Me Harder","ARIANA GRANDE & THE WEEKND",7364
+"I'm Not The Only One","SAM SMITH",7034
+"Beg For It f/MØ","IGGY AZALEA",5339
+"Steal My Girl","ONE DIRECTION",5138
+"Cool Kids","ECHOSMITH",4778
+"Heroes","ALESSO",4608
+"L.A.LOVE (la la)","FERGIE",4260
+"Baby Don't Lie","GWEN STEFANI",4227
+"Lips Are Movin","MEGHAN TRAINOR",4053
+"In Your Arms","NICO & VINZ",3904
+"Break Free f/Zedd","ARIANA GRANDE",3886
+"Take Me To Church","HOZIER",3548
+"Centuries","FALL OUT BOY",3134
+"Dangerous f/Sam Martin","DAVID GUETTA",2884
+"Break The Rules","CHARLI XCX",2492
+"Can't Stop Drinking About You","BEBE REXHA",1904
+"Uptown Funk f/Bruno Mars","MARK RONSON",1862
+"i","KENDRICK LAMAR",1809
+"Fireball f/John Ryan","PITBULL",1713
+"New Flame f/Usher & Rick Ross","CHRIS BROWN",1700
+"Burnin' Up f/2 Chainz","JESSIE J",1553
+"Ghost","ELLA HENDERSON",1501
+"The Heart Wants What It Wants","SELENA GOMEZ",1421
+"Secrets","MARY LAMBERT",1219
+"Touchin, Lovin f/Nicki Minaj","TREY SONGZ",1109
+"2 On f/Schoolboy Q","TINASHE",1079
+"Young Blood","BEA MILLER",1055
+"Too Cool To Dance","EDEN XO",1031
+"Stolen Dance","MILKY CHANCE",986
+"A Sky Full Of Stars","COLDPLAY",956
+"Riptide","VANCE JOY",952
+"Amnesia","5 SECONDS OF SUMMER",901
+"Prayer In C","LILLYWOOD & ROBIN SCHULZ",874
+"I Don't F**k With You f/E-40","BIG SEAN",708
+"Let Your Hair Down","MAGIC!",641
+"Crazy","KAT DAHLIA",518
+"Superheroes","THE SCRIPT",504

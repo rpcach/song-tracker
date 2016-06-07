@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","J. COLE","Power Trip f/Migu...",3894,38,287,39,27.661,0.23,108,"43",1,3894,778,27.661
-2,"=","KENDRICK LAMAR","B**ch, Don't Kill...",3793,-27,17,-90,25.626,0.034,84,"--",1,3866,580,25.657
-3,"=","WALE","Bad f/Tiara Thoma...",3614,-25,-76,-45,28.423,-0.276,132,"107",1,4214,503,31.462
-4,"=","CIARA","Body Party",3462,-28,64,-51,24.197,-0.105,82,"100",4,3510,612,24.397
-5,"=","LIL WAYNE","Rich As F**k f/2 ...",3215,36,191,-19,21.648,0.351,72,"--",5,3215,480,21.648
-6,"=","DJ KHALED F/DRAKE...","No New Friends",2490,38,294,12,17.642,0.44,55,"44",6,2490,501,17.642
-7,"=","B.O.B","Still In This B**...",2402,-33,-354,84,17.327,-0.198,188,"83",2,3346,405,21.564
-8,"=","CHRIS BROWN","Fine China",2372,-53,-132,33,17.083,-0.326,75,"84",5,2931,1240,22.027
-9,"=","RIHANNA","Pour It Up",2356,-21,-355,15,17.666,-0.211,176,"153",1,4431,753,36.214
-10,"=","RIHANNA","Loveeeeeee Song f...",2297,-39,-136,-5,17.091,-0.121,160,"297",4,3361,609,26.873
-11,"+1","RICH GANG","Tapout f/Birdman,...",2246,53,335,-14,14.835,0.134,83,"52",11,2246,349,14.835
-12,"-1","FABOLOUS","Ready f/Chris Bro...",2153,-45,-41,-79,16.576,-0.194,131,"--",11,2254,267,17.307
-13,"=","MIGUEL","How Many Drinks?",2130,38,82,41,15.307,0.339,100,"345",13,2130,300,15.307
-14,"=","DRAKE","Started From The ...",1968,-46,-407,76,13.297,-0.164,128,"304",1,4137,942,31.638
-15,"=","ROCKO","U.O.E.N.O",1725,51,314,-24,11.233,0.361,66,"113",15,1725,390,11.233
-16,"=","FANTASIA","Without Me f/Kell...",1664,10,155,-2,10.439,-0.061,50,"--",16,1664,403,10.5
-17,"=","NICKI MINAJ","High School",1629,-25,60,-29,9.679,-0.11,59,"138",15,1663,337,9.789
-18,"+1","TAMAR BRAXTON","The One",1352,13,6,-14,6.734,0.025,38,"225",18,1374,521,6.78
-19,"-1","ACE HOOD","Bugatti f/Future ...",1344,-65,-312,-78,10.066,-0.775,142,"79",8,2724,348,17.966
-20,"=","KELLY ROWLAND","Dirty Laundry",1113,2,198,-41,6.415,0.045,30,"364",20,1113,605,6.415
-21,"=","WALE","LoveHate Thing f/...",1108,33,280,-44,7.229,0.257,20,"312",21,1108,432,7.229
-22,"=","MARIAH CAREY","#Beautiful f/Migu...",1042,-3,-73,34,4.935,-0.132,40,"18",20,1152,596,5.955
-23,"=","KELLY ROWLAND","Kisses Down Low",986,-21,-223,27,7.002,-0.319,131,"311",10,2604,432,18.466
-24,"=","ALICIA KEYS","Fire We Make",975,-13,84,-64,5.05,-0.072,41,"--",23,988,246,5.212
-25,"=","AUGUST ALSINA","I Luv This Sh*t",911,-1,25,-66,4.896,0.071,54,"--",25,929,229,4.896
-26,"=","PROBLEM","Like Whaaat f/Bad...",830,-4,-16,-3,3.156,0.074,68,"--",24,847,158,3.156
-27,"=","FUTURE","Karate Chop f/Cas...",830,2,-38,-96,5.867,0.008,132,"--",11,2450,484,14.833
-28,"+1","ROBIN THICKE","Blurred Lines f/P...",769,62,456,25,3.861,0.477,8,"1",28,769,459,3.861
-29,"+1","SEAN KINGSTON","Beat It f/Chris B...",687,-4,27,9,2.483,0.126,35,"87",29,696,232,2.512
-30,"-2","FRENCH MONTANA","Freaks f/Nicki Mi...",687,-54,-334,-67,6.708,-0.636,97,"--",19,1550,287,10.035
-31,"+1","MARIO","Somebody Else f/N...",663,39,189,29,4.59,0.354,13,"--",31,663,246,4.59
-32,"-1","A$AP ROCKY","Wild For The Nigh...",652,-24,-64,-22,2.043,-0.157,76,"90",29,728,135,2.739
-33,"+1","JUSTIN TIMBERLAKE","Mirrors",602,3,-16,75,4.616,0.128,33,"10",31,690,197,4.866
-34,"-1","A$AP FERG","Work",602,-17,-32,-39,3.05,-0.094,45,"201",32,634,158,3.346
-35,"+1","HUSTLE GANG F/T.I...","Memories Back The...",598,10,94,-23,2.228,0.054,27,"214",35,598,239,2.228
-36,"-1","YOUNG JEEZY","RIP f/2 Chainz",590,-8,-172,-74,4.28,-0.103,153,"--",10,2216,442,15.362
-37,"+2","ACE HOOD","We Outchea f/Lil ...",564,9,166,-16,3.555,0.122,13,"393",37,564,214,3.555
-38,"=","WEBBIE","What I Do",564,2,74,-6,1.969,0.003,48,"--",35,564,80,1.969
-39,"-2","JUICY J","Show Out f/Young ...",561,-11,-87,-61,3.303,-0.096,145,"--",16,1394,251,8.672
-40,"=","J PEGUERO","Callin'",535,22,78,23,1.614,0.085,43,"--",39,535,128,1.614
-41,"+5","FRENCH MONTANA","Ain't Worried Abo...",477,44,170,34,3.681,0.309,19,"191",41,477,170,3.681
-42,"-1","K. ROOSEVELT","Do Me Now f/Hit-b...",477,-15,45,-25,1.546,-0.004,21,"--",41,492,96,1.55
-43,"=","K. MICHELLE","V.S.O.P.",475,23,229,-1,2.503,0.19,4,"--",43,475,238,2.503
-44,"-2","THE-DREAM","IV Play",468,6,-10,3,1.799,0.054,36,"--",38,478,169,1.799
-45,"=","TRAVI$ SCOTT","Upper Echelon f/T...",451,13,47,10,2.118,0.056,19,"--",44,451,216,2.155
-46,"-2","T.RONE","Hello Love",427,-23,-87,-5,3.36,-0.17,146,"--",24,1061,260,5.405
-47,"=","ASHANTI","Never Should Have",393,2,-35,3,1.004,0.03,34,"--",42,432,127,1.004
-48,"=","CIARA","I'm Out f/Nicki M...",384,7,110,-14,2.353,0.03,6,"--",48,384,155,2.418
-49,"+1","BRIDGET KELLY","Street Dreamin f/...",359,30,47,20,1.777,0.152,7,"--",49,359,96,1.777
-50,"-1","JOHN LEGEND","Who Do You Think ...",339,-28,-128,-29,1.368,-0.127,59,"--",32,589,173,2.381
+"Title","Artist","Spins"
+"Power Trip f/Migu...","J. COLE",3894
+"B**ch, Don't Kill...","KENDRICK LAMAR",3793
+"Bad f/Tiara Thoma...","WALE",3614
+"Body Party","CIARA",3462
+"Rich As F**k f/2 ...","LIL WAYNE",3215
+"No New Friends","DJ KHALED F/DRAKE...",2490
+"Still In This B**...","B.O.B",2402
+"Fine China","CHRIS BROWN",2372
+"Pour It Up","RIHANNA",2356
+"Loveeeeeee Song f...","RIHANNA",2297
+"Tapout f/Birdman,...","RICH GANG",2246
+"Ready f/Chris Bro...","FABOLOUS",2153
+"How Many Drinks?","MIGUEL",2130
+"Started From The ...","DRAKE",1968
+"U.O.E.N.O","ROCKO",1725
+"Without Me f/Kell...","FANTASIA",1664
+"High School","NICKI MINAJ",1629
+"The One","TAMAR BRAXTON",1352
+"Bugatti f/Future ...","ACE HOOD",1344
+"Dirty Laundry","KELLY ROWLAND",1113
+"LoveHate Thing f/...","WALE",1108
+"#Beautiful f/Migu...","MARIAH CAREY",1042
+"Kisses Down Low","KELLY ROWLAND",986
+"Fire We Make","ALICIA KEYS",975
+"I Luv This Sh*t","AUGUST ALSINA",911
+"Like Whaaat f/Bad...","PROBLEM",830
+"Karate Chop f/Cas...","FUTURE",830
+"Blurred Lines f/P...","ROBIN THICKE",769
+"Beat It f/Chris B...","SEAN KINGSTON",687
+"Freaks f/Nicki Mi...","FRENCH MONTANA",687
+"Somebody Else f/N...","MARIO",663
+"Wild For The Nigh...","A$AP ROCKY",652
+"Mirrors","JUSTIN TIMBERLAKE",602
+"Work","A$AP FERG",602
+"Memories Back The...","HUSTLE GANG F/T.I...",598
+"RIP f/2 Chainz","YOUNG JEEZY",590
+"We Outchea f/Lil ...","ACE HOOD",564
+"What I Do","WEBBIE",564
+"Show Out f/Young ...","JUICY J",561
+"Callin'","J PEGUERO",535
+"Ain't Worried Abo...","FRENCH MONTANA",477
+"Do Me Now f/Hit-b...","K. ROOSEVELT",477
+"V.S.O.P.","K. MICHELLE",475
+"IV Play","THE-DREAM",468
+"Upper Echelon f/T...","TRAVI$ SCOTT",451
+"Hello Love","T.RONE",427
+"Never Should Have","ASHANTI",393
+"I'm Out f/Nicki M...","CIARA",384
+"Street Dreamin f/...","BRIDGET KELLY",359
+"Who Do You Think ...","JOHN LEGEND",339

@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","MUSE","Madness",2058,-13,-4,-14,12.012,-0.001,128,"84",1,2336,1204,14.318
-2,"=","BLACK KEYS","Little Black Submari...",1937,7,85,16,10.993,0.158,197,"252",2,1937,189,11.037
-3,"=","MUMFORD & SONS","I Will Wait",1856,-15,-58,-18,11.976,-0.035,141,"44",1,2257,1048,14.172
-4,"=","LUMINEERS","Ho Hey",1676,-14,-63,-30,10.906,0.038,254,"3",1,1976,197,12.963
-5,"=","ATLAS GENIUS","Trojans",1666,-3,-15,1,9.175,0.054,232,"--",5,1685,202,9.175
-6,"=","IMAGINE DRAGONS","Radioactive",1434,-10,57,-33,6.384,-0.05,126,"47",6,1444,187,6.532
-7,"=","PASSION PIT","Take A Walk",1293,4,-108,24,7.991,0.117,228,"188",5,1837,183,9.469
-8,"=","OF MONSTERS AND MEN","Mountain Sound",1215,-10,-13,-20,5.8,0.111,131,"185",8,1242,156,5.8
-9,"=","SILVERSUN PICKUPS","The Pit",1116,-6,-20,-4,4.34,-0.038,120,"--",9,1137,194,4.73
-10,"=","AWOLNATION","Kill Your Heroes",1106,-5,-88,23,5.174,0.057,207,"--",6,1340,132,6.892
-11,"=","FUN.","Carry On",1060,7,60,13,5.597,-0.003,80,"178",11,1060,138,5.6
-12,"=","YOUNGBLOOD HAWKE","We Come Running",1021,-9,-133,21,4.474,-0.025,146,"--",7,1302,136,6.748
-13,"=","THREE DAYS GRACE","Chalk Outline",651,4,-48,7,3.147,0.057,133,"264",13,789,376,3.964
-14,"=","GREEN DAY","Let Yourself Go",642,-3,-67,-4,3.203,0.058,97,"--",13,804,219,3.861
-15,"=","METRIC","Breathing Underwater",612,-11,-30,-20,2.359,0.076,101,"--",15,670,111,2.694
-16,"=","SOUNDGARDEN","Been Away Too Long",601,0,-66,20,2.398,0.072,90,"--",13,787,597,3.442
-17,"+1","MACKLEMORE & RYAN LE...","Thrift Shop f/Wanz",562,9,49,0,3.567,0.136,60,"6",17,562,103,3.567
-18,"-1","WALK THE MOON","Tightrope",560,-8,-24,-19,2.103,-0.065,100,"--",17,584,85,2.357
-19,"=","CHURCHILL","Change",553,0,5,-5,1.829,-0.007,119,"--",18,555,96,1.947
-20,"=","GROUPLOVE","Itchin' On A Photogr...",527,-6,-117,19,1.634,0.044,143,"--",10,1189,139,5.17
-21,"=","DEFTONES","Tempest",486,8,42,2,1.619,0.061,73,"--",21,486,93,1.619
-22,"=","JOY FORMIDABLE","This Ladder Is Ours",469,-3,-24,-1,1.413,0.066,80,"--",21,495,73,1.454
-23,"=","TWO DOOR CINEMA CLUB","Sleep Alone",455,-10,-13,1,1.828,-0.033,155,"--",19,643,135,3.181
-24,"+1","LUMINEERS","Stubborn Love",454,7,61,-2,1.95,-0.02,51,"98",24,454,91,1.97
-25,"-1","MATT AND KIM","Let's Go",452,-4,-21,8,2.082,0.049,119,"--",22,503,99,2.082
-26,"=","KILLERS","Miss Atomic Bomb",406,-11,4,-17,1.513,0.002,65,"--",24,461,106,2.285
-27,"=","DROPKICK MURPHYS","Season's Upon Us",391,10,116,-8,2.897,0.048,23,"180",27,391,124,2.897
-28,"=","ALT-J","Fitzpleasure",366,-5,24,-10,1.943,-0.009,84,"--",27,376,62,1.972
-29,"=","TEGAN & SARA","Closer",342,-14,-18,-25,1.922,-0.116,66,"--",27,362,68,2.274
-30,"=","CAPITAL CITIES","Safe And Sound",326,-3,3,-7,1.163,-0.009,63,"--",29,332,77,1.32
-31,"+1","NEIGHBOURHOOD","Sweater Weather",323,8,67,-1,1.223,0.017,25,"--",31,323,87,1.223
-32,"-1","BLONDFIRE","Where The Kids Are",314,-6,-24,1,0.925,-0.002,89,"--",27,381,67,1.088
-33,"=","SHINEDOWN","Enemies",301,4,12,1,1.448,0.041,86,"--",32,301,42,1.448
-34,"=","LINKIN PARK","Lost In The Echo",282,1,-34,17,1.374,0.068,136,"--",11,1052,152,5.578
-35,"=","ALEX CLARE","Up All Night",273,5,71,-8,0.613,0.054,20,"--",35,273,83,0.613
-36,"+1","GOLD FIELDS","Dark Again",268,12,54,11,0.88,0.055,52,"--",35,268,59,0.88
-37,"+1","IAMDYNAMITE","Where Will We Go",259,7,1,6,1.157,0.047,61,"--",34,263,59,1.204
-38,"-2","NEON TREES","Lessons In Love (All...",257,-3,-13,-1,0.998,0.045,108,"--",29,305,76,1.498
-39,"+2","PASSION PIT","Carried Away",254,15,57,12,0.893,0.05,24,"--",39,254,71,0.893
-40,"+3","MUMFORD & SONS","Lover Of The Light",249,17,72,14,0.866,0.067,13,"--",40,249,108,0.866
-41,"-1","TWENTY ONE PILOTS","Holding On To You",245,0,36,1,0.878,-0.002,27,"--",40,245,66,0.896
-42,"-3","PHILLIP PHILLIPS","Home",234,-12,-29,-10,0.895,-0.069,59,"9",34,265,54,1.275
-43,"-1","DIRTY HEADS","Dance All Night f/Ma...",231,-7,-19,-2,0.857,-0.013,139,"--",26,311,72,0.905
-44,"=","JACK WHITE","Freedom At 21",209,-5,-45,2,1.227,0.048,146,"--",22,477,90,2.616
-45,"=","FAMILY OF THE YEAR","Hero",205,-6,10,-14,1.004,-0.08,44,"--",42,212,49,1.23
-46,"=","THE MOWGLI'S","San Francisco",186,7,60,2,0.777,0.037,11,"--",46,186,62,0.777
-47,"=","AVENGED SEVENFOLD","Carry On",135,-9,-27,-10,0.332,-0.048,69,"346",42,164,40,0.434
-48,"=","WILLY MOON","Yeah Yeah",126,-3,-6,-5,0.26,-0.015,12,"159",47,132,42,0.31
-49,"=","GASLIGHT ANTHEM","Here Comes My Man",123,2,14,3,0.275,0.01,25,"--",46,123,51,0.299
-50,"=","PAPA ROACH","Before I Die",115,1,47,-8,0.372,0.003,2,"--",50,115,55,0.372
+"Title","Artist","Spins"
+"Madness","MUSE",2058
+"Little Black Submari...","BLACK KEYS",1937
+"I Will Wait","MUMFORD & SONS",1856
+"Ho Hey","LUMINEERS",1676
+"Trojans","ATLAS GENIUS",1666
+"Radioactive","IMAGINE DRAGONS",1434
+"Take A Walk","PASSION PIT",1293
+"Mountain Sound","OF MONSTERS AND MEN",1215
+"The Pit","SILVERSUN PICKUPS",1116
+"Kill Your Heroes","AWOLNATION",1106
+"Carry On","FUN.",1060
+"We Come Running","YOUNGBLOOD HAWKE",1021
+"Chalk Outline","THREE DAYS GRACE",651
+"Let Yourself Go","GREEN DAY",642
+"Breathing Underwater","METRIC",612
+"Been Away Too Long","SOUNDGARDEN",601
+"Thrift Shop f/Wanz","MACKLEMORE & RYAN LE...",562
+"Tightrope","WALK THE MOON",560
+"Change","CHURCHILL",553
+"Itchin' On A Photogr...","GROUPLOVE",527
+"Tempest","DEFTONES",486
+"This Ladder Is Ours","JOY FORMIDABLE",469
+"Sleep Alone","TWO DOOR CINEMA CLUB",455
+"Stubborn Love","LUMINEERS",454
+"Let's Go","MATT AND KIM",452
+"Miss Atomic Bomb","KILLERS",406
+"Season's Upon Us","DROPKICK MURPHYS",391
+"Fitzpleasure","ALT-J",366
+"Closer","TEGAN & SARA",342
+"Safe And Sound","CAPITAL CITIES",326
+"Sweater Weather","NEIGHBOURHOOD",323
+"Where The Kids Are","BLONDFIRE",314
+"Enemies","SHINEDOWN",301
+"Lost In The Echo","LINKIN PARK",282
+"Up All Night","ALEX CLARE",273
+"Dark Again","GOLD FIELDS",268
+"Where Will We Go","IAMDYNAMITE",259
+"Lessons In Love (All...","NEON TREES",257
+"Carried Away","PASSION PIT",254
+"Lover Of The Light","MUMFORD & SONS",249
+"Holding On To You","TWENTY ONE PILOTS",245
+"Home","PHILLIP PHILLIPS",234
+"Dance All Night f/Ma...","DIRTY HEADS",231
+"Freedom At 21","JACK WHITE",209
+"Hero","FAMILY OF THE YEAR",205
+"San Francisco","THE MOWGLI'S",186
+"Carry On","AVENGED SEVENFOLD",135
+"Yeah Yeah","WILLY MOON",126
+"Here Comes My Man","GASLIGHT ANTHEM",123
+"Before I Die","PAPA ROACH",115

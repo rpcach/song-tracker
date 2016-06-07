@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","PINK","Just Give Me A Re...",5653,-2,-54,-10,39.573,-0.038,115,"8",1,5707,763,40.449
-2,"=","JUSTIN TIMBERLAKE","Mirrors",4811,13,285,-39,34.765,0.041,73,"9",2,4811,845,34.765
-3,"=","RIHANNA","Stay f/Mikky Ekko",4739,-38,-52,-67,32.568,-0.433,130,"31",2,4832,600,33.474
-4,"=","PHILLIP PHILLIPS","Gone, Gone, Gone",4551,27,126,27,31.197,0.128,132,"33",4,4551,336,31.197
-5,"=","EMELI SANDE","Next To Me",4455,-26,-56,-52,29.353,-0.305,163,"36",3,4516,433,29.708
-6,"=","FUN.","Carry On",3489,-38,-271,1,22.894,-0.558,182,"93",4,4654,570,31.193
-7,"=","BRUNO MARS","When I Was Your M...",3288,-62,-364,-17,22.312,-0.221,148,"32",1,5252,755,37.832
-8,"+1","KELLY CLARKSON","People Like Us",2928,19,237,-25,17.942,0.095,68,"65",8,2928,494,17.942
-9,"-1","MAROON 5","Daylight",2917,-34,-248,2,21.031,-0.684,213,"87",1,5446,538,38.886
-10,"+1","MAROON 5","Love Somebody",2714,71,545,-20,19.995,0.601,42,"17",10,2714,640,19.995
-11,"-1","ED SHEERAN","Lego House",2691,-7,20,-12,17.579,-0.173,140,"40",10,2707,262,17.752
-12,"=","IMAGINE DRAGONS","Radioactive",2622,35,285,-9,14.489,0.441,115,"3",11,2622,371,14.489
-13,"=","FLORIDA-GEORGIA L...","Cruise",2322,32,238,-7,14.408,0.183,78,"5/20",13,2322,394,14.408
-14,"+1","DEMI LOVATO","Heart Attack",2069,-42,-210,-20,11.029,-0.29,99,"34",12,2301,317,12.573
-15,"-1","TAYLOR SWIFT","22",1999,-119,-654,-60,11.41,-0.859,96,"29",9,2785,459,17.678
-16,"=","ANNA KENDRICK","Cups (Pitch Perfe...",1940,51,358,-2,12.519,0.383,44,"21",16,1940,400,12.519
-17,"=","ICONA POP","I Love It f/Charl...",1910,37,169,18,11.89,0.332,71,"18",16,1910,353,11.89
-18,"=","BRUNO MARS","Treasure",1821,19,290,-64,12.611,-0.107,31,"16",18,1821,506,12.72
-19,"=","SARA BAREILLES","Brave",1801,34,216,-8,11.538,0.524,49,"97",17,1801,322,11.538
-20,"=","GOO GOO DOLLS","Rebel Beat",1606,4,-1,10,7.469,0.102,143,"105",16,1613,213,7.966
-21,"=","WALK OFF THE EART...","Red Hands",1552,10,86,-16,7.024,-0.1,92,"295",19,1552,169,7.138
-22,"=","FALL OUT BOY","My Songs Know Wha...",1477,23,63,29,7.844,0.07,105,"7",20,1477,235,7.9
-23,"=","AVRIL LAVIGNE","Here's To Never G...",1268,15,52,-2,6.046,0.016,63,"10",22,1268,272,6.285
-24,"=","MATCHBOX TWENTY","Our Song",1130,-6,14,-26,6.273,-0.065,65,"--",24,1140,233,6.358
-25,"=","SELENA GOMEZ","Come & Get It",1081,32,202,29,6.804,0.382,56,"6",25,1081,202,6.804
-26,"+1","DAFT PUNK","Get Lucky",945,42,272,2,5.526,0.401,36,"2",26,945,272,5.526
-27,"-1","PLAIN WHITE T'S","Should've Gone To...",932,17,52,28,5.563,0.075,60,"--",26,932,192,5.956
-28,"=","PITBULL","Feel This Moment ...",808,-23,-175,13,7.234,-0.117,105,"44",18,1382,312,8.531
-29,"=","TRAIN","Bruises f/Ashley ...",737,19,159,-13,4.244,-0.068,22,"371",29,737,203,4.312
-30,"=","MICHAEL BUBLE","It's A Beautiful ...",707,13,42,8,4.274,0.001,91,"359",29,707,124,4.387
-31,"=","MARIAH CAREY","#Beautiful f/Migu...",585,14,102,-3,3.004,0.063,41,"19",31,585,400,3.753
-32,"=","MACKLEMORE & RYAN...","Can't Hold Us f/R...",522,11,68,-7,4.044,0.108,35,"4",32,522,107,4.044
-33,"+1","ROBIN THICKE","Blurred Lines f/P...",473,55,261,30,4.522,0.365,7,"1",33,473,261,4.522
-34,"-1","OLLY MURS","Troublemaker f/Fl...",400,-42,-384,39,2.442,-0.324,136,"119",13,2025,326,10.97
-35,"+1","OF MONSTERS AND M...","Mountain Sound",382,23,83,17,2.144,0.072,28,"254",35,382,84,2.144
-36,"-1","ONEREPUBLIC","Counting Stars",374,13,132,-11,1.96,0.075,10,"151",35,374,162,1.96
-37,"+1","PARAMORE","Still Into You",335,13,39,7,1.125,-0.008,42,"211",36,335,39,1.155
-38,"+1","LABRINTH","Beneath Your Beau...",324,4,52,-11,0.792,0.012,44,"83",37,324,70,0.792
-39,"+1","JASON DERULO","The Other Side",321,18,83,0,1.366,0.095,11,"23",39,321,107,1.366
-40,"-3","PASSION PIT","Carried Away",311,-24,-110,-10,0.606,-0.086,72,"370",33,460,88,1.461
-41,"=","MICHAEL FRANTI & ...","I'm Alive (Life S...",301,16,61,10,1.885,0.006,14,"--",41,301,70,1.966
-42,"=","MUMFORD & SONS","Lover Of The Ligh...",275,-1,23,-9,1.293,0.001,46,"--",42,276,61,1.293
-43,"=","HANSON","Get The Girl Back",274,-1,0,1,0.983,-0.001,35,"--",40,280,38,1.085
-44,"+1","SERENA RYDER","Stompa",271,6,15,2,1.2,0.008,21,"--",43,271,74,1.25
-45,"-1","MACKLEMORE & RYAN...","Thrift Shop f/Wan...",257,-11,-36,-1,1.843,-0.056,122,"42/67",35,348,82,2.345
-46,"=","ARIANA GRANDE","The Way f/Mac Mil...",237,3,28,-3,0.785,0.007,10,"14",46,237,55,0.796
-47,"+2","CAPITAL CITIES","Safe And Sound",226,12,87,2,0.952,0.054,3,"39",47,226,90,0.952
-48,"+2","BON JOVI","What About Now",219,5,42,-5,0.563,0.047,5,"--",48,219,47,0.563
-49,"-1","GINNY BLACKMORE","Bones",212,-9,-166,37,1.228,-0.002,94,"--",30,608,117,3.026
-50,"-3","NEW KIDS ON THE B...","Remix (I Like The...",211,-17,-73,2,1.182,-0.076,105,"360",37,358,59,1.801
+"Title","Artist","Spins"
+"Just Give Me A Re...","PINK",5653
+"Mirrors","JUSTIN TIMBERLAKE",4811
+"Stay f/Mikky Ekko","RIHANNA",4739
+"Gone, Gone, Gone","PHILLIP PHILLIPS",4551
+"Next To Me","EMELI SANDE",4455
+"Carry On","FUN.",3489
+"When I Was Your M...","BRUNO MARS",3288
+"People Like Us","KELLY CLARKSON",2928
+"Daylight","MAROON 5",2917
+"Love Somebody","MAROON 5",2714
+"Lego House","ED SHEERAN",2691
+"Radioactive","IMAGINE DRAGONS",2622
+"Cruise","FLORIDA-GEORGIA L...",2322
+"Heart Attack","DEMI LOVATO",2069
+"22","TAYLOR SWIFT",1999
+"Cups (Pitch Perfe...","ANNA KENDRICK",1940
+"I Love It f/Charl...","ICONA POP",1910
+"Treasure","BRUNO MARS",1821
+"Brave","SARA BAREILLES",1801
+"Rebel Beat","GOO GOO DOLLS",1606
+"Red Hands","WALK OFF THE EART...",1552
+"My Songs Know Wha...","FALL OUT BOY",1477
+"Here's To Never G...","AVRIL LAVIGNE",1268
+"Our Song","MATCHBOX TWENTY",1130
+"Come & Get It","SELENA GOMEZ",1081
+"Get Lucky","DAFT PUNK",945
+"Should've Gone To...","PLAIN WHITE T'S",932
+"Feel This Moment ...","PITBULL",808
+"Bruises f/Ashley ...","TRAIN",737
+"It's A Beautiful ...","MICHAEL BUBLE",707
+"#Beautiful f/Migu...","MARIAH CAREY",585
+"Can't Hold Us f/R...","MACKLEMORE & RYAN...",522
+"Blurred Lines f/P...","ROBIN THICKE",473
+"Troublemaker f/Fl...","OLLY MURS",400
+"Mountain Sound","OF MONSTERS AND M...",382
+"Counting Stars","ONEREPUBLIC",374
+"Still Into You","PARAMORE",335
+"Beneath Your Beau...","LABRINTH",324
+"The Other Side","JASON DERULO",321
+"Carried Away","PASSION PIT",311
+"I'm Alive (Life S...","MICHAEL FRANTI & ...",301
+"Lover Of The Ligh...","MUMFORD & SONS",275
+"Get The Girl Back","HANSON",274
+"Stompa","SERENA RYDER",271
+"Thrift Shop f/Wan...","MACKLEMORE & RYAN...",257
+"The Way f/Mac Mil...","ARIANA GRANDE",237
+"Safe And Sound","CAPITAL CITIES",226
+"What About Now","BON JOVI",219
+"Bones","GINNY BLACKMORE",212
+"Remix (I Like The...","NEW KIDS ON THE B...",211

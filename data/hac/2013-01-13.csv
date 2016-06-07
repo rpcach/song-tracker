@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","LUMINEERS","Ho Hey",5082,22,174,0,37.421,0.415,147,"5",1,5082,586,37.421
-2,"=","BRUNO MARS","Locked Out Of Hea...",4781,9,159,-23,34.968,0.082,103,"4",2,4781,735,34.968
-3,"=","PINK","Try",4643,19,293,-42,36.865,0.042,85,"11",3,4643,602,36.865
-4,"=","PHILLIP PHILLIPS","Home",4405,-34,-239,-9,30.78,-0.222,221,"9",1,4729,490,34.312
-5,"=","MAROON 5","One More Night",3996,-46,-199,-31,33.042,-0.381,179,"26",1,5047,752,39.595
-6,"=","ED SHEERAN","The A Team",3590,-7,78,-51,27.433,-0.387,287,"31",6,3601,596,29.115
-7,"=","FUN.","Some Nights",3551,-14,-275,14,28.014,0.18,211,"21",1,4967,497,37.711
-8,"=","OF MONSTERS AND M...","Little Talks",3087,15,64,-7,20.269,0.096,190,"28",8,3087,395,20.27
-9,"=","IMAGINE DRAGONS","It's Time",2966,10,68,-3,20.017,0.196,208,"19",9,2966,291,20.017
-10,"=","KELLY CLARKSON","Catch My Breath",2922,47,237,39,21.107,0.384,90,"20",10,2922,561,21.107
-11,"=","MUMFORD & SONS","I Will Wait",2817,19,208,5,20.043,0.146,121,"39",11,2817,272,20.043
-12,"+1","TAYLOR SWIFT","I Knew You Were T...",2744,40,295,4,20.887,0.345,53,"1",12,2744,617,20.887
-13,"-1","ALEX CLARE","Too Close",2673,-36,-249,-42,20.008,-0.614,227,"67",4,4216,461,28.264
-14,"=","ONEREPUBLIC","Feel Again",2587,-27,-190,-27,16.907,-0.131,142,"48",7,2843,508,19.177
-15,"+1","MAROON 5","Daylight",2014,56,268,35,16.151,0.691,59,"14",15,2014,417,16.151
-16,"-1","RIHANNA","Diamonds",2014,22,138,-7,13.555,0.095,107,"16",15,2014,327,13.555
-17,"=","HUNTER HAYES","Wanted",1811,14,61,10,11.835,-0.138,79,"30",16,1811,264,12.344
-18,"=","MATCHBOX TWENTY","Overjoyed",1534,27,116,17,9.857,0.208,79,"350",18,1534,241,9.857
-19,"=","MUSE","Madness",1397,18,80,10,6.618,0.011,77,"81",19,1397,245,7.262
-20,"=","TRAIN","Mermaid",1316,33,179,7,8.614,0.208,42,"396",20,1316,307,8.614
-21,"=","NE-YO","Let Me Love You",1224,5,70,-18,7.229,0.118,70,"59",20,1224,211,7.229
-22,"+2","ALICIA KEYS","Girl On Fire",962,64,194,51,6.553,0.126,45,"22/71",22,962,194,6.553
-23,"-1","NEON TREES","Lessons In Love (...",939,5,24,-1,3.959,0.047,75,"--",22,939,151,3.959
-24,"-1","LIFEHOUSE F/N. BE...","Between The Raind...",908,-3,12,-12,2.942,-0.048,112,"79",23,916,196,3.127
-25,"=","KE$HA","Die Young",806,-16,-25,-20,5.141,-0.109,104,"27",14,2169,410,13.863
-26,"=","JASON MRAZ","93 Million Miles",801,7,56,2,3.709,0.019,89,"--",26,801,99,3.989
-27,"=","GAVIN DEGRAW","Soldier",752,-12,1,-32,2.998,-0.054,108,"--",26,786,113,3.264
-28,"=","GRACE POTTER & TH...","Stars",592,6,50,6,2.99,0.05,109,"393",28,592,75,2.997
-29,"=","VICCI MARTINEZ","Come Along f/CeeL...",536,10,36,7,1.963,-0.099,98,"--",29,536,96,2.201
-30,"=","SWEDISH HOUSE MAF...","Don't You Worry C...",524,30,145,16,2.614,0.297,32,"6",30,524,145,2.614
-31,"=","PASSION PIT","Take A Walk",498,14,35,7,1.861,0.034,62,"131",31,498,77,1.861
-32,"+1","BON JOVI","Because We Can",479,50,479,50,4.402,0.252,6,"149",32,479,479,4.402
-33,"-1","ADELE","Skyfall",429,-20,-219,5,3.57,-0.191,100,"44",14,2103,849,16.021
-34,"+3","FUN.","Carry On",427,31,167,24,2.927,0.305,28,"112",34,427,167,2.927
-35,"-1","CHRIS BROWN","Don't Wake Me Up",419,-4,-19,3,2.08,-0.084,116,"110",30,579,91,3.847
-36,"=","C. AGUILERA & B. ...","Just A Fool",416,9,86,0,2.404,0.056,39,"--",35,416,91,2.404
-37,"-2","JUSTIN BIEBER","Beauty And A Beat...",409,-2,68,-24,1.791,-0.025,40,"8",34,411,95,1.816
-38,"=","CARRIE UNDERWOOD","Blown Away",351,-10,-47,-9,1.403,-0.029,105,"54",33,480,71,2.444
-39,"=","FLO RIDA","I Cry",337,-9,-7,-19,1.534,-0.046,56,"12",36,356,89,1.603
-40,"=","OWL CITY","Shooting Star",240,-1,-7,-3,0.437,-0.003,30,"--",39,247,59,0.493
-41,"+1","EMELI SANDE","Next To Me",228,16,98,6,1.955,0.028,9,"--",41,228,98,1.955
-42,"-1","ALL-AMERICAN REJE...","Heartbeat Slowing...",219,-1,28,-7,0.449,0.039,51,"--",40,220,68,0.449
-43,"=","PITBULL","Don't Stop The Pa...",212,8,48,1,0.751,0.031,17,"7",41,212,58,0.751
-44,"=","ONE DIRECTION","Little Things",180,12,56,11,0.627,0.057,8,"36",44,180,56,0.627
-45,"=","ELLIE GOULDING","Anything Could Ha...",162,1,-5,-2,1.448,-0.017,65,"55",42,167,17,1.479
-46,"=","CALVIN HARRIS","Sweet Nothing f/F...",142,6,10,5,0.799,0.103,16,"13",44,142,36,1.038
-47,"=","CARO EMERALD","Back It Up",139,8,6,8,0.486,0.052,20,"--",46,139,35,0.537
-48,"=","KATRINA","Watch Me Walk Awa...",111,3,23,7,0.096,-0.002,5,"--",48,111,23,0.098
-49,"+1","WILL.I.AM F/BRITN...","Scream And Shout",103,6,21,3,0.447,0.001,2,"3",49,103,21,0.447
-50,"-1","AWOLNATION","Sail",103,-3,13,-6,0.178,-0.009,6,"66",48,109,29,0.192
+"Title","Artist","Spins"
+"Ho Hey","LUMINEERS",5082
+"Locked Out Of Hea...","BRUNO MARS",4781
+"Try","PINK",4643
+"Home","PHILLIP PHILLIPS",4405
+"One More Night","MAROON 5",3996
+"The A Team","ED SHEERAN",3590
+"Some Nights","FUN.",3551
+"Little Talks","OF MONSTERS AND M...",3087
+"It's Time","IMAGINE DRAGONS",2966
+"Catch My Breath","KELLY CLARKSON",2922
+"I Will Wait","MUMFORD & SONS",2817
+"I Knew You Were T...","TAYLOR SWIFT",2744
+"Too Close","ALEX CLARE",2673
+"Feel Again","ONEREPUBLIC",2587
+"Daylight","MAROON 5",2014
+"Diamonds","RIHANNA",2014
+"Wanted","HUNTER HAYES",1811
+"Overjoyed","MATCHBOX TWENTY",1534
+"Madness","MUSE",1397
+"Mermaid","TRAIN",1316
+"Let Me Love You","NE-YO",1224
+"Girl On Fire","ALICIA KEYS",962
+"Lessons In Love (...","NEON TREES",939
+"Between The Raind...","LIFEHOUSE F/N. BE...",908
+"Die Young","KE$HA",806
+"93 Million Miles","JASON MRAZ",801
+"Soldier","GAVIN DEGRAW",752
+"Stars","GRACE POTTER & TH...",592
+"Come Along f/CeeL...","VICCI MARTINEZ",536
+"Don't You Worry C...","SWEDISH HOUSE MAF...",524
+"Take A Walk","PASSION PIT",498
+"Because We Can","BON JOVI",479
+"Skyfall","ADELE",429
+"Carry On","FUN.",427
+"Don't Wake Me Up","CHRIS BROWN",419
+"Just A Fool","C. AGUILERA & B. ...",416
+"Beauty And A Beat...","JUSTIN BIEBER",409
+"Blown Away","CARRIE UNDERWOOD",351
+"I Cry","FLO RIDA",337
+"Shooting Star","OWL CITY",240
+"Next To Me","EMELI SANDE",228
+"Heartbeat Slowing...","ALL-AMERICAN REJE...",219
+"Don't Stop The Pa...","PITBULL",212
+"Little Things","ONE DIRECTION",180
+"Anything Could Ha...","ELLIE GOULDING",162
+"Sweet Nothing f/F...","CALVIN HARRIS",142
+"Back It Up","CARO EMERALD",139
+"Watch Me Walk Awa...","KATRINA",111
+"Scream And Shout","WILL.I.AM F/BRITN...",103
+"Sail","AWOLNATION",103

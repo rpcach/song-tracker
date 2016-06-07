@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","CAGE THE ELEPHANT","Come A Little Clo...",2419,"+0",-71,"-55",13.457,"+0.005",150,"272",1,2572,519,14.39
-2,"=","BASTILLE","Pompeii",2217,"+4",12,"-30",12.649,"+0.173",195,"11",1,2402,317,13.012
-3,"=","ARCTIC MONKEYS","Do I Wanna Know?",2211,"+0",-8,"-33",11.326,"+0.091",138,"116",2,2243,229,11.33
-4,"=","LORDE","Team",2076,"+15",102,"-29",10.711,"+0.249",99,"13",4,2076,332,10.711
-5,"=","NEIGHBOURHOOD","Afraid",1540,"+10",115,"-47",6.788,"+0.139",146,"208",5,1540,162,6.788
-6,"=","IMAGINE DRAGONS","Demons",1500,"+10",26,"-25",9.641,"+0.229",287,"12",1,2097,281,11.561
-7,"=","PEARL JAM","Sirens",1488,"+9",62,"-35",5.566,"+0.068",108,"--",4,1601,399,5.898
-8,"=","YOUNG THE GIANT","It's About Time",1333,"+18",77,"+3",4.538,"+0.100",69,"--",8,1333,537,4.538
-9,"=","VAMPIRE WEEKEND","Unbelievers",1280,"-15",27,"-67",6.192,"+0.072",138,"--",8,1298,192,6.531
-10,"=","FITZ & THE TANTRU...","Out Of My League",1229,"-1",74,"-38",7.204,"-0.015",325,"187",1,2235,180,11.72
-11,"=","TWENTY ONE PILOTS","House Of Gold",1119,"+22",63,"-10",4.045,"+0.083",129,"--",11,1119,155,4.045
-12,"+1","CHVRCHES","The Mother We Sha...",959,"+10",-1,"+7",3.531,"+0.113",117,"--",12,984,164,3.531
-13,"+1","J. RODDY WALSTON/...","Heavy Bells",878,"+16",-5,"-15",2.404,"+0.135",134,"--",13,898,113,2.404
-14,"+1","LINKIN PARK X STE...","A Light That Neve...",846,"-6",-62,"-15",4.267,"-0.053",112,"373",7,1391,592,5.61
-15,"+1","SWITCHFOOT","Who We Are",815,"+5",0,"-18",2.247,"+0.103",107,"--",15,873,228,2.522
-16,"+1","QUEENS OF THE STO...","I Sat By The Ocea...",772,"-3",12,"-31",3.032,"+0.050",147,"--",16,800,133,3.16
-17,"+1","AVICII","Wake Me Up",687,"-8",-16,"-19",5.548,"+0.015",145,"10",13,1127,193,7.746
-18,"+1","BROKEN BELLS","Holding On For Li...",638,"+1",-7,"-7",1.954,"+0.010",57,"--",18,693,149,2.304
-19,"+1","IMAGINE DRAGONS","On Top Of The Wor...",635,"+7",97,"-27",1.793,"+0.015",57,"179",19,635,124,1.793
-20,"+1","KINGS OF LEON","Temple",581,"+7",-39,"-22",2.109,"+0.071",85,"--",20,659,129,2.493
-21,"+1","AWOLNATION","Thiskidsnotalrigh...",547,"-2",-27,"-21",2.565,"+0.110",181,"--",21,589,93,2.683
-22,"+1","AIRBORNE TOXIC EV...","Hell And Back",533,"+7",7,"-11",1.854,"+0.046",85,"--",22,544,81,1.854
-23,"+1","FITZ & THE TANTRU...","Walker",513,"+6",66,"+1",2.205,"+0.056",43,"--",23,513,144,2.205
-24,"+1","NEW POLITICS","Tonight You're Pe...",499,"-2",19,"-34",2.012,"-0.013",71,"--",24,501,87,2.025
-25,"+1","ALT-J","Tessellate",484,"-15",-36,"-16",1.722,"-0.085",154,"--",17,792,96,3.001
-26,"+1","BLUE OCTOBER","Bleed Out",468,"-1",-30,"-1",2.182,"-0.038",177,"--",21,612,69,3.001
-27,"+1","PHANTOGRAM","Fall In Love",424,"+16",27,"+14",2.312,"+0.304",32,"--",27,424,122,2.312
-28,"+2","PORTUGAL. THE MAN","Modern Jesus",400,"+10",9,"+10",1.35,"+0.104",78,"--",28,403,87,1.389
-29,"+2","OF MONSTERS AND M...","Dirty Paws",380,"+3",17,"-5",2.007,"+0.088",58,"183",28,380,83,2.007
-30,"+2","ARCADE FIRE","Afterlife",376,"+3",1,"+6",1.371,"+0.022",30,"--",30,391,133,1.371
-31,"+2","HELLOGOODBYE","Everything Is Deb...",357,"+6",6,"+10",0.853,"+0.027",68,"--",28,382,88,0.992
-32,"+2","KILLERS","Shot At The Night",305,"-11",-17,"-6",1.062,"-0.031",106,"--",20,700,188,3.546
-33,"+2","AMERICAN AUTHORS","Best Day Of My Li...",264,"-5",20,"-8",1.025,"-0.018",51,"34",33,269,68,1.043
-34,"+2","CROSSES","The Epilogue",247,"+4",13,"-1",0.513,"+0.018",48,"--",34,247,58,0.536
-35,"+2","JAKE BUGG","What Doesn't Kill...",227,"-1",12,"+1",0.432,"+0.014",56,"--",35,246,51,0.54
-36,"+3","A DAY TO REMEMBER","Right Back At It ...",221,"-3",-3,"-2",0.712,"-0.014",71,"--",36,230,48,0.821
-37,"+1","MAN MAN","Head On",220,"-6",-4,"-6",0.563,"-0.029",100,"--",31,308,67,0.787
-38,"+2","NONONO","Pumpin Blood",197,"+2",17,"+1",0.609,"-0.002",155,"--",20,524,114,2.665
-39,"+4","PHOENIX","S.O.S. In Bel Air",186,"+6",-6,"+6",0.326,"+0.015",41,"--",39,196,50,0.466
-40,"+2","AVENGED SEVENFOLD","Shepherd Of Fire",185,"+2",-2,"+6",0.567,"+0.020",22,"--",40,196,58,0.607
-41,"=","AVICII","Hey Brother",182,"-1",3,"-6",1.207,"-0.033",38,"39",40,205,55,2.447
-42,"+2","BEAR HANDS","Giants",173,"-4",6,"-4",0.464,"-0.026",22,"--",42,183,48,0.528
-43,"+3","BASIC VACATION","I Believe",171,"+0",11,"+0",0.58,"+0.008",55,"--",40,200,74,0.668
-44,"+1","A PERFECT CIRCLE","By And Down",171,"-2",4,"+0",0.311,"+0.001",66,"--",40,187,56,0.471
-45,"+3","BIRDY","Skinny Love",156,"+0",-16,"+4",0.543,"+0.032",24,"278",42,184,44,0.697
-46,"+1","ARCADE FIRE","Reflektor",149,"-15",22,"-33",0.687,"-0.061",108,"--",17,744,365,3.208
-47,"+2","BASTILLE","Bad Blood",143,"+6",32,"+1",0.269,"+0.046",3,"--",47,143,32,0.269
-48,"+2","KINGS OF LEON","Wait For Me",131,"+3",-8,"+9",0.969,"-0.012",15,"--",48,160,53,1.421
-49,"--","SILVERSUN PICKUPS","Cannibal",128,"--",128,"--",0.714,"--",1,"--",49,128,128,0.714
-50,"--","COLOURIST","Little Games",125,"--",15,"--",0.185,"--",74,"--",30,344,107,0.961
+"Title","Artist","Spins"
+"Come A Little Clo...","CAGE THE ELEPHANT",2419
+"Pompeii","BASTILLE",2217
+"Do I Wanna Know?","ARCTIC MONKEYS",2211
+"Team","LORDE",2076
+"Afraid","NEIGHBOURHOOD",1540
+"Demons","IMAGINE DRAGONS",1500
+"Sirens","PEARL JAM",1488
+"It's About Time","YOUNG THE GIANT",1333
+"Unbelievers","VAMPIRE WEEKEND",1280
+"Out Of My League","FITZ & THE TANTRU...",1229
+"House Of Gold","TWENTY ONE PILOTS",1119
+"The Mother We Sha...","CHVRCHES",959
+"Heavy Bells","J. RODDY WALSTON/...",878
+"A Light That Neve...","LINKIN PARK X STE...",846
+"Who We Are","SWITCHFOOT",815
+"I Sat By The Ocea...","QUEENS OF THE STO...",772
+"Wake Me Up","AVICII",687
+"Holding On For Li...","BROKEN BELLS",638
+"On Top Of The Wor...","IMAGINE DRAGONS",635
+"Temple","KINGS OF LEON",581
+"Thiskidsnotalrigh...","AWOLNATION",547
+"Hell And Back","AIRBORNE TOXIC EV...",533
+"Walker","FITZ & THE TANTRU...",513
+"Tonight You're Pe...","NEW POLITICS",499
+"Tessellate","ALT-J",484
+"Bleed Out","BLUE OCTOBER",468
+"Fall In Love","PHANTOGRAM",424
+"Modern Jesus","PORTUGAL. THE MAN",400
+"Dirty Paws","OF MONSTERS AND M...",380
+"Afterlife","ARCADE FIRE",376
+"Everything Is Deb...","HELLOGOODBYE",357
+"Shot At The Night","KILLERS",305
+"Best Day Of My Li...","AMERICAN AUTHORS",264
+"The Epilogue","CROSSES",247
+"What Doesn't Kill...","JAKE BUGG",227
+"Right Back At It ...","A DAY TO REMEMBER",221
+"Head On","MAN MAN",220
+"Pumpin Blood","NONONO",197
+"S.O.S. In Bel Air","PHOENIX",186
+"Shepherd Of Fire","AVENGED SEVENFOLD",185
+"Hey Brother","AVICII",182
+"Giants","BEAR HANDS",173
+"I Believe","BASIC VACATION",171
+"By And Down","A PERFECT CIRCLE",171
+"Skinny Love","BIRDY",156
+"Reflektor","ARCADE FIRE",149
+"Bad Blood","BASTILLE",143
+"Wait For Me","KINGS OF LEON",131
+"Cannibal","SILVERSUN PICKUPS",128
+"Little Games","COLOURIST",125

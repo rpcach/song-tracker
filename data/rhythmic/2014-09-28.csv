@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","JEREMIH","Don't Tell 'Em f/YG",6786,-45,-322,-4,42.678,-0.091,116,"12",1,7323,812,45.688
-2,"=","T.I.","No Mediocre f/Iggy Azalea",5876,31,400,-9,32.189,0.358,100,"66",2,5876,646,32.189
-3,"=","IGGY AZALEA","Black Widow f/Rita Ora",5717,97,693,-20,29.773,0.574,93,"7",3,5717,713,29.773
-4,"=","SCHOOLBOY Q","Studio f/BJ The Chicago Kid",4839,-161,-547,-138,28.578,-0.915,128,"122",2,5416,699,31.807
-5,"=","CHRIS BROWN","New Flame f/Usher & Rick Ross",4379,112,360,72,22.664,0.526,80,"60",5,4379,568,22.664
-6,"=","NICKI MINAJ","Anaconda",4304,49,200,27,22.108,0.177,53,"6/51",5,4304,1046,22.108
-7,"=","DRAKE","0 To 100/The Catch Up",3489,102,378,81,20.568,0.599,65,"38",7,3489,604,20.568
-8,"=","TEEFLII","24 Hours",3356,42,210,29,20.504,-0.111,134,"269",7,3356,319,20.927
-9,"=","TREY SONGZ","Touchin, Lovin f/Nicki Minaj",3137,41,261,3,18.017,0.253,40,"110",9,3137,751,18.017
-10,"=","TINASHE","2 On f/Schoolboy Q",2992,-44,-227,14,23.017,-0.24,182,"85",1,6146,661,39.008
-11,"=","SAM SMITH","Stay With Me",2656,-113,-611,-8,13.578,-0.465,106,"20",5,4179,476,21.763
-12,"=","MEGHAN TRAINOR","All About That Bass",2533,41,283,-12,13.871,0.342,43,"1",12,2533,518,13.871
-13,"=","LIL JON","Bend Ova f/Tyga",2432,-39,-142,-51,11.231,0.113,84,"143",12,2586,503,11.369
-14,"+1","JESSIE J/A. GRANDE/N. MINAJ","Bang Bang",2290,14,-2,3,10.721,0.027,59,"3",14,2290,777,10.721
-15,"-1","NICO & VINZ","Am I Wrong",2260,-80,-550,27,15.458,-0.267,139,"44",2,5594,784,32.542
-16,"=","DISCLOSURE","Latch f/Sam Smith",2110,-106,-739,44,11.478,-0.523,140,"54",3,4678,506,24.393
-17,"+1","WIZ KHALIFA F/SNOOP & TY DOLLA","You And Your Friends",2015,55,343,-2,9.927,0.223,29,"155",17,2015,468,9.927
-18,"-1","BEYONCE","Flawless",2013,24,230,-15,11.919,0.241,51,"118",17,2013,436,11.919
-19,"=","LIL WAYNE","Believe Me f/Drake",1927,-30,-88,-26,19.027,-0.335,141,"131",4,4876,721,30.954
-20,"=","RICH GANG","Lifestyle f/Young Thug",1924,51,268,16,13.479,0.224,58,"55",20,1924,360,13.479
-21,"=","CHARLI XCX","Boom Clap",1824,-19,-114,-18,8.843,0.051,66,"22",18,1951,386,9.707
-22,"+1","JASMINE V","That's Me Right There",1419,38,191,26,7.097,0.261,42,"522",22,1419,259,7.097
-23,"-1","MAGIC!","Rude",1396,-38,-186,3,9.284,-0.235,144,"35",6,4142,502,23.344
-24,"=","ARIANA GRANDE","Break Free f/Zedd",1319,-59,-381,7,6.147,-0.236,78,"13",15,2125,543,10.85
-25,"=","JASON DERULO","Trumpets",1228,88,231,87,4.359,0.326,35,"10",25,1228,353,4.359
-26,"+6","KENDRICK LAMAR","i",1129,233,1129,233,10.781,1.889,4,"18",26,1129,1129,10.781
-27,"-1","TAYLOR SWIFT","Shake It Off",1040,14,178,-8,6.236,0.127,23,"2",26,1040,266,6.236
-28,"-1","KIRKO BANGZ","Rich f/August Alsina",999,16,91,-13,4.654,-0.017,56,"396",26,999,211,4.686
-29,"=","BOBBY SHMURDA","Hot Boy",991,19,181,-9,7.475,-0.018,35,"242",29,991,190,7.493
-30,"-2","GAME","Or Nah f/Problem, Too Short",986,6,11,10,3.673,0.009,70,"1235",26,986,194,3.815
-31,"-1","CLEAN BANDIT","Rather Be f/Jess Glynne",964,35,72,41,4.517,0.213,64,"4",28,964,189,4.549
-32,"-1","DJ KHALED","Hold You Down f/C. Brown...",941,28,210,9,6.583,0.213,21,"101",31,941,212,6.583
-33,"=","BABY BASH","Certified Freak",805,14,149,-5,3.15,0.147,33,"--",32,805,154,3.15
-34,"=","PITBULL","Fireball f/John Ryan",711,1,20,-18,3.099,0.022,41,"9",33,713,187,3.315
-35,"=","MIGOS","Fight Night",680,-11,-141,15,5.153,-0.043,112,"120",26,950,128,7.427
-36,"+5","KID INK","Body Language f/Usher/Tinashe",639,46,221,2,5.436,0.343,7,"198",36,639,262,5.436
-37,"-1","RAE SREMMURD","No Flex Zone",633,3,-57,33,4.387,0.124,102,"84",27,999,169,6.892
-38,"+1","TINASHE","Pretend f/A$AP Rocky",625,16,111,-5,3.058,0.02,13,"466",38,625,322,3.155
-39,"-2","ENRIQUE IGLESIAS","Bailando f/D.Bueno/S.Paul/GDZ",604,-23,-47,-16,5.44,-0.266,91,"32",35,678,115,6.257
-40,"+2","KALIN & MYLES","Love Robbery",598,20,55,10,3.528,0.164,25,"417",40,598,107,3.528
-41,"-1","MAROON 5","Maps",593,-14,-63,-22,4.492,-0.054,49,"21",34,757,209,5.345
-42,"-4","USHER","She Came To Give It To You",593,-21,-283,36,2.5,-0.059,71,"223",24,1178,329,5.121
-43,"+2","CALVIN HARRIS","Blame f/John Newman",590,41,170,26,3.295,0.144,7,"34",43,590,170,3.295
-44,"+2","TOVE LO","Habits (Stay High)",583,40,236,11,2.582,0.189,5,"5",44,583,236,2.582
-45,"-1","FRENCH MONTANA","Don't Panic",556,2,56,-15,3.906,0.156,14,"412",42,556,239,3.906
-46,"+1","T.I.","About The Money f/Young Thug",553,32,107,3,4.252,0.125,10,"114",45,553,133,4.252
-47,"+1","BIG SEAN","I Don't F**k With You f/E-40",547,61,329,9,4.37,0.665,3,"780",47,547,329,4.37
-48,"-5","KIESZA","Hideaway",516,-43,-156,-20,2.624,-0.171,42,"45",35,731,194,3.788
-49,"=","MR PROBZ","Waves",458,14,60,23,1.71,0.076,9,"25",49,458,76,2.047
-50,"=","E-40","Red Cup f/T-Pain/Kid Ink/B.o.B",446,3,49,-6,2.573,-0.031,7,"--",47,446,116,2.607
+"Title","Artist","Spins"
+"Don't Tell 'Em f/YG","JEREMIH",6786
+"No Mediocre f/Iggy Azalea","T.I.",5876
+"Black Widow f/Rita Ora","IGGY AZALEA",5717
+"Studio f/BJ The Chicago Kid","SCHOOLBOY Q",4839
+"New Flame f/Usher & Rick Ross","CHRIS BROWN",4379
+"Anaconda","NICKI MINAJ",4304
+"0 To 100/The Catch Up","DRAKE",3489
+"24 Hours","TEEFLII",3356
+"Touchin, Lovin f/Nicki Minaj","TREY SONGZ",3137
+"2 On f/Schoolboy Q","TINASHE",2992
+"Stay With Me","SAM SMITH",2656
+"All About That Bass","MEGHAN TRAINOR",2533
+"Bend Ova f/Tyga","LIL JON",2432
+"Bang Bang","JESSIE J/A. GRANDE/N. MINAJ",2290
+"Am I Wrong","NICO & VINZ",2260
+"Latch f/Sam Smith","DISCLOSURE",2110
+"You And Your Friends","WIZ KHALIFA F/SNOOP & TY DOLLA",2015
+"Flawless","BEYONCE",2013
+"Believe Me f/Drake","LIL WAYNE",1927
+"Lifestyle f/Young Thug","RICH GANG",1924
+"Boom Clap","CHARLI XCX",1824
+"That's Me Right There","JASMINE V",1419
+"Rude","MAGIC!",1396
+"Break Free f/Zedd","ARIANA GRANDE",1319
+"Trumpets","JASON DERULO",1228
+"i","KENDRICK LAMAR",1129
+"Shake It Off","TAYLOR SWIFT",1040
+"Rich f/August Alsina","KIRKO BANGZ",999
+"Hot Boy","BOBBY SHMURDA",991
+"Or Nah f/Problem, Too Short","GAME",986
+"Rather Be f/Jess Glynne","CLEAN BANDIT",964
+"Hold You Down f/C. Brown...","DJ KHALED",941
+"Certified Freak","BABY BASH",805
+"Fireball f/John Ryan","PITBULL",711
+"Fight Night","MIGOS",680
+"Body Language f/Usher/Tinashe","KID INK",639
+"No Flex Zone","RAE SREMMURD",633
+"Pretend f/A$AP Rocky","TINASHE",625
+"Bailando f/D.Bueno/S.Paul/GDZ","ENRIQUE IGLESIAS",604
+"Love Robbery","KALIN & MYLES",598
+"Maps","MAROON 5",593
+"She Came To Give It To You","USHER",593
+"Blame f/John Newman","CALVIN HARRIS",590
+"Habits (Stay High)","TOVE LO",583
+"Don't Panic","FRENCH MONTANA",556
+"About The Money f/Young Thug","T.I.",553
+"I Don't F**k With You f/E-40","BIG SEAN",547
+"Hideaway","KIESZA",516
+"Waves","MR PROBZ",458
+"Red Cup f/T-Pain/Kid Ink/B.o.B","E-40",446

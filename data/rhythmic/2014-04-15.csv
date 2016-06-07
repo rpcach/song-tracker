@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","JOHN LEGEND","All Of Me",5844,79,611,-29,31.824,0.497,135,"3",1,5844,848,31.824
-2,"=","PHARRELL WILLIAMS","Happy",5746,-16,-184,47,38.583,-0.068,84,"1",1,6311,1153,41.469
-3,"+1","CHRIS BROWN","Loyal f/Lil' Wayne",5619,73,282,32,33.15,0.39,97,"72",3,5619,601,33.15
-4,"-1","JASON DERULO","Talk Dirty f/2 Chainz",5523,-46,-415,20,33.709,-0.357,102,"8/14",1,6246,884,36.925
-5,"=","TREY SONGZ","Na Na",4981,18,141,-52,28.853,-0.034,92,"42",5,4981,600,28.887
-6,"+1","BEYONCE","Partition",3913,65,455,14,23.69,0.347,79,"60",6,3913,680,23.69
-7,"-1","KATY PERRY","Dark Horse",3870,-7,-264,68,27.437,0.055,148,"10",2,5716,639,34.543
-8,"+1","DJ SNAKE & LIL JON","Turn Down For What",3283,62,287,48,18.922,0.498,87,"9",8,3283,399,18.922
-9,"-1","KID INK","Show Me f/Chris Brown",3257,-54,-542,19,26.276,-0.469,191,"61",1,6351,758,40.204
-10,"=","LORDE","Team",3000,-31,-321,42,19.272,0.037,121,"33",7,3743,655,21.182
-11,"=","BEYONCE","Drunk In Love f/Jay Z",2777,-103,-698,-11,23.003,-0.508,118,"52",1,6424,1055,44.789
-12,"=","JHENE AIKO","The Worst",2515,43,204,12,15.769,0.295,86,"123",12,2515,352,15.769
-13,"=","IGGY AZALEA","Fancy",2467,76,464,4,13.6,0.284,30,"22",13,2467,603,13.6
-14,"=","YOUNG MONEY","Trophies f/Drake",2441,71,496,14,14.313,0.224,41,"53",14,2441,544,14.313
-15,"=","JAY Z","Part II (On The Run) f/Beyonce",2275,-47,-179,-56,13.043,-0.626,79,"199",12,2471,323,16.487
-16,"=","ALOE BLACC","The Man",2040,-73,-429,-36,9.762,-0.435,81,"12",11,2659,527,12.258
-17,"=","JUSTIN TIMBERLAKE","Not A Bad Thing",1637,35,311,-27,7.511,0.098,30,"11",17,1637,417,7.511
-18,"=","TECH N9NE","Fragile",1624,44,184,13,7.433,0.228,62,"161",18,1624,239,7.433
-19,"=","WILL.I.AM","Feelin' Myself f/Miley Cyrus",1576,1,17,-14,7.603,0.096,59,"141",17,1576,278,7.603
-20,"=","EMINEM","Headlights",1455,12,65,-17,4.788,0.084,49,"83",19,1455,342,4.788
-21,"=","B.O.B","John Doe f/Priscilla",1355,20,68,8,5.238,0.008,92,"50",20,1355,215,5.344
-22,"=","YOUNG THUG","Stoner",1255,13,127,-24,8.848,-0.013,48,"114",22,1255,282,8.861
-23,"=","YG","Who Do You Love f/Drake",1247,32,154,-3,9.166,0.339,44,"144",23,1247,254,9.166
-24,"+1","FUTURE","Move That Doh f/Pharrell",1043,26,178,10,8.084,0.324,30,"--",24,1043,243,8.084
-25,"-1","THE CHAINSMOKERS","#SELFIE",1040,-34,-178,-26,4.309,-0.157,44,"26",22,1223,394,5.62
-26,"=","KID INK","Main Chick f/Chris Brown",959,32,145,21,5.555,0.228,31,"299",26,959,278,5.555
-27,"=","ADRIAN MARCEL","2AM",870,17,107,0,4.088,0.014,29,"--",27,870,193,4.088
-28,"+1","TINASHE","2 On f/Schoolboy Q",846,43,159,28,5.266,0.308,16,"269",28,846,275,5.266
-29,"+1","ONEREPUBLIC","Counting Stars",804,4,10,-6,7.424,0.071,135,"41",25,1202,230,9.228
-30,"+1","KAT DAHLIA","Crazy",789,19,70,18,1.906,0.008,69,"--",30,789,183,1.949
-31,"-3","SAGE THE GEMINI","Red Nose (Pitbull)",772,-36,-270,-13,5.363,-0.19,183,"--",13,2441,441,13.533
-32,"+1","CHILDISH GAMBINO","V. 3005",698,30,138,21,4.212,-0.005,36,"--",32,698,138,4.217
-33,"-1","SCHOOLBOY Q","Man Of The Year",668,-40,-154,-45,5.185,-0.404,65,"103",27,862,175,6.263
-34,"=","MARTIN GARRIX","Animals",645,6,-91,77,4.643,0.241,105,"28",21,1169,233,6.838
-35,"+1","PITBULL","Wild Wild Love f/GRL",591,-4,9,-26,2.209,-0.026,26,"31",35,600,164,2.254
-36,"-1","MARIAH CAREY","You're Mine (Eternal)",569,-29,-120,-28,1.397,-0.16,51,"--",33,709,188,2.361
-37,"=","SOMO","Ride",563,-32,-170,-19,3.342,-0.102,142,"85",11,2714,354,11.965
-38,"+3","CALVIN HARRIS","Summer",560,42,194,29,4.286,0.209,9,"32",38,560,194,4.286
-39,"=","DEV","Kiss It f/Sage The Gemini",560,11,50,-8,2.258,0.114,31,"--",38,560,122,2.323
-40,"-2","LUDACRIS","Party Girls f/Wiz & Jeremih",557,2,18,6,1.978,-0.025,50,"244",38,557,190,2.003
-41,"-1","ELLIE GOULDING","Burn",529,-10,-76,-10,3.394,-0.132,109,"90",22,1298,321,7.485
-42,"=","AUGUST ALSINA","Numb f/B.o.B. & Yo Gotti",524,11,75,-14,1.87,0.079,9,"219",41,524,159,1.87
-43,"=","K CAMP","Money Baby f/Kwony Cash",515,8,72,-1,3.248,-0.023,14,"--",42,515,171,3.271
-44,"=","JENNIFER LOPEZ","I Luh Ya Papi f/French Montana",467,17,57,10,2.963,0.129,9,"284",44,467,137,2.963
-45,"=","BOOSIE & WEBBIE","Show Da World f/Kiara",440,-1,10,-10,5.029,-0.079,10,"--",44,442,123,5.222
-46,"=","RICK ROSS","Thug Cry f/Lil Wayne",426,4,100,-23,2.907,0.05,7,"265",46,426,212,2.907
-47,"=","NAUGHTY BOY","La La La f/Sam Smith",413,-4,-70,8,2.149,0.036,72,"27",39,554,148,2.201
-48,"=","BANDO JONEZ","Sex You",376,10,60,1,2.295,0.02,3,"389",48,376,74,2.323
-49,"+1","K CAMP","Cut Her Off",360,4,46,-16,3.031,-0.019,2,"188",49,360,62,3.05
-50,"-1","K. MICHELLE","Can't Raise A Man",357,0,-40,9,3.521,0.048,57,"--",43,470,128,4.306
+"Title","Artist","Spins"
+"All Of Me","JOHN LEGEND",5844
+"Happy","PHARRELL WILLIAMS",5746
+"Loyal f/Lil' Wayne","CHRIS BROWN",5619
+"Talk Dirty f/2 Chainz","JASON DERULO",5523
+"Na Na","TREY SONGZ",4981
+"Partition","BEYONCE",3913
+"Dark Horse","KATY PERRY",3870
+"Turn Down For What","DJ SNAKE & LIL JON",3283
+"Show Me f/Chris Brown","KID INK",3257
+"Team","LORDE",3000
+"Drunk In Love f/Jay Z","BEYONCE",2777
+"The Worst","JHENE AIKO",2515
+"Fancy","IGGY AZALEA",2467
+"Trophies f/Drake","YOUNG MONEY",2441
+"Part II (On The Run) f/Beyonce","JAY Z",2275
+"The Man","ALOE BLACC",2040
+"Not A Bad Thing","JUSTIN TIMBERLAKE",1637
+"Fragile","TECH N9NE",1624
+"Feelin' Myself f/Miley Cyrus","WILL.I.AM",1576
+"Headlights","EMINEM",1455
+"John Doe f/Priscilla","B.O.B",1355
+"Stoner","YOUNG THUG",1255
+"Who Do You Love f/Drake","YG",1247
+"Move That Doh f/Pharrell","FUTURE",1043
+"#SELFIE","THE CHAINSMOKERS",1040
+"Main Chick f/Chris Brown","KID INK",959
+"2AM","ADRIAN MARCEL",870
+"2 On f/Schoolboy Q","TINASHE",846
+"Counting Stars","ONEREPUBLIC",804
+"Crazy","KAT DAHLIA",789
+"Red Nose (Pitbull)","SAGE THE GEMINI",772
+"V. 3005","CHILDISH GAMBINO",698
+"Man Of The Year","SCHOOLBOY Q",668
+"Animals","MARTIN GARRIX",645
+"Wild Wild Love f/GRL","PITBULL",591
+"You're Mine (Eternal)","MARIAH CAREY",569
+"Ride","SOMO",563
+"Summer","CALVIN HARRIS",560
+"Kiss It f/Sage The Gemini","DEV",560
+"Party Girls f/Wiz & Jeremih","LUDACRIS",557
+"Burn","ELLIE GOULDING",529
+"Numb f/B.o.B. & Yo Gotti","AUGUST ALSINA",524
+"Money Baby f/Kwony Cash","K CAMP",515
+"I Luh Ya Papi f/French Montana","JENNIFER LOPEZ",467
+"Show Da World f/Kiara","BOOSIE & WEBBIE",440
+"Thug Cry f/Lil Wayne","RICK ROSS",426
+"La La La f/Sam Smith","NAUGHTY BOY",413
+"Sex You","BANDO JONEZ",376
+"Cut Her Off","K CAMP",360
+"Can't Raise A Man","K. MICHELLE",357

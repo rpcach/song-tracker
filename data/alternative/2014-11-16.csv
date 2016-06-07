@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","MILKY CHANCE","Stolen Dance",2730,"-30",-72,"-57",13.295,"-0.098",175,"37",1,2941,385,13.393
-2,"=","HOZIER","Take Me To Church",2658,"-2",52,"-10",12.031,"-0.050",152,"6",2,2660,263,12.081
-3,"=","FOO FIGHTERS","Something From Nothing",2624,"-7",114,"-70",11.079,"+0.030",31,"167",3,2633,2029,11.099
-4,"=","ALT-J","Left Hand Free",2191,"-63",-296,"-42",7.054,"-0.313",130,"224",2,2582,434,8.712
-5,"=","FALL OUT BOY","Centuries",1869,"+9",107,"+6",6.412,"+0.037",68,"11",5,1869,660,6.412
-6,"=","VANCE JOY","Riptide",1851,"-8",-196,"+32",10.299,"+0.050",225,"19",1,2806,296,13.385
-7,"=","BASTILLE","Flaws",1829,"-13",-46,"-24",6.615,"-0.061",130,"302",6,1874,221,6.715
-8,"=","BIG DATA","Dangerous f/Joywave",1698,"-8",-16,"-27",8.6,"-0.034",259,"142",1,2657,249,12.343
-9,"=","BLACK KEYS","Gotta Get Away",1601,"-31",-76,"-28",4.155,"-0.101",93,"611",8,1710,241,4.914
-10,"=","IMAGINE DRAGONS","I Bet My Life",1442,"+27",212,"-31",4.965,"+0.057",20,"70",10,1442,892,4.965
-11,"=","LORDE","Yellow Flicker Beat",1312,"-21",-96,"-23",3.986,"-0.101",47,"121",10,1433,981,5.19
-12,"=","CAGE THE ELEPHANT","Cigarette Daydreams",1300,"+1",74,"-22",3.924,"-0.034",84,"380",11,1300,180,3.958
-13,"=","WALK THE MOON","Shut Up And Dance",1188,"+27",150,"+0",4.643,"+0.066",54,"155",13,1188,235,4.643
-14,"=","ARCTIC MONKEYS","R U Mine?",1185,"+27",86,"+12",3.24,"+0.096",77,"700",13,1185,135,3.24
-15,"=","FITZ & THE TANTRUMS","Fools Gold",1081,"-1",79,"-11",3.691,"+0.098",91,"480",15,1082,152,3.691
-16,"=","BLEACHERS","Rollercoaster",989,"+14",5,"+6",2.825,"+0.086",72,"488",15,993,226,2.825
-17,"=","BANKS","Beggin For Thread",981,"+28",105,"+9",3.731,"+0.015",77,"269",17,981,183,3.731
-18,"+1","BEAR HANDS","Agora",919,"+16",39,"+14",1.848,"-0.001",107,"--",18,919,117,1.849
-19,"+1","NEW POLITICS","Everywhere I Go (Kings &...",878,"+7",43,"-18",2.323,"+0.016",64,"1279",19,878,200,2.333
-20,"-2","KONGOS","I'm Only Joking",872,"-40",-158,"-18",3.306,"-0.114",140,"500",11,1263,187,3.951
-21,"=","BUSH","The Only Way Out",838,"+10",17,"+13",3.546,"+0.069",62,"--",21,838,200,3.546
-22,"=","MEG MYERS","Desire",791,"-21",-88,"-7",1.885,"-0.083",143,"391",15,906,102,2.378
-23,"=","ROYAL BLOOD","Figure It Out",778,"+5",20,"-9",2.111,"+0.061",77,"462",23,778,123,2.111
-24,"=","WEEZER","Back To The Shack",691,"-19",-147,"+14",3.114,"-0.005",118,"1299",5,2022,1248,6.829
-25,"+1","U2","The Miracle (Of Joey Ramone)",663,"-10",5,"-58",4.313,"-0.006",63,"--",25,687,199,4.383
-26,"-1","DEATH FROM ABOVE 1979","Trainwreck 1979",623,"-53",-345,"-10",1.63,"-0.176",102,"--",11,1287,270,4.402
-27,"=","GEORGE EZRA","Budapest",489,"-8",33,"-27",1.009,"-0.010",63,"229",27,498,116,1.259
-28,"=","ANDREW MCMAHON IN WILDERNESS","Cecilia And The Satellite",484,"+6",38,"-8",1.462,"+0.003",58,"899",28,484,86,1.464
-29,"=","U2","Every Breaking Wave",412,"-2",41,"-42",2.265,"-0.115",22,"471",29,414,191,2.38
-30,"=","KOOKS","Bad Habit",377,"+7",15,"+6",0.423,"+0.018",56,"1329",29,377,91,0.423
-31,"+1","CATFISH AND THE BOTTLEMEN","Kathleen",373,"+12",54,"+9",0.916,"+0.042",36,"--",31,373,67,1.315
-32,"-1","GLASS ANIMALS","Gooey",372,"+5",11,"-2",0.879,"+0.030",50,"1197",30,372,74,1.14
-33,"=","TV ON THE RADIO","Happy Idiot",318,"+3",-1,"+7",0.475,"+0.007",52,"485",32,323,60,1.064
-34,"=","RISE AGAINST","Tragedy + Time",296,"+10",38,"+0",1.147,"-0.004",21,"--",34,296,110,1.206
-35,"+1","MISTERWIVES","Reflections",277,"+15",55,"+16",1.321,"+0.036",27,"157",35,277,87,1.321
-36,"+2","ROBERT DELONG","Long Way Down",271,"+21",111,"+12",0.481,"+0.032",13,"1030",36,271,113,0.481
-37,"-2","SPOON","Do You",258,"-7",-52,"-6",0.665,"+0.002",104,"--",28,357,72,1.276
-38,"-1","INTERPOL","All The Rage Back Home",250,"-9",-61,"+2",0.723,"-0.048",119,"--",24,485,97,1.633
-39,"+1","ECHOSMITH","Cool Kids",235,"+3",2,"+5",0.765,"+0.002",80,"21",35,269,59,0.982
-40,"-1","KNOX HAMILTON","Work It Out",233,"+0",1,"+0",0.401,"+0.002",78,"--",34,281,82,1.052
-41,"=","COLD WAR KIDS","All This Could Be Yours",226,"+6",9,"+8",0.607,"+0.049",40,"--",41,226,35,0.618
-42,"=","BROODS","Mother & Father",214,"+0",-14,"+0",0.496,"-0.001",84,"1134",37,244,47,0.529
-43,"=","JACK WHITE","Would You Fight For My Love?",205,"-5",-40,"+2",0.397,"-0.016",77,"--",32,295,71,0.442
-44,"=","YOU ME AT SIX","Room To Breathe",203,"-3",-10,"-6",0.51,"-0.022",47,"--",41,213,42,0.554
-45,"=","DIRTY HEADS","Sound Of Change",201,"+4",35,"-4",0.428,"+0.030",15,"--",45,201,92,0.428
-46,"+1","YELAWOLF","Till It's Gone",194,"+19",60,"+14",0.751,"+0.067",14,"257",46,194,60,0.969
-47,"-1","SMASHING PUMPKINS","Being Beige",182,"+6",28,"+9",0.237,"+0.013",20,"--",46,182,107,0.455
-48,"=","PRIORY","Weekend",163,"-3",-70,"+12",0.406,"+0.001",123,"--",10,1133,284,2.826
-49,"=","COLONY HOUSE","Silhouettes",141,"-8",-20,"-8",0.217,"-0.012",62,"--",43,180,27,0.469
-50,"--","BENJAMIN BOOKER","Violent Shiver",135,"--",17,"--",0.233,"--",17,"--",47,135,17,0.233
+"Title","Artist","Spins"
+"Stolen Dance","MILKY CHANCE",2730
+"Take Me To Church","HOZIER",2658
+"Something From Nothing","FOO FIGHTERS",2624
+"Left Hand Free","ALT-J",2191
+"Centuries","FALL OUT BOY",1869
+"Riptide","VANCE JOY",1851
+"Flaws","BASTILLE",1829
+"Dangerous f/Joywave","BIG DATA",1698
+"Gotta Get Away","BLACK KEYS",1601
+"I Bet My Life","IMAGINE DRAGONS",1442
+"Yellow Flicker Beat","LORDE",1312
+"Cigarette Daydreams","CAGE THE ELEPHANT",1300
+"Shut Up And Dance","WALK THE MOON",1188
+"R U Mine?","ARCTIC MONKEYS",1185
+"Fools Gold","FITZ & THE TANTRUMS",1081
+"Rollercoaster","BLEACHERS",989
+"Beggin For Thread","BANKS",981
+"Agora","BEAR HANDS",919
+"Everywhere I Go (Kings &...","NEW POLITICS",878
+"I'm Only Joking","KONGOS",872
+"The Only Way Out","BUSH",838
+"Desire","MEG MYERS",791
+"Figure It Out","ROYAL BLOOD",778
+"Back To The Shack","WEEZER",691
+"The Miracle (Of Joey Ramone)","U2",663
+"Trainwreck 1979","DEATH FROM ABOVE 1979",623
+"Budapest","GEORGE EZRA",489
+"Cecilia And The Satellite","ANDREW MCMAHON IN WILDERNESS",484
+"Every Breaking Wave","U2",412
+"Bad Habit","KOOKS",377
+"Kathleen","CATFISH AND THE BOTTLEMEN",373
+"Gooey","GLASS ANIMALS",372
+"Happy Idiot","TV ON THE RADIO",318
+"Tragedy + Time","RISE AGAINST",296
+"Reflections","MISTERWIVES",277
+"Long Way Down","ROBERT DELONG",271
+"Do You","SPOON",258
+"All The Rage Back Home","INTERPOL",250
+"Cool Kids","ECHOSMITH",235
+"Work It Out","KNOX HAMILTON",233
+"All This Could Be Yours","COLD WAR KIDS",226
+"Mother & Father","BROODS",214
+"Would You Fight For My Love?","JACK WHITE",205
+"Room To Breathe","YOU ME AT SIX",203
+"Sound Of Change","DIRTY HEADS",201
+"Till It's Gone","YELAWOLF",194
+"Being Beige","SMASHING PUMPKINS",182
+"Weekend","PRIORY",163
+"Silhouettes","COLONY HOUSE",141
+"Violent Shiver","BENJAMIN BOOKER",135

@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","RIHANNA","Where Have You Been",5167,"-3",287,"-95",35.958,"-0.161",70,"10",1,5170,788,36.119
-2,"=","CA$H OUT","Cashin' Out",4766,"+31",275,"+2",29.289,"+0.018",100,"51",2,4766,510,29.289
-3,"=","YOUNG JEEZY","Leave You Alone f/Ne...",4495,"+2",71,"-11",33.673,"+0.380",117,"223",1,4495,486,33.673
-4,"+1","WIZ KHALIFA","Work Hard, Play Hard",4007,"+41",314,"+19",23.878,"+0.016",71,"36",4,4007,545,23.878
-5,"-1","KIRKO BANGZ","Drank In My Cup",4002,"+3",-164,"+55",28.774,"+0.108",173,"120",1,5609,562,39.395
-6,"=","USHER","Scream",3521,"+24",312,"-10",24.518,"+0.247",66,"9",6,3521,732,24.518
-7,"+1","KANYE WEST","Mercy f/Big Sean/Pus...",3489,"+59",244,"+42",28.287,"+0.401",85,"16",7,3489,421,28.287
-8,"-1","TREY SONGZ","Heart Attack",3472,"+24",213,"+5",22.177,"+0.310",95,"86",6,3472,454,22.177
-9,"=","NICKI MINAJ","Starships",3028,"-25",-235,"+20",19.788,"+0.061",142,"32/57",3,4327,669,28.422
-10,"=","FLO RIDA","Wild Ones f/Sia",2679,"-54",-397,"-12",18.303,"-0.212",137,"28",2,4837,738,30.647
-11,"=","J. COLE","Nobody's Perfect",2450,"+19",112,"-18",17.815,"+0.134",68,"--",11,2450,308,17.815
-12,"=","NICKI MINAJ","Beez In The Trap f/2...",2263,"-21",21,"-59",13.06,"-0.352",85,"68",12,2302,411,13.962
-13,"+2","CALVIN HARRIS","Let's Go f/Ne-Yo",2205,"+13",252,"-12",15.023,"-0.045",64,"29",13,2205,341,15.068
-14,"-1","GOTYE","Somebody That I Used...",2194,"-13",-144,"+7",15.752,"-0.268",85,"6",13,2544,530,17.074
-15,"+1","USHER","Lemme See f/Rick Ros...",2144,"+19",172,"-7",15.471,"-0.232",56,"83",15,2144,395,16.2
-16,"+1","MAROON 5","Payphone f/Wiz Khali...",2137,"+19",101,"-14",13.913,"+0.223",64,"8",15,2137,287,13.913
-17,"-3","JUSTIN BIEBER","Boyfriend",2117,"-78",-460,"+20",13.559,"-0.311",104,"26",8,3190,1416,20.56
-18,"=","TYGA","Faded f/Lil Wayne",1886,"-3",-274,"+85",13.366,"+0.063",122,"108",6,3652,605,24.528
-19,"+1","2 CHAINZ","No Lie f/Drake",1791,"+51",386,"+14",15.882,"+0.537",45,"43",19,1791,517,15.882
-20,"-1","LIL WAYNE","My Homies Still f/Bi...",1778,"+22",143,"+8",9.702,"+0.032",32,"125",19,1778,547,9.714
-21,"+1","CARLY RAE JEPSEN","Call Me Maybe",1626,"+30",180,"+21",11.551,"+0.192",39,"2",21,1626,462,11.551
-22,"-1","RIHANNA","Birthday Cake",1583,"-22",-197,"+21",11.23,"-0.206",134,"150",3,4670,693,33.894
-23,"=","DJ KHALED","Take It To The Head",1358,"+0",-4,"-6",9.833,"+0.149",97,"110",19,1698,319,9.833
-24,"+1","DAVID GUETTA","Titanium f/Sia",1245,"+21",131,"+8",7.11,"+0.139",71,"4",24,1245,176,7.11
-25,"+1","DRIICKY GRAHAM","Snapbacks & Tattoos",1229,"+29",219,"+11",6.547,"+0.111",57,"67",25,1229,219,6.547
-26,"-2","DRAKE","HYFR (Hell Ya F**kin...",1218,"-73",-464,"-43",6.587,"-0.379",78,"127",17,1867,374,10.167
-27,"+2","FLO RIDA","Whistle",1188,"+29",260,"-37",7.816,"+0.313",15,"3",27,1188,454,7.816
-28,"-1","RITA ORA","How We Do (Party)",1170,"-6",46,"-29",4.985,"-0.110",59,"73",26,1177,194,5.095
-29,"-1","PITBULL","Back In Time",1143,"-25",-301,"+17",7.527,"-0.023",94,"20",16,2052,353,11.916
-30,"+1","USHER","Climax",1030,"-2",-26,"+24",8.379,"-0.082",130,"113",5,4192,732,29.703
-31,"-1","THE WANTED","Glad You Came",1025,"-24",-65,"-18",8.264,"-0.313",137,"50",14,2002,254,13.863
-32,"=","TYGA","Make It Nasty",992,"+6",189,"-28",8.85,"-0.043",33,"137",32,992,252,9.036
-33,"=","NICKI MINAJ","Right By My Side f/C...",931,"+3",-54,"+10",9.402,"+0.056",106,"187",13,2101,531,15.014
-34,"=","TRAVIS PORTER","Ayy Ladies f/Tyga",910,"-6",37,"+6",8.154,"-0.115",141,"168",14,2084,196,14.401
-35,"=","TREY SONGZ","2 Reasons /T.I.",797,"+16",213,"-14",8.695,"+0.252",11,"--",35,797,268,8.695
-36,"=","MEEK MILL","Amen f/Drake & Jerem...",786,"+17",156,"-2",6.494,"+0.174",22,"141",36,786,162,6.494
-37,"=","KATY PERRY","Wide Awake",774,"+6",56,"-20",4.864,"+0.013",27,"1",35,774,183,4.891
-38,"=","LUDACRIS","Jingalin",737,"+29",56,"+33",3.402,"+0.187",23,"--",37,737,210,3.402
-39,"+1","CHRIS BROWN","Don't Wake Me Up",702,"+17",110,"+11",5.03,"+0.248",21,"47",39,702,285,5.03
-40,"-1","WAKA FLOCKA FLAME","I Don't Really Care",674,"-34",-133,"-29",3.441,"-0.344",77,"308",34,812,124,4.401
-41,"+2","MGK","Invincible f/Ester D...",607,"-8",8,"-25",2.2,"+0.072",44,"--",41,631,124,2.2
-42,"+2","HAVANA BROWN","We Run The Night f/P...",595,"+17",91,"+1",4.181,"+0.065",11,"41",42,595,157,4.181
-43,"+2","CATARACS","All You f/Waka Flock...",539,"+10",96,"+6",2.367,"-0.008",8,"--",43,539,96,2.375
-44,"+5","FINATTICZ","Don�t Drop That Thun...",523,"+16",145,"+11",4.026,"+0.077",6,"--",44,523,145,4.026
-45,"+3","WALE","Bag Of Money f/Rick ...",519,"+2",86,"-15",3.425,"+0.115",8,"207",45,519,101,3.425
-46,"+1","CHIDDY BANG","Mind Your Manners f/...",510,"-12",-67,"-14",1.529,"-0.050",36,"341",42,590,106,2.05
-47,"+3","ELLIE GOULDING","Lights",469,"+19",178,"-1",3.403,"+0.085",2,"5",47,469,179,3.403
-48,"--","FAR EAST MOVEMENT","Dirty Bass f/Tyga",430,"--",75,"--",1.967,"--",2,"--",48,442,132,2.219
-49,"--","WAKA FLOCKA FLAME","Get Low f/Nicki Mina...",418,"--",303,"--",1.715,"--",1,"--",49,418,303,1.715
-50,"--","CLYDE CARSON","Slow Down f/The Team",415,"--",68,"--",4.012,"--",1,"--",50,415,68,4.012
+"Title","Artist","Spins"
+"Where Have You Been","RIHANNA",5167
+"Cashin' Out","CA$H OUT",4766
+"Leave You Alone f/Ne...","YOUNG JEEZY",4495
+"Work Hard, Play Hard","WIZ KHALIFA",4007
+"Drank In My Cup","KIRKO BANGZ",4002
+"Scream","USHER",3521
+"Mercy f/Big Sean/Pus...","KANYE WEST",3489
+"Heart Attack","TREY SONGZ",3472
+"Starships","NICKI MINAJ",3028
+"Wild Ones f/Sia","FLO RIDA",2679
+"Nobody's Perfect","J. COLE",2450
+"Beez In The Trap f/2...","NICKI MINAJ",2263
+"Let's Go f/Ne-Yo","CALVIN HARRIS",2205
+"Somebody That I Used...","GOTYE",2194
+"Lemme See f/Rick Ros...","USHER",2144
+"Payphone f/Wiz Khali...","MAROON 5",2137
+"Boyfriend","JUSTIN BIEBER",2117
+"Faded f/Lil Wayne","TYGA",1886
+"No Lie f/Drake","2 CHAINZ",1791
+"My Homies Still f/Bi...","LIL WAYNE",1778
+"Call Me Maybe","CARLY RAE JEPSEN",1626
+"Birthday Cake","RIHANNA",1583
+"Take It To The Head","DJ KHALED",1358
+"Titanium f/Sia","DAVID GUETTA",1245
+"Snapbacks & Tattoos","DRIICKY GRAHAM",1229
+"HYFR (Hell Ya F**kin...","DRAKE",1218
+"Whistle","FLO RIDA",1188
+"How We Do (Party)","RITA ORA",1170
+"Back In Time","PITBULL",1143
+"Climax","USHER",1030
+"Glad You Came","THE WANTED",1025
+"Make It Nasty","TYGA",992
+"Right By My Side f/C...","NICKI MINAJ",931
+"Ayy Ladies f/Tyga","TRAVIS PORTER",910
+"2 Reasons /T.I.","TREY SONGZ",797
+"Amen f/Drake & Jerem...","MEEK MILL",786
+"Wide Awake","KATY PERRY",774
+"Jingalin","LUDACRIS",737
+"Don't Wake Me Up","CHRIS BROWN",702
+"I Don't Really Care","WAKA FLOCKA FLAME",674
+"Invincible f/Ester D...","MGK",607
+"We Run The Night f/P...","HAVANA BROWN",595
+"All You f/Waka Flock...","CATARACS",539
+"Don�t Drop That Thun...","FINATTICZ",523
+"Bag Of Money f/Rick ...","WALE",519
+"Mind Your Manners f/...","CHIDDY BANG",510
+"Lights","ELLIE GOULDING",469
+"Dirty Bass f/Tyga","FAR EAST MOVEMENT",430
+"Get Low f/Nicki Mina...","WAKA FLOCKA FLAME",418
+"Slow Down f/The Team","CLYDE CARSON",415

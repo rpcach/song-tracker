@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","CHRIS BROWN","New Flame f/Rick Ross",4283,-1,-25,-13,28.888,0.292,99,"69",1,4341,633,28.888
-2,"=","BEYONCE","Flawless",4177,34,60,35,24.091,0.157,67,"182",2,4177,738,24.379
-3,"=","RICH GANG","Lifestyle f/Young Thug",3811,-63,-314,-68,26.788,-0.369,111,"49",1,4397,507,28.526
-4,"=","DRAKE","0 To 100/The Catch Up",3688,-53,-132,-57,23.408,-0.12,101,"47",3,3884,613,24.812
-5,"=","JEREMIH","Don't Tell 'Em f/YG",3603,1,-26,33,25.119,0.096,129,"20",1,4277,508,27.65
-6,"=","DJ KHALED","Hold You Down f/C. Brown...",3225,98,505,21,19.543,0.697,61,"98",6,3225,583,19.543
-7,"=","BOBBY SHMURDA","Hot Boy",3098,19,108,11,19.106,0.026,69,"420",6,3098,483,19.106
-8,"=","T.I.","About The Money f/Young Thug",3013,-13,44,-51,17.033,-0.085,106,"115",6,3047,376,17.232
-9,"=","SCHOOLBOY Q","Studio",2854,-37,-231,17,19.653,-0.391,172,"148",1,4185,514,25.614
-10,"=","MIGOS","Handsome And Wealthy",2531,28,168,64,14.89,0.211,100,"214",10,2531,374,14.89
-11,"=","KENDRICK LAMAR","i",2297,44,308,-40,14.118,0.413,21,"81",11,2297,1624,14.118
-12,"=","SNOOTIE WILD","Made Me",2081,11,145,-34,9.542,0.099,77,"309",12,2081,342,9.542
-13,"=","KIRKO BANGZ","Rich f/August Alsina",2008,26,33,40,11.038,0.117,78,"473",12,2008,384,11.484
-14,"=","TREY SONGZ","Touchin, Lovin f/Nicki Minaj",1957,32,64,28,11.957,0.235,44,"105",14,1957,427,11.957
-15,"+1","I LOVE MAKONNEN","Tuesday f/Drake",1754,85,629,25,10.786,0.522,29,"35",15,1754,629,10.786
-16,"-1","NICKI MINAJ","Anaconda",1754,-15,-19,2,8.709,-0.297,65,"26",15,1786,501,9.759
-17,"=","YO GOTTI","Errrbody",1653,10,74,-13,6.665,0.009,59,"232",16,1653,336,6.665
-18,"=","DISCLOSURE","Latch f/Sam Smith",1633,55,350,12,11.706,0.457,54,"68",18,1633,371,11.706
-19,"+2","WIZ KHALIFA F/SNOOP & TY DOLLA","You And Your Friends",1367,15,114,6,6.329,0.057,63,"156",19,1367,210,6.329
-20,"=","JEEZY","Seen It All f/Jay Z",1354,-51,-395,15,7.745,-0.257,92,"303",10,2330,426,12.895
-21,"-2","RAE SREMMURD","No Flex Zone",1351,-88,-629,28,8.462,-0.622,128,"114",7,2897,436,16.96
-22,"=","TEYANA TAYLOR","Maybe f/Pusha T & Yo Gotti",1342,21,167,-8,7.908,0.195,57,"388",21,1342,175,7.908
-23,"=","AUGUST ALSINA","No Love",1243,65,246,41,5.629,0.306,56,"221",23,1243,274,5.629
-24,"=","FRENCH MONTANA","Don't Panic",1157,38,102,9,5.23,0.226,48,"520",23,1157,212,5.23
-25,"=","MARY J. BLIGE","Whole Damn Year",1013,24,176,-3,4.511,0.04,20,"--",25,1013,664,5.343
-26,"=","JUICY J","Low f/Nicki Minaj, Lil Bibby",985,7,91,-14,3.674,-0.049,45,"566",26,985,202,3.723
-27,"+1","WALE","The Body f/Jeremih",937,10,136,-1,4.672,0.075,19,"519",27,937,352,4.672
-28,"-1","K CAMP","Blessing",932,-30,-27,-76,3.749,-0.228,73,"812",25,989,164,4.202
-29,"=","JASMINE V","That's Me Right There",879,2,212,-37,5.692,0.083,17,"349",29,879,457,5.692
-30,"=","T.I.","No Mediocre f/Iggy Azalea",853,-6,-217,70,4.515,-0.028,116,"84",6,2868,509,15.078
-31,"+1","RAE SREMMURD","No Type",820,39,348,12,6.111,0.247,14,"63",31,820,348,6.111
-32,"+2","NE-YO","She Knows f/Juicy J",794,42,207,44,4.186,0.264,16,"307",32,794,269,4.186
-33,"=","BIG SEAN","I Don't F**k With You f/E-40",791,17,144,-38,4.047,0.149,13,"633",32,791,374,4.047
-34,"-3","IGGY AZALEA","Fancy f/Charli XCX",773,-13,-82,11,4.291,-0.155,145,"106",1,4181,573,26.301
-35,"=","JOHN LEGEND","You & I (Nobody In The World)",682,-2,-21,5,2.136,-0.027,67,"262",31,762,220,2.397
-36,"=","CA$H OUT F/WIZ, TY DOLLA $IGN","Let's Get It",644,16,84,6,2.645,0.038,28,"--",36,644,230,2.645
-37,"=","KID INK","Body Language f/Usher/Tinashe",612,2,139,-47,3.67,-0.005,10,"154",37,612,269,3.675
-38,"+1","ELLE VARNER","Don't Wanna Dance f/A$AP Ferg",581,-22,-139,-21,1.526,-0.053,56,"--",33,737,143,1.951
-39,"+2","SAM SMITH","Stay With Me",562,6,10,10,4.124,0.049,46,"15",39,585,138,4.267
-40,"-2","MIKE WILL MADE-IT","Buy The World f/Lil Wayne",560,-45,-489,36,2.406,-0.158,100,"488",17,1629,277,6.596
-41,"-1","TEEFLII","24 Hours",553,-21,-225,55,2.83,-0.191,123,"331",18,1597,260,6.58
-42,"+2","TINASHE","Pretend f/A$AP Rocky",537,18,74,12,1.702,0.036,26,"353",42,537,188,1.702
-43,"=","A-1 THE SUPERGROUP","Everywhere We Go f/K Camp",534,6,-21,8,1.812,0.088,47,"--",40,558,119,2.211
-44,"+2","JAMIE FOXX","Party Ain't A Party f/2Chainz",530,48,246,44,2.545,0.211,4,"714",44,530,246,2.545
-45,"=","SHY GLIZZY","Awwsome",528,19,284,-41,2.514,0.007,5,"--",45,528,325,2.514
-46,"-4","JHENE AIKO","The Pressure",522,-9,-47,-4,1.581,-0.053,36,"--",37,580,161,1.779
-47,"=","LECRAE","All I Need Is You",478,0,38,-1,1.375,0.026,30,"601",45,478,70,1.375
-48,"+1","ROWDY REBEL","Computers f/Bobby Shmurda",394,11,47,6,0.945,0.045,2,"--",48,394,47,0.945
-49,"-1","RICH HOMIE QUAN","Blah Blah Blah",394,-4,34,-14,1.238,0.008,6,"--",48,398,93,1.248
-50,"=","KEVIN GATES","Posed To Be In Love",381,-2,-3,-5,0.892,0.016,9,"1290",48,393,127,0.892
+"Title","Artist","Spins"
+"New Flame f/Rick Ross","CHRIS BROWN",4283
+"Flawless","BEYONCE",4177
+"Lifestyle f/Young Thug","RICH GANG",3811
+"0 To 100/The Catch Up","DRAKE",3688
+"Don't Tell 'Em f/YG","JEREMIH",3603
+"Hold You Down f/C. Brown...","DJ KHALED",3225
+"Hot Boy","BOBBY SHMURDA",3098
+"About The Money f/Young Thug","T.I.",3013
+"Studio","SCHOOLBOY Q",2854
+"Handsome And Wealthy","MIGOS",2531
+"i","KENDRICK LAMAR",2297
+"Made Me","SNOOTIE WILD",2081
+"Rich f/August Alsina","KIRKO BANGZ",2008
+"Touchin, Lovin f/Nicki Minaj","TREY SONGZ",1957
+"Tuesday f/Drake","I LOVE MAKONNEN",1754
+"Anaconda","NICKI MINAJ",1754
+"Errrbody","YO GOTTI",1653
+"Latch f/Sam Smith","DISCLOSURE",1633
+"You And Your Friends","WIZ KHALIFA F/SNOOP & TY DOLLA",1367
+"Seen It All f/Jay Z","JEEZY",1354
+"No Flex Zone","RAE SREMMURD",1351
+"Maybe f/Pusha T & Yo Gotti","TEYANA TAYLOR",1342
+"No Love","AUGUST ALSINA",1243
+"Don't Panic","FRENCH MONTANA",1157
+"Whole Damn Year","MARY J. BLIGE",1013
+"Low f/Nicki Minaj, Lil Bibby","JUICY J",985
+"The Body f/Jeremih","WALE",937
+"Blessing","K CAMP",932
+"That's Me Right There","JASMINE V",879
+"No Mediocre f/Iggy Azalea","T.I.",853
+"No Type","RAE SREMMURD",820
+"She Knows f/Juicy J","NE-YO",794
+"I Don't F**k With You f/E-40","BIG SEAN",791
+"Fancy f/Charli XCX","IGGY AZALEA",773
+"You & I (Nobody In The World)","JOHN LEGEND",682
+"Let's Get It","CA$H OUT F/WIZ, TY DOLLA $IGN",644
+"Body Language f/Usher/Tinashe","KID INK",612
+"Don't Wanna Dance f/A$AP Ferg","ELLE VARNER",581
+"Stay With Me","SAM SMITH",562
+"Buy The World f/Lil Wayne","MIKE WILL MADE-IT",560
+"24 Hours","TEEFLII",553
+"Pretend f/A$AP Rocky","TINASHE",537
+"Everywhere We Go f/K Camp","A-1 THE SUPERGROUP",534
+"Party Ain't A Party f/2Chainz","JAMIE FOXX",530
+"Awwsome","SHY GLIZZY",528
+"The Pressure","JHENE AIKO",522
+"All I Need Is You","LECRAE",478
+"Computers f/Bobby Shmurda","ROWDY REBEL",394
+"Blah Blah Blah","RICH HOMIE QUAN",394
+"Posed To Be In Love","KEVIN GATES",381

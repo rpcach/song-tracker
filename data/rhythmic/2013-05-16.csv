@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","MACKLEMORE & RYAN...","Can't Hold Us f/R...",6104,"-27",127,"-81",39.918,"-0.206",76,"2",1,6131,932,40.124
-2,"=","RIHANNA","Stay f/Mikky Ekko",5585,"-27",30,"-58",30.562,"-0.319",88,"18",2,5612,661,31.181
-3,"=","J. COLE","Power Trip f/Migu...",5061,"+53",534,"-19",31.909,"+0.155",81,"--",3,5061,598,31.909
-4,"=","JUSTIN TIMBERLAKE","Mirrors",4925,"+84",773,"-7",30.057,"+0.304",51,"5",4,4925,892,30.057
-5,"=","DRAKE","Started From The ...",4618,"-110",-630,"-31",30.151,"-0.677",99,"234",1,5791,876,37.684
-6,"=","CHRIS BROWN","Fine China",3714,"+29",187,"-6",22.911,"-0.024",43,"57",6,3714,1244,22.935
-7,"=","WALE","Bad f/Tiara Thoma...",3418,"+51",334,"+34",21.178,"+0.681",74,"74",7,3418,450,21.178
-8,"=","JUSTIN TIMBERLAKE","Suit & Tie f/JAY ...",3231,"-74",-692,"+0",20.157,"-0.517",122,"31",1,5888,2259,39.318
-9,"=","LIL WAYNE","Love Me f/Drake &...",3129,"-38",-460,"+71",23.879,"+0.159",127,"63",5,4938,589,32.314
-10,"=","PITBULL","Feel This Moment",2997,"-92",-706,"-14",15.422,"-0.697",101,"27",7,3964,616,21.273
-11,"=","BRUNO MARS","When I Was Your M...",2669,"-77",-707,"+13",15.4,"-0.458",106,"12",4,4719,821,26.947
-12,"=","RIHANNA","Pour It Up",2612,"-94",-766,"-5",19.036,"-0.833",144,"111",1,5979,855,43.302
-13,"=","KENDRICK LAMAR","B**ch, Don't Kill...",2414,"+10",153,"-29",14.768,"-0.007",53,"--",13,2414,428,14.775
-14,"+1","ARIANA GRANDE","The Way f/Mac Mil...",2319,"+62",410,"+29",13.107,"+0.419",32,"17",14,2319,556,13.107
-15,"-1","DROP CITY YACHT C...","Crickets f/Jeremi...",2258,"-61",-449,"-27",13.256,"-0.192",70,"150",11,2918,865,15.898
-16,"=","B. SMYTH","Leggo f/2 Chainz",2098,"+6",158,"-8",9.934,"-0.149",71,"240",16,2098,287,10.083
-17,"=","WILL.I.AM F/JUSTI...","#thatpower",2043,"-21",24,"-32",10.407,"-0.150",49,"21",15,2074,480,10.799
-18,"=","ACE HOOD","Bugatti f/Future ...",1924,"-24",-54,"-37",12.204,"-0.262",97,"40",15,1978,269,12.989
-19,"=","SEAN KINGSTON","Beat It f/Chris B...",1806,"+14",243,"-30",10.551,"+0.227",35,"116",19,1806,418,10.551
-20,"+1","MARIAH CAREY","#Beautiful f/Migu...",1728,"+126",1165,"-38",11.003,"+0.803",9,"16",20,1728,1474,11.341
-21,"-1","DAFT PUNK","Get Lucky",1723,"+47",373,"-13",9.413,"+0.300",21,"9",20,1723,568,9.413
-22,"=","B.O.B","We Still In This ...",1343,"+33",131,"+26",10.08,"+0.337",83,"82",21,1343,193,10.08
-23,"=","LIL WAYNE","Rich As F**k f/2 ...",1303,"+18",223,"-25",8.242,"-0.040",38,"--",22,1303,295,8.282
-24,"=","KAT DAHLIA","Gangsta",1101,"+13",51,"+14",4.939,"+0.041",64,"186",23,1106,170,4.963
-25,"+1","NICKI MINAJ","High School",1076,"+18",58,"+10",5.09,"+0.222",26,"165",25,1076,341,5.09
-26,"-1","FRENCH MONTANA","Freaks f/Nicki Mi...",1019,"-46",-128,"-43",6.189,"-0.066",67,"248",19,1263,384,7.191
-27,"=","KREWELLA","Alive",958,"+23",115,"+14",5.064,"+0.213",60,"48",27,958,153,5.064
-28,"=","JASON DERULO","The Other Side",948,"+16",159,"-22",3.574,"+0.054",18,"28",27,948,293,3.574
-29,"=","CALVIN HARRIS","Sweet Nothing f/F...",912,"-3",9,"+5",7.178,"-0.134",161,"119",13,2088,271,14.839
-30,"+1","ROBIN THICKE","Blurred Lines f/P...",902,"+48",299,"+18",5.325,"+0.332",18,"1",30,902,299,5.325
-31,"-1","KELLY ROWLAND","Kisses Down Low",896,"-10",-67,"+10",5.094,"+0.106",71,"152",22,1051,157,5.711
-32,"=","RIHANNA","Loveeeeeee Song f...",788,"-11",-62,"-14",6.149,"-0.029",115,"181",18,1413,246,8.76
-33,"=","ICONA POP","I Love It f/Charl...",775,"+5",-11,"+8",3.78,"+0.165",52,"7",30,788,126,3.78
-34,"=","DJ KHALED F/DRAKE...","No New Friends",765,"+28",173,"+8",8.187,"+0.379",19,"39",34,765,234,8.187
-35,"=","CIARA","Body Party",732,"+9",103,"-21",4.144,"-0.009",23,"97",34,732,180,4.164
-36,"=","MIGUEL","How Many Drinks?",720,"+12",147,"+10",3.88,"-0.033",18,"209",34,720,314,3.913
-37,"=","A$AP ROCKY","Wild For The Nigh...",689,"+8",23,"+7",5.285,"+0.159",39,"107",32,691,115,5.405
-38,"=","TAMAR BRAXTON","Love And War",641,"-16",8,"-21",3.158,"+0.001",44,"288",33,657,117,3.158
-39,"=","BINGO PLAYERS F/F...","Get Up (Rattle)",532,"-8",-17,"-7",2.012,"-0.023",47,"--",38,550,197,2.148
-40,"+1","BRUNO MARS","Treasure",465,"+77",347,"+57",2.197,"+0.479",4,"166",40,465,347,2.197
-41,"-1","DJ DRAMA","So Many Girls f/W...",448,"-31",-77,"-44",2.892,"-0.065",44,"--",39,526,133,3.099
-42,"+1","PINK","Just Give Me A Re...",391,"+9",65,"-13",2.622,"+0.035",13,"3",42,391,108,2.627
-43,"-1","SEVYN STREETER","I Like It",379,"-9",6,"-16",2.746,"+0.046",18,"--",41,388,61,2.746
-44,"+1","T. RONE","Hello Love (F.U.)",362,"-1",26,"-8",0.789,"-0.004",23,"--",44,363,87,1.443
-45,"+4","RICH GANG","Tapout f/Birdman,...",345,"+22",203,"-1",1.248,"+0.085",2,"93",45,345,204,1.248
-46,"-2","TRINIDAD JAMES","Female$ Welcomed",345,"-21",-70,"-7",2.297,"-0.051",34,"--",40,472,95,2.677
-47,"-1","FABOLOUS","Ready f/Chris Bro...",338,"-4",-28,"-8",4.684,"-0.065",48,"196",44,383,97,4.857
-48,"-1","SELENA GOMEZ","Come & Get It",333,"-1",25,"-3",2.765,"+0.067",8,"4",47,334,92,2.765
-49,"--","JAKE MILLER","A Million Lives",318,"--",-1,"--",1.101,"--",10,"--",46,323,31,1.177
-50,"-2","BABY BASH","Dance All Night",313,"-14",-24,"-5",1.866,"-0.062",20,"--",43,386,70,2.167
+"Title","Artist","Spins"
+"Can't Hold Us f/R...","MACKLEMORE & RYAN...",6104
+"Stay f/Mikky Ekko","RIHANNA",5585
+"Power Trip f/Migu...","J. COLE",5061
+"Mirrors","JUSTIN TIMBERLAKE",4925
+"Started From The ...","DRAKE",4618
+"Fine China","CHRIS BROWN",3714
+"Bad f/Tiara Thoma...","WALE",3418
+"Suit & Tie f/JAY ...","JUSTIN TIMBERLAKE",3231
+"Love Me f/Drake &...","LIL WAYNE",3129
+"Feel This Moment","PITBULL",2997
+"When I Was Your M...","BRUNO MARS",2669
+"Pour It Up","RIHANNA",2612
+"B**ch, Don't Kill...","KENDRICK LAMAR",2414
+"The Way f/Mac Mil...","ARIANA GRANDE",2319
+"Crickets f/Jeremi...","DROP CITY YACHT C...",2258
+"Leggo f/2 Chainz","B. SMYTH",2098
+"#thatpower","WILL.I.AM F/JUSTI...",2043
+"Bugatti f/Future ...","ACE HOOD",1924
+"Beat It f/Chris B...","SEAN KINGSTON",1806
+"#Beautiful f/Migu...","MARIAH CAREY",1728
+"Get Lucky","DAFT PUNK",1723
+"We Still In This ...","B.O.B",1343
+"Rich As F**k f/2 ...","LIL WAYNE",1303
+"Gangsta","KAT DAHLIA",1101
+"High School","NICKI MINAJ",1076
+"Freaks f/Nicki Mi...","FRENCH MONTANA",1019
+"Alive","KREWELLA",958
+"The Other Side","JASON DERULO",948
+"Sweet Nothing f/F...","CALVIN HARRIS",912
+"Blurred Lines f/P...","ROBIN THICKE",902
+"Kisses Down Low","KELLY ROWLAND",896
+"Loveeeeeee Song f...","RIHANNA",788
+"I Love It f/Charl...","ICONA POP",775
+"No New Friends","DJ KHALED F/DRAKE...",765
+"Body Party","CIARA",732
+"How Many Drinks?","MIGUEL",720
+"Wild For The Nigh...","A$AP ROCKY",689
+"Love And War","TAMAR BRAXTON",641
+"Get Up (Rattle)","BINGO PLAYERS F/F...",532
+"Treasure","BRUNO MARS",465
+"So Many Girls f/W...","DJ DRAMA",448
+"Just Give Me A Re...","PINK",391
+"I Like It","SEVYN STREETER",379
+"Hello Love (F.U.)","T. RONE",362
+"Tapout f/Birdman,...","RICH GANG",345
+"Female$ Welcomed","TRINIDAD JAMES",345
+"Ready f/Chris Bro...","FABOLOUS",338
+"Come & Get It","SELENA GOMEZ",333
+"A Million Lives","JAKE MILLER",318
+"Dance All Night","BABY BASH",313

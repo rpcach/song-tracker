@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","PkPos","PkSpins","PkBllt","PkAud"
-1,"=","ONEREPUBLIC","Counting Stars",6233,"-8",17,"-18",43.972,"+0.228",225,"5",1,6255,573,43.972
-2,"=","IMAGINE DRAGONS","Demons",5885,"-14",-139,"+26",39.862,"-0.282",147,"18",1,6064,828,42.022
-3,"=","PASSENGER","Let Her Go",5813,"+19",40,"+76",39.852,"+0.029",208,"9",3,5835,579,40.437
-4,"=","AMERICAN AUTHORS","Best Day Of My Li...",4997,"+46",333,"+32",33.536,"+0.245",128,"19",4,4997,590,33.536
-5,"=","AVICII","Wake Me Up",4764,"-60",-247,"-31",33.742,"-0.086",152,"23",1,6093,885,42.361
-6,"=","A GREAT BIG WORLD","Say Something",4605,"+73",372,"+18",33.639,"+0.537",110,"3/58",6,4605,545,33.639
-7,"=","KATY PERRY","Unconditionally",3391,"-127",-323,"-141",22.283,"-0.828",90,"43",6,3719,794,26.523
-8,"=","LORDE","Royals",3276,"-76",-312,"-6",21.755,"-0.519",180,"17",1,6387,824,44.906
-9,"=","FRAY","Love Don't Die",3255,"+35",225,"+15",19.516,"+0.335",90,"73",9,3255,512,19.516
-10,"=","SARA BAREILLES","Brave",3089,"-29",-90,"-2",21.719,"-0.371",264,"30",3,5204,400,36.029
-11,"+1","NEIGHBOURHOOD","Sweater Weather",2982,"+59",293,"+52",18.52,"+0.351",164,"26",11,2982,304,18.52
-12,"-1","KATY PERRY","Roar",2916,"-31",-267,"-7",21.433,"-0.559",160,"16",1,5952,1969,42.858
-13,"+2","ONE DIRECTION","Story Of My Life",2830,"+111",601,"+43",21.402,"+0.626",59,"12",13,2830,601,21.402
-14,"=","BASTILLE","Pompeii",2766,"+38",282,"+8",17.526,"+0.346",86,"10",14,2766,327,17.526
-15,"-2","DAUGHTRY","Waiting For Super...",2749,"-8",80,"-22",16.242,"-0.267",113,"75",13,2764,370,16.658
-16,"=","COLBIE CAILLAT","Hold On",2633,"+18",101,"+19",16.357,"+0.036",57,"137",14,2633,623,16.522
-17,"=","LORDE","Team",2326,"+75",458,"+19",16.265,"+0.348",51,"8",17,2326,458,16.265
-18,"=","MILEY CYRUS","Wrecking Ball",2091,"-112",-627,"-30",15.906,"-0.766",122,"34",6,3926,659,28.726
-19,"=","FITZ & THE TANTRU...","Out Of My League",1995,"-105",-345,"-102",11.485,"-0.409",145,"183",15,2346,240,14.811
-20,"=","GOO GOO DOLLS","Come To Me",1984,"-15",47,"-28",12.305,"-0.138",168,"162",16,2015,205,13.292
-21,"=","PITBULL","Timber f/Ke$ha",1949,"+74",542,"+11",13.795,"+0.619",68,"2",21,1949,542,13.795
-22,"=","JOHN NEWMAN","Love Me Again",1729,"+44",230,"+24",9.05,"+0.204",116,"31",21,1729,230,9.05
-23,"=","CHRISTINA PERRI","Human",1410,"+23",201,"+10",6.707,"+0.108",57,"95",23,1410,237,6.707
-24,"+1","ELLIE GOULDING","Burn",1150,"+50",339,"+19",7.556,"+0.263",40,"14",24,1150,339,7.556
-25,"-1","GAVIN DEGRAW","Make A Move",1134,"+2",65,"+2",4.201,"-0.112",76,"--",24,1145,175,4.45
-26,"=","ZEDD","Stay The Night f/...",1069,"+21",175,"-6",7.205,"+0.158",68,"47",25,1069,186,7.205
-27,"=","LADY GAGA","Do What U Want f/...",1039,"+15",150,"-11",5.604,"+0.012",59,"35",26,1039,162,5.604
-28,"=","BRUNO MARS","Young Girls",925,"+40",256,"+26",5.127,"+0.041",36,"113",28,925,256,5.127
-29,"=","EMINEM","The Monster f/Rih...",861,"+22",91,"+0",6.381,"+0.374",63,"11/57",29,861,131,6.381
-30,"=","DRAKE F/MAJID JOR...","Hold On We're Goi...",740,"-51",-166,"-44",5.431,"-0.095",108,"54",18,1619,219,10.28
-31,"=","PLAIN WHITE T'S","The Giving Tree",617,"+13",38,"+19",2.137,"-0.008",96,"--",30,617,80,2.576
-32,"=","JOHN MAYER","Who You Love f/Ka...",541,"-43",-207,"-18",3.059,"-0.144",134,"226",17,1637,259,7.431
-33,"=","JAMES BLUNT","Bonfire Heart",506,"-10",14,"-6",1.813,"-0.013",109,"--",30,516,93,2.205
-34,"+1","JOHN LEGEND","All Of Me",492,"+23",80,"+27",2.703,"+0.139",54,"36",34,492,80,2.703
-35,"+1","KATY PERRY","Dark Horse",480,"+40",264,"+16",3.728,"+0.353",12,"1",35,480,264,3.728
-36,"+1","MAROON 5","Lucky Strike",400,"+2",30,"+9",3.119,"-0.020",96,"--",36,400,80,3.188
-37,"-3","AVRIL LAVIGNE","Let Me Go f/Chad ...",394,"-84",-592,"-6",1.918,"-0.234",95,"--",20,1462,291,7.116
-38,"=","AVICII","Hey Brother",367,"+14",128,"-1",1.414,"+0.002",31,"24",38,367,129,1.414
-39,"=","ZZ WARD","365 Days",292,"-36",-206,"-14",1.338,"-0.051",131,"--",28,684,90,2.034
-40,"+2","THE 1975","Chocolate",257,"+22",138,"+16",1.283,"+0.077",7,"114",40,257,138,1.283
-41,"-1","JASON DERULO","Marry Me",248,"-36",-220,"-18",1.289,"-0.121",89,"85",26,691,145,2.861
-42,"-1","LEE DEWYZE","Fight",246,"+1",8,"+2",0.315,"+0.000",54,"--",41,247,40,0.344
-43,"=","MARY LAMBERT","She Keeps Me Warm",217,"+11",82,"+3",1.411,"+0.010",12,"--",43,217,82,1.411
-44,"+1","BEYONCE","XO",195,"+14",107,"+12",0.836,"+0.058",5,"53",44,195,107,0.836
-45,"-1","IMAGINE DRAGONS","On Top Of The Wor...",193,"+3",62,"-6",1.681,"-0.031",8,"150",44,193,68,1.712
-46,"=","MATT NATHANSON","Kinks Shirt",179,"+12",57,"+9",0.655,"+0.039",9,"--",46,179,57,0.655
-47,"--","NEON TREES","Sleeping With A F...",156,"--",156,"--",1.177,"--",1,"93",47,156,156,1.177
-48,"=","YUNA","Rescue",146,"-4",3,"-9",0.168,"+0.000",24,"--",45,150,37,0.176
-49,"-2","DELTA RAE","If I Loved You",146,"-11",-44,"-9",0.27,"-0.018",58,"--",43,207,41,0.34
-50,"-1","KEVIN RUDOLF","Here's To Us",142,"-7",-12,"-15",0.19,"-0.020",45,"--",45,169,50,0.329
+"Title","Artist","Spins"
+"Counting Stars","ONEREPUBLIC",6233
+"Demons","IMAGINE DRAGONS",5885
+"Let Her Go","PASSENGER",5813
+"Best Day Of My Li...","AMERICAN AUTHORS",4997
+"Wake Me Up","AVICII",4764
+"Say Something","A GREAT BIG WORLD",4605
+"Unconditionally","KATY PERRY",3391
+"Royals","LORDE",3276
+"Love Don't Die","FRAY",3255
+"Brave","SARA BAREILLES",3089
+"Sweater Weather","NEIGHBOURHOOD",2982
+"Roar","KATY PERRY",2916
+"Story Of My Life","ONE DIRECTION",2830
+"Pompeii","BASTILLE",2766
+"Waiting For Super...","DAUGHTRY",2749
+"Hold On","COLBIE CAILLAT",2633
+"Team","LORDE",2326
+"Wrecking Ball","MILEY CYRUS",2091
+"Out Of My League","FITZ & THE TANTRU...",1995
+"Come To Me","GOO GOO DOLLS",1984
+"Timber f/Ke$ha","PITBULL",1949
+"Love Me Again","JOHN NEWMAN",1729
+"Human","CHRISTINA PERRI",1410
+"Burn","ELLIE GOULDING",1150
+"Make A Move","GAVIN DEGRAW",1134
+"Stay The Night f/...","ZEDD",1069
+"Do What U Want f/...","LADY GAGA",1039
+"Young Girls","BRUNO MARS",925
+"The Monster f/Rih...","EMINEM",861
+"Hold On We're Goi...","DRAKE F/MAJID JOR...",740
+"The Giving Tree","PLAIN WHITE T'S",617
+"Who You Love f/Ka...","JOHN MAYER",541
+"Bonfire Heart","JAMES BLUNT",506
+"All Of Me","JOHN LEGEND",492
+"Dark Horse","KATY PERRY",480
+"Lucky Strike","MAROON 5",400
+"Let Me Go f/Chad ...","AVRIL LAVIGNE",394
+"Hey Brother","AVICII",367
+"365 Days","ZZ WARD",292
+"Chocolate","THE 1975",257
+"Marry Me","JASON DERULO",248
+"Fight","LEE DEWYZE",246
+"She Keeps Me Warm","MARY LAMBERT",217
+"XO","BEYONCE",195
+"On Top Of The Wor...","IMAGINE DRAGONS",193
+"Kinks Shirt","MATT NATHANSON",179
+"Sleeping With A F...","NEON TREES",156
+"Rescue","YUNA",146
+"If I Loved You","DELTA RAE",146
+"Here's To Us","KEVIN RUDOLF",142
