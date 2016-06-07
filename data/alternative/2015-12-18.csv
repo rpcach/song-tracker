@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","TWENTY ONE PILOTS","Stressed Out",3330,"-6",26,"-8",14.186,"-0.089",130,"5",1,3341,396,14.403
-2,"=","COLD WAR KIDS","First",2579,"-2",-14,"+17",13.414,"+0.039",283,"240",1,3065,389,13.485
-3,"=","CAGE THE ELEPHANT","Mess Around",2294,"+44",126,"+29",7.548,"+0.190",49,"305",3,2294,1209,7.548
-4,"+1","DEATH CAB FOR CUTIE","The Ghosts Of Beverly Drive",2183,"-16",-181,"+15",9.443,"-0.118",172,"1183",3,2424,198,10.193
-5,"-1","NATHANIEL RATELIFF/NIGHTSWEATS","S.O.B",2175,"-29",-173,"+0",7.68,"-0.064",124,"--",3,2540,334,8.948
-6,"=","SILVERSUN PICKUPS","Nightlight",2147,"+32",166,"+7",7.028,"+0.107",132,"--",6,2147,396,7.028
-7,"=","VANCE JOY","Fire And The Flood",2006,"-3",122,"-39",7.479,"+0.124",128,"326",7,2009,240,7.479
-8,"=","COLDPLAY","Adventure Of A Lifetime",1926,"+11",66,"+15",7.166,"+0.039",42,"23",8,1926,970,7.641
-9,"=","ELLE KING","Ex's and Oh's",1774,"-6",-67,"-3",9.29,"+0.009",229,"22",1,3053,359,12.669
-10,"=","COLEMAN HELL","2 Heads",1736,"-4",-199,"+26",7.972,"+0.171",197,"182",5,2244,174,8.621
-11,"=","NOTHING BUT THIEVES","Trip Switch",1492,"+12",121,"-6",4.942,"+0.018",47,"556",11,1492,366,4.942
-12,"+1","FOALS","Mountain At My Gates",1432,"+34",136,"+36",4.351,"+0.059",145,"1054",12,1432,208,4.351
-13,"-1","IMAGINE DRAGONS","Roots",1420,"+9",49,"+6",4.037,"+0.026",106,"338",11,1423,209,4.545
-14,"=","WEEZER","Thank God For Girls",1400,"+19",136,"+13",4.472,"+0.035",53,"672",14,1400,804,4.534
-15,"=","X AMBASSADORS","Unsteady",1329,"+21",154,"+14",4.556,"-0.069",72,"152",15,1329,201,4.625
-16,"=","DISCLOSURE","Magnets f/Lorde",1009,"+26",110,"+18",3.467,"+0.073",68,"331",16,1009,143,3.467
-17,"=","THE 1975","Love Me",956,"+11",116,"+18",2.397,"+0.105",61,"287",17,956,273,2.397
-18,"=","CHRIS CORNELL","Nearly Forgot My Broken Heart",884,"+16",60,"+17",3.301,"+0.118",102,"647",18,884,171,3.574
-19,"=","MUMFORD & SONS","Ditmas",803,"+13",176,"-19",1.777,"-0.002",36,"--",19,803,211,1.779
-20,"=","JR JR","Gone",715,"+9",45,"+15",1.582,"+0.034",85,"--",20,715,169,1.582
-21,"=","SAINT MOTEL","Cold Cold Man",666,"+3",25,"+2",1.723,"-0.022",109,"--",21,666,89,1.777
-22,"=","CHVRCHES","Leave A Trace",634,"-13",-156,"+4",2.253,"-0.023",145,"1154",18,988,110,3.323
-23,"+1","FOO FIGHTERS","Saint Cecilia",617,"+44",280,"+29",1.652,"+0.109",20,"--",23,617,280,1.652
-24,"-1","PANIC! AT THE DISCO","Victorious",608,"+16",54,"+24",2.104,"+0.063",65,"223",23,608,89,2.186
-25,"=","ANDREW MCMAHON IN WILDERNESS","High Dive",528,"+4",53,"-7",1.286,"+0.028",78,"--",24,528,103,1.543
-26,"=","THE STRUTS","Kiss This",490,"+6",95,"-15",1.729,"+0.030",29,"--",26,490,114,1.729
-27,"=","WOMBATS","Give Me A Try",484,"+1",27,"-13",0.968,"+0.009",131,"--",25,484,75,1.01
-28,"=","BIG GRAMS","Lights On",358,"+11",8,"+14",0.56,"+0.047",71,"--",28,358,68,0.56
-29,"+1","EL VY","Return To The Moon",349,"+9",-1,"+17",0.892,"+0.028",78,"--",29,379,63,1.017
-30,"+1","GRIZFOLK","Troublemaker",331,"+1",-9,"+2",0.57,"-0.002",77,"--",30,349,75,0.744
-31,"-2","THE DEAD WEATHER","I Feel Love (Every Million...",330,"-16",-89,"-9",0.645,"-0.025",117,"--",27,498,143,1.421
-32,"+1","BORNS","10,000 Emerald Pools",311,"+8",41,"+6",0.547,"+0.002",33,"--",32,311,61,0.547
-33,"-1","NEIGHBOURHOOD","Cry Baby",308,"+2",32,"-2",1.057,"+0.036",32,"--",32,308,74,1.057
-34,"=","OF MONSTERS AND MEN","Wolves Without Teeth",287,"+12",24,"+8",0.954,"+0.027",21,"--",34,287,113,0.954
-35,"=","BRING ME THE HORIZON","Throne",260,"-8",15,"-11",0.719,"+0.006",86,"505",35,271,54,0.998
-36,"=","NEW POLITICS","Girl Crush",259,"+1",9,"+7",0.44,"-0.021",53,"--",36,259,57,0.527
-37,"+1","MARIAN HILL","One Time",240,"+7",26,"+5",0.703,"-0.008",39,"--",37,240,47,0.819
-38,"-1","FALL OUT BOY","Irresistible f/Demi Lovato",239,"-2",-12,"+0",0.976,"-0.023",59,"147",37,260,57,1.123
-39,"+1","SHINEDOWN","State Of My Head",234,"+11",72,"+5",0.543,"+0.028",23,"320",39,234,72,0.543
-40,"-1","MUTEMATH","Monument",234,"+2",5,"+4",0.537,"+0.018",70,"--",36,303,48,0.679
-41,"=","MIIKE SNOW","Genghis Khan",208,"-2",69,"-24",0.638,"-0.064",8,"1008",40,211,160,0.868
-42,"=","ST. LUCIA","Dancing On Glass",196,"+9",43,"+5",0.16,"+0.013",14,"--",42,196,58,0.186
-43,"=","FRANK TURNER","Next Storm",172,"+0",21,"-4",0.553,"+0.008",37,"--",43,172,31,0.557
-44,"+1","ELLE KING","Under The Influence",170,"+26",65,"+30",0.713,"+0.086",5,"--",44,170,65,0.713
-45,"-1","BAIO","Sister Of Pearl",166,"+1",-24,"+13",0.333,"+0.003",41,"--",43,230,52,0.543
-46,"+2","AWOLNATION","Woman Woman",145,"+17",87,"+9",0.231,"+0.012",3,"--",46,145,87,0.231
-47,"-1","NEW BEAT FUND","Sikka Takin' The Hard Way",141,"+5",19,"+3",0.192,"+0.009",9,"--",45,141,31,0.236
-48,"-1","LUKAS GRAHAM","7 Years",136,"+1",19,"-1",0.672,"-0.017",5,"193",47,136,29,0.689
-49,"=","BANNERS","Shine A Light",127,"+0",10,"-1",0.256,"+0.006",11,"--",45,130,22,0.317
-50,"--","JAMES BAY","Let It Go",120,"--",8,"--",0.643,"--",47,"83",45,180,42,0.643
+"Title","Artist","Spins"
+"Stressed Out","TWENTY ONE PILOTS",3330
+"First","COLD WAR KIDS",2579
+"Mess Around","CAGE THE ELEPHANT",2294
+"The Ghosts Of Beverly Drive","DEATH CAB FOR CUTIE",2183
+"S.O.B","NATHANIEL RATELIFF/NIGHTSWEATS",2175
+"Nightlight","SILVERSUN PICKUPS",2147
+"Fire And The Flood","VANCE JOY",2006
+"Adventure Of A Lifetime","COLDPLAY",1926
+"Ex's and Oh's","ELLE KING",1774
+"2 Heads","COLEMAN HELL",1736
+"Trip Switch","NOTHING BUT THIEVES",1492
+"Mountain At My Gates","FOALS",1432
+"Roots","IMAGINE DRAGONS",1420
+"Thank God For Girls","WEEZER",1400
+"Unsteady","X AMBASSADORS",1329
+"Magnets f/Lorde","DISCLOSURE",1009
+"Love Me","THE 1975",956
+"Nearly Forgot My Broken Heart","CHRIS CORNELL",884
+"Ditmas","MUMFORD & SONS",803
+"Gone","JR JR",715
+"Cold Cold Man","SAINT MOTEL",666
+"Leave A Trace","CHVRCHES",634
+"Saint Cecilia","FOO FIGHTERS",617
+"Victorious","PANIC! AT THE DISCO",608
+"High Dive","ANDREW MCMAHON IN WILDERNESS",528
+"Kiss This","THE STRUTS",490
+"Give Me A Try","WOMBATS",484
+"Lights On","BIG GRAMS",358
+"Return To The Moon","EL VY",349
+"Troublemaker","GRIZFOLK",331
+"I Feel Love (Every Million...","THE DEAD WEATHER",330
+"10,000 Emerald Pools","BORNS",311
+"Cry Baby","NEIGHBOURHOOD",308
+"Wolves Without Teeth","OF MONSTERS AND MEN",287
+"Throne","BRING ME THE HORIZON",260
+"Girl Crush","NEW POLITICS",259
+"One Time","MARIAN HILL",240
+"Irresistible f/Demi Lovato","FALL OUT BOY",239
+"State Of My Head","SHINEDOWN",234
+"Monument","MUTEMATH",234
+"Genghis Khan","MIIKE SNOW",208
+"Dancing On Glass","ST. LUCIA",196
+"Next Storm","FRANK TURNER",172
+"Under The Influence","ELLE KING",170
+"Sister Of Pearl","BAIO",166
+"Woman Woman","AWOLNATION",145
+"Sikka Takin' The Hard Way","NEW BEAT FUND",141
+"7 Years","LUKAS GRAHAM",136
+"Shine A Light","BANNERS",127
+"Let It Go","JAMES BAY",120

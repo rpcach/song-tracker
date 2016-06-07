@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","CHRIS BROWN & TYGA","Ayo",6544,"+8",293,"-92",36.403,"+0.277",78,"52",1,6544,821,36.403
-2,"=","NICKI MINAJ","Truffle Butter f/Drake...",6217,"-60",-385,"-57",39.181,"-0.080",81,"19",1,6604,1184,40.053
-3,"=","NATALIE LA ROSE","Somebody f/Jeremih",6101,"+56",335,"-19",31.891,"+0.160",77,"10",3,6101,797,31.891
-4,"=","PITBULL","Time Of Our Lives f/Ne-Yo",5258,"-97",-568,"-51",31.056,"-0.481",112,"17",2,5929,845,33.907
-5,"+1","THE WEEKND","Earned It",4676,"+137",726,"+18",27.713,"+0.869",67,"4",5,4676,759,27.713
-6,"-1","RIHANNA/KANYE WEST/P MCCARTNEY","FourFiveSeconds",4541,"-22",-50,"-33",19.851,"-0.254",59,"5",5,4602,1164,21.962
-7,"=","MARK RONSON","Uptown Funk f/Bruno Mars",4417,"-10",-214,"+42",30.124,"+0.146",125,"1",1,6240,1111,35.338
-8,"=","FLO RIDA","GDFR f/Sage The Gemini",3645,"+32",356,"+0",18.348,"+0.160",144,"9",8,3645,377,18.348
-9,"=","RAE SREMMURD","Tho Sum Mo f/Nicki Minaj",3025,"+3",159,"-74",17.477,"+0.195",46,"45",9,3029,589,17.477
-10,"=","USHER","I Don't Mind f/Juicy J",2727,"-36",-269,"-7",16.448,"-0.025",150,"46",1,6146,889,35.663
-11,"=","BIG SEAN","Blessings f/Drake",2383,"+42",305,"+26",14.324,"-0.029",46,"55",11,2383,426,14.353
-12,"=","ARIANA GRANDE","One Last Time",2291,"+41",246,"-2",9.684,"+0.113",40,"23",12,2291,548,9.684
-13,"+1","KID INK","Hotel f/Chris Brown",2097,"-1",108,"-13",9.593,"-0.020",66,"343",13,2098,335,9.613
-14,"+2","FETTY WAP","Trap Queen",2079,"+58",484,"-14",15.644,"+0.192",33,"8",14,2079,567,15.644
-15,"=","KANYE WEST F/T.LONDON","All Day f/A.Kingd./P.McCartney",2073,"+51",601,"-5",13.488,"+0.282",20,"68",15,2073,735,13.488
-16,"-3","J. COLE","Apparently",2069,"-132",-1097,"-37",10.493,"-0.677",102,"273",8,3482,671,20.644
-17,"=","LUDACRIS","Good Lovin f/Miguel",1846,"+19",82,"+12",9.814,"+0.212",99,"179",17,1846,294,9.814
-18,"=","KALIN & MYLES","Trampoline",1819,"+4",118,"-22",7.435,"+0.074",60,"107",18,1819,334,7.435
-19,"=","JASON DERULO","Want To Want Me",1802,"+70",723,"-63",7.906,"+0.335",13,"11",19,1802,848,7.906
-20,"=","NICKI MINAJ","Only f/Drake, Lil Wayne",1651,"-42",-127,"-27",13.314,"-0.132",139,"76",5,3940,512,25.258
-21,"=","BEYONCE","7/11",1456,"-23",-280,"+49",8.983,"-0.217",120,"109",5,4214,643,21.891
-22,"+2","MAROON 5","Sugar",1390,"+16",180,"-27",5.847,"+0.091",53,"6",22,1390,398,6.21
-23,"=","ED SHEERAN","Thinking Out Loud",1369,"-50",-154,"-51",6.621,"-0.167",72,"3",16,2056,469,10.676
-24,"-2","B.O.B","Not For Long f/Trey Songz",1349,"-95",-772,"+66",8.591,"-0.623",144,"649",9,3554,443,23.042
-25,"=","CALVIN HARRIS","Open Wide f/Big Sean",1306,"-25",17,"-30",5.764,"-0.287",54,"322",23,1331,371,6.178
-26,"+1","TINASHE","All Hands On Deck",1253,"+23",208,"-11",5.29,"+0.101",19,"683",26,1253,452,5.29
-27,"-1","NICK JONAS","Jealous",1223,"-49",-261,"-6",9.224,"-0.196",149,"73",4,4343,506,23.201
-28,"=","NICK JONAS","Chains",1217,"+24",207,"-14",4.219,"+0.119",21,"14",28,1217,409,4.219
-29,"=","TREY SONGZ","Slow Motion",1076,"+26",113,"+12",4.738,"+0.051",30,"56",29,1076,255,4.738
-30,"=","TAYLOR SWIFT","Style",1004,"-1",37,"-29",4.091,"+0.009",52,"12",26,1018,303,5.967
-31,"=","T.I.","Private Show f/Chris Brown",973,"+13",78,"-10",5.274,"-0.014",32,"629",31,973,201,5.288
-32,"=","OMARION","Post To Be f/Chris Brown&Jhene",966,"+23",164,"+0",10.852,"+0.238",34,"41",32,966,229,10.852
-33,"=","CIARA","I Bet",891,"-2",57,"-15",4.367,"+0.016",49,"105",29,893,228,4.367
-34,"+1","SNOOP DOGG","Peaches & Cream",840,"+62",463,"+18",5.313,"+0.393",8,"--",34,840,463,5.313
-35,"-1","FIFTH HARMONY","Worth It f/Kid Ink",789,"+10",153,"-37",3.213,"+0.041",25,"44",34,789,205,3.213
-36,"=","ELLIE GOULDING","Love Me Like You Do",757,"+31",176,"+20",2.909,"+0.118",29,"2",36,757,176,2.909
-37,"=","OB O'BRIEN","Schemin' Up f/Drake & P. Reign",688,"-4",31,"-2",2.97,"-0.025",25,"--",35,692,169,3.251
-38,"=","TK N CASH","Mind Right",655,"-1",32,"+0",2.934,"+0.160",32,"517",38,656,134,2.934
-39,"+2","TECH N9NE","Hood Go Crazy f/B.o.B",648,"+45",308,"+7",2.786,"+0.153",4,"128",39,648,308,2.786
-40,"-1","DRAKE","How About Now",610,"-17",-34,"-38",4.726,"-0.154",99,"--",31,748,146,5.55
-41,"-1","CALVIN HARRIS","Outside f/Ellie Goulding",609,"-4",-65,"-5",2.936,"+0.024",51,"32",36,673,207,4.178
-42,"=","JORDIN SPARKS","Double Tap f/2 Chainz",554,"+9",-13,"-1",2.075,"-0.075",14,"1057",42,568,190,2.171
-43,"+1","JIDENNA","Classic Man",550,"+21",74,"+21",2.395,"+0.077",13,"477",43,550,74,2.395
-44,"-1","ZEDD","I Want You To Know f/S. Gomez",536,"+2",43,"-13",1.884,"+0.056",11,"28",41,542,137,1.884
-45,"=","SHAGGY F/MOHOMBI/FAYDEE/COSTI","I Need Your Love",504,"+4",16,"+8",2.641,"+0.039",20,"259",45,504,81,2.641
-46,"+2","DJ SNAKE & ALUNAGEORGE","You Know You Like It",472,"+34",168,"+18",2.103,"+0.154",3,"80",46,472,168,2.103
-47,"-1","CASEY VEGGIES","Backflip f/YG & IAMSU",462,"-23",-120,"-5",2.847,"+0.061",65,"--",35,665,230,3.875
-48,"-1","TY DOLLA $IGN","Drop That Kitty f/Charli XCX..",459,"-13",49,"-42",2.315,"-0.097",4,"--",47,481,126,2.573
-49,"+1","FUTURE","F*ck Up Some Commas",406,"+17",65,"+19",4.015,"+0.213",4,"170",49,406,78,4.036
-50,"--","THE-DREAM","That's My S**t",385,"--",36,"--",3.958,"--",1,"481",50,385,36,3.958
+"Title","Artist","Spins"
+"Ayo","CHRIS BROWN & TYGA",6544
+"Truffle Butter f/Drake...","NICKI MINAJ",6217
+"Somebody f/Jeremih","NATALIE LA ROSE",6101
+"Time Of Our Lives f/Ne-Yo","PITBULL",5258
+"Earned It","THE WEEKND",4676
+"FourFiveSeconds","RIHANNA/KANYE WEST/P MCCARTNEY",4541
+"Uptown Funk f/Bruno Mars","MARK RONSON",4417
+"GDFR f/Sage The Gemini","FLO RIDA",3645
+"Tho Sum Mo f/Nicki Minaj","RAE SREMMURD",3025
+"I Don't Mind f/Juicy J","USHER",2727
+"Blessings f/Drake","BIG SEAN",2383
+"One Last Time","ARIANA GRANDE",2291
+"Hotel f/Chris Brown","KID INK",2097
+"Trap Queen","FETTY WAP",2079
+"All Day f/A.Kingd./P.McCartney","KANYE WEST F/T.LONDON",2073
+"Apparently","J. COLE",2069
+"Good Lovin f/Miguel","LUDACRIS",1846
+"Trampoline","KALIN & MYLES",1819
+"Want To Want Me","JASON DERULO",1802
+"Only f/Drake, Lil Wayne","NICKI MINAJ",1651
+"7/11","BEYONCE",1456
+"Sugar","MAROON 5",1390
+"Thinking Out Loud","ED SHEERAN",1369
+"Not For Long f/Trey Songz","B.O.B",1349
+"Open Wide f/Big Sean","CALVIN HARRIS",1306
+"All Hands On Deck","TINASHE",1253
+"Jealous","NICK JONAS",1223
+"Chains","NICK JONAS",1217
+"Slow Motion","TREY SONGZ",1076
+"Style","TAYLOR SWIFT",1004
+"Private Show f/Chris Brown","T.I.",973
+"Post To Be f/Chris Brown&Jhene","OMARION",966
+"I Bet","CIARA",891
+"Peaches & Cream","SNOOP DOGG",840
+"Worth It f/Kid Ink","FIFTH HARMONY",789
+"Love Me Like You Do","ELLIE GOULDING",757
+"Schemin' Up f/Drake & P. Reign","OB O'BRIEN",688
+"Mind Right","TK N CASH",655
+"Hood Go Crazy f/B.o.B","TECH N9NE",648
+"How About Now","DRAKE",610
+"Outside f/Ellie Goulding","CALVIN HARRIS",609
+"Double Tap f/2 Chainz","JORDIN SPARKS",554
+"Classic Man","JIDENNA",550
+"I Want You To Know f/S. Gomez","ZEDD",536
+"I Need Your Love","SHAGGY F/MOHOMBI/FAYDEE/COSTI",504
+"You Know You Like It","DJ SNAKE & ALUNAGEORGE",472
+"Backflip f/YG & IAMSU","CASEY VEGGIES",462
+"Drop That Kitty f/Charli XCX..","TY DOLLA $IGN",459
+"F*ck Up Some Commas","FUTURE",406
+"That's My S**t","THE-DREAM",385

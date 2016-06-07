@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","JUSTIN BIEBER","Love Yourself",6908,"-41",-109,"-69",48.196,"-0.194",97,"13",1,7033,1061,49.042
-2,"+1","CHARLIE PUTH","One Call Away",6062,"+88",655,"-14",38.525,"+0.526",149,"11",2,6062,767,38.525
-3,"-1","TWENTY ONE PILOTS","Stressed Out",6026,"-19",-208,"+9",38.252,"-0.410",126,"7",1,6562,901,40.424
-4,"=","LUKAS GRAHAM","7 Years",5623,"+58",456,"-44",34.502,"+0.504",87,"1",4,5623,870,34.502
-5,"=","JAMES BAY","Let It Go",5312,"+27",214,"+7",33.509,"+0.045",184,"20",4,5312,502,33.509
-6,"=","ADELE","When We Were Young",4997,"-191",-931,"-153",28.905,"-1.282",119,"57",2,6253,957,39.429
-7,"=","DNCE","Cake By The Ocean",4850,"+51",580,"-22",29.069,"+0.367",135,"10",7,4850,611,29.069
-8,"=","SHAWN MENDES","Stitches",4362,"-35",-195,"+25",27.69,"-0.421",225,"70",1,6477,799,41.425
-9,"=","MEGHAN TRAINOR","NO",3931,"+72",747,"-61",25.225,"+0.549",25,"2",9,3931,1921,25.225
-10,"=","RACHEL PLATTEN","Stand By You",3091,"-10",-611,"+127",17.011,"+0.100",197,"65",1,6291,625,39.472
-11,"+1","TAYLOR SWIFT","New Romantics",3078,"+35",241,"+3",16.714,"+0.322",34,"21",11,3078,1102,16.714
-12,"-1","ELLIE GOULDING","Something In The Way You Move",3064,"+6",96,"-11",16.454,"-0.055",63,"184",11,3064,668,16.509
-13,"=","SELENA GOMEZ","Same Old Love",2935,"-25",-191,"+62",19.398,"-0.230",153,"147",6,4472,514,27.64
-14,"=","JUSTIN BIEBER","Sorry",2841,"-40",-325,"-6",19.792,"-0.307",132,"36",3,5252,872,34.879
-15,"=","ELLE KING","America's Sweetheart",2422,"+24",169,"+1",12.07,"+0.117",53,"112",15,2422,551,12.07
-16,"=","KELLY CLARKSON","Piece By Piece",2418,"+55",490,"-21",13.966,"+0.494",115,"122",16,2418,658,13.966
-17,"=","GWEN STEFANI","Make Me Like You",2234,"+13",145,"-7",10.901,"-0.013",42,"103",17,2234,616,10.914
-18,"+1","BEN RECTOR","Brand New",1916,"+34",258,"+5",7.909,"+0.095",79,"676",18,1916,258,7.909
-19,"-1","DAYA","Hide Away",1828,"-84",-408,"-86",10.586,"-0.366",129,"73",14,2305,404,11.755
-20,"=","BORNS","Electric Love",1739,"+25",136,"+17",6.731,"+0.081",101,"307",18,1739,253,6.731
-21,"=","MIKE POSNER","I Took A Pill In Ibiza",1513,"+45",353,"+11",7.314,"+0.249",36,"9",21,1513,353,7.314
-22,"=","THOMAS RHETT","Die A Happy Man",1305,"+24",-17,"+23",5.257,"+0.077",88,"42",21,1322,309,5.314
-23,"=","SELENA GOMEZ","Hands To Myself",1250,"+35",278,"+2",8.588,"+0.176",44,"27",23,1250,312,8.588
-24,"=","EMPIRE OF THE SUN","Walking On A Dream",1153,"+15",75,"+1",5.087,"+0.149",58,"386",23,1153,270,5.087
-25,"=","VANCE JOY","Fire And The Flood",1074,"+26",58,"+21",4.745,"+0.127",53,"575",25,1074,229,4.745
-26,"=","FLO RIDA","My House",1037,"+35",294,"-1",5.773,"+0.238",46,"3",26,1037,295,5.773
-27,"=","RUTH B.","Lost Boy",1006,"+8",141,"-17",4.113,"+0.029",69,"18",27,1006,162,4.113
-28,"=","THE CHAINSMOKERS","Roses f/Rozes",979,"+11",-27,"+16",5.734,"-0.031",67,"29",25,1011,152,5.848
-29,"=","ANDRA DAY","Rise Up",928,"+14",113,"+12",3.217,"+0.026",59,"191",29,928,145,3.217
-30,"=","ZAYN","Pillowtalk",840,"+17",129,"-1",3.213,"+0.055",31,"14/40/95",30,840,173,3.216
-31,"=","THE WEEKND","In The Night",711,"-5",-100,"+15",4.753,"+0.073",117,"203",17,2551,434,13.515
-32,"=","AMERICAN AUTHORS","Pride",642,"+9",40,"-3",1.826,"-0.004",33,"--",32,642,241,1.851
-33,"=","PANIC! AT THE DISCO","Victorious",563,"+14",72,"+3",1.169,"+0.054",28,"51",33,563,138,1.17
-34,"=","X AMBASSADORS","Unsteady",554,"+13",69,"+1",1.989,"+0.035",30,"121",34,554,130,1.989
-35,"+1","ZARA LARSSON & MNEK","Never Forget You",526,"+16",170,"-13",2.705,"+0.125",19,"5",35,526,214,2.705
-36,"-1","HALEY REINHART","Can't Help Falling In Love",497,"-16",-102,"-11",2.703,"-0.139",121,"280",30,644,101,4.058
-37,"=","COLD WAR KIDS","First",487,"+5",25,"+10",3.94,"+0.098",118,"560",34,511,70,3.94
-38,"=","SHAWN HOOK","Sound Of Your Heart",477,"+11",82,"-3",1.629,"+0.103",23,"92",38,477,136,1.629
-39,"+1","DAUGHTRY","Torches",411,"+13",45,"+10",0.85,"+0.023",26,"--",39,411,162,0.85
-40,"-1","TAYLOR SWIFT","Out Of The Woods",390,"-14",-50,"+1",2.394,"-0.164",84,"347",11,3691,1261,19.743
-41,"+1","FIFTH HARMONY","Work From Home",365,"+14",89,"-4",1.534,"+0.125",16,"4",41,365,102,1.534
-42,"-1","A GREAT BIG WORLD","Oasis",331,"-48",-383,"+17",0.965,"-0.141",103,"--",22,1211,241,4.599
-43,"=","NATHAN SYKES","Over And Over Again f/A.Grande",271,"+6",53,"-2",0.322,"-0.012",42,"218",43,271,86,0.602
-44,"=","ARIANA GRANDE","Dangerous Woman",245,"+11",78,"+2",1.34,"+0.047",8,"8",44,245,144,1.39
-45,"=","RIHANNA","Work f/Drake",190,"+2",27,"+3",0.552,"+0.027",11,"6/72",45,190,70,0.552
-46,"=","BLUE OCTOBER","Home",188,"+8",27,"+8",0.568,"+0.040",13,"--",46,188,27,0.568
-47,"=","HALSEY","Colors",176,"+3",32,"-2",0.406,"+0.029",3,"310",47,176,47,0.433
-48,"+1","TROYE SIVAN","Youth",161,"+11",62,"+10",1.003,"+0.075",2,"25",48,161,62,1.003
-49,"-1","HIGH DIVE HEART","Vintage",158,"+0",18,"-9",0.27,"+0.019",6,"--",48,165,39,0.707
-50,"--","JUSTIN BIEBER","Company",154,"--",38,"--",0.68,"--",1,"85",50,154,38,0.68
+"Title","Artist","Spins"
+"Love Yourself","JUSTIN BIEBER",6908
+"One Call Away","CHARLIE PUTH",6062
+"Stressed Out","TWENTY ONE PILOTS",6026
+"7 Years","LUKAS GRAHAM",5623
+"Let It Go","JAMES BAY",5312
+"When We Were Young","ADELE",4997
+"Cake By The Ocean","DNCE",4850
+"Stitches","SHAWN MENDES",4362
+"NO","MEGHAN TRAINOR",3931
+"Stand By You","RACHEL PLATTEN",3091
+"New Romantics","TAYLOR SWIFT",3078
+"Something In The Way You Move","ELLIE GOULDING",3064
+"Same Old Love","SELENA GOMEZ",2935
+"Sorry","JUSTIN BIEBER",2841
+"America's Sweetheart","ELLE KING",2422
+"Piece By Piece","KELLY CLARKSON",2418
+"Make Me Like You","GWEN STEFANI",2234
+"Brand New","BEN RECTOR",1916
+"Hide Away","DAYA",1828
+"Electric Love","BORNS",1739
+"I Took A Pill In Ibiza","MIKE POSNER",1513
+"Die A Happy Man","THOMAS RHETT",1305
+"Hands To Myself","SELENA GOMEZ",1250
+"Walking On A Dream","EMPIRE OF THE SUN",1153
+"Fire And The Flood","VANCE JOY",1074
+"My House","FLO RIDA",1037
+"Lost Boy","RUTH B.",1006
+"Roses f/Rozes","THE CHAINSMOKERS",979
+"Rise Up","ANDRA DAY",928
+"Pillowtalk","ZAYN",840
+"In The Night","THE WEEKND",711
+"Pride","AMERICAN AUTHORS",642
+"Victorious","PANIC! AT THE DISCO",563
+"Unsteady","X AMBASSADORS",554
+"Never Forget You","ZARA LARSSON & MNEK",526
+"Can't Help Falling In Love","HALEY REINHART",497
+"First","COLD WAR KIDS",487
+"Sound Of Your Heart","SHAWN HOOK",477
+"Torches","DAUGHTRY",411
+"Out Of The Woods","TAYLOR SWIFT",390
+"Work From Home","FIFTH HARMONY",365
+"Oasis","A GREAT BIG WORLD",331
+"Over And Over Again f/A.Grande","NATHAN SYKES",271
+"Dangerous Woman","ARIANA GRANDE",245
+"Work f/Drake","RIHANNA",190
+"Home","BLUE OCTOBER",188
+"Colors","HALSEY",176
+"Youth","TROYE SIVAN",161
+"Vintage","HIGH DIVE HEART",158
+"Company","JUSTIN BIEBER",154

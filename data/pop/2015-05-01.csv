@@ -1,51 +1,51 @@
-"Pos","Pos.","Artist","Title","Spins","Spins.","Bullet","Bullet.","Aud","Aud.","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","ELLIE GOULDING","Love Me Like You Do",17962,"-69",-628,"+38",114.309,"-0.757",111,"14",1,18696,2216,120.696
-2,"=","THE WEEKND","Earned It",16629,"+138",1024,"-132",99.257,"+0.973",72,"8",2,16629,2820,99.257
-3,"=","NATALIE LA ROSE","Somebody f/Jeremih",15597,"-73",-315,"-142",84.193,"+0.200",117,"20",3,15912,2141,87.237
-4,"=","MAROON 5","Sugar",14425,"-617",-2717,"-451",96.129,"-2.782",110,"16/59",1,18530,2244,117.81
-5,"=","JASON DERULO","Want To Want Me",12719,"+159",860,"-109",74.126,"+1.124",53,"3",5,12719,4301,74.126
-6,"=","ARIANA GRANDE","One Last Time",11916,"+51",59,"+56",71.53,"+0.178",83,"41",6,11916,2135,76.95
-7,"=","FLO RIDA","GDFR f/Sage The Gemini",11279,"+47",478,"-32",61.549,"-0.249",112,"11",7,11279,1433,61.931
-8,"+1","NICK JONAS","Chains",10996,"+201",1295,"+32",59.003,"+0.929",110,"22",8,10996,1295,59.003
-9,"+1","WALK THE MOON","Shut Up And Dance",10907,"+227",1528,"-5",69.065,"+1.398",76,"2",9,10907,2103,69.065
-10,"-2","TAYLOR SWIFT","Style",10850,"-213",-1898,"+134",73.569,"-1.126",116,"30",1,18488,3111,115.714
-11,"+1","WIZ KHALIFA","See You Again f/Charlie Puth",9868,"+464",2927,"-14",69.916,"+3.777",28,"1/49",11,9868,3607,69.916
-12,"-1","MARK RONSON","Uptown Funk f/Bruno Mars",9865,"-108",-732,"+104",70.762,"-1.517",172,"10",1,19386,3126,125.545
-13,"=","ZEDD","I Want You To Know f/S. Gomez",7947,"-381",-1059,"-369",46.049,"-3.180",67,"58",11,9109,3786,52.698
-14,"+1","TOVE LO","Talking Body",7507,"+167",917,"+128",44.21,"+0.654",106,"21",14,7507,1043,44.21
-15,"-1","ED SHEERAN","Thinking Out Loud",7416,"-161",-733,"+106",46.457,"-0.756",145,"18",1,18914,3319,118.241
-16,"=","DAVID GUETTA","Hey Mama  f/Nicki Minaj",6001,"+208",1010,"+117",37.22,"+1.323",54,"7",16,6001,1023,37.22
-17,"=","MEGHAN TRAINOR","Dear Future Husband",5527,"+58",460,"-1",26.385,"+0.317",42,"13",17,5527,1246,26.385
-18,"=","DJ SNAKE & ALUNAGEORGE","You Know You Like It",5295,"+216",1260,"+95",29.051,"+1.161",55,"19",18,5295,1260,29.051
-19,"=","SAM SMITH","Lay Me Down",4746,"-95",-112,"-86",22.349,"-0.638",80,"42/61",18,4887,1008,24.788
-20,"=","ECHOSMITH","Bright",4581,"+40",398,"-83",19.725,"+0.330",88,"32",20,4581,965,19.725
-21,"=","FIFTH HARMONY","Worth It f/Kid Ink",4233,"+74",775,"+11",19.689,"+0.439",58,"12",21,4233,775,19.689
-22,"=","TORI KELLY","Nobody Love",3439,"-272",-1716,"-84",13.074,"-1.409",80,"25",16,5612,1398,26.444
-23,"+2","FETTY WAP","Trap Queen",2691,"+71",591,"-6",16.404,"+0.524",33,"4",23,2691,597,16.404
-24,"=","GEORGE EZRA","Budapest",2667,"+13",110,"-14",11.007,"+0.110",60,"31",24,2667,440,11.007
-25,"-2","RIHANNA/KANYE WEST/P MCCARTNEY","FourFiveSeconds",2559,"-182",-1384,"-24",11.823,"-0.807",96,"37",6,11254,3932,65.756
-26,"=","RYN WEAVER","OctaHate",2552,"+22",240,"-13",8.662,"+0.067",54,"88",25,2552,649,8.662
-27,"=","ANDY GRAMMER","Honey, I'm Good",2536,"+38",326,"+17",11.679,"+0.225",65,"5",26,2536,326,11.679
-28,"+1","SHAGGY F/MOHOMBI/FAYDEE/COSTI","I Need Your Love",2326,"+103",464,"+100",12.42,"+0.558",68,"112",28,2326,464,12.42
-29,"-1","SHEPPARD","Geronimo",2295,"+11",26,"-27",8.978,"+0.157",71,"33",28,2295,732,9.136
-30,"+3","SKRILLEX & DIPLO","Where Are U Now f/J. Bieber",2106,"+124",714,"+33",12.626,"+0.541",20,"24",30,2106,714,12.626
-31,"-1","CALVIN HARRIS","Outside f/Ellie Goulding",2029,"-38",-1056,"+213",19.966,"-0.195",132,"119",8,9077,1280,60.662
-32,"=","NATE RUESS","Nothing Without Love",1980,"-24",90,"-30",9.317,"-0.300",29,"53",32,2004,1078,9.694
-33,"-2","LUNCHMONEY LEWIS","Bills",1889,"-139",-526,"-106",5.501,"-0.373",68,"76",27,2565,672,9.683
-34,"=","SIA","Elastic Heart f/The Weeknd...",1658,"+2",226,"-70",11.39,"+0.394",47,"51",34,1658,439,11.39
-35,"=","MARTIN GARRIX","Don't Look Down f/Usher",1555,"+66",389,"+12",9.871,"+0.424",19,"113",35,1555,627,9.871
-36,"=","CARLY RAE JEPSEN","I Really Like You",1532,"+69",374,"+31",5.775,"+0.391",30,"82",36,1532,374,5.775
-37,"=","CHRIS BROWN & TYGA","Ayo",1300,"-25",-515,"+101",5.728,"-0.083",73,"81",27,2477,346,11.871
-38,"=","NICKI MINAJ","Truffle Butter f/Drake...",1264,"-3",-287,"+35",6.901,"-0.270",103,"54",24,3035,577,17.071
-39,"=","R5","Let's Not Be Alone Tonight",1249,"+28",127,"+31",3.255,"+0.067",35,"327",39,1249,490,3.255
-40,"=","CALVIN HARRIS","Pray To God f/HAIM",1244,"+75",300,"+29",7.326,"+0.674",14,"207",40,1244,664,7.326
-41,"+2","RIHANNA","American Oxygen",1154,"+148",898,"+132",4.303,"+0.365",5,"162",41,1154,898,4.303
-42,"-1","DILLON FRANCIS & DJ SNAKE","Get Low",1077,"+22",212,"-22",4.966,"+0.089",32,"66",41,1077,353,5.127
-43,"+2","PITBULL","Fun f/Chris Brown",971,"+96",529,"+21",7.602,"+0.429",5,"343",43,971,529,7.602
-44,"-2","LIFE OF DILLON","Overload",965,"-79",-539,"+5",2.909,"-0.207",64,"139",35,1719,486,4.787
-45,"-1","ALESSO","Cool",960,"+9",95,"-9",3.612,"+0.002",28,"267",43,960,273,3.893
-46,"=","FALL OUT BOY","Uma Thurman",877,"+35",252,"-1",3.184,"+0.171",11,"62",45,877,318,3.184
-47,"=","KATY TIZ","Whistle (While You Work)",817,"+17",73,"+8",1.853,"+0.037",19,"156",44,817,133,1.853
-48,"--","NICKI MINAJ","The Night Is Still Young",788,"--",615,"--",5.928,"--",1,"276",48,788,615,5.928
-49,"-1","NE-YO","Coming With You",720,"+22",213,"-8",3.666,"+0.233",5,"--",48,720,257,3.666
-50,"-1","YEARS & YEARS","King",698,"+26",246,"-11",4.086,"+0.011",3,"222",49,698,257,4.086
+"Title","Artist","Spins"
+"Love Me Like You Do","ELLIE GOULDING",17962
+"Earned It","THE WEEKND",16629
+"Somebody f/Jeremih","NATALIE LA ROSE",15597
+"Sugar","MAROON 5",14425
+"Want To Want Me","JASON DERULO",12719
+"One Last Time","ARIANA GRANDE",11916
+"GDFR f/Sage The Gemini","FLO RIDA",11279
+"Chains","NICK JONAS",10996
+"Shut Up And Dance","WALK THE MOON",10907
+"Style","TAYLOR SWIFT",10850
+"See You Again f/Charlie Puth","WIZ KHALIFA",9868
+"Uptown Funk f/Bruno Mars","MARK RONSON",9865
+"I Want You To Know f/S. Gomez","ZEDD",7947
+"Talking Body","TOVE LO",7507
+"Thinking Out Loud","ED SHEERAN",7416
+"Hey Mama  f/Nicki Minaj","DAVID GUETTA",6001
+"Dear Future Husband","MEGHAN TRAINOR",5527
+"You Know You Like It","DJ SNAKE & ALUNAGEORGE",5295
+"Lay Me Down","SAM SMITH",4746
+"Bright","ECHOSMITH",4581
+"Worth It f/Kid Ink","FIFTH HARMONY",4233
+"Nobody Love","TORI KELLY",3439
+"Trap Queen","FETTY WAP",2691
+"Budapest","GEORGE EZRA",2667
+"FourFiveSeconds","RIHANNA/KANYE WEST/P MCCARTNEY",2559
+"OctaHate","RYN WEAVER",2552
+"Honey, I'm Good","ANDY GRAMMER",2536
+"I Need Your Love","SHAGGY F/MOHOMBI/FAYDEE/COSTI",2326
+"Geronimo","SHEPPARD",2295
+"Where Are U Now f/J. Bieber","SKRILLEX & DIPLO",2106
+"Outside f/Ellie Goulding","CALVIN HARRIS",2029
+"Nothing Without Love","NATE RUESS",1980
+"Bills","LUNCHMONEY LEWIS",1889
+"Elastic Heart f/The Weeknd...","SIA",1658
+"Don't Look Down f/Usher","MARTIN GARRIX",1555
+"I Really Like You","CARLY RAE JEPSEN",1532
+"Ayo","CHRIS BROWN & TYGA",1300
+"Truffle Butter f/Drake...","NICKI MINAJ",1264
+"Let's Not Be Alone Tonight","R5",1249
+"Pray To God f/HAIM","CALVIN HARRIS",1244
+"American Oxygen","RIHANNA",1154
+"Get Low","DILLON FRANCIS & DJ SNAKE",1077
+"Fun f/Chris Brown","PITBULL",971
+"Overload","LIFE OF DILLON",965
+"Cool","ALESSO",960
+"Uma Thurman","FALL OUT BOY",877
+"Whistle (While You Work)","KATY TIZ",817
+"The Night Is Still Young","NICKI MINAJ",788
+"Coming With You","NE-YO",720
+"King","YEARS & YEARS",698

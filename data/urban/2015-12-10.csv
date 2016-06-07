@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","DRAKE","Hotline Bling",4062,-33,-121,-21,34.488,-0.49,102,"10",1,4637,951,37.229
-2,"=","TORY LANEZ","Say It",4020,110,458,118,25.506,0.858,87,"73",2,4020,513,25.506
-3,"=","TRAVI$ SCOTT","Antidote",3919,70,361,89,25.251,0.125,105,"--",3,3919,410,26.202
-4,"+1","BRYSON TILLER","Don't",3689,58,447,59,23.593,0.49,122,"65",4,3689,451,23.593
-5,"-1","FUTURE","Where Ya At f/Drake",3674,-108,-629,-8,28.098,-0.798,137,"136",1,4421,521,31.012
-6,"=","J. COLE","No Role Modelz",3509,27,426,-56,23.615,0.158,119,"83",6,3509,482,23.615
-7,"=","DRAKE & FUTURE","Jumpman",3438,105,460,13,28.169,0.622,67,"41",7,3438,677,28.169
-8,"=","POST MALONE","White Iverson",2921,-28,-73,-57,19.082,-0.116,102,"40",6,3010,398,20.056
-9,"+1","YO GOTTI","Down In The DM",2676,103,623,28,17.56,0.54,46,"145",9,2676,623,17.56
-10,"-1","DEJ LOAF","Back Up f/Big Sean",2668,-43,-91,-5,13.972,-0.376,136,"81",8,2857,355,16.038
-11,"=","COLONEL LOUD","California f/Young Dolph",2582,20,143,-19,15.429,0.136,91,"295",11,2582,377,15.429
-12,"=","FETTY WAP","679 f/Remy Boyz...",2453,-79,-416,-35,17.237,-0.639,138,"33",1,3975,703,27.756
-13,"=","BIG SEAN","Play No Games",2433,77,315,56,16.704,0.539,73,"322",13,2433,332,16.704
-14,"=","RICK ROSS","Sorry f/Chris Brown",2030,16,237,-17,14.071,0.298,55,"326",14,2030,413,14.071
-15,"=","FETTY WAP","Again",1975,17,39,-13,15.801,0.025,63,"72",15,1991,349,16.722
-16,"=","TY DOLLA $IGN","Blase f/Future & Rae Sremmurd",1825,-62,-585,1,12.026,-0.284,124,"--",6,2794,335,17.405
-17,"=","CHRIS BROWN","Back To Sleep",1744,76,513,-1,12.843,0.385,20,"102",17,1744,549,12.843
-18,"=","DRAKE","Back To Back",1348,-6,-90,-4,10.921,-0.106,131,"128",10,2410,640,18.525
-19,"=","KENDRICK LAMAR","These Walls f/Bilal, Anna Wise",1320,7,123,1,5.994,0.115,61,"1279",19,1320,285,5.994
-20,"=","LIL DICKY","$ave Dat Money",1316,27,172,-15,5.3,0.083,68,"179",20,1316,238,5.3
-21,"+1","2 CHAINZ","Watch Out",1260,10,-75,39,5.641,0.138,109,"253",20,1451,224,6.745
-22,"-1","ALESSIA CARA","Here",1212,-46,-332,-14,8.31,-0.317,142,"20",16,1802,254,11.6
-23,"=","DJ KHALED","You Mine f/Songz/Future...",1197,27,84,8,6.707,0.316,49,"1278",23,1197,474,7.114
-24,"+1","JR CASTRO","Get Home f/Kid Ink & Migos",1164,30,108,22,6.175,0.18,91,"441",24,1164,178,6.186
-25,"-1","TK N CASH","3 Times In A Row",1147,6,137,-11,5.744,0.035,41,"1017",24,1147,216,5.744
-26,"=","CURREN$Y","Bottom Of The Bottle",1125,48,205,42,5.299,0.074,81,"150",26,1125,257,5.299
-27,"=","MISSY ELLIOTT","WTF (Where They From)",1109,34,265,-20,5.653,0.226,23,"47",27,1109,443,5.653
-28,"=","BJ THE CHICAGO KID","Church",961,18,-16,16,3.874,0.18,67,"1108",26,1002,182,4.09
-29,"=","JEEZY","Sweet Life f/Janelle Monae",935,18,21,7,3.242,-0.047,46,"--",29,935,413,3.45
-30,"+1","JEREMIH","Oui",934,56,359,35,4.389,0.162,23,"503",30,934,359,4.389
-31,"-1","JACQUEES","Like Baby",902,9,145,-38,6.618,-0.183,18,"--",30,902,393,6.801
-32,"+1","AUGUST ALSINA","Song Cry",872,32,270,11,2.634,0.102,28,"1167",32,872,270,2.634
-33,"-1","K CAMP","1Hunnid f/Fetty Wap",869,8,70,-2,3.616,0.016,39,"395",32,869,223,3.967
-34,"+2","FRENCH MONTANA","Moses f/Chris Brown & Migos",842,41,112,39,3.797,0.237,32,"502",34,842,217,3.811
-35,"=","RAE SREMMURD","Come Get Her",809,-20,-252,54,4.609,-0.277,77,"141",14,2103,401,12.238
-36,"-2","IHEARTMEMPHIS","Hit The Quan",776,-58,-434,-16,4.039,-0.355,94,"103",21,1534,244,8.142
-37,"=","2 MILLY","Milly Rock",716,9,-22,9,3.747,0.108,34,"--",37,738,171,3.909
-38,"=","MALACHIAE WARREN","Thank Yo Momma",669,-6,-153,9,2.357,-0.082,88,"--",26,998,174,4.29
-39,"=","BOOGIE","Oh My",665,4,4,7,2.487,0.051,50,"--",36,701,150,3.035
-40,"+2","THE WEEKND","Acquainted",557,37,140,33,2.543,0.167,15,"262",40,557,252,2.543
-41,"=","ADELE","Hello",543,20,163,14,4.599,0.08,11,"2",41,543,163,4.599
-42,"-2","DJ KHALED","Gold Slugs f/Brown/Alsina/Wap",529,-44,-216,-37,1.878,-0.186,49,"--",30,917,448,5.215
-43,"=","BLAC YOUNGSTA","Heavy",518,3,33,13,1.294,-0.035,36,"--",39,584,158,1.541
-44,"=","T.I.","Peanut Butter Jelly",513,3,25,-9,2.3,-0.028,36,"--",41,513,98,2.552
-45,"=","TATE KOBANG","Bank Rolls",483,19,-2,30,1.979,0.037,32,"1319",43,496,98,2.421
-46,"=","R. KELLY","Switch Up f/Jeremih",457,15,81,-7,2.052,0.107,19,"--",46,457,208,2.052
-47,"=","ROTIMI","Hit The Lotto",441,14,159,-9,1.432,0.011,4,"--",47,441,168,1.432
-48,"+1","YOUNG GREATNESS","Moolah",407,13,67,-7,1.578,0.054,7,"--",47,407,130,1.578
-49,"-1","RAY J","Curtains Closed",397,3,84,-22,0.978,0.016,5,"--",48,397,106,0.978
-50,"=","BLU DENIM","Fall Over",375,12,74,10,0.569,0.018,3,"--",50,375,78,0.569
+"Title","Artist","Spins"
+"Hotline Bling","DRAKE",4062
+"Say It","TORY LANEZ",4020
+"Antidote","TRAVI$ SCOTT",3919
+"Don't","BRYSON TILLER",3689
+"Where Ya At f/Drake","FUTURE",3674
+"No Role Modelz","J. COLE",3509
+"Jumpman","DRAKE & FUTURE",3438
+"White Iverson","POST MALONE",2921
+"Down In The DM","YO GOTTI",2676
+"Back Up f/Big Sean","DEJ LOAF",2668
+"California f/Young Dolph","COLONEL LOUD",2582
+"679 f/Remy Boyz...","FETTY WAP",2453
+"Play No Games","BIG SEAN",2433
+"Sorry f/Chris Brown","RICK ROSS",2030
+"Again","FETTY WAP",1975
+"Blase f/Future & Rae Sremmurd","TY DOLLA $IGN",1825
+"Back To Sleep","CHRIS BROWN",1744
+"Back To Back","DRAKE",1348
+"These Walls f/Bilal, Anna Wise","KENDRICK LAMAR",1320
+"$ave Dat Money","LIL DICKY",1316
+"Watch Out","2 CHAINZ",1260
+"Here","ALESSIA CARA",1212
+"You Mine f/Songz/Future...","DJ KHALED",1197
+"Get Home f/Kid Ink & Migos","JR CASTRO",1164
+"3 Times In A Row","TK N CASH",1147
+"Bottom Of The Bottle","CURREN$Y",1125
+"WTF (Where They From)","MISSY ELLIOTT",1109
+"Church","BJ THE CHICAGO KID",961
+"Sweet Life f/Janelle Monae","JEEZY",935
+"Oui","JEREMIH",934
+"Like Baby","JACQUEES",902
+"Song Cry","AUGUST ALSINA",872
+"1Hunnid f/Fetty Wap","K CAMP",869
+"Moses f/Chris Brown & Migos","FRENCH MONTANA",842
+"Come Get Her","RAE SREMMURD",809
+"Hit The Quan","IHEARTMEMPHIS",776
+"Milly Rock","2 MILLY",716
+"Thank Yo Momma","MALACHIAE WARREN",669
+"Oh My","BOOGIE",665
+"Acquainted","THE WEEKND",557
+"Hello","ADELE",543
+"Gold Slugs f/Brown/Alsina/Wap","DJ KHALED",529
+"Heavy","BLAC YOUNGSTA",518
+"Peanut Butter Jelly","T.I.",513
+"Bank Rolls","TATE KOBANG",483
+"Switch Up f/Jeremih","R. KELLY",457
+"Hit The Lotto","ROTIMI",441
+"Moolah","YOUNG GREATNESS",407
+"Curtains Closed","RAY J",397
+"Fall Over","BLU DENIM",375

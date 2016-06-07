@@ -1,51 +1,51 @@
-"Pos","Pos.","Artist","Title","Spins","Spins.","Bullet","Bullet.","Aud","Aud.","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","MARK RONSON","Uptown Funk f/Bruno Mars",19256,"+51",16,"+198",124.179,"+0.555",113,"1",1,19386,3126,125.545
-2,"=","ED SHEERAN","Thinking Out Loud",18693,"+23",440,"-26",118.241,"+0.291",86,"3",2,18693,3319,118.241
-3,"=","TAYLOR SWIFT","Style",16155,"+495",2438,"+222",104.118,"+1.783",57,"7",3,16155,3111,104.118
-4,"=","PITBULL","Time Of Our Lives f/Ne-Yo",14451,"+267",1189,"-65",90.461,"+0.971",95,"8",4,14451,2867,90.461
-5,"=","MAROON 5","Sugar",13330,"+367",2083,"+197",85.561,"+1.719",51,"5",5,13330,2244,85.561
-6,"+1","LILLYWOOD & ROBIN SCHULZ","Prayer In C",10714,"+57",349,"+35",66.632,"-0.036",121,"38",6,10714,1413,68.631
-7,"+1","RIHANNA/KANYE WEST/P MCCARTNEY","FourFiveSeconds",10676,"+98",1004,"-82",62.516,"+0.654",37,"4",7,10676,3932,62.516
-8,"-2","HOZIER","Take Me To Church",10366,"-526",-2758,"-130",63.718,"-1.474",141,"10",2,14683,2004,91.149
-9,"=","MEGHAN TRAINOR","Lips Are Movin",9928,"-457",-2923,"-149",50.614,"-2.157",134,"21",4,13569,1988,75.882
-10,"=","TAYLOR SWIFT","Blank Space",9535,"-277",-1649,"-115",72.012,"-0.900",126,"16",1,18014,3248,118.647
-11,"=","ELLIE GOULDING","Love Me Like You Do",8934,"+255",1351,"+124",54.442,"+2.295",52,"2",11,8934,1757,54.442
-12,"=","CALVIN HARRIS","Outside f/Ellie Goulding",8166,"+63",932,"-99",53.475,"+0.337",73,"32",12,8166,1280,53.475
-13,"=","ELLA HENDERSON","Ghost",7500,"-93",-564,"-53",37.606,"-0.153",173,"24",11,8217,1207,40.362
-14,"=","FALL OUT BOY","Centuries",6845,"-198",-946,"-150",33.18,"-1.430",167,"18",12,7839,756,42.152
-15,"=","ONE DIRECTION","Night Changes",6137,"+148",663,"+116",30.824,"+0.878",108,"52",15,6137,1221,30.824
-16,"=","USHER","I Don't Mind f/Juicy J",5875,"+78",350,"+78",34.419,"+0.598",86,"26",15,5875,911,34.419
-17,"=","NICK JONAS","Chains",5792,"+133",1090,"-10",33.898,"+1.046",51,"13",17,5792,1264,33.898
-18,"=","NATALIE LA ROSE","Somebody f/Jeremih",5719,"+224",1171,"+113",33.75,"+0.749",58,"15",18,5719,1193,33.75
-19,"=","ARIANA GRANDE","One Last Time",5576,"+248",1382,"+107",33.693,"+1.651",24,"25",19,5576,2135,33.693
-20,"=","NE-YO","She Knows f/Juicy J",5264,"+37",617,"-7",24.896,"+0.276",65,"27",18,5264,1028,24.896
-21,"=","KELLY CLARKSON","Heartbeat Song",4275,"+41",264,"+47",18.137,"+0.180",48,"19",20,4275,1093,18.137
-22,"+1","VANCE JOY","Riptide",3766,"+155",734,"+176",18.342,"+0.646",126,"31",22,3766,734,18.342
-23,"+1","TORI KELLY","Nobody Love",3063,"+36",524,"-76",16.785,"+0.011",21,"80",23,3063,1398,16.785
-24,"+1","FLO RIDA","GDFR f/Sage The Gemini",3018,"+175",774,"+108",13.851,"+0.603",53,"9",24,3018,774,13.851
-25,"-3","ZEDD","I Want You To Know f/S. Gomez",2981,"-825",1615,"-2171",25.979,"-9.763",8,"11",22,3806,3786,35.742
-26,"=","TOVE LO","Talking Body",2772,"+43",257,"+24",16.737,"+0.340",47,"39",26,2772,589,16.737
-27,"=","NICKI MINAJ","Truffle Butter f/Drake...",2698,"+29",403,"-21",14.109,"+0.188",44,"17",27,2698,577,14.109
-28,"=","SAM SMITH","Lay Me Down",2452,"+35",401,"-73",10.522,"+0.065",21,"50",28,2452,1008,10.522
-29,"=","SELENA GOMEZ","The Heart Wants What It Wants",2154,"-113",-998,"+19",12.257,"-0.320",117,"82",7,10523,2058,67.628
-30,"+1","JESSIE J","Masterpiece",1816,"+44",33,"+64",6.603,"+0.116",49,"157",29,1816,587,6.603
-31,"-1","IMAGINE DRAGONS","I Bet My Life",1813,"+29",147,"+30",7.125,"+0.131",57,"35",30,1813,436,7.125
-32,"=","THE WEEKND","Earned It",1597,"+121",793,"+82",12.257,"+0.668",13,"6",32,1597,793,12.257
-33,"=","ECHOSMITH","Bright",1275,"+15",114,"-18",4.396,"+0.108",29,"123",33,1275,405,4.396
-34,"+1","WHO IS FANCY","Goodbye",1251,"+71",344,"+12",8.545,"+0.220",17,"89",34,1251,399,8.545
-35,"-1","LUNCHMONEY LEWIS","Bills",1209,"+11",578,"-94",5.795,"+0.169",9,"415",34,1209,672,5.795
-36,"=","WALK THE MOON","Shut Up And Dance",1190,"+40",365,"+3",6.054,"+0.145",17,"20",36,1190,365,6.054
-37,"+1","CASH CASH","Surrender",968,"+17",143,"+10",4.101,"+0.095",44,"589",37,968,157,4.101
-38,"-1","ONEREPUBLIC","I Lived",964,"-81",-1237,"+203",4.08,"-0.251",109,"70",17,5193,1083,23.7
-39,"+1","CHRIS BROWN & TYGA","Ayo",957,"+32",289,"-25",4.555,"+0.032",14,"33",39,957,330,4.555
-40,"+1","IGGY AZALEA","Trouble f/Jennifer Hudson",874,"+30",191,"+12",2.636,"+0.048",15,"334",40,874,298,2.724
-41,"+1","OLLY MURS","Wrapped Up f/Travie McCoy",837,"+0",55,"-9",1.853,"+0.066",30,"233",40,837,309,1.853
-42,"-3","PRINCE ROYCE","Stuck On A Feeling f/Snoop...",792,"-146",-1808,"+139",3.609,"-0.318",89,"103",16,5829,1306,31.259
-43,"=","KALIN & MYLES","Trampoline",780,"+11",55,"-4",2.952,"-0.036",13,"167",42,784,333,3.136
-44,"=","SHAGGY F/MOHOMBI/FAYDEE/COSTI","I Need Your Love",703,"+26",180,"+9",3.112,"+0.069",9,"666",44,703,180,3.112
-45,"=","KANYE WEST","Only One f/Paul McCartney",664,"-11",-26,"-6",1.903,"-0.094",39,"107",42,710,219,2.401
-46,"=","LIFE OF DILLON","Overload",648,"+23",219,"-38",1.257,"+0.060",5,"470",46,648,364,1.257
-47,"=","MADONNA","Living For Love",600,"-18",-707,"+79",1.472,"-0.089",16,"319",34,1498,1418,9.684
-48,"=","CHARLI XCX","Doing It",597,"+10",117,"-9",0.976,"-0.005",4,"--",48,597,126,0.985
-49,"=","ANDY GRAMMER","Honey, I'm Good",574,"+12",81,"+0",1.502,"+0.066",6,"46",49,574,132,1.502
-50,"--","GEORGE EZRA","Budapest",512,"--",261,"--",1.791,"--",1,"83",50,512,261,1.791
+"Title","Artist","Spins"
+"Uptown Funk f/Bruno Mars","MARK RONSON",19256
+"Thinking Out Loud","ED SHEERAN",18693
+"Style","TAYLOR SWIFT",16155
+"Time Of Our Lives f/Ne-Yo","PITBULL",14451
+"Sugar","MAROON 5",13330
+"Prayer In C","LILLYWOOD & ROBIN SCHULZ",10714
+"FourFiveSeconds","RIHANNA/KANYE WEST/P MCCARTNEY",10676
+"Take Me To Church","HOZIER",10366
+"Lips Are Movin","MEGHAN TRAINOR",9928
+"Blank Space","TAYLOR SWIFT",9535
+"Love Me Like You Do","ELLIE GOULDING",8934
+"Outside f/Ellie Goulding","CALVIN HARRIS",8166
+"Ghost","ELLA HENDERSON",7500
+"Centuries","FALL OUT BOY",6845
+"Night Changes","ONE DIRECTION",6137
+"I Don't Mind f/Juicy J","USHER",5875
+"Chains","NICK JONAS",5792
+"Somebody f/Jeremih","NATALIE LA ROSE",5719
+"One Last Time","ARIANA GRANDE",5576
+"She Knows f/Juicy J","NE-YO",5264
+"Heartbeat Song","KELLY CLARKSON",4275
+"Riptide","VANCE JOY",3766
+"Nobody Love","TORI KELLY",3063
+"GDFR f/Sage The Gemini","FLO RIDA",3018
+"I Want You To Know f/S. Gomez","ZEDD",2981
+"Talking Body","TOVE LO",2772
+"Truffle Butter f/Drake...","NICKI MINAJ",2698
+"Lay Me Down","SAM SMITH",2452
+"The Heart Wants What It Wants","SELENA GOMEZ",2154
+"Masterpiece","JESSIE J",1816
+"I Bet My Life","IMAGINE DRAGONS",1813
+"Earned It","THE WEEKND",1597
+"Bright","ECHOSMITH",1275
+"Goodbye","WHO IS FANCY",1251
+"Bills","LUNCHMONEY LEWIS",1209
+"Shut Up And Dance","WALK THE MOON",1190
+"Surrender","CASH CASH",968
+"I Lived","ONEREPUBLIC",964
+"Ayo","CHRIS BROWN & TYGA",957
+"Trouble f/Jennifer Hudson","IGGY AZALEA",874
+"Wrapped Up f/Travie McCoy","OLLY MURS",837
+"Stuck On A Feeling f/Snoop...","PRINCE ROYCE",792
+"Trampoline","KALIN & MYLES",780
+"I Need Your Love","SHAGGY F/MOHOMBI/FAYDEE/COSTI",703
+"Only One f/Paul McCartney","KANYE WEST",664
+"Overload","LIFE OF DILLON",648
+"Living For Love","MADONNA",600
+"Doing It","CHARLI XCX",597
+"Honey, I'm Good","ANDY GRAMMER",574
+"Budapest","GEORGE EZRA",512

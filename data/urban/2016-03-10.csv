@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","RIHANNA","Work f/Drake",4584,3,435,-79,35.278,0.324,43,"5/60",1,4584,1798,35.278
-2,"=","JEREMIH","Oui",3937,-32,-6,-43,25.449,-0.422,114,"52",2,4006,438,26.247
-3,"=","CHRIS BROWN","Back To Sleep",3759,-87,-228,-40,25.031,-0.541,111,"134",1,4057,549,26.727
-4,"=","BRYSON TILLER","Don't",3635,-9,-114,27,27.695,-0.486,213,"84",1,4524,451,30.777
-5,"=","YOUNG THUG","Best Friend",3483,-15,-86,-23,18.769,-0.35,89,"139",5,3578,731,20.312
-6,"=","TORY LANEZ","Say It",3300,-38,-219,-24,25.793,-0.064,178,"126",1,4321,513,30.463
-7,"+1","BEYONCE","Formation",3207,-9,314,-63,24.8,-0.243,30,"--",7,3216,1709,25.043
-8,"-1","DJ LUKE NASTYY","Might Be",3187,-43,135,-78,19.619,-0.377,77,"174",7,3230,510,19.996
-9,"=","YO GOTTI","Down In The DM",3088,-12,-114,-37,21.317,-0.083,137,"103",1,4631,712,29.961
-10,"+1","BRYSON TILLER","Exchange",2884,35,206,13,18.462,0.183,58,"109",10,2884,604,18.462
-11,"-1","DRAKE & FUTURE","Jumpman",2816,-51,-106,-56,22.871,-0.455,158,"58",1,4603,755,34.19
-12,"=","THE WEEKND","Acquainted",2429,-28,-105,-23,14.895,0.14,106,"114",10,2575,345,15.067
-13,"=","DRAKE","Summer Sixteen",2279,9,221,-68,15.112,-0.156,33,"59",13,2279,652,15.268
-14,"=","KEVIN GATES","2 Phones",2173,39,276,24,11.756,-0.083,60,"38",14,2173,330,11.839
-15,"=","YOUNG GREATNESS","Moolah",1992,-1,121,-51,10.086,0.02,98,"369",15,2002,249,10.086
-16,"=","O.T. GENASIS","Cut It f/Young Dolph",1849,19,342,-50,12.476,0.248,57,"--",16,1849,495,12.476
-17,"=","RO JAMES","Permission",1756,31,306,-6,10.993,0.273,42,"250",17,1756,542,10.993
-18,"=","FRENCH MONTANA","Moses f/Chris Brown & Migos",1578,-39,-141,-18,7.209,-0.626,123,"547",15,1828,257,10.429
-19,"=","TY DOLLA $IGN","Saved f/E-40",1338,27,106,14,7.113,0.156,50,"217",19,1338,315,7.113
-20,"=","DREEZY","Body f/Jeremih",1296,0,239,-32,6.575,0.185,34,"69",20,1296,271,6.575
-21,"=","RAY J","Curtains Closed",1250,21,59,18,4.17,0.11,96,"--",20,1250,214,4.17
-22,"+2","K. MICHELLE","Not A Little Bit",1017,7,174,-17,5.392,0.163,29,"679",22,1017,272,5.392
-23,"+3","J. COLE","Love Yourz",999,12,143,-1,4.761,0.107,30,"669",23,999,342,4.761
-24,"-2","2 MILLY","Milly Rock",994,-73,-207,-97,4.514,-0.374,125,"--",21,1218,171,7.222
-25,"-2","TK N CASH","3 Times In A Row",994,-66,-389,-12,4.923,-0.343,132,"383",16,1801,232,8.308
-26,"-1","PUFF DADDY & THE FAMILY","You Could Be My Lover",984,-26,-54,-40,4.003,-0.249,56,"--",24,1038,317,4.252
-27,"+2","YO GOTTI","Law",887,26,223,-17,4.819,0.186,12,"998",27,887,477,5.251
-28,"-1","RICH HOMIE QUAN","The Most",886,-29,-9,-46,2.69,-0.157,62,"--",26,918,372,2.847
-29,"-1","LIL DURK","My Beyonce f/DeJ Loaf",881,-5,25,-14,3.01,-0.007,46,"--",27,888,261,3.053
-30,"+1","KENT JONES","Don't Mind",841,14,143,10,4.791,0.052,20,"--",30,841,224,4.791
-31,"-1","DEJ LOAF","Hey There f/Future",813,-25,-13,-32,3.152,-0.007,54,"711",29,859,412,3.248
-32,"=","TYGA","Baller Alert f/R.Ross/2 Chainz",806,-1,41,-12,2.468,-0.019,39,"--",31,807,293,2.487
-33,"=","A$AP FERG","New Level",787,2,65,-19,4.034,-0.114,24,"343",33,787,251,4.238
-34,"=","BELLY","Might Not f/The Weeknd",739,21,211,-10,3.39,0.119,37,"97",34,739,221,3.39
-35,"+1","MACK WILDS","Love In The 90z",673,11,46,13,2.063,-0.018,45,"--",35,673,275,2.081
-36,"+3","FUTURE","Low Life f/The Weeknd",662,38,327,-6,5.157,0.367,7,"42",36,662,333,5.157
-37,"-2","LIL DICKY","$ave Dat Money",661,-19,-179,-2,2.847,-0.03,159,"191",13,1954,295,9.533
-38,"-1","PLIES","Ran Off On Da Plug Twice",649,2,116,-23,4.525,-0.147,12,"902",37,649,200,4.672
-39,"-1","JUSTIN BIEBER","Love Yourself",625,-13,-25,-24,2.366,-0.079,26,"8",36,650,166,2.503
-40,"=","TORY LANEZ","LA Confidential",613,33,105,51,2.326,0.149,15,"776",40,613,270,2.326
-41,"=","ZENDAYA","Something New f/Chris Brown",573,-5,21,-9,1.819,-0.097,18,"108",38,578,168,1.957
-42,"=","KID INK","Promise f/Fetty Wap",570,-4,13,-15,2.203,-0.022,29,"125",39,583,214,2.361
-43,"=","FUTURE","Stick Talk",485,0,41,-5,3.013,-0.029,40,"387",42,485,131,3.1
-44,"+2","DESIIGNER","Panda",473,20,127,22,3.882,-0.148,5,"72",44,473,131,4.03
-45,"-1","50 CENT","I'm The Man f/Sonny Digital",466,-9,25,-19,1.529,-0.175,13,"559",44,475,217,1.919
-46,"-1","J.R.","Best Friend f/Trey Songz",447,-16,-18,-18,2.142,-0.067,34,"--",43,475,147,2.328
-47,"+1","ERYKAH BADU","Phone Down",420,-8,45,-11,1.684,-0.123,15,"--",47,428,253,1.807
-48,"-1","MIGOS","Look At My Dab",414,-29,-330,-4,1.874,-0.113,86,"466",23,1150,201,5.179
-49,"=","THE INTERNET","Girl f/Kaytranada",399,-13,-50,-15,1.307,-0.018,27,"962",45,460,71,1.47
-50,"=","POST MALONE","Too Young",373,-8,-24,-3,0.744,-0.032,14,"511",48,412,47,1.055
+"Title","Artist","Spins"
+"Work f/Drake","RIHANNA",4584
+"Oui","JEREMIH",3937
+"Back To Sleep","CHRIS BROWN",3759
+"Don't","BRYSON TILLER",3635
+"Best Friend","YOUNG THUG",3483
+"Say It","TORY LANEZ",3300
+"Formation","BEYONCE",3207
+"Might Be","DJ LUKE NASTYY",3187
+"Down In The DM","YO GOTTI",3088
+"Exchange","BRYSON TILLER",2884
+"Jumpman","DRAKE & FUTURE",2816
+"Acquainted","THE WEEKND",2429
+"Summer Sixteen","DRAKE",2279
+"2 Phones","KEVIN GATES",2173
+"Moolah","YOUNG GREATNESS",1992
+"Cut It f/Young Dolph","O.T. GENASIS",1849
+"Permission","RO JAMES",1756
+"Moses f/Chris Brown & Migos","FRENCH MONTANA",1578
+"Saved f/E-40","TY DOLLA $IGN",1338
+"Body f/Jeremih","DREEZY",1296
+"Curtains Closed","RAY J",1250
+"Not A Little Bit","K. MICHELLE",1017
+"Love Yourz","J. COLE",999
+"Milly Rock","2 MILLY",994
+"3 Times In A Row","TK N CASH",994
+"You Could Be My Lover","PUFF DADDY & THE FAMILY",984
+"Law","YO GOTTI",887
+"The Most","RICH HOMIE QUAN",886
+"My Beyonce f/DeJ Loaf","LIL DURK",881
+"Don't Mind","KENT JONES",841
+"Hey There f/Future","DEJ LOAF",813
+"Baller Alert f/R.Ross/2 Chainz","TYGA",806
+"New Level","A$AP FERG",787
+"Might Not f/The Weeknd","BELLY",739
+"Love In The 90z","MACK WILDS",673
+"Low Life f/The Weeknd","FUTURE",662
+"$ave Dat Money","LIL DICKY",661
+"Ran Off On Da Plug Twice","PLIES",649
+"Love Yourself","JUSTIN BIEBER",625
+"LA Confidential","TORY LANEZ",613
+"Something New f/Chris Brown","ZENDAYA",573
+"Promise f/Fetty Wap","KID INK",570
+"Stick Talk","FUTURE",485
+"Panda","DESIIGNER",473
+"I'm The Man f/Sonny Digital","50 CENT",466
+"Best Friend f/Trey Songz","J.R.",447
+"Phone Down","ERYKAH BADU",420
+"Look At My Dab","MIGOS",414
+"Girl f/Kaytranada","THE INTERNET",399
+"Too Young","POST MALONE",373

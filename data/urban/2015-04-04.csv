@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","RAE SREMMURD","Tho Sum Mo f/Nicki Minaj",4144,"-74",62,"-153",27.345,"-0.073",92,"53",1,4268,546,27.418
-2,"=","FETTY WAP","Trap Queen",4089,"-49",96,"-93",26.119,"+0.071",73,"5",2,4138,687,26.135
-3,"=","NICKI MINAJ","Truffle Butter f/Drake...",3551,"+3",-195,"+44",24.626,"+0.094",94,"26",1,4068,655,26.726
-4,"+1","THE WEEKND","Earned It",3165,"+48",557,"-28",18.697,"+0.262",79,"4",4,3165,585,18.697
-5,"-1","CHRIS BROWN & TYGA","Ayo",3044,"-109",-260,"-72",19.487,"-0.475",90,"57",4,3407,605,22.558
-6,"=","NICKI MINAJ","Feeling Myself f/Beyonce",2616,"-77",-176,"-76",15.845,"-0.489",110,"131",6,2830,482,17.286
-7,"=","BEYONCE","7/11",2568,"-77",-444,"-14",17.499,"-0.485",131,"115",1,4359,931,29.134
-8,"=","USHER","I Don't Mind f/Juicy J",2394,"-37",-578,"+81",16.625,"-0.023",157,"69",1,4097,458,25.968
-9,"+1","DRAKE","How About Now",2330,"+8",72,"+3",19.103,"+0.289",139,"--",7,2700,618,19.103
-10,"-1","BIG SEAN","Blessings f/Drake",2325,"-17",144,"-39",14.066,"+0.114",55,"68",9,2342,429,14.066
-11,"+1","KANYE WEST F/T.LONDON","All Day f/A.Kingd./P.McCartney",2255,"+56",351,"+28",14.086,"+0.223",30,"76",11,2255,934,14.086
-12,"-1","BIG SEAN","I Don't F**k With You f/E-40",2221,"-20",-112,"+21",15.835,"-0.095",185,"1067",1,4208,509,26.691
-13,"=","CIARA","I Bet",2105,"-27",122,"-50",11.259,"+0.065",68,"81",13,2132,332,11.259
-14,"=","OMARION","Post To Be f/Chris Brown&Jhene",1992,"-1",193,"-39",14.492,"+0.116",48,"38",14,1993,533,14.492
-15,"=","SEVYN STREETER","Don't Kill The Fun",1853,"-27",-17,"-19",11.161,"-0.150",77,"855",14,1910,477,12.149
-16,"=","LUDACRIS","Good Lovin f/Miguel",1837,"-25",-27,"-18",10.32,"-0.045",139,"80",14,1889,290,10.887
-17,"=","FUTURE","F*ck Up Some Commas",1726,"-39",210,"-115",10.29,"-0.051",55,"140",17,1765,410,10.341
-18,"=","TREY SONGZ","Slow Motion",1704,"+4",86,"-15",10.573,"+0.195",44,"58",17,1704,394,10.573
-19,"=","WALE","The Matrimony f/Usher",1559,"+2",232,"-33",10.617,"+0.300",28,"52",19,1559,514,10.617
-20,"=","MARK RONSON","Uptown Funk f/Bruno Mars",1508,"-39",-65,"-41",9.44,"-0.040",64,"2",19,1599,424,9.765
-21,"=","K CAMP","Lil Bit",1430,"-3",117,"-20",7.397,"-0.095",55,"236",21,1433,257,7.492
-22,"+2","MIGOS","One Time",1223,"+11",79,"+5",5.614,"+0.195",31,"402",22,1223,337,5.614
-23,"=","T.I.","Private Show f/Chris Brown",1187,"-31",33,"-65",6.683,"-0.061",40,"671",23,1226,374,6.744
-24,"-2","J. COLE","Apparently",1175,"-58",-436,"-1",6.954,"-0.231",111,"378",8,2750,675,16.019
-25,"+1","THE-DREAM","That's My S**t",1113,"-16",39,"-8",5.546,"+0.043",52,"391",25,1129,252,5.71
-26,"-1","TK N CASH","Mind Right",1071,"-79",-400,"-71",4.607,"-0.141",120,"610",17,1556,278,7.124
-27,"=","KEVIN GATES","I Don't Get Tired (#IDGT)",1005,"+5",91,"-1",4.314,"+0.174",41,"153",27,1005,197,4.314
-28,"+1","JIDENNA","Classic Man",859,"-35",30,"-44",3.442,"-0.133",35,"350",28,894,191,3.642
-29,"-1","ANTHONY LEWIS","It's Not My Fault f/T.I.",855,"-50",93,"-89",3.115,"+0.036",66,"--",28,907,222,3.115
-30,"=","O.T. GENASIS","CoCo",847,"-28",-155,"+3",4.571,"-0.057",139,"230",12,2245,450,12.637
-31,"=","RICH GANG","Tell Em f/Young Thug & RH Quan",804,"-22",35,"-38",3.332,"+0.023",42,"--",31,826,306,3.632
-32,"=","RICO LOVE","Somebody Else",801,"-14",18,"-10",3.749,"+0.093",70,"1000",29,815,344,3.749
-33,"=","CHEDDA DA CONNECT","Flicka Da Wrist",798,"+7",282,"-45",4.565,"+0.108",15,"170",33,798,352,4.565
-34,"+1","JEREMIH","Planes f/J. Cole",681,"-11",29,"-28",3.613,"+0.045",48,"162",34,692,241,3.613
-35,"+2","RICH HOMIE QUAN","Flex",598,"+18",140,"-11",2.486,"+0.063",14,"321",35,598,230,2.486
-36,"-2","RIHANNA","Bitch Better Have My Money",591,"-162",75,"-449",5.26,"-1.716",8,"3",31,862,862,8.931
-37,"-1","EMPIRE CAST","Good Enough f/Jussie Smollett",577,"-16",-46,"-10",2.464,"-0.076",28,"312",35,662,167,3.26
-38,"+1","YOUNG DOLPH","Preach",533,"-4",-116,"+29",2.749,"-0.026",115,"--",19,1391,224,5.335
-39,"+1","SNOOP DOGG","Peaches & Cream",526,"+4",46,"-8",1.494,"+0.096",17,"--",39,526,360,3.342
-40,"+1","JAMIE FOXX","You Changed Me f/Chris Brown",513,"-1",82,"-25",2.428,"+0.069",16,"709",40,514,405,3.869
-41,"+4","KENDRICK LAMAR","King Kunta",507,"+42",363,"+7",2.796,"+0.138",4,"108",41,507,363,2.796
-42,"=","MEEK MILL","Monster",507,"-6",173,"-12",2.801,"+0.178",9,"185",42,513,185,2.801
-43,"-5","TROY AVE","Doo Doo",495,"-52",41,"-85",2.358,"-0.008",11,"--",37,547,310,2.469
-44,"-1","JODECI","Every Moment",457,"-27",4,"-32",1.813,"-0.003",35,"303",41,501,150,1.846
-45,"-1","NATALIE LA ROSE","Somebody f/Jeremih",432,"-36",19,"-48",1.619,"-0.110",21,"15",43,472,104,1.729
-46,"=","K. MICHELLE","Love 'Em All",422,"-1",-118,"+25",3.118,"+0.051",167,"1129",15,1848,232,9.306
-47,"+1","RIHANNA/KANYE WEST/P MCCARTNEY","FourFiveSeconds",393,"-9",-122,"+9",1.424,"-0.067",58,"10",27,943,317,5.133
-48,"-1","DRAKE","Energy",390,"-14",-32,"-17",2.683,"-0.238",21,"78",42,422,84,3.245
-49,"=","TYRESE","Dumb S**t",376,"-23",37,"-53",1.49,"-0.072",6,"--",48,406,143,1.66
-50,"--","J. COLE","Wet Dreamz",349,"--",103,"--",2.497,"--",1,"420",50,349,103,2.497
+"Title","Artist","Spins"
+"Tho Sum Mo f/Nicki Minaj","RAE SREMMURD",4144
+"Trap Queen","FETTY WAP",4089
+"Truffle Butter f/Drake...","NICKI MINAJ",3551
+"Earned It","THE WEEKND",3165
+"Ayo","CHRIS BROWN & TYGA",3044
+"Feeling Myself f/Beyonce","NICKI MINAJ",2616
+"7/11","BEYONCE",2568
+"I Don't Mind f/Juicy J","USHER",2394
+"How About Now","DRAKE",2330
+"Blessings f/Drake","BIG SEAN",2325
+"All Day f/A.Kingd./P.McCartney","KANYE WEST F/T.LONDON",2255
+"I Don't F**k With You f/E-40","BIG SEAN",2221
+"I Bet","CIARA",2105
+"Post To Be f/Chris Brown&Jhene","OMARION",1992
+"Don't Kill The Fun","SEVYN STREETER",1853
+"Good Lovin f/Miguel","LUDACRIS",1837
+"F*ck Up Some Commas","FUTURE",1726
+"Slow Motion","TREY SONGZ",1704
+"The Matrimony f/Usher","WALE",1559
+"Uptown Funk f/Bruno Mars","MARK RONSON",1508
+"Lil Bit","K CAMP",1430
+"One Time","MIGOS",1223
+"Private Show f/Chris Brown","T.I.",1187
+"Apparently","J. COLE",1175
+"That's My S**t","THE-DREAM",1113
+"Mind Right","TK N CASH",1071
+"I Don't Get Tired (#IDGT)","KEVIN GATES",1005
+"Classic Man","JIDENNA",859
+"It's Not My Fault f/T.I.","ANTHONY LEWIS",855
+"CoCo","O.T. GENASIS",847
+"Tell Em f/Young Thug & RH Quan","RICH GANG",804
+"Somebody Else","RICO LOVE",801
+"Flicka Da Wrist","CHEDDA DA CONNECT",798
+"Planes f/J. Cole","JEREMIH",681
+"Flex","RICH HOMIE QUAN",598
+"Bitch Better Have My Money","RIHANNA",591
+"Good Enough f/Jussie Smollett","EMPIRE CAST",577
+"Preach","YOUNG DOLPH",533
+"Peaches & Cream","SNOOP DOGG",526
+"You Changed Me f/Chris Brown","JAMIE FOXX",513
+"King Kunta","KENDRICK LAMAR",507
+"Monster","MEEK MILL",507
+"Doo Doo","TROY AVE",495
+"Every Moment","JODECI",457
+"Somebody f/Jeremih","NATALIE LA ROSE",432
+"Love 'Em All","K. MICHELLE",422
+"FourFiveSeconds","RIHANNA/KANYE WEST/P MCCARTNEY",393
+"Energy","DRAKE",390
+"Dumb S**t","TYRESE",376
+"Wet Dreamz","J. COLE",349

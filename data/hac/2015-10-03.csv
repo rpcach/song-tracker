@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"+1","THE WEEKND","Can't Feel My Face",6446,32,147,26,36.044,0.216,108,"10",1,6446,921,36.044
-2,"-1","ED SHEERAN","Photograph",6431,-65,-239,-48,37.662,-0.377,145,"31",1,6934,859,41.031
-3,"=","X AMBASSADORS","Renegades",6229,17,364,-68,35.984,0.034,109,"18",3,6229,707,35.984
-4,"=","FALL OUT BOY","Uma Thurman",5609,-129,-299,-134,29.033,-0.844,167,"41",3,5957,483,31.744
-5,"=","R. CITY","Locked Away f/Adam Levine",5472,88,653,-11,32.088,0.549,69,"6",5,5472,885,32.088
-6,"+1","TAYLOR SWIFT","Wildest Dreams",4907,101,764,-33,30.183,0.882,39,"3",6,4907,1313,30.183
-7,"-1","RACHEL PLATTEN","Fight Song",4824,-77,-707,4,29.511,-0.294,214,"23",1,7240,568,44.23
-8,"=","ELLE KING","Ex's and Oh's",4649,52,522,-29,26.189,0.195,119,"7",8,4649,587,26.189
-9,"=","WALK THE MOON","Shut Up And Dance",4261,-65,-298,-28,26.256,-0.097,278,"51",1,7333,638,46.781
-10,"=","ANDREW MCMAHON IN WILDERNESS","Cecilia And The Satellite",3756,0,-3,-25,20.187,0.205,151,"70",9,3771,369,20.51
-11,"=","MEGHAN TRAINOR","Like I'm Gonna Lose You",3656,34,341,-8,18.991,0.097,101,"12",11,3656,416,18.991
-12,"=","DEMI LOVATO","Cool For The Summer",3368,-91,-216,-88,16.28,-0.556,90,"50",11,3619,611,19.502
-13,"=","CHARLIE PUTH","Marvin Gaye f/Meghan Trainor",3169,-7,89,-32,18.882,0.047,110,"14",13,3189,375,18.882
-14,"=","OMI","Cheerleader",3023,-82,-749,42,17.436,-0.295,123,"35",4,5481,641,29.909
-15,"=","A GREAT BIG WORLD","Hold Each Other f/Futuristic",2685,24,134,2,13.941,-0.055,66,"82",15,2685,463,13.996
-16,"=","TAYLOR SWIFT","Bad Blood",2263,-48,-407,22,14.59,-0.173,140,"84",1,6883,1625,41.771
-17,"=","HOZIER","Someone New",2249,-8,99,-68,10.697,0.223,135,"154",17,2257,192,10.697
-18,"=","JAMIE LAWSON","Wasn't Expecting That",2029,9,189,-26,9.039,0.385,40,"193",18,2029,494,9.039
-19,"=","MAROON 5","Feelings",1962,32,456,-60,7.628,0.211,22,"259",19,1962,805,7.628
-20,"+1","SHAWN MENDES","Stitches",1905,62,484,-16,9.116,0.393,47,"5",20,1905,502,9.116
-21,"-1","MAJOR LAZER","Lean On f/MØ & DJ Snake",1874,6,146,-26,9.418,0.297,104,"32",19,1874,211,9.418
-22,"=","RACHEL PLATTEN","Stand By You",1569,35,449,-41,7.201,0.064,19,"142",22,1569,625,7.201
-23,"+1","JUSTIN BIEBER","What Do You Mean?",1432,65,454,10,7.029,0.333,27,"4",23,1432,454,7.029
-24,"-1","U2","Song for Someone",1407,11,165,-18,7.27,0.041,83,"--",21,1407,231,7.27
-25,"=","ECHOSMITH","Let's Love",967,13,118,-4,2.828,0.061,55,"--",25,967,140,2.828
-26,"+2","ONE DIRECTION","Drag Me Down",951,25,179,9,4.444,0.09,53,"15",26,951,179,4.444
-27,"-1","SELENA GOMEZ","Good For You f/A$AP Rocky",948,0,116,-31,4.362,-0.013,79,"30/88",25,948,161,4.378
-28,"-1","LEONA LEWIS","Thunder",930,2,9,-4,3.169,0.007,62,"1125",25,942,189,3.171
-29,"=","ANDY GRAMMER","Good To Be Alive (Hallelujah)",810,23,243,-16,2.165,0.102,17,"205",29,810,307,2.165
-30,"=","NATE RUESS","Great Big Storm",719,7,35,2,1.941,0.051,69,"--",30,719,128,1.941
-31,"=","FIFTH HARMONY","Worth It f/Kid Ink",685,-16,-253,39,3.313,-0.082,120,"86",21,1729,248,7.499
-32,"+1","ROB THOMAS","Hold On Forever",657,31,204,-4,2.278,0.084,19,"1027",32,657,219,2.278
-33,"-1","JESS GLYNNE","Hold My Hand",657,24,105,18,3.364,0.186,46,"91",32,657,125,3.364
-34,"=","DURAN DURAN","Pressure Off f/Janelle Monae",538,9,68,8,2.047,0.039,49,"--",34,538,143,2.188
-35,"=","GEORGE EZRA","Blame It On Me",525,9,74,-2,1.662,0.009,40,"644",35,525,117,1.662
-36,"+1","RUDIMENTAL","Lay It All On Me f/Ed Sheeran",385,41,338,5,2.935,0.179,4,"68",36,385,338,2.935
-37,"-1","HAILEE STEINFELD","Love Myself",385,7,13,0,0.853,0.028,33,"24",36,389,102,1.472
-38,"=","ROBERT DELONG","Long Way Down",325,2,11,6,1.182,-0.005,51,"1051",37,325,75,1.471
-39,"+4","JAMES BAY","Let It Go",299,38,157,28,1.115,0.054,6,"127",39,299,157,1.115
-40,"-1","BECK","Dreams",280,-8,-18,-16,0.661,-0.047,34,"250",39,299,88,0.796
-41,"-1","PENTATONIX","Can't  Sleep Love",270,1,75,-15,0.574,0.024,10,"--",40,270,105,0.574
-42,"-1","MICHAEL FRANTI & SPEARHEAD","Once A Day",269,6,68,-7,0.4,0.03,13,"--",41,269,132,0.4
-43,"+1","ELLIE GOULDING","On My Mind",265,28,160,17,2.239,0.201,6,"16",43,265,160,2.239
-44,"-2","NICK FRADIANI","Beautiful Life",259,-4,-214,36,0.788,0.005,118,"--",24,1125,153,3.737
-45,"+2","SARA BAREILLES","She Used To Be Mine",247,47,216,35,0.627,0.095,2,"131",45,247,216,0.627
-46,"-1","WALK THE MOON","Different Colors",225,4,46,-3,0.664,0.006,9,"543",44,225,58,0.664
-47,"-1","GAVIN JAMES","Bitter Pill",207,-2,3,-6,0.766,0.029,16,"--",43,209,29,0.766
-48,"+1","THE RUA","Fight For What's Right",182,-1,7,-5,0.123,0.005,11,"--",46,185,30,0.123
-49,"-1","MACKLEMORE & RYAN LEWIS","Downtown",181,-6,-15,-14,0.946,0.003,13,"9/59",45,197,38,0.946
-50,"=","FOR KING & COUNTRY","Fix My Eyes",172,-3,1,-7,0.198,-0.006,10,"1160",47,179,23,0.217
+"Title","Artist","Spins"
+"Can't Feel My Face","THE WEEKND",6446
+"Photograph","ED SHEERAN",6431
+"Renegades","X AMBASSADORS",6229
+"Uma Thurman","FALL OUT BOY",5609
+"Locked Away f/Adam Levine","R. CITY",5472
+"Wildest Dreams","TAYLOR SWIFT",4907
+"Fight Song","RACHEL PLATTEN",4824
+"Ex's and Oh's","ELLE KING",4649
+"Shut Up And Dance","WALK THE MOON",4261
+"Cecilia And The Satellite","ANDREW MCMAHON IN WILDERNESS",3756
+"Like I'm Gonna Lose You","MEGHAN TRAINOR",3656
+"Cool For The Summer","DEMI LOVATO",3368
+"Marvin Gaye f/Meghan Trainor","CHARLIE PUTH",3169
+"Cheerleader","OMI",3023
+"Hold Each Other f/Futuristic","A GREAT BIG WORLD",2685
+"Bad Blood","TAYLOR SWIFT",2263
+"Someone New","HOZIER",2249
+"Wasn't Expecting That","JAMIE LAWSON",2029
+"Feelings","MAROON 5",1962
+"Stitches","SHAWN MENDES",1905
+"Lean On f/MØ & DJ Snake","MAJOR LAZER",1874
+"Stand By You","RACHEL PLATTEN",1569
+"What Do You Mean?","JUSTIN BIEBER",1432
+"Song for Someone","U2",1407
+"Let's Love","ECHOSMITH",967
+"Drag Me Down","ONE DIRECTION",951
+"Good For You f/A$AP Rocky","SELENA GOMEZ",948
+"Thunder","LEONA LEWIS",930
+"Good To Be Alive (Hallelujah)","ANDY GRAMMER",810
+"Great Big Storm","NATE RUESS",719
+"Worth It f/Kid Ink","FIFTH HARMONY",685
+"Hold On Forever","ROB THOMAS",657
+"Hold My Hand","JESS GLYNNE",657
+"Pressure Off f/Janelle Monae","DURAN DURAN",538
+"Blame It On Me","GEORGE EZRA",525
+"Lay It All On Me f/Ed Sheeran","RUDIMENTAL",385
+"Love Myself","HAILEE STEINFELD",385
+"Long Way Down","ROBERT DELONG",325
+"Let It Go","JAMES BAY",299
+"Dreams","BECK",280
+"Can't  Sleep Love","PENTATONIX",270
+"Once A Day","MICHAEL FRANTI & SPEARHEAD",269
+"On My Mind","ELLIE GOULDING",265
+"Beautiful Life","NICK FRADIANI",259
+"She Used To Be Mine","SARA BAREILLES",247
+"Different Colors","WALK THE MOON",225
+"Bitter Pill","GAVIN JAMES",207
+"Fight For What's Right","THE RUA",182
+"Downtown","MACKLEMORE & RYAN LEWIS",181
+"Fix My Eyes","FOR KING & COUNTRY",172

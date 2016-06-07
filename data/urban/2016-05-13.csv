@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"+1","DESIIGNER","Panda",4798,63,398,-42,32.119,0.416,69,"6/63",1,4798,686,32.119
-2,"-1","BRYSON TILLER","Exchange",4790,-7,48,16,32.048,0.134,122,"168",1,4869,604,32.104
-3,"=","RIHANNA","Work f/Drake",4354,-39,-29,-59,36.042,-0.391,107,"47",1,5499,1798,43.34
-4,"=","JEREMIH","Oui",3934,-39,-543,75,27.337,-0.06,178,"69",1,4786,438,30.167
-5,"=","O.T. GENASIS","Cut It f/Young Dolph",3933,0,144,-50,24.563,0.221,121,"--",5,3933,595,24.563
-6,"=","YO GOTTI","Law",3513,39,312,-12,19.266,0.263,76,"191",6,3513,477,19.266
-7,"=","YOUNG GREATNESS","Moolah",2851,-3,12,19,14.613,-0.049,162,"200",7,3004,420,16.956
-8,"=","FAT JOE & REMY MA","All The Way Up",2733,49,334,8,17.425,0.138,58,"67",8,2733,437,17.425
-9,"=","KENT JONES","Don't Mind",2731,100,534,61,17.86,0.741,84,"52",9,2731,534,17.86
-10,"=","FUTURE","Low Life f/The Weeknd",2612,31,156,13,15.193,0.225,71,"59",10,2612,401,15.193
-11,"=","DREEZY","Body f/Jeremih",2595,28,151,10,13.156,0.038,98,"122",9,2595,478,13.651
-12,"+2","DRAKE","One Dance f/Wizkid & Kyla",2584,99,557,54,18.09,0.862,33,"2",12,2584,628,18.09
-13,"=","RIHANNA","Needed Me",2551,46,467,-16,19.596,0.164,38,"26",13,2551,599,19.596
-14,"-2","KEVIN GATES","2 Phones",2388,-126,-793,-36,13.446,-0.326,124,"54",4,3606,724,22.399
-15,"=","DJ LUKE NASTYY","Might Be",2133,-58,-458,-16,15.563,-0.341,141,"448",3,3915,510,24.626
-16,"=","BEYONCE","Sorry",2053,112,913,-22,17.534,0.37,15,"13",16,2053,964,17.534
-17,"=","BEYONCE","Formation",1672,-30,-350,35,12.551,-0.32,94,"14",3,3811,1709,26.652
-18,"=","A$AP FERG","New Level",1640,-22,-61,-24,8.656,0.025,88,"231",17,1718,271,9.336
-19,"=","MADEINTYO","Uber Everywhere",1616,18,282,-33,7.056,0.077,53,"172",19,1616,364,7.056
-20,"=","BELLY","Might Not f/The Weeknd",1560,14,173,10,7.844,-0.06,101,"114",20,1560,221,7.973
-21,"=","PLIES","Ran Off On Da Plug Twice",1534,6,-54,56,7.592,0.078,76,"1024",17,1744,230,9.398
-22,"+1","KANYE WEST","Famous",1248,4,12,-24,6.758,0.127,43,"--",22,1275,406,6.758
-23,"-1","J. COLE","Love Yourz",1242,-83,-454,-21,6.851,-0.448,94,"1069",14,2000,345,11.179
-24,"=","T.I.","Money Talk",1207,7,135,-19,5.785,0.093,35,"--",24,1207,312,5.785
-25,"=","KAYLA BRIANNA","Do You Remember",1050,-86,-413,-82,5.305,-0.547,58,"--",19,1537,419,8.394
-26,"+2","FETTY WAP","Wake Up",1008,58,448,-9,6.186,0.226,12,"296",26,1008,492,6.186
-27,"-1","RAE SREMMURD","By Chance",996,-72,-320,-49,5.329,-0.379,61,"670",22,1386,327,7.721
-28,"+1","FUTURE","Wicked",961,54,254,60,5.828,0.259,63,"135",28,961,254,5.828
-29,"-2","RO JAMES","Permission",957,-44,-151,-45,5.423,-0.263,106,"393",12,2196,542,13.021
-30,"+1","S-8IGHTY","Halfway",895,30,155,13,3.731,0.135,38,"--",29,895,263,3.731
-31,"+1","DAE DAE","Wat U Mean",876,27,140,20,3.507,0.159,31,"--",31,876,174,3.507
-32,"-2","PUFF DADDY & THE FAMILY","You Could Be My Lover",829,-50,-270,-52,3.482,-0.169,120,"--",22,1159,317,4.691
-33,"=","KID INK","Promise f/Fetty Wap",728,-29,-167,6,2.564,-0.151,93,"222",26,1050,214,3.735
-34,"=","50 CENT","I'm The Man f/Sonny Digital",691,-16,-24,12,2.17,-0.063,77,"134",33,790,217,2.909
-35,"=","BABY E","Finessin f/Lil Wayne",672,8,86,-19,1.655,0.073,47,"--",35,672,146,1.655
-36,"=","TWENTY88","On The Way",648,23,101,3,4.299,0.123,18,"--",36,648,309,4.299
-37,"=","DRAKE","Summer Sixteen",586,-26,-308,40,3.805,0.301,97,"189",11,2629,652,16.18
-38,"+1","2 CHAINZ","MFN Right",571,43,375,-4,2.266,0.153,5,"--",38,571,381,2.266
-39,"+1","JEREMIH","Pass Dat",506,7,17,6,1.576,0.041,24,"--",39,515,320,1.666
-40,"-2","THE WEEKND","Acquainted",504,-25,-151,-7,4.778,-0.365,170,"181",10,2575,345,15.067
-41,"=","DRAKE","Pop Style f/The Throne",483,-8,-126,4,4.313,-0.043,36,"56",39,622,580,6.527
-42,"+4","KEVIN GATES","Really Really",482,81,312,74,2.765,0.37,3,"123",42,482,312,2.765
-43,"+1","G-EAZY","Drifting f/Chris Brown",477,22,136,-5,1.198,0.027,6,"334",43,477,193,1.198
-44,"-2","DLOW","Do It Like Me",477,-8,-73,6,1.932,0.002,54,"--",37,628,293,2.781
-45,"-2","ANDRA DAY","Rise Up",456,-9,16,-24,1.756,-0.126,53,"79",43,466,57,1.882
-46,"-1","K. MICHELLE","Not A Little Bit",420,-25,-198,0,1.649,-0.052,93,"--",18,1653,323,8.051
-47,"=","BERNARD FLOWERS","This Feeling",400,16,74,4,0.944,-0.045,5,"--",47,400,74,1.052
-48,"=","SPECTACULAR","She Don't Love You",391,19,25,25,0.993,0.019,11,"--",45,391,136,0.993
-49,"+1","ALICIA KEYS","In Common",376,28,180,-20,2.635,-0.052,4,"95",46,423,423,3.673
-50,"-1","EMPIRE CAST","All Nite f/Yazz & Yo Gotti",364,7,28,11,0.693,0.015,5,"--",49,364,28,0.693
+"Title","Artist","Spins"
+"Panda","DESIIGNER",4798
+"Exchange","BRYSON TILLER",4790
+"Work f/Drake","RIHANNA",4354
+"Oui","JEREMIH",3934
+"Cut It f/Young Dolph","O.T. GENASIS",3933
+"Law","YO GOTTI",3513
+"Moolah","YOUNG GREATNESS",2851
+"All The Way Up","FAT JOE & REMY MA",2733
+"Don't Mind","KENT JONES",2731
+"Low Life f/The Weeknd","FUTURE",2612
+"Body f/Jeremih","DREEZY",2595
+"One Dance f/Wizkid & Kyla","DRAKE",2584
+"Needed Me","RIHANNA",2551
+"2 Phones","KEVIN GATES",2388
+"Might Be","DJ LUKE NASTYY",2133
+"Sorry","BEYONCE",2053
+"Formation","BEYONCE",1672
+"New Level","A$AP FERG",1640
+"Uber Everywhere","MADEINTYO",1616
+"Might Not f/The Weeknd","BELLY",1560
+"Ran Off On Da Plug Twice","PLIES",1534
+"Famous","KANYE WEST",1248
+"Love Yourz","J. COLE",1242
+"Money Talk","T.I.",1207
+"Do You Remember","KAYLA BRIANNA",1050
+"Wake Up","FETTY WAP",1008
+"By Chance","RAE SREMMURD",996
+"Wicked","FUTURE",961
+"Permission","RO JAMES",957
+"Halfway","S-8IGHTY",895
+"Wat U Mean","DAE DAE",876
+"You Could Be My Lover","PUFF DADDY & THE FAMILY",829
+"Promise f/Fetty Wap","KID INK",728
+"I'm The Man f/Sonny Digital","50 CENT",691
+"Finessin f/Lil Wayne","BABY E",672
+"On The Way","TWENTY88",648
+"Summer Sixteen","DRAKE",586
+"MFN Right","2 CHAINZ",571
+"Pass Dat","JEREMIH",506
+"Acquainted","THE WEEKND",504
+"Pop Style f/The Throne","DRAKE",483
+"Really Really","KEVIN GATES",482
+"Drifting f/Chris Brown","G-EAZY",477
+"Do It Like Me","DLOW",477
+"Rise Up","ANDRA DAY",456
+"Not A Little Bit","K. MICHELLE",420
+"This Feeling","BERNARD FLOWERS",400
+"She Don't Love You","SPECTACULAR",391
+"In Common","ALICIA KEYS",376
+"All Nite f/Yazz & Yo Gotti","EMPIRE CAST",364

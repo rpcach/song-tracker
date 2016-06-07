@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","TWENTY ONE PILOTS","Ride",3199,"+23",154,"+4",12.383,"+0.125",100,"56",1,3199,471,12.383
-2,"=","THE STRUMBELLAS","Spirits",2737,"+19",144,"-14",9.907,"+0.066",100,"134",2,2737,380,9.907
-3,"=","EMPIRE OF THE SUN","Walking On A Dream",2463,"-9",85,"-21",10.137,"-0.105",83,"189",3,2472,371,10.242
-4,"=","NOTHING BUT THIEVES","Trip Switch",2171,"-13",-110,"-5",7.985,"+0.022",172,"484",1,2771,366,9.461
-5,"=","LUMINEERS","Ophelia",2117,"+21",114,"+13",7.539,"+0.117",74,"77",5,2117,415,7.66
-6,"=","MIIKE SNOW","Genghis Khan",2063,"+15",81,"+13",6.113,"-0.045",133,"253",6,2063,224,6.444
-7,"=","COLD WAR KIDS","First",2033,"+7",51,"+13",11.287,"-0.052",408,"310",1,3065,389,13.585
-8,"=","X AMBASSADORS","Unsteady",1923,"-51",-345,"-22",6.669,"-0.093",197,"81",3,2417,201,8.295
-9,"+1","THE STRUTS","Kiss This",1806,"+34",40,"+31",5.43,"+0.116",154,"344",9,1806,182,5.43
-10,"-1","AWOLNATION","Woman Woman",1803,"-3",85,"-25",5.349,"-0.086",128,"436",9,1806,200,5.435
-11,"=","JR JR","Gone",1677,"-3",31,"-24",5.293,"+0.088",210,"889",11,1687,169,5.365
-12,"=","FITZ & THE TANTRUMS","HandClap",1592,"+22",202,"-11",5.52,"+0.047",26,"129",12,1592,629,5.52
-13,"=","ANDREW MCMAHON IN WILDERNESS","High Dive",1292,"-20",-31,"-20",3.698,"-0.123",203,"--",13,1333,152,4.076
-14,"=","KALEO","Way Down We Go",1248,"+12",109,"-6",4.249,"+0.120",52,"161",14,1248,242,4.249
-15,"=","BEAR HANDS","2am",1232,"+19",47,"+10",3.035,"-0.002",60,"896",14,1232,210,3.103
-16,"=","DECLAN MCKENNA","Brazil",1124,"+3",59,"-11",2.713,"-0.052",103,"736",16,1124,171,2.765
-17,"+1","THE 1975","The Sound",858,"+14",66,"+14",2.191,"+0.059",49,"525",17,858,197,2.191
-18,"-1","JOYWAVE","Destruction",843,"-5",-10,"-6",1.39,"-0.066",92,"--",17,855,95,1.597
-19,"=","CATFISH AND THE BOTTLEMEN","Soundcheck",803,"+25",60,"+24",1.737,"+0.018",47,"647",19,803,148,1.756
-20,"=","SILVERSUN PICKUPS","Circadian Rhythm (Last Dance)",719,"+23",63,"+21",1.755,"+0.055",41,"--",20,719,181,1.755
-21,"=","DISTURBED","The Sound Of Silence",652,"+8",153,"-14",1.955,"-0.001",61,"15",21,652,201,1.967
-22,"=","NATHANIEL RATELIFF/NIGHTSWEATS","I Need Never Get Old",512,"-6",-7,"-9",1.336,"+0.000",67,"733",22,522,94,1.631
-23,"=","DEATH CAB FOR CUTIE","Good Help (Is So Hard To Find)",482,"+9",47,"+11",0.954,"+0.083",43,"--",23,482,110,0.954
-24,"=","WEEZER","King Of The World",467,"+22",103,"+22",1.158,"+0.028",18,"--",24,467,129,1.177
-25,"=","FOO FIGHTERS","Saint Cecilia",400,"+2",5,"+7",1.991,"+0.049",145,"--",10,1405,287,4.064
-26,"+2","BISHOP","River",398,"+28",86,"+22",2.24,"+0.057",18,"--",26,398,87,2.24
-27,"+2","FINISH TICKET","Color",379,"+11",65,"+15",1.445,"-0.029",16,"--",27,379,105,1.474
-28,"-2","LEWIS DEL MAR","Loud(y)",375,"+1",23,"+0",0.906,"-0.013",22,"--",26,375,98,1.094
-29,"+8","KONGOS","Take It From Me",374,"+102",374,"+102",1.203,"+0.270",3,"135",29,374,374,1.203
-30,"-3","CHEF'SPECIAL","In Your Arms",363,"-10",-67,"-6",0.783,"-0.089",104,"--",26,434,60,1.259
-31,"-1","AURORA","Conqueror",334,"-2",13,"-4",0.79,"+0.004",30,"--",30,338,89,1.147
-32,"-1","TRANSVIOLET","New Bohemia",311,"-16",-85,"-13",0.54,"-0.031",87,"--",28,432,75,0.94
-33,"-1","LUCIUS","Born Again Teen",305,"-6",-8,"-12",0.599,"-0.026",95,"--",32,317,75,0.726
-34,"=","CAGE THE ELEPHANT","Trouble",294,"+16",146,"+5",0.855,"+0.056",4,"--",34,294,146,0.855
-35,"-2","SHINEDOWN","State Of My Head",291,"-2",-48,"+0",1.052,"-0.014",148,"395",25,534,76,1.769
-36,"=","JAKE BUGG","Gimme The Love",272,"-3",-11,"-3",0.434,"-0.005",38,"--",35,304,103,0.82
-37,"+1","DEFTONES","Prayers/Triangles",266,"-5",-5,"-8",0.381,"-0.019",70,"--",36,279,120,0.576
-38,"+2","HOLY WHITE HOUNDS","Switchblade",265,"+2",16,"-3",0.35,"+0.002",34,"--",38,265,52,0.355
-39,"-4","LUKAS GRAHAM","7 Years",260,"-17",-77,"-17",1.51,"-0.030",130,"1",25,518,101,2.377
-40,"-1","ELLE KING","Under The Influence",254,"-10",-99,"+17",0.725,"-0.027",130,"--",17,1049,168,2.852
-41,"+2","BROODS","Free",252,"+9",110,"-12",0.537,"+0.024",4,"1301",41,252,122,0.537
-42,"+2","DREAMERS","Drugs",245,"+4",58,"-12",0.252,"+0.030",6,"--",42,245,75,0.252
-43,"-2","WALK THE MOON","Work This Body",244,"-8",-57,"-3",0.553,"-0.022",49,"--",32,356,129,0.797
-44,"+1","HEAVY","Since You Been Gone",243,"+4",10,"+13",0.353,"-0.001",57,"--",41,243,47,0.374
-45,"+1","ATLAS GENIUS","Stockholm",240,"+10",14,"+12",0.355,"+0.010",42,"--",44,240,88,0.411
-46,"-4","CHVRCHES","Clearest Blue",237,"-14",-24,"-21",0.542,"-0.060",56,"--",39,265,90,0.711
-47,"+1","KURT VILE","Pretty Pimpin",230,"+5",22,"+2",0.472,"+0.004",18,"--",46,230,51,0.867
-48,"-1","TAME IMPALA","The Less I Know The Better",229,"+0",2,"-4",0.155,"+0.002",80,"1095",38,245,55,0.38
-49,"=","RUN RIVER NORTH","Run Or Hide",206,"-1",-2,"-2",0.438,"-0.003",11,"--",48,210,32,0.479
-50,"--","ELLE KING","America's Sweetheart",201,"--",75,"--",1.058,"--",1,"58",50,201,75,1.058
+"Title","Artist","Spins"
+"Ride","TWENTY ONE PILOTS",3199
+"Spirits","THE STRUMBELLAS",2737
+"Walking On A Dream","EMPIRE OF THE SUN",2463
+"Trip Switch","NOTHING BUT THIEVES",2171
+"Ophelia","LUMINEERS",2117
+"Genghis Khan","MIIKE SNOW",2063
+"First","COLD WAR KIDS",2033
+"Unsteady","X AMBASSADORS",1923
+"Kiss This","THE STRUTS",1806
+"Woman Woman","AWOLNATION",1803
+"Gone","JR JR",1677
+"HandClap","FITZ & THE TANTRUMS",1592
+"High Dive","ANDREW MCMAHON IN WILDERNESS",1292
+"Way Down We Go","KALEO",1248
+"2am","BEAR HANDS",1232
+"Brazil","DECLAN MCKENNA",1124
+"The Sound","THE 1975",858
+"Destruction","JOYWAVE",843
+"Soundcheck","CATFISH AND THE BOTTLEMEN",803
+"Circadian Rhythm (Last Dance)","SILVERSUN PICKUPS",719
+"The Sound Of Silence","DISTURBED",652
+"I Need Never Get Old","NATHANIEL RATELIFF/NIGHTSWEATS",512
+"Good Help (Is So Hard To Find)","DEATH CAB FOR CUTIE",482
+"King Of The World","WEEZER",467
+"Saint Cecilia","FOO FIGHTERS",400
+"River","BISHOP",398
+"Color","FINISH TICKET",379
+"Loud(y)","LEWIS DEL MAR",375
+"Take It From Me","KONGOS",374
+"In Your Arms","CHEF'SPECIAL",363
+"Conqueror","AURORA",334
+"New Bohemia","TRANSVIOLET",311
+"Born Again Teen","LUCIUS",305
+"Trouble","CAGE THE ELEPHANT",294
+"State Of My Head","SHINEDOWN",291
+"Gimme The Love","JAKE BUGG",272
+"Prayers/Triangles","DEFTONES",266
+"Switchblade","HOLY WHITE HOUNDS",265
+"7 Years","LUKAS GRAHAM",260
+"Under The Influence","ELLE KING",254
+"Free","BROODS",252
+"Drugs","DREAMERS",245
+"Work This Body","WALK THE MOON",244
+"Since You Been Gone","HEAVY",243
+"Stockholm","ATLAS GENIUS",240
+"Clearest Blue","CHVRCHES",237
+"Pretty Pimpin","KURT VILE",230
+"The Less I Know The Better","TAME IMPALA",229
+"Run Or Hide","RUN RIVER NORTH",206
+"America's Sweetheart","ELLE KING",201

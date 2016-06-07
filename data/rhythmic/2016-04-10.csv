@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","RIHANNA","Work f/Drake",6353,"-114",-521,"-2",38.26,"-0.384",74,"14",1,7067,2028,40.014
-2,"=","JEREMIH","Oui",4589,"+26",231,"+72",23.483,"+0.044",142,"45",2,4634,498,23.483
-3,"=","BELLY","Might Not f/The Weeknd",4553,"+54",355,"+95",22.853,"+0.158",92,"118",3,4553,531,22.853
-4,"=","CHRIS BROWN","Back To Sleep",4517,"+20",87,"+52",23.393,"+0.117",132,"261",3,4553,547,23.393
-5,"=","G-EAZY","Me Myself And I f/Bebe Rexha",4277,"-43",-425,"+93",24.863,"-0.120",152,"27",1,6070,820,31.468
-6,"=","TY DOLLA $IGN","Saved f/E-40",3993,"+72",495,"+78",20.311,"+0.555",108,"145",6,3993,495,20.311
-7,"=","KID INK","Promise f/Fetty Wap",3517,"+5",31,"+103",16.554,"-0.093",93,"84",7,3639,620,17.148
-8,"=","FLO RIDA","My House",3255,"-37",-484,"+124",15.465,"-0.097",166,"6",3,5641,716,23.999
-9,"=","MIKE POSNER","I Took A Pill In Ibiza",3229,"+19",227,"+20",12.865,"+0.017",73,"8",9,3229,496,12.99
-10,"=","KEVIN GATES","2 Phones",2985,"+47",256,"+66",13.835,"+0.061",77,"32",10,2988,358,14.156
-11,"=","FIFTH HARMONY","Work From Home",2940,"+63",445,"+49",12.269,"+0.435",36,"5",11,2940,628,12.269
-12,"=","DJ LUKE NASTYY","Might Be",2741,"-22",6,"-41",13.538,"-0.069",90,"291",12,2786,469,13.822
-13,"=","THE WEEKND","Acquainted",2740,"+14",98,"+29",14.364,"+0.052",54,"126",13,2776,614,14.532
-14,"=","ZENDAYA","Something New f/Chris Brown",2620,"-61",-241,"-18",9.86,"-0.383",58,"241",10,2920,637,11.489
-15,"=","ZAYN","Pillowtalk",2600,"+18",163,"+24",10.338,"-0.089",59,"15",15,2606,470,10.604
-16,"=","DJ SNAKE","Middle f/Bipolar Sunshine",2250,"+25",123,"+6",10.041,"+0.134",77,"28",16,2250,304,10.041
-17,"=","JUSTIN BIEBER","Love Yourself",1929,"-46",-219,"+3",9.242,"-0.107",122,"21",3,4898,702,20.441
-18,"=","BRYSON TILLER","Exchange",1894,"+53",225,"+76",10.618,"+0.287",69,"122",18,1894,334,10.618
-19,"+1","FUTURE","Low Life f/The Weeknd",1713,"-3",134,"+2",9.425,"-0.248",34,"43",19,1730,417,9.673
-20,"-1","DRAKE","Summer Sixteen",1671,"-71",-321,"-30",8.903,"-0.490",65,"81",18,2044,392,10.949
-21,"+1","JUSTIN BIEBER","Company",1607,"+24",150,"+27",6.031,"+0.021",32,"80",21,1607,519,6.031
-22,"-1","YO GOTTI","Down In The DM",1569,"-72",-648,"+108",9.374,"-0.240",134,"157",4,4538,578,22.823
-23,"+1","DESIIGNER","Panda",1568,"+73",506,"+36",12.501,"+0.380",28,"7/96",23,1568,511,12.501
-24,"+1","ARIANA GRANDE","Dangerous Woman",1495,"+12",147,"+13",5.084,"-0.010",26,"10",24,1495,626,5.094
-25,"-2","THE CHAINSMOKERS","Roses f/Rozes",1493,"-48",-619,"+98",4.971,"-0.121",146,"53",5,3802,467,12.175
-26,"+1","MEGHAN TRAINOR","NO",1452,"+39",230,"-5",4.589,"+0.127",29,"3",26,1452,470,4.589
-27,"-1","SELENA GOMEZ","Hands To Myself",1364,"-99",-403,"-88",4.282,"-0.293",78,"44",21,1800,315,5.433
-28,"=","BRYSON TILLER","Don't",1159,"-12",-153,"+15",11.084,"+0.111",161,"112",9,3494,469,21.087
-29,"+1","DREEZY","Body f/Jeremih",1115,"+14",131,"-7",4.729,"+0.131",46,"114",29,1115,177,4.729
-30,"-1","BEYONCE","Formation",1094,"-61",-218,"-34",8.651,"-0.271",60,"--",12,2727,1047,16.52
-31,"=","O.T. GENASIS","Cut It f/Young Dolph",1072,"-5",68,"-40",6.86,"-0.104",48,"--",30,1080,179,6.964
-32,"=","YOUNG GREATNESS","Moolah",1048,"+20",179,"-23",5.992,"+0.204",33,"274",32,1048,236,5.992
-33,"=","TORY LANEZ","LA Confidential",1001,"+3",92,"-10",4.236,"+0.033",22,"391",32,1007,359,4.236
-34,"=","ZARA LARSSON & MNEK","Never Forget You",849,"+20",195,"-6",2.335,"+0.067",38,"13",34,849,205,2.335
-35,"+1","THE CHAINSMOKERS","Don't Let Me Down f/Daya",741,"+40",220,"-7",2.061,"+0.143",14,"11",35,741,329,2.061
-36,"-1","DJ MUSTARD","Whole Lotta Lovin' f/T. Scott",643,"-70",-292,"-22",2.049,"-0.223",71,"1168",29,998,171,3.439
-37,"=","TWENTY ONE PILOTS","Stressed Out",638,"-34",-226,"-17",1.131,"-0.051",75,"17",32,900,177,1.983
-38,"=","DLOW","Do It Like Me",618,"+1",7,"-17",2.188,"+0.021",21,"--",38,644,269,2.535
-39,"+1","KANYE WEST","Famous",610,"+27",273,"-18",2.401,"-0.018",8,"--",39,610,405,2.664
-40,"-1","YO GOTTI","Law",603,"+11",78,"-11",3.727,"-0.013",19,"353",39,603,196,3.74
-41,"+2","FAT JOE & REMY MA","All The Way Up",597,"+66",266,"+36",6.188,"+0.006",9,"73",41,597,266,6.188
-42,"=","IGGY AZALEA","Team",544,"+3",102,"-37",1.278,"+0.031",13,"61",42,544,211,1.278
-43,"-2","THE WEEKND","In The Night",534,"-10",-142,"+27",2.276,"-0.052",144,"326",2,5430,1125,22.286
-44,"=","KAT DELUNA","What A Night",527,"+13",212,"-12",2.299,"-0.006",7,"--",44,527,225,2.305
-45,"+4","DRAKE","One Dance f/Wizkid & Kyla",506,"+137",506,"+137",5.142,"+1.038",2,"1",45,506,506,5.142
-46,"-1","THE INTERNET","Girl f/Kaytranada",449,"-56",-448,"-4",2.315,"-0.080",76,"923",26,1146,246,4.623
-47,"--","JASON DERULO","If It Ain't Love",426,"--",286,"--",1.044,"--",2,"143",47,426,372,1.708
-48,"-2","J. COLE","Love Yourz",413,"-40",-233,"-26",2.544,"-0.143",51,"880",32,791,190,3.317
-49,"-1","RO JAMES","Permission",399,"+11",53,"+4",3.051,"+0.119",16,"315",47,399,66,3.051
-50,"-3","NELLY","Die A Happy Man",389,"-6",-14,"-1",0.867,"-0.027",42,"269",42,474,181,1.138
+"Title","Artist","Spins"
+"Work f/Drake","RIHANNA",6353
+"Oui","JEREMIH",4589
+"Might Not f/The Weeknd","BELLY",4553
+"Back To Sleep","CHRIS BROWN",4517
+"Me Myself And I f/Bebe Rexha","G-EAZY",4277
+"Saved f/E-40","TY DOLLA $IGN",3993
+"Promise f/Fetty Wap","KID INK",3517
+"My House","FLO RIDA",3255
+"I Took A Pill In Ibiza","MIKE POSNER",3229
+"2 Phones","KEVIN GATES",2985
+"Work From Home","FIFTH HARMONY",2940
+"Might Be","DJ LUKE NASTYY",2741
+"Acquainted","THE WEEKND",2740
+"Something New f/Chris Brown","ZENDAYA",2620
+"Pillowtalk","ZAYN",2600
+"Middle f/Bipolar Sunshine","DJ SNAKE",2250
+"Love Yourself","JUSTIN BIEBER",1929
+"Exchange","BRYSON TILLER",1894
+"Low Life f/The Weeknd","FUTURE",1713
+"Summer Sixteen","DRAKE",1671
+"Company","JUSTIN BIEBER",1607
+"Down In The DM","YO GOTTI",1569
+"Panda","DESIIGNER",1568
+"Dangerous Woman","ARIANA GRANDE",1495
+"Roses f/Rozes","THE CHAINSMOKERS",1493
+"NO","MEGHAN TRAINOR",1452
+"Hands To Myself","SELENA GOMEZ",1364
+"Don't","BRYSON TILLER",1159
+"Body f/Jeremih","DREEZY",1115
+"Formation","BEYONCE",1094
+"Cut It f/Young Dolph","O.T. GENASIS",1072
+"Moolah","YOUNG GREATNESS",1048
+"LA Confidential","TORY LANEZ",1001
+"Never Forget You","ZARA LARSSON & MNEK",849
+"Don't Let Me Down f/Daya","THE CHAINSMOKERS",741
+"Whole Lotta Lovin' f/T. Scott","DJ MUSTARD",643
+"Stressed Out","TWENTY ONE PILOTS",638
+"Do It Like Me","DLOW",618
+"Famous","KANYE WEST",610
+"Law","YO GOTTI",603
+"All The Way Up","FAT JOE & REMY MA",597
+"Team","IGGY AZALEA",544
+"In The Night","THE WEEKND",534
+"What A Night","KAT DELUNA",527
+"One Dance f/Wizkid & Kyla","DRAKE",506
+"Girl f/Kaytranada","THE INTERNET",449
+"If It Ain't Love","JASON DERULO",426
+"Love Yourz","J. COLE",413
+"Permission","RO JAMES",399
+"Die A Happy Man","NELLY",389

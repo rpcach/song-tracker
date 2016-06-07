@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","WALK THE MOON","Shut Up And Dance",6865,"-38",-182,"-13",42.136,"-0.236",171,"6",1,7333,638,46.781
-2,"=","ANDY GRAMMER","Honey, I'm Good",6851,"+36",406,"+0",40.438,"+0.480",144,"5",2,6851,620,40.438
-3,"=","JASON DERULO","Want To Want Me",5882,"+32",286,"-44",34.761,"+0.311",95,"18",3,5882,792,34.761
-4,"=","WIZ KHALIFA","See You Again f/Charlie Puth",5269,"+83",749,"-24",31.454,"+0.439",60,"4",4,5269,826,31.454
-5,"=","GEORGE EZRA","Budapest",5110,"-10",81,"-50",28.421,"+0.168",221,"34",4,5131,372,28.421
-6,"+1","TAYLOR SWIFT","Bad Blood",4914,"+140",1038,"+28",29.577,"+0.998",33,"3/23",6,4914,1625,29.577
-7,"-1","MAROON 5","Sugar",4823,"-97",-585,"-39",27.691,"-0.442",161,"39",1,7336,1034,47.398
-8,"=","RACHEL PLATTEN","Fight Song",4764,"+57",393,"+12",26.687,"+0.073",107,"1",7,4764,568,26.687
-9,"=","TAYLOR SWIFT","Style",4173,"-77",-535,"-2",27.047,"-0.488",158,"52",1,7220,1078,47.569
-10,"+1","ECHOSMITH","Bright",3983,"+33",101,"+28",19.834,"+0.066",134,"27",10,3983,505,19.834
-11,"-1","ELLIE GOULDING","Love Me Like You Do",3892,"-87",-720,"+21",21.867,"-0.571",157,"44",1,6837,1035,44.586
-12,"=","TOVE LO","Talking Body",3662,"+18",190,"-16",21.423,"+0.019",147,"22",12,3662,460,21.423
-13,"=","MAROON 5","This Summer's Gonna Hurt...",3511,"+56",362,"+14",20.298,"+0.151",34,"32/91",13,3511,1278,20.298
-14,"=","MEGHAN TRAINOR","Dear Future Husband",3065,"-122",-334,"-129",15.967,"-0.444",85,"25",13,3424,545,18.177
-15,"=","ED SHEERAN","Photograph",2813,"+44",260,"+23",15.396,"+0.122",38,"24",15,2813,859,15.396
-16,"=","THE WEEKND","Earned It",2068,"-100",-1227,"+63",11.618,"-0.348",110,"35",9,4005,574,21.627
-17,"=","MUMFORD & SONS","Believe",1983,"-116",-408,"-85",9.052,"-0.489",97,"157",15,2466,340,11.98
-18,"=","JAMES BAY","Hold Back The River",1941,"-9",36,"-23",10.247,"-0.045",94,"125",18,1950,262,10.292
-19,"=","KELLY CLARKSON","Invincible",1886,"+60",403,"+24",8.085,"+0.286",29,"425",19,1886,488,8.085
-20,"=","SAM HUNT","Take Your Time",1707,"+28",186,"+3",6.992,"+0.259",88,"19",20,1707,330,6.992
-21,"=","FALL OUT BOY","Uma Thurman",1517,"+25",315,"-36",7.221,"+0.146",60,"33",21,1517,351,7.221
-22,"=","ADAM LAMBERT","Ghost Town",1459,"+10",80,"-15",6.805,"+0.077",53,"62",21,1459,305,6.805
-23,"=","ROB THOMAS","Trust You",1239,"+59",401,"+3",5.753,"+0.121",18,"1011",23,1239,465,5.753
-24,"=","NEEDTOBREATHE","Brother f/Gavin DeGraw",1017,"+6",94,"-22",3.21,"+0.048",74,"171",24,1017,173,3.21
-25,"=","LITTLE BIG TOWN","Girl Crush",904,"+19",141,"+0",3.994,"-0.005",42,"16",25,904,180,3.999
-26,"+1","AMERICAN AUTHORS","Go Big Or Go Home",763,"+24",208,"-13",2.895,"+0.092",13,"296",26,763,342,2.895
-27,"+1","SAM SMITH","Like I Can",738,"+19",84,"+8",3.195,"+0.009",27,"148",27,738,221,3.195
-28,"+1","OMI","Cheerleader",736,"+46",283,"+21",3.628,"+0.142",16,"2",28,736,283,3.628
-29,"-3","KATY TIZ","Whistle (While You Work)",727,"-16",-4,"-28",2.81,"-0.042",82,"64",26,743,81,2.852
-30,"=","HOZIER","Someone New",625,"+22",149,"+2",2.084,"-0.003",28,"286",30,625,149,2.386
-31,"+1","IMAGINE DRAGONS","Shots",597,"+40",377,"+0",3.171,"+0.170",9,"365",31,597,377,3.171
-32,"-1","SIA","Elastic Heart f/The Weeknd...",574,"+5",87,"+5",3.243,"+0.040",104,"29",31,574,106,3.243
-33,"=","ANDREW MCMAHON IN WILDERNESS","Cecilia And The Satellite",536,"+4",46,"+0",2.667,"+0.094",44,"283",33,536,132,2.667
-34,"=","ARIANA GRANDE","One Last Time",495,"-25",-165,"-3",3.31,"-0.216",108,"110",20,1529,212,8.037
-35,"=","NATALIE LA ROSE","Somebody f/Jeremih",476,"-27",-143,"-6",2.107,"-0.115",88,"81",25,947,151,3.915
-36,"=","ALLEN STONE","Freedom",437,"-4",32,"-8",1.209,"+0.022",32,"--",36,443,165,1.21
-37,"=","DJ SNAKE & ALUNAGEORGE","You Know You Like It",428,"+7",79,"-5",2.02,"+0.079",19,"17",37,428,104,2.02
-38,"=","NICK FRADIANI","Beautiful Life",408,"+20",106,"+12",1.043,"+0.049",11,"459",38,408,153,1.043
-39,"=","NICK JONAS","Chains",390,"+3",-212,"+53",1.257,"+0.056",119,"68",25,1076,209,4.807
-40,"=","FIFTH HARMONY","Worth It f/Kid Ink",384,"+17",85,"+7",1.408,"+0.009",13,"7",40,384,112,1.408
-41,"=","ELLE KING","Ex's and Oh's",378,"+20",77,"+17",1.639,"+0.094",12,"78",41,378,116,1.639
-42,"=","VANCE JOY","Mess Is Mine",346,"+3",0,"+8",0.823,"+0.006",25,"272",39,359,103,1.135
-43,"=","DAVID GUETTA","Hey Mama  f/Nicki Minaj",298,"+0",-5,"-6",1.358,"+0.025",19,"12",43,305,114,1.358
-44,"=","HILARY DUFF","Sparks",262,"+1",45,"-4",0.655,"+0.012",11,"57",44,262,49,0.655
-45,"+3","CHARLIE PUTH","Marvin Gaye f/Meghan Trainor",200,"+21",142,"+6",0.698,"+0.062",3,"46",45,200,142,0.698
-46,"+1","JAKUBI","Couch Potato",200,"+7",52,"+3",0.481,"+0.010",4,"--",46,200,52,0.481
-47,"-2","PARACHUTE","Crave",196,"-13",-31,"-18",0.268,"-0.042",13,"--",45,227,71,0.382
-48,"-2","MAGIC!","No Way No",189,"-11",-68,"-3",0.413,"-0.007",48,"550",45,276,88,0.899
-49,"=","FLO RIDA","GDFR f/Sage The Gemini",178,"+3",8,"+5",1.06,"+0.021",20,"59",48,219,81,1.505
-50,"--","THE WEEKND","Can't Feel My Face",170,"--",162,"--",1.383,"--",1,"8",50,170,162,1.383
+"Title","Artist","Spins"
+"Shut Up And Dance","WALK THE MOON",6865
+"Honey, I'm Good","ANDY GRAMMER",6851
+"Want To Want Me","JASON DERULO",5882
+"See You Again f/Charlie Puth","WIZ KHALIFA",5269
+"Budapest","GEORGE EZRA",5110
+"Bad Blood","TAYLOR SWIFT",4914
+"Sugar","MAROON 5",4823
+"Fight Song","RACHEL PLATTEN",4764
+"Style","TAYLOR SWIFT",4173
+"Bright","ECHOSMITH",3983
+"Love Me Like You Do","ELLIE GOULDING",3892
+"Talking Body","TOVE LO",3662
+"This Summer's Gonna Hurt...","MAROON 5",3511
+"Dear Future Husband","MEGHAN TRAINOR",3065
+"Photograph","ED SHEERAN",2813
+"Earned It","THE WEEKND",2068
+"Believe","MUMFORD & SONS",1983
+"Hold Back The River","JAMES BAY",1941
+"Invincible","KELLY CLARKSON",1886
+"Take Your Time","SAM HUNT",1707
+"Uma Thurman","FALL OUT BOY",1517
+"Ghost Town","ADAM LAMBERT",1459
+"Trust You","ROB THOMAS",1239
+"Brother f/Gavin DeGraw","NEEDTOBREATHE",1017
+"Girl Crush","LITTLE BIG TOWN",904
+"Go Big Or Go Home","AMERICAN AUTHORS",763
+"Like I Can","SAM SMITH",738
+"Cheerleader","OMI",736
+"Whistle (While You Work)","KATY TIZ",727
+"Someone New","HOZIER",625
+"Shots","IMAGINE DRAGONS",597
+"Elastic Heart f/The Weeknd...","SIA",574
+"Cecilia And The Satellite","ANDREW MCMAHON IN WILDERNESS",536
+"One Last Time","ARIANA GRANDE",495
+"Somebody f/Jeremih","NATALIE LA ROSE",476
+"Freedom","ALLEN STONE",437
+"You Know You Like It","DJ SNAKE & ALUNAGEORGE",428
+"Beautiful Life","NICK FRADIANI",408
+"Chains","NICK JONAS",390
+"Worth It f/Kid Ink","FIFTH HARMONY",384
+"Ex's and Oh's","ELLE KING",378
+"Mess Is Mine","VANCE JOY",346
+"Hey Mama  f/Nicki Minaj","DAVID GUETTA",298
+"Sparks","HILARY DUFF",262
+"Marvin Gaye f/Meghan Trainor","CHARLIE PUTH",200
+"Couch Potato","JAKUBI",200
+"Crave","PARACHUTE",196
+"No Way No","MAGIC!",189
+"GDFR f/Sage The Gemini","FLO RIDA",178
+"Can't Feel My Face","THE WEEKND",170

@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","TWENTY ONE PILOTS","Ride",3215,16,153,-1,12.355,-0.028,101,"122",1,3215,471,12.383
-2,"=","THE STRUMBELLAS","Spirits",2767,30,180,36,9.937,0.03,101,"225",2,2767,380,9.937
-3,"=","EMPIRE OF THE SUN","Walking On A Dream",2457,-6,79,-6,9.913,-0.224,84,"299",3,2472,371,10.242
-4,"=","NOTHING BUT THIEVES","Trip Switch",2174,3,-84,26,8.015,0.03,173,"613",1,2771,366,9.461
-5,"=","LUMINEERS","Ophelia",2139,22,117,3,7.544,0.005,75,"159",5,2139,415,7.66
-6,"=","MIIKE SNOW","Genghis Khan",2039,-24,43,-38,6.029,-0.084,134,"374",6,2063,224,6.444
-7,"=","COLD WAR KIDS","First",2016,-17,26,-25,11.2,-0.087,409,"440",1,3065,389,13.585
-8,"=","X AMBASSADORS","Unsteady",1871,-52,-349,-4,6.584,-0.085,198,"161",3,2417,201,8.295
-9,"=","THE STRUTS","Kiss This",1814,8,41,1,5.415,-0.015,155,"458",9,1814,182,5.43
-10,"=","AWOLNATION","Woman Woman",1796,-7,65,-20,5.3,-0.049,129,"607",9,1806,200,5.435
-11,"=","JR JR","Gone",1685,8,45,14,5.311,0.018,211,"1146",11,1687,169,5.365
-12,"=","FITZ & THE TANTRUMS","HandClap",1615,23,198,-4,5.593,0.073,27,"212",12,1615,629,5.593
-13,"=","ANDREW MCMAHON IN WILDERNESS","High Dive",1275,-17,-44,-13,3.733,0.035,204,"--",13,1333,152,4.076
-14,"=","KALEO","Way Down We Go",1265,17,119,10,4.283,0.034,53,"245",14,1265,242,4.283
-15,"=","BEAR HANDS","2am",1227,-5,35,-12,3.003,-0.032,61,"1148",14,1232,210,3.103
-16,"=","DECLAN MCKENNA","Brazil",1130,6,65,6,2.701,-0.012,104,"1076",16,1130,171,2.765
-17,"=","THE 1975","The Sound",864,6,64,-2,2.215,0.024,50,"706",17,864,197,2.215
-18,"=","JOYWAVE","Destruction",846,3,2,12,1.382,-0.008,93,"--",17,855,95,1.597
-19,"=","CATFISH AND THE BOTTLEMEN","Soundcheck",806,3,47,-13,1.732,-0.005,48,"1092",19,806,148,1.756
-20,"=","SILVERSUN PICKUPS","Circadian Rhythm (Last Dance)",725,6,62,-1,1.749,-0.006,42,"--",20,725,181,1.755
-21,"=","DISTURBED","The Sound Of Silence",668,16,135,-18,2.039,0.084,62,"53",21,668,201,2.039
-22,"=","NATHANIEL RATELIFF/NIGHTSWEATS","I Need Never Get Old",513,1,-9,-2,1.336,0,68,"837",22,522,94,1.631
-23,"+1","WEEZER","King Of The World",491,24,111,8,1.2,0.042,19,"--",23,491,129,1.2
-24,"-1","DEATH CAB FOR CUTIE","Good Help (Is So Hard To Find)",482,0,33,-14,0.994,0.04,44,"--",23,482,110,0.994
-25,"+4","KONGOS","Take It From Me",472,98,468,94,1.478,0.275,4,"232",25,472,468,1.478
-26,"=","BISHOP","River",428,30,113,27,2.241,0.001,19,"--",26,428,113,2.241
-27,"=","FINISH TICKET","Color",389,10,66,1,1.403,-0.042,17,"--",27,389,105,1.474
-28,"-3","FOO FIGHTERS","Saint Cecilia",389,-11,-10,-15,1.887,-0.104,146,"--",10,1405,287,4.064
-29,"-1","LEWIS DEL MAR","Loud(y)",376,1,18,-5,0.891,-0.015,23,"--",26,376,98,1.094
-30,"=","CHEF'SPECIAL","In Your Arms",353,-10,-67,0,0.697,-0.086,105,"--",26,434,60,1.259
-31,"=","AURORA","Conqueror",325,-9,0,-13,0.741,-0.049,31,"--",30,338,89,1.147
-32,"+2","CAGE THE ELEPHANT","Trouble",314,20,151,5,0.918,0.063,5,"--",32,314,151,0.918
-33,"=","LUCIUS","Born Again Teen",307,2,-7,1,0.606,0.007,96,"--",32,317,75,0.726
-34,"-2","TRANSVIOLET","New Bohemia",291,-20,-102,-17,0.452,-0.088,88,"--",28,432,75,0.94
-35,"=","SHINEDOWN","State Of My Head",280,-11,-49,-1,0.924,-0.128,149,"512",25,534,76,1.769
-36,"=","JAKE BUGG","Gimme The Love",267,-5,-13,-2,0.421,-0.013,39,"--",35,304,103,0.82
-37,"=","DEFTONES","Prayers/Triangles",264,-2,-8,-3,0.372,-0.009,71,"--",36,279,120,0.576
-38,"=","HOLY WHITE HOUNDS","Switchblade",257,-8,-1,-17,0.339,-0.011,35,"--",38,265,52,0.355
-39,"=","LUKAS GRAHAM","7 Years",253,-7,-75,2,1.451,-0.059,131,"18",25,518,101,2.377
-40,"+1","BROODS","Free",251,-1,98,-12,0.496,-0.041,5,"--",40,252,122,0.537
-41,"+1","DREAMERS","Drugs",243,-2,43,-15,0.248,-0.004,7,"--",41,245,75,0.252
-42,"-2","ELLE KING","Under The Influence",242,-12,-101,-2,0.689,-0.036,131,"--",17,1049,168,2.852
-43,"+1","HEAVY","Since You Been Gone",240,-3,3,-7,0.342,-0.011,58,"--",41,243,47,0.374
-44,"+1","ATLAS GENIUS","Stockholm",239,-1,9,-5,0.342,-0.013,43,"--",44,240,88,0.411
-45,"+3","TAME IMPALA","The Less I Know The Better",235,6,9,7,0.156,0.001,81,"1306",38,245,55,0.38
-46,"+1","KURT VILE","Pretty Pimpin",233,3,22,0,0.495,0.023,19,"--",46,233,51,0.867
-47,"-4","WALK THE MOON","Work This Body",228,-16,-66,-9,0.537,-0.016,50,"--",32,356,129,0.797
-48,"-2","CHVRCHES","Clearest Blue",224,-13,-41,-17,0.49,-0.052,57,"--",39,265,90,0.711
-49,"+1","ELLE KING","America's Sweetheart",205,4,71,-4,1.088,0.03,2,"128",49,205,75,1.088
-50,"-1","RUN RIVER NORTH","Run Or Hide",204,-2,-6,-4,0.423,-0.015,12,"--",48,210,32,0.479
+"Title","Artist","Spins"
+"Ride","TWENTY ONE PILOTS",3215
+"Spirits","THE STRUMBELLAS",2767
+"Walking On A Dream","EMPIRE OF THE SUN",2457
+"Trip Switch","NOTHING BUT THIEVES",2174
+"Ophelia","LUMINEERS",2139
+"Genghis Khan","MIIKE SNOW",2039
+"First","COLD WAR KIDS",2016
+"Unsteady","X AMBASSADORS",1871
+"Kiss This","THE STRUTS",1814
+"Woman Woman","AWOLNATION",1796
+"Gone","JR JR",1685
+"HandClap","FITZ & THE TANTRUMS",1615
+"High Dive","ANDREW MCMAHON IN WILDERNESS",1275
+"Way Down We Go","KALEO",1265
+"2am","BEAR HANDS",1227
+"Brazil","DECLAN MCKENNA",1130
+"The Sound","THE 1975",864
+"Destruction","JOYWAVE",846
+"Soundcheck","CATFISH AND THE BOTTLEMEN",806
+"Circadian Rhythm (Last Dance)","SILVERSUN PICKUPS",725
+"The Sound Of Silence","DISTURBED",668
+"I Need Never Get Old","NATHANIEL RATELIFF/NIGHTSWEATS",513
+"King Of The World","WEEZER",491
+"Good Help (Is So Hard To Find)","DEATH CAB FOR CUTIE",482
+"Take It From Me","KONGOS",472
+"River","BISHOP",428
+"Color","FINISH TICKET",389
+"Saint Cecilia","FOO FIGHTERS",389
+"Loud(y)","LEWIS DEL MAR",376
+"In Your Arms","CHEF'SPECIAL",353
+"Conqueror","AURORA",325
+"Trouble","CAGE THE ELEPHANT",314
+"Born Again Teen","LUCIUS",307
+"New Bohemia","TRANSVIOLET",291
+"State Of My Head","SHINEDOWN",280
+"Gimme The Love","JAKE BUGG",267
+"Prayers/Triangles","DEFTONES",264
+"Switchblade","HOLY WHITE HOUNDS",257
+"7 Years","LUKAS GRAHAM",253
+"Free","BROODS",251
+"Drugs","DREAMERS",243
+"Under The Influence","ELLE KING",242
+"Since You Been Gone","HEAVY",240
+"Stockholm","ATLAS GENIUS",239
+"The Less I Know The Better","TAME IMPALA",235
+"Pretty Pimpin","KURT VILE",233
+"Work This Body","WALK THE MOON",228
+"Clearest Blue","CHVRCHES",224
+"America's Sweetheart","ELLE KING",205
+"Run Or Hide","RUN RIVER NORTH",204

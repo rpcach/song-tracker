@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","TRAVI$ SCOTT","Antidote",5826,"-54",-218,"-109",31.184,"-0.364",119,"32",1,6094,1043,33.21
-2,"+1","DRAKE & FUTURE","Jumpman",5727,"+93",753,"-42",32.319,"+0.519",84,"29",2,5727,1001,32.319
-3,"-1","JUSTIN BIEBER","Sorry",5703,"-44",96,"-114",29.303,"-0.489",82,"5",2,5760,1054,29.991
-4,"=","THE WEEKND","In The Night",4683,"+13",441,"-151",20.2,"-0.165",59,"27",4,4683,1125,20.365
-5,"=","ALESSIA CARA","Here",4283,"-62",-553,"-18",21.643,"-0.321",157,"18",1,6401,834,32.037
-6,"+1","TORY LANEZ","Say It",4205,"+45",350,"-32",22.704,"+0.124",90,"72",6,4205,501,22.704
-7,"-1","POST MALONE","White Iverson",4084,"-97",-727,"+26",19.919,"-0.382",145,"26",1,6014,641,29.326
-8,"=","DRAKE","Hotline Bling",3421,"-87",-715,"+11",20.303,"-0.830",141,"21",1,7714,1293,42.595
-9,"=","SELENA GOMEZ","Same Old Love",3378,"+16",329,"-84",12.743,"+0.015",103,"25",9,3378,534,12.776
-10,"=","FETTY WAP","Again",3296,"+27",439,"-21",19.982,"+0.325",124,"77",10,3296,508,19.982
-11,"=","JR CASTRO","Get Home f/Kid Ink & Migos",2890,"+9",48,"+6",12.621,"-0.105",111,"778",11,2890,313,13.158
-12,"=","DEJ LOAF","Back Up f/Big Sean",2515,"-107",-879,"+0",10.098,"-0.417",163,"131",6,4321,575,22.037
-13,"+1","G-EAZY","Me Myself And I f/Bebe Rexha",2435,"+59",570,"-24",10.803,"+0.202",67,"9",13,2435,599,10.803
-14,"-1","MISSY ELLIOTT","WTF (Where They From)",2388,"-4",104,"-52",10.018,"-0.254",61,"103",13,2392,642,10.739
-15,"+1","YO GOTTI","Down In The DM",2375,"+68",578,"+9",13.092,"+0.360",49,"41",15,2375,578,13.092
-16,"-1","THE CHAINSMOKERS","Roses f/Rozes",2361,"+37",385,"-51",8.031,"+0.177",61,"6",15,2361,467,8.031
-17,"+1","BRYSON TILLER","Don't",2347,"+74",227,"+35",14.966,"+0.458",76,"44",15,2347,333,14.966
-18,"+1","FLO RIDA","My House",2204,"+28",227,"-5",9.15,"+0.188",81,"4",18,2204,266,9.15
-19,"+1","JUSTIN BIEBER","Love Yourself",2184,"+57",507,"-41",9.209,"+0.052",37,"1/89",19,2184,584,9.209
-20,"-3","ADELE","Hello",2141,"-147",-811,"-124",9.311,"-0.611",77,"3",10,3265,569,14.981
-21,"+1","CHRIS BROWN","Back To Sleep",2037,"+35",296,"-31",13.154,"+0.670",47,"111",21,2037,547,13.154
-22,"-1","COLONEL LOUD","California f/Young Dolph",2027,"+12",144,"-15",9.823,"+0.085",69,"342",20,2027,434,9.823
-23,"=","JASON DERULO","Get Ugly",1764,"+34",340,"-26",5.998,"+0.155",41,"71",23,1764,427,5.998
-24,"=","J. COLE","No Role Modelz",1668,"-49",-221,"-56",13.248,"-0.208",146,"73",11,2626,321,18.095
-25,"+1","JEREMIH","Oui",1446,"+30",292,"+12",8.573,"+0.094",57,"216",25,1446,292,8.573
-26,"+1","LIL DICKY","$ave Dat Money",1353,"-31",-101,"-41",5.77,"-0.010",97,"160",23,1516,223,6.912
-27,"-2","TINASHE","Player f/Chris Brown",1300,"-160",-1188,"-37",3.765,"-0.533",93,"526",9,3166,530,12.787
-28,"+1","MAJID JORDAN","Something About You",1166,"-2",127,"-40",5.631,"+0.007",37,"711",28,1171,406,5.631
-29,"-1","JUSTIN BIEBER","What Do You Mean?",1160,"-18",-149,"+24",5.525,"-0.063",138,"22",4,5032,866,21.849
-30,"+1","ADRIAN MARCEL","Take Your Time",950,"-13",10,"-23",3.768,"+0.040",58,"--",30,984,151,3.768
-31,"-1","NELLY","The Fix f/Jeremih",935,"-34",-227,"+52",3.669,"-0.207",149,"67",6,4035,589,16.338
-32,"=","TORI KELLY","Hollow",890,"+4",75,"-13",2.432,"-0.010",44,"134",32,890,218,2.628
-33,"+1","KID INK","Promise f/Fetty Wap",856,"+76",606,"+0",4.879,"+0.561",8,"130",33,856,606,4.879
-34,"-1","CURREN$Y","Bottom Of The Bottle",824,"+31",224,"+6",5.191,"+0.240",33,"235",33,824,251,5.191
-35,"+2","TY DOLLA $IGN","Saved f/E-40",656,"+33",249,"+2",4.412,"+0.089",23,"355",35,656,249,4.412
-36,"-1","BIG SEAN","Play No Games",654,"-9",-81,"+24",5.509,"+0.009",115,"426",13,2466,392,12.214
-37,"-1","RICK ROSS","Sorry f/Chris Brown",650,"-12",-32,"-22",2.598,"-0.073",67,"541",34,711,127,4.815
-38,"=","MEGHAN TRAINOR","Like I'm Gonna Lose You",555,"-9",-134,"+10",1.385,"-0.027",91,"19",31,936,187,3.385
-39,"=","DOUGIE F","On Purpose f/Pitbull",551,"-10",21,"-20",2.434,"-0.097",42,"881",37,578,105,2.623
-40,"+2","BELLY","Might Not f/The Weeknd",516,"+78",364,"+55",3.849,"+0.509",7,"258",40,516,364,3.849
-41,"-1","DAWIN","Dessert",465,"-26",-283,"+36",1.506,"-0.043",91,"61",27,1204,206,3.657
-42,"-1","DIPLO & SLEEPY TOM","Be Right There",443,"+2",20,"-9",1.155,"+0.007",48,"215",41,443,65,1.155
-43,"+4","YOUNG THUG","Best Friend",400,"+55",226,"+41",2.871,"+0.219",6,"101",43,400,226,2.871
-44,"+1","FABOLOUS","Doin' It Well f/Nicki Minaj",392,"+17",72,"+20",3.246,"+0.234",13,"--",44,392,94,3.606
-45,"-1","R. CITY","Make Up f/Chloe Angelides",383,"-1",2,"-15",1.085,"+0.004",35,"164",43,389,165,1.182
-46,"-3","ELLIE GOULDING","On My Mind",379,"-20",-131,"-1",0.74,"-0.036",99,"49",33,867,189,2.285
-47,"-1","KENDRICK LAMAR","These Walls f/Bilal, Anna Wise",348,"-7",-28,"-16",2.405,"-0.077",49,"--",43,389,96,2.724
-48,"=","KRANIUM","Nobody Has To Know",300,"-15",-47,"-14",2.519,"-0.350",47,"--",45,357,49,4.023
-49,"=","DJ LUKE NASTYY","Might Be",298,"+31",161,"+16",2.62,"+0.232",5,"--",49,298,161,2.62
-50,"--","PITBULL","El Taxi f/Sensato & O. Garcia",232,"--",119,"--",1.138,"--",1,"403",50,232,119,1.138
+"Title","Artist","Spins"
+"Antidote","TRAVI$ SCOTT",5826
+"Jumpman","DRAKE & FUTURE",5727
+"Sorry","JUSTIN BIEBER",5703
+"In The Night","THE WEEKND",4683
+"Here","ALESSIA CARA",4283
+"Say It","TORY LANEZ",4205
+"White Iverson","POST MALONE",4084
+"Hotline Bling","DRAKE",3421
+"Same Old Love","SELENA GOMEZ",3378
+"Again","FETTY WAP",3296
+"Get Home f/Kid Ink & Migos","JR CASTRO",2890
+"Back Up f/Big Sean","DEJ LOAF",2515
+"Me Myself And I f/Bebe Rexha","G-EAZY",2435
+"WTF (Where They From)","MISSY ELLIOTT",2388
+"Down In The DM","YO GOTTI",2375
+"Roses f/Rozes","THE CHAINSMOKERS",2361
+"Don't","BRYSON TILLER",2347
+"My House","FLO RIDA",2204
+"Love Yourself","JUSTIN BIEBER",2184
+"Hello","ADELE",2141
+"Back To Sleep","CHRIS BROWN",2037
+"California f/Young Dolph","COLONEL LOUD",2027
+"Get Ugly","JASON DERULO",1764
+"No Role Modelz","J. COLE",1668
+"Oui","JEREMIH",1446
+"$ave Dat Money","LIL DICKY",1353
+"Player f/Chris Brown","TINASHE",1300
+"Something About You","MAJID JORDAN",1166
+"What Do You Mean?","JUSTIN BIEBER",1160
+"Take Your Time","ADRIAN MARCEL",950
+"The Fix f/Jeremih","NELLY",935
+"Hollow","TORI KELLY",890
+"Promise f/Fetty Wap","KID INK",856
+"Bottom Of The Bottle","CURREN$Y",824
+"Saved f/E-40","TY DOLLA $IGN",656
+"Play No Games","BIG SEAN",654
+"Sorry f/Chris Brown","RICK ROSS",650
+"Like I'm Gonna Lose You","MEGHAN TRAINOR",555
+"On Purpose f/Pitbull","DOUGIE F",551
+"Might Not f/The Weeknd","BELLY",516
+"Dessert","DAWIN",465
+"Be Right There","DIPLO & SLEEPY TOM",443
+"Best Friend","YOUNG THUG",400
+"Doin' It Well f/Nicki Minaj","FABOLOUS",392
+"Make Up f/Chloe Angelides","R. CITY",383
+"On My Mind","ELLIE GOULDING",379
+"These Walls f/Bilal, Anna Wise","KENDRICK LAMAR",348
+"Nobody Has To Know","KRANIUM",300
+"Might Be","DJ LUKE NASTYY",298
+"El Taxi f/Sensato & O. Garcia","PITBULL",232

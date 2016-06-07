@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","WALK THE MOON","Shut Up And Dance",2625,"-6",49,"-25",11.383,"+0.086",150,"36",1,2631,250,11.383
-2,"=","CAGE THE ELEPHANT","Cigarette Daydreams",2264,"-17",-195,"+26",8.616,"-0.035",180,"204",1,2576,279,9.931
-3,"=","IMAGINE DRAGONS","I Bet My Life",2197,"-7",-67,"+9",8.321,"-0.031",116,"11",3,2331,892,9.986
-4,"=","MODEST MOUSE","Lampshades On Fire",2081,"+31",178,"+11",6.954,"+0.106",66,"247",4,2081,949,6.954
-5,"=","BLEACHERS","Rollercoaster",1889,"-2",-4,"+2",6.808,"+0.020",168,"365",5,1907,226,7.268
-6,"=","ARCTIC MONKEYS","R U Mine?",1694,"-30",-308,"+20",6.129,"-0.083",173,"590",2,2478,241,9.084
-7,"=","MILKY CHANCE","Stolen Dance",1646,"-25",-8,"-25",8.923,"-0.227",271,"98",1,2941,385,13.393
-8,"=","ROBERT DELONG","Long Way Down",1591,"+18",65,"+12",4.895,"-0.017",109,"390",8,1591,178,4.912
-9,"+1","DEATH CAB FOR CUTIE","Black Sun",1451,"+18",172,"+3",4.901,"+0.068",25,"407",9,1451,956,4.901
-10,"-1","HOZIER","Take Me To Church",1442,"-14",-91,"+1",7.25,"-0.077",248,"9",2,2663,263,12.227
-11,"=","AWOLNATION","Hollow Moon (Bad Wolf)",1434,"+12",140,"-19",4.534,"+0.006",24,"293",10,1434,895,4.534
-12,"=","GEORGE EZRA","Budapest",1333,"+14",30,"+6",4.576,"+0.063",159,"102",12,1333,117,4.576
-13,"=","BANKS","Beggin For Thread",1188,"-50",-137,"-46",5.089,"-0.205",173,"577",11,1430,183,5.724
-14,"+1","FOO FIGHTERS","Something From Nothing",1110,"-25",-267,"+30",4.951,"-0.101",127,"--",1,2971,2029,12.15
-15,"+1","VANCE JOY","Mess Is Mine",1081,"+5",35,"-6",3.597,"+0.104",79,"328",15,1081,164,3.597
-16,"-2","ROYAL BLOOD","Figure It Out",1081,"-72",-458,"-29",3.281,"-0.155",173,"1143",8,1780,201,5.528
-17,"=","ANDREW MCMAHON IN WILDERNESS","Cecilia And The Satellite",1000,"+15",56,"+10",3.857,"+0.008",154,"932",16,1000,113,3.857
-18,"=","CATFISH AND THE BOTTLEMEN","Kathleen",985,"+1",-70,"+7",3.374,"-0.004",132,"--",14,1074,143,3.603
-19,"=","JOYWAVE","Somebody New",934,"+14",112,"-13",3.211,"+0.068",89,"--",19,934,188,3.211
-20,"=","BLACK KEYS","Weight Of Love",926,"+9",-3,"+11",2.173,"+0.037",64,"1226",18,938,216,2.219
-21,"+1","GLASS ANIMALS","Gooey",899,"+4",58,"-3",2.166,"+0.022",146,"576",17,902,103,2.265
-22,"-1","ALT-J","Every Other Freckle",884,"-13",-11,"-14",1.888,"-0.063",84,"920",18,901,121,2.057
-23,"+1","FOO FIGHTERS","Congregation",797,"+41",394,"-11",2.664,"+0.161",15,"--",23,797,424,2.664
-24,"-1","YELAWOLF","Till It's Gone",756,"-1",28,"-8",1.665,"+0.006",110,"383",22,769,81,1.686
-25,"=","KOOKS","Bad Habit",707,"+1",20,"-6",1.828,"+0.002",152,"--",23,707,109,1.828
-26,"=","INCUBUS","Absolution Calling",677,"+12",234,"+78",2.639,"-0.109",14,"1152",26,677,507,2.938
-27,"+2","FLORENCE + THE MACHINE","What Kind Of Man",673,"+53",579,"-41",3.721,"-0.183",6,"35",27,673,620,3.904
-28,"-1","OFFSPRING","Coming For You",640,"-9",113,"-46",2.429,"-0.035",17,"159",26,649,303,2.489
-29,"-1","RISE AGAINST","Tragedy + Time",627,"+4",-46,"-3",2.131,"+0.039",117,"--",21,676,110,2.678
-30,"=","DIRTY HEADS","Sound Of Change",592,"+1",27,"-8",1.82,"+0.027",111,"--",26,592,109,1.841
-31,"=","MILKY CHANCE","Flashed Junk Mind",563,"+1",-16,"+1",1.265,"+0.042",44,"464",26,580,188,1.303
-32,"=","SAINT MOTEL","My Type",554,"+12",94,"+6",1.623,"+0.025",31,"1079",29,554,151,1.65
-33,"=","MATT AND KIM","Get It",465,"+5",39,"-2",1.135,"-0.003",32,"834",29,465,147,1.153
-34,"+2","CHET FAKER","Gold",343,"+18",64,"+22",0.558,"+0.018",69,"1251",33,343,64,0.595
-35,"=","SMALLPOOLS","Karaoke",332,"+4",-22,"+14",0.454,"-0.001",40,"--",29,372,163,0.628
-36,"-2","KONGOS","I Want To Know",329,"-2",24,"-15",0.877,"-0.007",26,"--",34,331,138,0.884
-37,"+1","SEETHER","Same Damn Life",311,"+4",29,"+4",0.908,"+0.010",76,"863",36,311,59,0.965
-38,"-1","U2","Every Breaking Wave",307,"-1",-20,"+5",2.095,"+0.008",118,"--",23,567,191,3.101
-39,"=","FALL OUT BOY","Uma Thurman",293,"+12",50,"+15",0.589,"+0.027",21,"92",38,293,75,0.589
-40,"=","IN THE VALLEY BELOW","Peaches",280,"+4",76,"-12",0.802,"-0.025",12,"--",40,280,99,0.873
-41,"=","INTERPOL","Everything Is Wrong",274,"+4",61,"-2",0.349,"+0.005",27,"--",39,274,68,0.36
-42,"=","THE MOWGLI'S","I'm Good",229,"+11",34,"+6",0.297,"+0.006",11,"918",42,229,146,0.406
-43,"=","GRISWOLDS","If You Wanna Stay",219,"+6",22,"-1",0.182,"+0.000",26,"--",42,220,62,0.196
-44,"=","SHEPPARD","Geronimo",212,"+1",30,"-2",1.694,"+0.002",66,"56",40,213,40,1.729
-45,"=","NIGHT RIOTS","Contagious",205,"+7",18,"+8",0.16,"+0.011",40,"--",43,205,50,0.16
-46,"+1","FAMILY OF THE YEAR","Hero",191,"+1",7,"-3",1.42,"+0.019",203,"134",11,1047,123,3.907
-47,"--","ALABAMA SHAKES","Don't Wanna Fight",183,"--",124,"--",1.079,"--",1,"514",47,183,124,1.079
-48,"=","HOZIER","From Eden",177,"-6",-15,"-7",0.531,"-0.018",18,"459",43,200,42,0.625
-49,"-3","LORDE","Yellow Flicker Beat",174,"-18",-75,"-15",0.568,"-0.048",143,"400",10,1433,981,5.19
-50,"-1","BRICK+MORTAR","Hollow Tune",164,"-2",6,"-3",0.499,"-0.012",35,"--",44,177,23,0.527
+"Title","Artist","Spins"
+"Shut Up And Dance","WALK THE MOON",2625
+"Cigarette Daydreams","CAGE THE ELEPHANT",2264
+"I Bet My Life","IMAGINE DRAGONS",2197
+"Lampshades On Fire","MODEST MOUSE",2081
+"Rollercoaster","BLEACHERS",1889
+"R U Mine?","ARCTIC MONKEYS",1694
+"Stolen Dance","MILKY CHANCE",1646
+"Long Way Down","ROBERT DELONG",1591
+"Black Sun","DEATH CAB FOR CUTIE",1451
+"Take Me To Church","HOZIER",1442
+"Hollow Moon (Bad Wolf)","AWOLNATION",1434
+"Budapest","GEORGE EZRA",1333
+"Beggin For Thread","BANKS",1188
+"Something From Nothing","FOO FIGHTERS",1110
+"Mess Is Mine","VANCE JOY",1081
+"Figure It Out","ROYAL BLOOD",1081
+"Cecilia And The Satellite","ANDREW MCMAHON IN WILDERNESS",1000
+"Kathleen","CATFISH AND THE BOTTLEMEN",985
+"Somebody New","JOYWAVE",934
+"Weight Of Love","BLACK KEYS",926
+"Gooey","GLASS ANIMALS",899
+"Every Other Freckle","ALT-J",884
+"Congregation","FOO FIGHTERS",797
+"Till It's Gone","YELAWOLF",756
+"Bad Habit","KOOKS",707
+"Absolution Calling","INCUBUS",677
+"What Kind Of Man","FLORENCE + THE MACHINE",673
+"Coming For You","OFFSPRING",640
+"Tragedy + Time","RISE AGAINST",627
+"Sound Of Change","DIRTY HEADS",592
+"Flashed Junk Mind","MILKY CHANCE",563
+"My Type","SAINT MOTEL",554
+"Get It","MATT AND KIM",465
+"Gold","CHET FAKER",343
+"Karaoke","SMALLPOOLS",332
+"I Want To Know","KONGOS",329
+"Same Damn Life","SEETHER",311
+"Every Breaking Wave","U2",307
+"Uma Thurman","FALL OUT BOY",293
+"Peaches","IN THE VALLEY BELOW",280
+"Everything Is Wrong","INTERPOL",274
+"I'm Good","THE MOWGLI'S",229
+"If You Wanna Stay","GRISWOLDS",219
+"Geronimo","SHEPPARD",212
+"Contagious","NIGHT RIOTS",205
+"Hero","FAMILY OF THE YEAR",191
+"Don't Wanna Fight","ALABAMA SHAKES",183
+"From Eden","HOZIER",177
+"Yellow Flicker Beat","LORDE",174
+"Hollow Tune","BRICK+MORTAR",164

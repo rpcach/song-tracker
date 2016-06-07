@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","RACHEL PLATTEN","Stand By You",6287,"+10",74,"-23",39.166,"+0.545",156,"35",1,6287,625,39.166
-2,"=","TWENTY ONE PILOTS","Stressed Out",5860,"+56",349,"-36",35.995,"+0.546",85,"5",2,5860,901,35.995
-3,"=","SHAWN MENDES","Stitches",5197,"-35",-390,"+48",35.626,"-0.034",184,"49",1,6477,799,41.425
-4,"+1","JUSTIN BIEBER","Sorry",5147,"+1",-106,"-32",34.565,"+0.192",91,"19",4,5252,872,34.565
-5,"+1","ADELE","When We Were Young",5093,"+59",287,"+38",31.228,"+0.417",78,"13",5,5093,957,31.228
-6,"-2","ELLIE GOULDING","On My Mind",5032,"-137",-922,"-74",27.512,"-0.971",143,"140",1,6324,643,37.307
-7,"=","ADELE","Hello",4721,"-49",-355,"+26",34.67,"-0.484",117,"10",1,7182,3141,48.532
-8,"=","COLDPLAY","Adventure Of A Lifetime",4704,"-32",-85,"-24",26.414,"-0.164",103,"31",7,4807,1659,26.997
-9,"=","SELENA GOMEZ","Same Old Love",4441,"+15",104,"-44",27.459,"+0.186",112,"60",9,4441,514,27.459
-10,"=","ELLE KING","Ex's and Oh's",4306,"-19",-358,"+23",30.565,"-0.289",256,"37",1,7112,645,45.436
-11,"=","TAYLOR SWIFT","Out Of The Woods",3645,"+10",138,"-18",19.357,"-0.008",43,"24",11,3645,1261,19.365
-12,"+1","JUSTIN BIEBER","Love Yourself",3588,"+112",636,"+47",25.365,"+0.968",56,"2",12,3588,783,25.365
-13,"-1","JAMES BAY","Let It Go",3581,"+52",298,"+0",21.564,"+0.318",143,"4",12,3581,333,21.564
-14,"=","ANDY GRAMMER","Good To Be Alive (Hallelujah)",3456,"+4",-97,"+10",19.834,"-0.040",154,"68",12,3560,356,19.874
-15,"=","CHARLIE PUTH","One Call Away",3300,"+36",213,"+4",18.446,"+0.673",108,"15",15,3300,408,18.446
-16,"=","ALESSIA CARA","Here",2843,"+20",92,"+33",16.954,"+0.076",111,"57",15,2843,370,16.995
-17,"=","LUKAS GRAHAM","7 Years",2690,"+86",695,"-11",16.91,"+0.588",46,"11",17,2690,706,16.91
-18,"=","THE WEEKND","In The Night",2551,"+16",28,"-4",12.778,"-0.038",76,"28",17,2551,434,13.515
-19,"=","DNCE","Cake By The Ocean",2137,"+36",279,"-12",10.663,"+0.139",94,"20",19,2137,456,10.663
-20,"=","DAYA","Hide Away",1730,"+23",102,"+8",7.28,"+0.074",88,"43",20,1730,404,7.28
-21,"=","FALL OUT BOY","Irresistible f/Demi Lovato",1225,"-86",-466,"-79",5.486,"-0.218",117,"132",19,1728,298,8.718
-22,"+1","BORNS","Electric Love",1082,"+18",184,"-13",4.518,"+0.211",60,"148",22,1082,253,4.518
-23,"-1","ONE DIRECTION","Perfect",1068,"-24",-149,"-10",4.817,"-0.123",74,"94",22,1259,218,5.837
-24,"=","A GREAT BIG WORLD","Oasis",981,"+21",112,"-3",3.065,"+0.071",62,"--",24,981,241,3.065
-25,"=","BEN RECTOR","Brand New",934,"+10",177,"-16",3.242,"+0.024",38,"--",25,934,193,3.242
-26,"=","ELLIE GOULDING","Something In The Way You Move",929,"+87",459,"+56",4.467,"+0.267",22,"75",26,929,459,4.467
-27,"=","ZELLA DAY","Hypnotic",782,"-11",-10,"-16",2.573,"-0.023",101,"1363",26,801,166,2.596
-28,"+1","ELLE KING","America's Sweetheart",747,"+59",448,"+17",3.192,"+0.184",12,"257",28,747,448,3.192
-29,"-1","ADAM LAMBERT","Another Lonely Night",710,"-53",-466,"-19",2.403,"-0.031",97,"--",23,1308,164,4.486
-30,"=","SHAWN MENDES & CAMILA CABELLO","I Know What You Did Last...",636,"+25",65,"+21",2.485,"+0.176",60,"30",30,636,111,2.485
-31,"=","EMPIRE OF THE SUN","Walking On A Dream",602,"+33",248,"+18",3.181,"+0.136",17,"199",31,602,248,3.181
-32,"+1","THOMAS RHETT","Die A Happy Man",559,"+21",119,"+0",2.097,"+0.103",47,"29",32,559,123,2.097
-33,"+1","HALEY REINHART","Can't Help Falling In Love",554,"+19",67,"+16",3.473,"+0.152",80,"164",32,554,100,3.473
-34,"-2","DEMI LOVATO","Confident",551,"-8",-89,"+35",3.891,"-0.108",119,"105",16,2486,352,13.547
-35,"+1","THE CHAINSMOKERS","Roses f/Rozes",543,"+31",91,"+25",2.432,"+0.143",26,"21",34,543,134,2.432
-36,"-1","MARIANAS TRENCH","One Love",536,"+2",14,"-4",1.115,"+0.007",87,"--",31,536,92,1.115
-37,"=","COLD WAR KIDS","First",400,"+3",34,"-1",1.894,"+0.043",77,"450",37,400,70,2.027
-38,"=","ANDRA DAY","Rise Up",387,"+7",69,"-8",0.868,"-0.005",18,"23",38,387,109,0.879
-39,"=","VANCE JOY","Fire And The Flood",372,"+2",141,"-27",1.569,"+0.005",12,"423",39,372,168,1.569
-40,"=","ROBIN SCHULZ","Sugar f/Francesco Yates",367,"+9",54,"+6",1.193,"+0.041",24,"78",39,367,86,1.193
-41,"+1","RUTH B.","Lost Boy",356,"+12",79,"+12",1.484,"+0.036",28,"89",41,356,79,1.484
-42,"-1","CAM","Burning House",348,"+3",48,"-2",0.742,"+0.026",34,"80",41,348,67,0.742
-43,"=","NATHANIEL RATELIFF/NIGHTSWEATS","S.O.B",236,"+4",3,"+3",0.582,"-0.010",17,"--",43,237,68,0.605
-44,"=","TORI KELLY","Hollow",228,"+3",37,"+1",0.31,"+0.002",10,"27",44,228,58,0.31
-45,"=","AUDIODAMN!","Radar",221,"-2",3,"-11",0.251,"+0.001",14,"--",45,223,66,0.251
-46,"=","MATT SIMONS","Catch & Release",219,"+12",111,"+2",0.456,"+0.015",4,"1243",46,219,113,0.456
-47,"=","SELENA GOMEZ","Hands To Myself",201,"+2",54,"-3",0.879,"+0.002",3,"18",47,201,57,0.879
-48,"=","FLO RIDA","My House",169,"-2",-6,"-10",0.93,"+0.005",5,"1",48,173,45,0.974
-49,"--","GWEN STEFANI","Make Me Like You",160,"--",160,"--",1.275,"--",1,"9",49,160,160,1.275
-50,"=","NATHAN SYKES","Over And Over Again f/A.Grande",140,"+5",31,"+3",0.128,"+0.004",3,"604",50,140,31,0.128
+"Title","Artist","Spins"
+"Stand By You","RACHEL PLATTEN",6287
+"Stressed Out","TWENTY ONE PILOTS",5860
+"Stitches","SHAWN MENDES",5197
+"Sorry","JUSTIN BIEBER",5147
+"When We Were Young","ADELE",5093
+"On My Mind","ELLIE GOULDING",5032
+"Hello","ADELE",4721
+"Adventure Of A Lifetime","COLDPLAY",4704
+"Same Old Love","SELENA GOMEZ",4441
+"Ex's and Oh's","ELLE KING",4306
+"Out Of The Woods","TAYLOR SWIFT",3645
+"Love Yourself","JUSTIN BIEBER",3588
+"Let It Go","JAMES BAY",3581
+"Good To Be Alive (Hallelujah)","ANDY GRAMMER",3456
+"One Call Away","CHARLIE PUTH",3300
+"Here","ALESSIA CARA",2843
+"7 Years","LUKAS GRAHAM",2690
+"In The Night","THE WEEKND",2551
+"Cake By The Ocean","DNCE",2137
+"Hide Away","DAYA",1730
+"Irresistible f/Demi Lovato","FALL OUT BOY",1225
+"Electric Love","BORNS",1082
+"Perfect","ONE DIRECTION",1068
+"Oasis","A GREAT BIG WORLD",981
+"Brand New","BEN RECTOR",934
+"Something In The Way You Move","ELLIE GOULDING",929
+"Hypnotic","ZELLA DAY",782
+"America's Sweetheart","ELLE KING",747
+"Another Lonely Night","ADAM LAMBERT",710
+"I Know What You Did Last...","SHAWN MENDES & CAMILA CABELLO",636
+"Walking On A Dream","EMPIRE OF THE SUN",602
+"Die A Happy Man","THOMAS RHETT",559
+"Can't Help Falling In Love","HALEY REINHART",554
+"Confident","DEMI LOVATO",551
+"Roses f/Rozes","THE CHAINSMOKERS",543
+"One Love","MARIANAS TRENCH",536
+"First","COLD WAR KIDS",400
+"Rise Up","ANDRA DAY",387
+"Fire And The Flood","VANCE JOY",372
+"Sugar f/Francesco Yates","ROBIN SCHULZ",367
+"Lost Boy","RUTH B.",356
+"Burning House","CAM",348
+"S.O.B","NATHANIEL RATELIFF/NIGHTSWEATS",236
+"Hollow","TORI KELLY",228
+"Radar","AUDIODAMN!",221
+"Catch & Release","MATT SIMONS",219
+"Hands To Myself","SELENA GOMEZ",201
+"My House","FLO RIDA",169
+"Make Me Like You","GWEN STEFANI",160
+"Over And Over Again f/A.Grande","NATHAN SYKES",140

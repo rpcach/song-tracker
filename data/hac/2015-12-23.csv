@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","ADELE","Hello",6828,"-23",-166,"+8",46.495,"-0.164",61,"1",1,7165,3141,48.532
-2,"=","MEGHAN TRAINOR","Like I'm Gonna Lose You",6613,"+58",155,"+47",44.254,"+0.312",182,"11",2,6613,728,44.599
-3,"=","SHAWN MENDES","Stitches",6028,"+9",-76,"+32",39.933,"+0.281",128,"16",3,6151,799,40.403
-4,"=","ELLE KING","Ex's and Oh's",5864,"-36",-314,"-4",40.837,"-0.268",200,"17",1,7112,645,45.436
-5,"+1","ELLIE GOULDING","On My Mind",5225,"+8",297,"-73",30.536,"+0.235",87,"33",5,5225,643,30.536
-6,"-1","TAYLOR SWIFT","Wildest Dreams",5209,"-28",-437,"+42",39.273,"-0.259",120,"13",1,7176,1313,45.645
-7,"=","RACHEL PLATTEN","Stand By You",4063,"+37",280,"-19",24.239,"+0.161",100,"38",7,4063,625,24.239
-8,"=","COLDPLAY","Adventure Of A Lifetime",3525,"+35",244,"-3",20.861,"+0.257",47,"43",8,3525,1659,20.861
-9,"=","X AMBASSADORS","Renegades",3390,"-57",-311,"-55",22.095,"-0.174",190,"71",1,6751,707,39.317
-10,"=","R. CITY","Locked Away f/Adam Levine",2955,"-33",-333,"+9",18.093,"-0.217",150,"68",3,6549,885,38.575
-11,"=","GWEN STEFANI","Used To Love You",2747,"+18",180,"-9",13.498,"+0.251",59,"52",11,2747,554,13.498
-12,"=","ANDY GRAMMER","Good To Be Alive (Hallelujah)",2598,"+15",227,"-28",13.993,"+0.313",98,"42",12,2598,356,13.993
-13,"=","JESS GLYNNE","Hold My Hand",2491,"+12",134,"-15",14.301,"+0.104",127,"206",13,2491,309,14.301
-14,"=","JUSTIN BIEBER","Sorry",2404,"+54",592,"-39",15.385,"+0.580",35,"3",14,2404,745,15.385
-15,"=","JAMES BAY","Let It Go",2369,"+41",103,"+34",13.643,"+0.467",87,"41",14,2369,333,13.643
-16,"=","DEMI LOVATO","Confident",2312,"+38",340,"-5",12.89,"+0.240",63,"26",16,2312,352,12.89
-17,"=","SELENA GOMEZ","Same Old Love",2302,"+63",514,"+1",11.989,"+0.340",56,"5",17,2302,514,11.989
-18,"+1","ALESSIA CARA","Here",2200,"+28",248,"-35",11.679,"+0.122",55,"12",17,2200,370,11.679
-19,"-1","JUSTIN BIEBER","What Do You Mean?",2140,"-40",-618,"+78",15.143,"-0.311",108,"14",8,3850,644,23.291
-20,"=","ADELE","When We Were Young",2128,"+85",861,"-52",14.518,"+0.504",22,"21",20,2128,957,14.518
-21,"=","ROB THOMAS","Hold On Forever",1720,"+17",122,"-2",7.249,"-0.013",100,"711",19,1720,229,7.262
-22,"+1","TWENTY ONE PILOTS","Stressed Out",1614,"+76",584,"+18",8.722,"+0.370",29,"4",22,1614,584,8.722
-23,"-1","RUDIMENTAL","Lay It All On Me f/Ed Sheeran",1445,"-117",-941,"-11",8.869,"-0.663",85,"85",11,3011,537,18.109
-24,"+1","CHARLIE PUTH","One Call Away",1269,"+46",266,"+26",4.769,"+0.262",52,"31",24,1269,266,4.769
-25,"-1","FALL OUT BOY","Irresistible f/Demi Lovato",1268,"+11",136,"-9",6.784,"+0.022",61,"114",22,1268,298,6.784
-26,"=","PENTATONIX","Can't  Sleep Love",1000,"+7",12,"+8",3.602,"+0.114",91,"171",24,1000,140,3.786
-27,"=","ADAM LAMBERT","Another Lonely Night",878,"+10",142,"-10",3.461,"+0.126",41,"--",27,878,164,3.461
-28,"=","ONE DIRECTION","Drag Me Down",784,"-2",-134,"+26",5.383,"-0.319",134,"40",16,1941,312,10.965
-29,"=","SARA BAREILLES","She Used To Be Mine",692,"-18",-101,"-20",2.76,"-0.158",83,"520",25,813,285,3.355
-30,"=","HALSEY","New Americana",689,"+8",49,"+5",3.655,"-0.010",73,"64",29,689,97,3.713
-31,"+1","THE WEEKND","In The Night",664,"+25",222,"-4",4.022,"+0.141",20,"15",31,664,226,4.022
-32,"-1","KELLY CLARKSON","Piece By Piece",643,"-2",138,"-18",2.075,"+0.070",38,"--",31,645,156,2.075
-33,"=","ZELLA DAY","Hypnotic",597,"+8",99,"-10",1.345,"+0.059",45,"1207",32,597,166,1.345
-34,"=","THE BAND PERRY","Live Forever",473,"-3",54,"-11",2.037,"+0.014",25,"714",34,476,119,2.15
-35,"=","THE SCORE","Oh My Love",429,"+6",44,"+12",1.4,"+0.055",42,"--",35,429,139,1.4
-36,"=","ONE DIRECTION","Perfect",409,"+7",87,"-12",2.577,"-0.106",18,"19",36,409,135,2.683
-37,"+1","DNCE","Cake By The Ocean",398,"+5",49,"-3",1.588,"+0.031",38,"22",37,398,60,1.588
-38,"-1","SIA","Alive",391,"-5",-36,"-5",1.817,"+0.024",79,"115",33,439,138,2.022
-39,"=","MARIANAS TRENCH","One Love",379,"-5",28,"-14",0.691,"-0.003",31,"--",39,384,92,0.694
-40,"=","A GREAT BIG WORLD","Hold Each Other f/Futuristic",361,"+2",-46,"+21",2.514,"+0.055",147,"1004",11,3210,463,15.635
-41,"=","DAYA","Hide Away",357,"+14",75,"+5",1.751,"+0.091",32,"18",41,357,75,1.751
-42,"=","FOR KING & COUNTRY","Fix My Eyes",340,"+6",4,"+2",0.659,"+0.008",90,"957",36,354,64,0.702
-43,"=","MICHAEL FRANTI & SPEARHEAD","Once A Day",292,"-17",-166,"+4",1.088,"-0.035",94,"--",29,589,132,1.752
-44,"+1","A GREAT BIG WORLD","Oasis",260,"+20",132,"+6",0.367,"+0.043",6,"--",44,260,140,0.367
-45,"-1","BORNS","Electric Love",259,"+14",180,"-9",0.485,"+0.031",4,"303",44,259,189,0.485
-46,"=","HALEY REINHART","Can't Help Falling In Love",216,"+1",24,"+0",1.333,"-0.014",24,"235",44,226,95,1.496
-47,"=","JUSTIN TIMBERLAKE","Drink You Away",214,"+9",42,"+9",0.968,"-0.008",18,"112",46,214,51,0.976
-48,"=","COLD WAR KIDS","First",188,"+1",11,"-3",0.754,"+0.021",21,"179",47,206,24,0.763
-49,"=","SHAWN MENDES & CAMILA CABELLO","I Know What You Did Last...",186,"+3",31,"-5",0.743,"-0.013",5,"27",49,186,39,0.756
-50,"--","JUSTIN BIEBER","Love Yourself",171,"--",80,"--",1.764,"--",1,"2/82",50,171,80,1.764
+"Title","Artist","Spins"
+"Hello","ADELE",6828
+"Like I'm Gonna Lose You","MEGHAN TRAINOR",6613
+"Stitches","SHAWN MENDES",6028
+"Ex's and Oh's","ELLE KING",5864
+"On My Mind","ELLIE GOULDING",5225
+"Wildest Dreams","TAYLOR SWIFT",5209
+"Stand By You","RACHEL PLATTEN",4063
+"Adventure Of A Lifetime","COLDPLAY",3525
+"Renegades","X AMBASSADORS",3390
+"Locked Away f/Adam Levine","R. CITY",2955
+"Used To Love You","GWEN STEFANI",2747
+"Good To Be Alive (Hallelujah)","ANDY GRAMMER",2598
+"Hold My Hand","JESS GLYNNE",2491
+"Sorry","JUSTIN BIEBER",2404
+"Let It Go","JAMES BAY",2369
+"Confident","DEMI LOVATO",2312
+"Same Old Love","SELENA GOMEZ",2302
+"Here","ALESSIA CARA",2200
+"What Do You Mean?","JUSTIN BIEBER",2140
+"When We Were Young","ADELE",2128
+"Hold On Forever","ROB THOMAS",1720
+"Stressed Out","TWENTY ONE PILOTS",1614
+"Lay It All On Me f/Ed Sheeran","RUDIMENTAL",1445
+"One Call Away","CHARLIE PUTH",1269
+"Irresistible f/Demi Lovato","FALL OUT BOY",1268
+"Can't  Sleep Love","PENTATONIX",1000
+"Another Lonely Night","ADAM LAMBERT",878
+"Drag Me Down","ONE DIRECTION",784
+"She Used To Be Mine","SARA BAREILLES",692
+"New Americana","HALSEY",689
+"In The Night","THE WEEKND",664
+"Piece By Piece","KELLY CLARKSON",643
+"Hypnotic","ZELLA DAY",597
+"Live Forever","THE BAND PERRY",473
+"Oh My Love","THE SCORE",429
+"Perfect","ONE DIRECTION",409
+"Cake By The Ocean","DNCE",398
+"Alive","SIA",391
+"One Love","MARIANAS TRENCH",379
+"Hold Each Other f/Futuristic","A GREAT BIG WORLD",361
+"Hide Away","DAYA",357
+"Fix My Eyes","FOR KING & COUNTRY",340
+"Once A Day","MICHAEL FRANTI & SPEARHEAD",292
+"Oasis","A GREAT BIG WORLD",260
+"Electric Love","BORNS",259
+"Can't Help Falling In Love","HALEY REINHART",216
+"Drink You Away","JUSTIN TIMBERLAKE",214
+"First","COLD WAR KIDS",188
+"I Know What You Did Last...","SHAWN MENDES & CAMILA CABELLO",186
+"Love Yourself","JUSTIN BIEBER",171

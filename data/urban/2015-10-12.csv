@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","DRAKE","Hotline Bling",4281,11,476,-91,29.606,0.341,43,"1",1,4281,951,29.606
-2,"=","THE WEEKND","The Hills",4141,-16,-191,18,29.803,-0.115,104,"2/3/27",1,4382,839,30.05
-3,"=","FETTY WAP","679 f/Remy Boyz...",3903,-4,-14,-4,27.083,-0.122,79,"13",1,3975,703,27.756
-4,"=","FUTURE","Where Ya At f/Drake",3509,28,170,-23,20.17,0.155,78,"81",4,3509,499,20.17
-5,"+1","K CAMP","Comfortable",3154,-21,-142,-19,18.671,-0.007,109,"123",5,3331,462,18.846
-6,"-1","JEREMIH","Planes f/J. Cole",3146,-41,-127,-16,22.111,-0.233,239,"95",1,3985,527,27.185
-7,"=","MEEK MILL","All Eyes On You f/Minaj/Brown",3116,5,-167,39,19.696,0.202,105,"100",1,3925,800,24.711
-8,"=","CHRIS BROWN","Liquor",2958,6,44,-20,18.346,-0.027,93,"131",8,2968,416,18.505
-9,"=","RICH HOMIE QUAN","Flex",2817,-7,-176,6,19.242,-0.001,205,"88",1,4457,532,28.409
-10,"=","TY DOLLA $IGN","Blase f/Future & Rae Sremmurd",2342,-29,-79,-79,13.615,-0.228,65,"--",10,2444,335,14.177
-11,"=","FETTY WAP","My Way f/Monty",2202,-13,-275,51,14,-0.077,152,"43",1,4569,609,30.213
-12,"=","DRAKE","Back To Back",2173,11,7,-5,16.566,0.153,72,"59",12,2222,640,16.566
-13,"=","OMARION","I'm Up f/Kid Ink",2008,-5,72,-52,11.922,0.043,92,"399",13,2017,303,11.922
-14,"=","J. COLE","No Role Modelz",1927,28,224,0,10.162,0.266,60,"98",14,1927,340,10.162
-15,"=","DEJ LOAF","Back Up f/Big Sean",1925,36,259,17,10.785,0.234,77,"156",14,1925,286,10.785
-16,"=","TRAVI$ SCOTT","Antidote",1790,9,231,-52,9.404,0.03,46,"--",16,1790,330,9.404
-17,"=","MONICA X LIL WAYNE","Just Right For Me",1781,33,148,28,8.112,0.248,112,"964",16,1781,282,8.112
-18,"+1","TORY LANEZ","Say It",1416,50,358,21,6.977,0.222,28,"164",18,1416,359,6.977
-19,"+1","BRYSON TILLER","Don't",1352,12,149,-37,6.774,0.094,63,"166",19,1352,231,6.774
-20,"-2","TREY SONGZ","About You",1324,-61,-358,-13,7.347,-0.329,94,"253",13,2041,340,12.479
-21,"=","LIL WAYNE & CHARLIE PUTH","Nothing But Trouble",1304,-26,4,-67,6.227,-0.072,78,"110",19,1338,205,6.441
-22,"+1","PUFF DADDY & THE FAMILY","Finna Get Loose f/P. Williams",1302,-5,19,-58,5.724,0.112,57,"841",20,1313,317,5.724
-23,"+1","RAE SREMMURD","Come Get Her",1298,46,352,-16,8.438,0.41,18,"102",23,1298,401,8.438
-24,"-2","ALESSIA CARA","Here",1289,-21,-12,-49,6.898,-0.099,83,"17",19,1334,250,7.43
-25,"=","POST MALONE","White Iverson",1250,28,219,-4,5.419,0.047,43,"39",24,1250,259,5.419
-26,"=","MIGOS","Pipe It Up",1189,4,-49,0,5.363,0.051,70,"863",22,1238,335,5.773
-27,"=","2 CHAINZ","Watch Out",1079,20,28,15,4.526,0.048,50,"502",27,1079,224,4.707
-28,"=","YOUNG DRO","We In Da City",981,-14,-345,26,5.62,-0.053,141,"--",9,2434,343,12.957
-29,"+1","IHEARTMEMPHIS","Hit The Quan",968,20,48,22,4.125,0.067,35,"180",29,968,237,4.125
-30,"-1","KENDRICK LAMAR","Alright",906,-49,-359,10,6.328,-0.547,101,"364",12,2043,350,12.613
-31,"=","JR CASTRO","Get Home f/Kid Ink & Migos",764,8,38,-12,2.784,0.075,32,"891",31,764,178,2.784
-32,"+1","COLONEL LOUD","California f/Young Dolph",762,20,98,14,3.327,-0.01,32,"--",31,762,169,3.337
-33,"-1","BIG SEAN","Play No Games",757,13,134,-12,4.894,0.104,14,"408",32,757,332,4.894
-34,"+1","MALACHIAE WARREN","Thank Yo Momma",712,-2,59,-36,2.607,-0.036,29,"--",33,720,144,2.94
-35,"+1","DJ CHOSE","Everywhere I Go f/MC Beezy",712,5,19,13,2.436,0.032,52,"--",32,712,126,2.451
-36,"-2","TAMAR BRAXTON","Catfish",706,-25,29,-58,2.154,-0.038,20,"--",32,731,275,2.247
-37,"=","LIL GEORGE","Sauce",658,12,-20,0,2.382,0.025,80,"--",32,696,163,2.505
-38,"=","YOUNG THUG/JAMIE XX F/POPCAAN","I Know There's Gonna Be (Good",606,7,49,-1,2.08,-0.008,27,"--",38,606,90,2.088
-39,"=","CURREN$Y","Bottom Of The Bottle",600,19,42,8,1.912,0.014,22,"--",39,600,257,1.912
-40,"=","AUGUST ALSINA","Why I Do It f/Lil Wayne",579,1,8,-18,2.16,0.043,16,"755",38,588,151,2.218
-41,"+8","EMPIRE CAST","Bout 2 Blow f/Yazz",571,108,547,103,4.467,0.973,2,"376",41,571,547,4.467
-42,"=","VEDO","Classic",552,4,3,11,1.465,-0.021,25,"--",39,556,110,1.696
-43,"-2","LIL DICKY","$ave Dat Money",544,-4,88,-31,1.864,-0.007,9,"194",41,548,119,1.871
-44,"-1","DRAKE & FUTURE","Jumpman",520,21,168,4,3.632,0.1,8,"21",43,520,181,3.632
-45,"=","NICKI MINAJ","Trini Dem Girls",491,3,-38,15,1.489,0.014,23,"568",42,541,97,1.789
-46,"+2","FETTY WAP","Again",485,20,169,20,5.694,0.464,4,"48",46,485,169,5.694
-47,"=","BJ THE CHICAGO KID","Church",482,8,96,-2,1.568,-0.018,8,"--",46,482,109,1.586
-48,"-2","RITA ORA","Body On Me f/Chris Brown",482,3,35,-10,1.889,0.09,10,"350",45,482,94,1.889
-49,"-5","STEPH LECOR","Saturday",482,-9,8,-23,1.807,0,13,"--",43,497,94,1.846
-50,"=","KIRKO BANGZ","Worry Bout It f/Fetty Wap",440,12,2,4,1.406,0.091,43,"--",45,496,121,1.896
+"Title","Artist","Spins"
+"Hotline Bling","DRAKE",4281
+"The Hills","THE WEEKND",4141
+"679 f/Remy Boyz...","FETTY WAP",3903
+"Where Ya At f/Drake","FUTURE",3509
+"Comfortable","K CAMP",3154
+"Planes f/J. Cole","JEREMIH",3146
+"All Eyes On You f/Minaj/Brown","MEEK MILL",3116
+"Liquor","CHRIS BROWN",2958
+"Flex","RICH HOMIE QUAN",2817
+"Blase f/Future & Rae Sremmurd","TY DOLLA $IGN",2342
+"My Way f/Monty","FETTY WAP",2202
+"Back To Back","DRAKE",2173
+"I'm Up f/Kid Ink","OMARION",2008
+"No Role Modelz","J. COLE",1927
+"Back Up f/Big Sean","DEJ LOAF",1925
+"Antidote","TRAVI$ SCOTT",1790
+"Just Right For Me","MONICA X LIL WAYNE",1781
+"Say It","TORY LANEZ",1416
+"Don't","BRYSON TILLER",1352
+"About You","TREY SONGZ",1324
+"Nothing But Trouble","LIL WAYNE & CHARLIE PUTH",1304
+"Finna Get Loose f/P. Williams","PUFF DADDY & THE FAMILY",1302
+"Come Get Her","RAE SREMMURD",1298
+"Here","ALESSIA CARA",1289
+"White Iverson","POST MALONE",1250
+"Pipe It Up","MIGOS",1189
+"Watch Out","2 CHAINZ",1079
+"We In Da City","YOUNG DRO",981
+"Hit The Quan","IHEARTMEMPHIS",968
+"Alright","KENDRICK LAMAR",906
+"Get Home f/Kid Ink & Migos","JR CASTRO",764
+"California f/Young Dolph","COLONEL LOUD",762
+"Play No Games","BIG SEAN",757
+"Thank Yo Momma","MALACHIAE WARREN",712
+"Everywhere I Go f/MC Beezy","DJ CHOSE",712
+"Catfish","TAMAR BRAXTON",706
+"Sauce","LIL GEORGE",658
+"I Know There's Gonna Be (Good","YOUNG THUG/JAMIE XX F/POPCAAN",606
+"Bottom Of The Bottle","CURREN$Y",600
+"Why I Do It f/Lil Wayne","AUGUST ALSINA",579
+"Bout 2 Blow f/Yazz","EMPIRE CAST",571
+"Classic","VEDO",552
+"$ave Dat Money","LIL DICKY",544
+"Jumpman","DRAKE & FUTURE",520
+"Trini Dem Girls","NICKI MINAJ",491
+"Again","FETTY WAP",485
+"Church","BJ THE CHICAGO KID",482
+"Body On Me f/Chris Brown","RITA ORA",482
+"Saturday","STEPH LECOR",482
+"Worry Bout It f/Fetty Wap","KIRKO BANGZ",440

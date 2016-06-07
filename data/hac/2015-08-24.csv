@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","RACHEL PLATTEN","Fight Song",6789,"-25",-184,"+20",40.371,"-0.183",174,"6",1,7240,568,44.23
-2,"=","ED SHEERAN","Photograph",6443,"+49",164,"+58",37.584,"+0.105",105,"15",2,6443,859,37.584
-3,"=","TAYLOR SWIFT","Bad Blood",5963,"-26",-244,"+27",32.961,"-0.060",100,"44/67",1,6883,1625,41.771
-4,"=","WALK THE MOON","Shut Up And Dance",5600,"-1",27,"-17",33.727,"+0.111",238,"20",1,7333,638,46.781
-5,"=","THE WEEKND","Can't Feel My Face",5580,"+77",460,"+57",31.723,"+0.554",68,"1",5,5580,921,31.723
-6,"=","OMI","Cheerleader",5191,"+47",349,"-22",29.429,"+0.229",83,"7",6,5191,641,29.429
-7,"=","FALL OUT BOY","Uma Thurman",5109,"+65",436,"+29",27.345,"+0.580",127,"14",7,5109,483,27.345
-8,"=","ANDY GRAMMER","Honey, I'm Good",4639,"-32",-239,"+41",26.334,"-0.351",211,"21",1,6997,620,41.716
-9,"=","WIZ KHALIFA","See You Again f/Charlie Puth",4500,"-52",-349,"+15",26.437,"-0.262",127,"42",2,6398,826,38.171
-10,"=","JASON DERULO","Want To Want Me",3839,"-8",11,"+19",23.954,"+0.036",162,"38",3,6272,792,36.82
-11,"=","X AMBASSADORS","Renegades",3354,"+100",602,"+66",20.096,"+0.718",69,"13",11,3354,602,20.096
-12,"=","DEMI LOVATO","Cool For The Summer",3056,"+31",207,"+12",16.222,"+0.225",50,"16",11,3056,611,16.222
-13,"=","ANDREW MCMAHON IN WILDERNESS","Cecilia And The Satellite",3055,"+54",278,"+42",17.03,"+0.300",111,"133",12,3055,369,17.03
-14,"=","IMAGINE DRAGONS","Shots",2412,"+13",88,"+14",10.546,"-0.036",76,"224",14,2412,378,10.582
-15,"=","CHARLIE PUTH","Marvin Gaye f/Meghan Trainor",2375,"+21",217,"+6",12.878,"+0.283",70,"9",15,2375,375,12.878
-16,"=","ADAM LAMBERT","Ghost Town",2249,"+18",42,"+39",11.775,"+0.220",120,"95",16,2249,305,11.775
-17,"+2","ELLE KING","Ex's and Oh's",2239,"+88",523,"+24",13.069,"+0.580",79,"39",17,2239,523,13.069
-18,"=","MEGHAN TRAINOR","Like I'm Gonna Lose You",2220,"+56",335,"+26",11.866,"+0.480",61,"35",18,2220,356,11.866
-19,"-2","KELLY CLARKSON","Invincible",2056,"-152",-871,"-112",7.857,"-1.086",96,"396",11,3065,488,13.469
-20,"=","SAM HUNT","Take Your Time",2050,"-56",-454,"-27",9.52,"-0.316",155,"60",12,2621,330,12.769
-21,"+2","R. CITY","Locked Away f/Adam Levine",1742,"+124",712,"+61",10.379,"+0.707",29,"3",21,1742,712,10.379
-22,"=","HOZIER","Someone New",1696,"+30",149,"+12",7.264,"+0.305",95,"208",22,1696,191,7.264
-23,"+1","FIFTH HARMONY","Worth It f/Kid Ink",1602,"+19",241,"+0",7.42,"+0.122",80,"27",23,1602,241,7.42
-24,"-3","ROB THOMAS","Trust You",1565,"-142",-758,"-108",5.65,"-0.679",85,"388",12,2512,465,10.186
-25,"+2","A GREAT BIG WORLD","Hold Each Other f/Futuristic",1531,"+85",377,"+58",8.342,"+0.520",26,"196",25,1531,428,8.342
-26,"=","AMERICAN AUTHORS","Go Big Or Go Home",1465,"-9",-41,"+7",5.72,"-0.009",80,"136",21,1546,342,5.854
-27,"-2","NEEDTOBREATHE","Brother f/Gavin DeGraw",1465,"-32",-226,"-2",4.695,"-0.062",141,"128",18,1742,173,5.87
-28,"+1","MAJOR LAZER","Lean On f/MØ & DJ Snake",1103,"+38",176,"+25",5.725,"+0.169",64,"10",28,1103,196,5.725
-29,"-1","NICK FRADIANI","Beautiful Life",1085,"+3",36,"-23",3.692,"-0.045",78,"795",27,1085,153,3.737
-30,"=","U2","Song for Someone",673,"+22",102,"+9",2.411,"+0.026",43,"--",30,673,138,2.411
-31,"=","TORI KELLY","Should've Been Us",622,"+25",108,"+16",2.034,"+0.094",48,"45",31,622,114,2.034
-32,"+1","LEONA LEWIS","Thunder",574,"+16",73,"-22",1.693,"-0.033",22,"--",32,574,189,1.726
-33,"-1","SAM SMITH","Like I Can",531,"-62",-357,"-24",2.291,"-0.357",94,"125",24,1090,221,5.066
-34,"=","SELENA GOMEZ","Good For You f/A$AP Rocky",479,"+15",107,"+12",2.535,"+0.025",39,"17/50",34,479,107,2.568
-35,"=","NATE RUESS","Great Big Storm",388,"+9",55,"+4",0.854,"+0.032",29,"--",35,388,110,0.854
-36,"=","THIRD EYE BLIND","Everything Is Easy",381,"+2",-12,"+8",0.714,"+0.024",58,"--",34,399,73,0.714
-37,"+1","ONE DIRECTION","Drag Me Down",378,"+32",135,"+24",1.789,"+0.201",13,"5",37,378,135,1.789
-38,"-1","ECHOSMITH","Let's Love",372,"+14",122,"+2",0.765,"+0.090",15,"--",37,372,136,0.765
-39,"=","LIFE OF DILLON","Dreams",346,"+15",76,"+16",0.674,"+0.008",29,"--",38,346,76,0.674
-40,"=","LEON BRIDGES","Coming Home",337,"+7",57,"+9",1.084,"-0.005",30,"1035",40,337,91,1.102
-41,"=","MATT NATHANSON","Gold In The Summertime",320,"+2",16,"+3",1.021,"+0.081",38,"--",38,320,85,1.021
-42,"+2","DURAN DURAN","Pressure Off f/Janelle Monae",307,"+30",138,"+21",1.895,"+0.048",9,"--",42,307,138,1.895
-43,"+2","SHAWN MENDES","Stitches",241,"+13",91,"+4",0.777,"+0.037",7,"12",43,241,91,0.777
-44,"+3","JASON DERULO","Cheyenne",218,"+13",74,"+4",0.667,"+0.033",4,"87",44,218,74,0.667
-45,"+3","ROBERT DELONG","Long Way Down",204,"+6",49,"-1",0.832,"+0.069",11,"--",45,204,50,0.832
-46,"--","MACKLEMORE & RYAN LEWIS","Growing Up f/Ed Sheeran",180,"--",69,"--",2.076,"--",1,"--",46,180,69,2.076
-47,"+3","JESS GLYNNE","Hold My Hand",180,"-2",26,"-14",0.371,"+0.001",6,"101",47,182,48,0.371
-48,"--","5 SECONDS OF SUMMER","She's Kinda Hot",176,"--",12,"--",0.907,"--",3,"24",48,176,44,0.907
-49,"--","ZZ WARD","Love 3x",157,"--",-15,"--",0.325,"--",47,"--",42,234,79,0.673
-50,"--","GEORGE EZRA","Blame It On Me",155,"--",105,"--",0.717,"--",1,"597",50,155,105,0.717
+"Title","Artist","Spins"
+"Fight Song","RACHEL PLATTEN",6789
+"Photograph","ED SHEERAN",6443
+"Bad Blood","TAYLOR SWIFT",5963
+"Shut Up And Dance","WALK THE MOON",5600
+"Can't Feel My Face","THE WEEKND",5580
+"Cheerleader","OMI",5191
+"Uma Thurman","FALL OUT BOY",5109
+"Honey, I'm Good","ANDY GRAMMER",4639
+"See You Again f/Charlie Puth","WIZ KHALIFA",4500
+"Want To Want Me","JASON DERULO",3839
+"Renegades","X AMBASSADORS",3354
+"Cool For The Summer","DEMI LOVATO",3056
+"Cecilia And The Satellite","ANDREW MCMAHON IN WILDERNESS",3055
+"Shots","IMAGINE DRAGONS",2412
+"Marvin Gaye f/Meghan Trainor","CHARLIE PUTH",2375
+"Ghost Town","ADAM LAMBERT",2249
+"Ex's and Oh's","ELLE KING",2239
+"Like I'm Gonna Lose You","MEGHAN TRAINOR",2220
+"Invincible","KELLY CLARKSON",2056
+"Take Your Time","SAM HUNT",2050
+"Locked Away f/Adam Levine","R. CITY",1742
+"Someone New","HOZIER",1696
+"Worth It f/Kid Ink","FIFTH HARMONY",1602
+"Trust You","ROB THOMAS",1565
+"Hold Each Other f/Futuristic","A GREAT BIG WORLD",1531
+"Go Big Or Go Home","AMERICAN AUTHORS",1465
+"Brother f/Gavin DeGraw","NEEDTOBREATHE",1465
+"Lean On f/MØ & DJ Snake","MAJOR LAZER",1103
+"Beautiful Life","NICK FRADIANI",1085
+"Song for Someone","U2",673
+"Should've Been Us","TORI KELLY",622
+"Thunder","LEONA LEWIS",574
+"Like I Can","SAM SMITH",531
+"Good For You f/A$AP Rocky","SELENA GOMEZ",479
+"Great Big Storm","NATE RUESS",388
+"Everything Is Easy","THIRD EYE BLIND",381
+"Drag Me Down","ONE DIRECTION",378
+"Let's Love","ECHOSMITH",372
+"Dreams","LIFE OF DILLON",346
+"Coming Home","LEON BRIDGES",337
+"Gold In The Summertime","MATT NATHANSON",320
+"Pressure Off f/Janelle Monae","DURAN DURAN",307
+"Stitches","SHAWN MENDES",241
+"Cheyenne","JASON DERULO",218
+"Long Way Down","ROBERT DELONG",204
+"Growing Up f/Ed Sheeran","MACKLEMORE & RYAN LEWIS",180
+"Hold My Hand","JESS GLYNNE",180
+"She's Kinda Hot","5 SECONDS OF SUMMER",176
+"Love 3x","ZZ WARD",157
+"Blame It On Me","GEORGE EZRA",155

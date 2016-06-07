@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","DEJ LOAF","Try Me",3843,-33,74,-69,21.549,-0.098,81,"133",1,3876,758,21.814
-2,"=","NICKI MINAJ","Only f/Drake, Lil Wayne",3793,-29,83,-103,21.441,-0.064,67,"17",2,3822,819,22.189
-3,"=","RAE SREMMURD","No Type",3730,-20,-121,-26,22.459,-0.087,98,"27",1,3940,544,24.064
-4,"=","I LOVE MAKONNEN","Tuesday f/Drake",3410,-62,-104,-89,21.222,-0.273,113,"37",1,4155,686,26.844
-5,"=","BIG SEAN","I Don't F**k With You f/E-40",3211,-30,-10,-44,20.17,-0.106,97,"230",5,3256,375,20.887
-6,"+1","TREY SONGZ","Touchin, Lovin f/Nicki Minaj",3198,-6,-41,-19,20.098,-0.202,128,"179",5,3300,427,22.668
-7,"+1","DJ KHALED","Hold You Down f/Chris Brown...",3173,27,-55,41,22.197,0.321,145,"136",1,4521,583,28.88
-8,"-2","CHRIS BROWN","New Flame f/Usher & Rick Ross",3153,-54,-80,-42,21.989,-0.456,183,"152",1,4341,633,29.619
-9,"=","BEYONCE","7/11",2998,1,210,17,19.66,-0.043,43,"51",9,2998,931,19.703
-10,"=","WALE","The Body f/Jeremih",2318,-17,-36,-34,12.727,-0.149,103,"307",10,2368,352,14.04
-11,"=","USHER","I Don't Mind f/Juicy J",2034,-4,-66,-5,12.246,0.007,69,"40",11,2134,362,13.082
-12,"=","TAMAR BRAXTON","Let Me Know f/Future",2016,-9,-40,-10,8.734,-0.118,79,"532",12,2139,374,9.846
-13,"=","AUGUST ALSINA","No Love",1843,-30,-198,-23,11.091,-0.171,140,"328",12,2228,274,13.796
-14,"=","NE-YO","She Knows f/Juicy J",1778,8,-38,35,9.51,0.002,100,"94",14,1848,269,10.078
-15,"=","B.O.B","Not For Long f/Trey Songz",1749,-11,57,-40,8.735,-0.131,71,"300",15,1760,306,9.198
-16,"+1","J. COLE","Apparently",1477,20,201,-9,8.66,-0.15,23,"243",16,1477,675,8.896
-17,"-1","DISCLOSURE","Latch f/Sam Smith",1470,-10,-141,5,9.291,-0.085,138,"113",9,2712,371,17.173
-18,"=","K. MICHELLE","Love 'Em All",1330,-16,2,-47,5.939,-0.064,79,"535",18,1356,146,6.124
-19,"=","TEYANA TAYLOR","Maybe f/Pusha T & Yo Gotti",1267,-5,-95,-18,8.375,-0.096,141,"974",15,1939,261,11.745
-20,"=","O.T. GENASIS","CoCo",1231,-1,102,-14,7.609,0.173,51,"48",20,1237,253,7.609
-21,"=","SHY GLIZZY","Awwsome",1202,-10,-61,-19,6.015,0.08,89,"--",21,1286,325,6.305
-22,"=","KID INK","Body Language f/Usher/Tinashe",1139,-8,-95,39,4.983,-0.172,94,"124",20,1392,269,6.467
-23,"=","DRAKE","How About Now",1122,-1,74,-34,7.959,-0.032,51,"--",23,1123,196,7.991
-24,"=","SCHOOLBOY Q","Hell Of A Night",1101,26,34,30,5.46,0.176,58,"444",24,1101,262,5.592
-25,"=","PARTYNEXTDOOR","Recognize f/Drake",1023,-33,-151,-45,4.652,-0.108,65,"287",20,1429,235,6.901
-26,"+1","NICKI MINAJ","Feeling Myself f/Beyonce",773,34,89,13,5.958,0.059,22,"63",26,773,482,6.277
-27,"-1","LUDACRIS","Good Lovin f/Miguel",739,-5,55,4,3.168,0.057,51,"--",26,744,290,3.168
-28,"+1","SNOOTIE WILD","Made Me f/K Camp",712,10,75,24,3.635,0.076,161,"749",11,2406,342,12.441
-29,"-1","T.I.","G' S**t f/Young Jeezy",708,4,14,5,2.626,0.065,44,"--",28,726,312,2.63
-30,"=","DJ DRAMA","Right Back f/Jeezy, Young Thug",685,-6,-34,1,2.637,-0.006,64,"--",30,733,257,2.957
-31,"=","TK N CASH","Mind Right",681,16,48,22,2.226,0.044,32,"--",31,681,170,2.295
-32,"=","TINASHE","Pretend f/A$AP Rocky",643,-13,-81,-18,2.107,-0.054,110,"--",28,877,188,2.995
-33,"=","WASH","Can't Trust Thots f/F. Montana",634,5,48,-2,2.743,0.023,38,"652",33,634,151,2.843
-34,"=","MILA J","My Main f/Ty Dolla $ign",628,5,-4,18,2.252,0.003,78,"1133",28,898,219,3.751
-35,"+1","P. REIGN","DnF",590,-1,0,16,2.453,-0.048,51,"398",35,607,217,2.682
-36,"-1","RICH HOMIE QUAN","Blah Blah Blah",577,-34,-7,-71,2.466,-0.114,90,"--",31,786,150,3.184
-37,"=","RICK ROSS","If They Knew f/K. Michelle",575,-15,18,-20,1.667,-0.01,58,"--",29,868,403,3.64
-38,"=","YOUNG DOLPH","Preach",515,18,60,31,1.639,0.031,27,"--",38,515,100,1.639
-39,"+1","NICKI MINAJ","Truffle Butter f/Drake...",481,30,195,12,4.117,0.143,6,"--",39,481,195,4.117
-40,"-1","ADRIAN MARCEL","Spending The Night Alone",468,7,23,3,1.009,0.001,51,"--",38,559,85,1.364
-41,"=","OG MACO","U Guessed It f/2 Chainz",456,17,11,18,1.519,0.027,43,"1024",41,457,119,1.904
-42,"=","BOOSIE BADAZZ","Like A Man f/Rich Homie Quan",426,3,11,8,1.999,-0.026,22,"--",42,426,219,2.025
-43,"=","RAE SREMMURD","Tho Sum Mo f/Nicki Minaj",423,21,128,16,3.076,0.153,4,"--",43,423,128,3.076
-44,"=","BOBBY SHMURDA","Bobby Bobby",360,-8,6,-20,1.343,0.06,30,"--",44,419,158,1.438
-45,"=","FRENCHIE","Ain't Goin' Nowhere f/B.o.B",341,-4,-41,-8,0.608,0,17,"--",45,382,70,0.69
-46,"=","IGGY AZALEA","Beg For It f/MØ",320,-5,9,-4,1.03,-0.029,21,"46",44,461,141,1.434
-47,"+1","CHRIS BROWN & TYGA","Ayo",308,8,95,-7,2.994,0.079,2,"33",47,308,102,2.994
-48,"-1","RICH GANG","Sho Me Love f/Juvenile",307,-7,-14,-6,1.18,-0.04,19,"--",47,381,204,1.358
-49,"=","BAS","My N***a Just Made Bail",286,-4,-2,-1,0.649,-0.002,2,"--",49,290,0,0.651
-50,"=","TRAVIS SCOTT","Mamacita f/Rich Homie Quan",271,0,8,6,0.608,-0.001,3,"--",50,289,60,0.622
+"Title","Artist","Spins"
+"Try Me","DEJ LOAF",3843
+"Only f/Drake, Lil Wayne","NICKI MINAJ",3793
+"No Type","RAE SREMMURD",3730
+"Tuesday f/Drake","I LOVE MAKONNEN",3410
+"I Don't F**k With You f/E-40","BIG SEAN",3211
+"Touchin, Lovin f/Nicki Minaj","TREY SONGZ",3198
+"Hold You Down f/Chris Brown...","DJ KHALED",3173
+"New Flame f/Usher & Rick Ross","CHRIS BROWN",3153
+"7/11","BEYONCE",2998
+"The Body f/Jeremih","WALE",2318
+"I Don't Mind f/Juicy J","USHER",2034
+"Let Me Know f/Future","TAMAR BRAXTON",2016
+"No Love","AUGUST ALSINA",1843
+"She Knows f/Juicy J","NE-YO",1778
+"Not For Long f/Trey Songz","B.O.B",1749
+"Apparently","J. COLE",1477
+"Latch f/Sam Smith","DISCLOSURE",1470
+"Love 'Em All","K. MICHELLE",1330
+"Maybe f/Pusha T & Yo Gotti","TEYANA TAYLOR",1267
+"CoCo","O.T. GENASIS",1231
+"Awwsome","SHY GLIZZY",1202
+"Body Language f/Usher/Tinashe","KID INK",1139
+"How About Now","DRAKE",1122
+"Hell Of A Night","SCHOOLBOY Q",1101
+"Recognize f/Drake","PARTYNEXTDOOR",1023
+"Feeling Myself f/Beyonce","NICKI MINAJ",773
+"Good Lovin f/Miguel","LUDACRIS",739
+"Made Me f/K Camp","SNOOTIE WILD",712
+"G' S**t f/Young Jeezy","T.I.",708
+"Right Back f/Jeezy, Young Thug","DJ DRAMA",685
+"Mind Right","TK N CASH",681
+"Pretend f/A$AP Rocky","TINASHE",643
+"Can't Trust Thots f/F. Montana","WASH",634
+"My Main f/Ty Dolla $ign","MILA J",628
+"DnF","P. REIGN",590
+"Blah Blah Blah","RICH HOMIE QUAN",577
+"If They Knew f/K. Michelle","RICK ROSS",575
+"Preach","YOUNG DOLPH",515
+"Truffle Butter f/Drake...","NICKI MINAJ",481
+"Spending The Night Alone","ADRIAN MARCEL",468
+"U Guessed It f/2 Chainz","OG MACO",456
+"Like A Man f/Rich Homie Quan","BOOSIE BADAZZ",426
+"Tho Sum Mo f/Nicki Minaj","RAE SREMMURD",423
+"Bobby Bobby","BOBBY SHMURDA",360
+"Ain't Goin' Nowhere f/B.o.B","FRENCHIE",341
+"Beg For It f/MØ","IGGY AZALEA",320
+"Ayo","CHRIS BROWN & TYGA",308
+"Sho Me Love f/Juvenile","RICH GANG",307
+"My N***a Just Made Bail","BAS",286
+"Mamacita f/Rich Homie Quan","TRAVIS SCOTT",271

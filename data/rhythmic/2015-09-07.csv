@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","THE WEEKND","The Hills",6230,"+60",877,"-94",31.222,"+0.041",51,"3/84",1,6230,1129,31.438
-2,"=","FETTY WAP","My Way f/Monty",5696,"-3",-27,"-32",30.789,"-0.183",105,"33",1,5782,726,31.565
-3,"=","THE WEEKND","Can't Feel My Face",5557,"-13",-30,"-23",30.537,"+0.163",89,"2",1,6777,1371,33.449
-4,"=","MAJOR LAZER","Lean On f/MØ & DJ Snake",5123,"-25",-201,"-26",23.625,"+0.163",114,"16",3,5321,719,24.243
-5,"=","RICH HOMIE QUAN","Flex",4397,"+19",229,"+7",21.325,"+0.079",113,"60",5,4397,440,21.325
-6,"=","OMI","Cheerleader",3986,"-218",-1346,"-122",17.366,"-1.027",122,"37/44",1,6268,909,28.086
-7,"=","SELENA GOMEZ","Good For You f/A$AP Rocky",3326,"+48",475,"-19",12.092,"+0.141",62,"26/51",7,3326,624,12.092
-8,"=","TREY SONGZ","About You",3090,"+48",304,"+1",14.984,"+0.289",58,"196",8,3090,552,14.984
-9,"=","FETTY WAP","679 f/Remy Boyz...",2985,"+89",534,"+5",18.492,"+0.236",37,"11",9,2985,640,18.492
-10,"+1","MEEK MILL","All Eyes On You f/Minaj/Brown",2781,"-11",135,"-52",14.487,"-0.479",64,"66",10,2808,460,15.166
-11,"+1","JEREMIH","Planes f/J. Cole",2693,"+10",187,"-75",14.477,"-0.243",78,"79",11,2693,459,15.048
-12,"-2","SILENTO","Watch Me",2638,"-185",-1235,"-37",10.7,"-0.790",113,"4",3,5756,716,25.667
-13,"+1","BIG SEAN","One Man Can Change The World",2474,"-77",-227,"-93",8.981,"-0.468",88,"137",10,2706,349,10.291
-14,"+1","SKRILLEX & DIPLO","Where Are U Now f/J. Bieber",2311,"-108",-536,"-92",8.983,"-0.323",130,"14",8,2995,390,12.298
-15,"+1","R. CITY","Locked Away f/Adam Levine",2061,"+74",417,"+39",7.421,"+0.295",43,"5",15,2061,468,7.421
-16,"+1","KID INK","Be Real f/Dej Loaf",1820,"-23",-263,"+36",10.771,"+0.032",138,"287",4,4880,522,27.002
-17,"+1","LIL WAYNE & CHARLIE PUTH","Nothing But Trouble",1812,"+20",190,"-40",7.609,"-0.118",48,"218",17,1812,373,7.898
-18,"+1","RITA ORA","Body On Me f/Chris Brown",1798,"+64",411,"+16",8.575,"+0.319",22,"249",18,1798,586,8.575
-19,"+2","K CAMP","Comfortable",1702,"+50",246,"+12",9.631,"+0.182",50,"65",19,1702,277,9.631
-20,"=","JASON DERULO","Cheyenne",1644,"-55",-271,"-45",4.949,"-0.214",70,"91",17,1932,388,6.138
-21,"+1","DRAKE","Hotline Bling",1609,"+187",983,"+114",10.437,"+0.949",10,"8",21,1609,983,10.437
-22,"+1","MACKLEMORE & RYAN LEWIS","Downtown",1565,"+169",1004,"+70",7.203,"+0.787",9,"12",22,1565,1065,7.203
-23,"+2","NELLY","The Fix f/Jeremih",1465,"+98",458,"+55",7.083,"+0.594",18,"118",23,1465,458,7.083
-24,"+2","TAYLOR SWIFT","Bad Blood",1314,"-49",-397,"+22",4.441,"-0.115",110,"59/64",5,4208,958,15.091
-25,"+2","ALESSIA CARA","Here",1181,"-4",105,"-35",5.516,"-0.202",26,"50",25,1190,300,5.787
-26,"+2","MACKLEMORE & RYAN LEWIS","Growing Up f/Ed Sheeran",1154,"+10",72,"-2",4.514,"+0.107",24,"--",26,1154,471,4.794
-27,"+7","JUSTIN BIEBER","What Do You Mean?",1108,"+107",784,"+30",4.452,"+0.364",7,"1",27,1108,866,4.452
-28,"+2","YG","Twist My Fingaz",1073,"+22",77,"+5",6.294,"+0.101",38,"582",28,1073,274,6.294
-29,"=","DRAKE","Back To Back",1050,"-8",-159,"-4",7.808,"+0.264",33,"42",24,1212,412,7.91
-30,"+3","CHRIS BROWN","Liquor",1040,"+19",199,"-8",5.256,"+0.067",34,"152",30,1040,226,5.292
-31,"=","FLO RIDA","I Don't Like It, I Love It",1016,"-34",-176,"-32",4.63,"-0.079",67,"38",25,1202,186,5.669
-32,"=","DEMI LOVATO","Cool For The Summer",1009,"-14",-2,"-1",3.094,"+0.024",53,"18",28,1036,300,3.094
-33,"+2","FUTURE","Where Ya At f/Drake",896,"+28",57,"+13",4.853,"+0.265",43,"86",33,896,367,4.853
-34,"+3","POST MALONE","White Iverson",838,"+36",163,"+17",5.225,"+0.330",14,"82",34,838,412,5.225
-35,"+1","NATALIE LA ROSE","Around The World f/Fetty Wap",786,"-70",-814,"+71",2.956,"-0.229",81,"694",11,2762,530,11.412
-36,"+2","NICO & VINZ","That's How You Know f/B. Rexha",741,"+0",1,"+10",1.565,"-0.028",41,"293",34,757,270,1.705
-37,"+2","DEJ LOAF","Back Up f/Big Sean",608,"+19",37,"+23",2.12,"+0.132",32,"271",37,608,186,2.281
-38,"+2","J. COLE","No Role Modelz",558,"-5",63,"-21",2.03,"-0.060",15,"211",38,563,136,2.09
-39,"+2","PIA MIA","Do It Again f/Chris Brown",558,"-1",-53,"+12",3.484,"-0.151",115,"131",20,1890,513,8.803
-40,"+2","DISCLOSURE","Omen f/Sam Smith",550,"-6",-48,"-10",1.218,"-0.037",20,"116",40,606,204,1.522
-41,"+2","DRAKE","Energy",547,"-3",16,"-12",7.631,"-0.060",59,"107",41,559,85,8.047
-42,"+4","YOUNG DRO","We In Da City",535,"+26",44,"+22",2.519,"+0.103",31,"--",42,535,143,2.713
-43,"+2","D.R.A.M","Cha Cha",529,"+14",65,"+5",2.52,"-0.016",38,"--",43,529,74,2.536
-44,"=","ROBIN THICKE","Back Together f/Nicki Minaj",524,"-5",-27,"-12",0.995,"-0.038",15,"591",44,561,186,1.204
-45,"--","TY DOLLA $IGN","Blase f/Future & Rae Sremmurd",431,"--",137,"--",2.278,"--",1,"--",45,431,137,2.278
-46,"+4","NICKY JAM","El Perdon",423,"+6",23,"-1",2.13,"+0.039",8,"153",46,423,32,2.21
-47,"--","NICKI MINAJ","Trini Dem Girls",417,"--",320,"--",1.271,"--",1,"169",47,417,320,1.271
-48,"--","OMARION","I'm Up f/Kid Ink",376,"--",58,"--",1.959,"--",1,"548",48,376,58,1.959
-49,"--","PITBULL","Drive You Crazy f/Jason Derulo",354,"--",2,"--",1.471,"--",1,"--",49,354,2,1.471
-50,"--","PUFF DADDY & THE FAMILY","Finna Get Loose f/P. Williams",347,"--",90,"--",2.534,"--",1,"992",50,347,90,2.534
+"Title","Artist","Spins"
+"The Hills","THE WEEKND",6230
+"My Way f/Monty","FETTY WAP",5696
+"Can't Feel My Face","THE WEEKND",5557
+"Lean On f/MØ & DJ Snake","MAJOR LAZER",5123
+"Flex","RICH HOMIE QUAN",4397
+"Cheerleader","OMI",3986
+"Good For You f/A$AP Rocky","SELENA GOMEZ",3326
+"About You","TREY SONGZ",3090
+"679 f/Remy Boyz...","FETTY WAP",2985
+"All Eyes On You f/Minaj/Brown","MEEK MILL",2781
+"Planes f/J. Cole","JEREMIH",2693
+"Watch Me","SILENTO",2638
+"One Man Can Change The World","BIG SEAN",2474
+"Where Are U Now f/J. Bieber","SKRILLEX & DIPLO",2311
+"Locked Away f/Adam Levine","R. CITY",2061
+"Be Real f/Dej Loaf","KID INK",1820
+"Nothing But Trouble","LIL WAYNE & CHARLIE PUTH",1812
+"Body On Me f/Chris Brown","RITA ORA",1798
+"Comfortable","K CAMP",1702
+"Cheyenne","JASON DERULO",1644
+"Hotline Bling","DRAKE",1609
+"Downtown","MACKLEMORE & RYAN LEWIS",1565
+"The Fix f/Jeremih","NELLY",1465
+"Bad Blood","TAYLOR SWIFT",1314
+"Here","ALESSIA CARA",1181
+"Growing Up f/Ed Sheeran","MACKLEMORE & RYAN LEWIS",1154
+"What Do You Mean?","JUSTIN BIEBER",1108
+"Twist My Fingaz","YG",1073
+"Back To Back","DRAKE",1050
+"Liquor","CHRIS BROWN",1040
+"I Don't Like It, I Love It","FLO RIDA",1016
+"Cool For The Summer","DEMI LOVATO",1009
+"Where Ya At f/Drake","FUTURE",896
+"White Iverson","POST MALONE",838
+"Around The World f/Fetty Wap","NATALIE LA ROSE",786
+"That's How You Know f/B. Rexha","NICO & VINZ",741
+"Back Up f/Big Sean","DEJ LOAF",608
+"No Role Modelz","J. COLE",558
+"Do It Again f/Chris Brown","PIA MIA",558
+"Omen f/Sam Smith","DISCLOSURE",550
+"Energy","DRAKE",547
+"We In Da City","YOUNG DRO",535
+"Cha Cha","D.R.A.M",529
+"Back Together f/Nicki Minaj","ROBIN THICKE",524
+"Blase f/Future & Rae Sremmurd","TY DOLLA $IGN",431
+"El Perdon","NICKY JAM",423
+"Trini Dem Girls","NICKI MINAJ",417
+"I'm Up f/Kid Ink","OMARION",376
+"Drive You Crazy f/Jason Derulo","PITBULL",354
+"Finna Get Loose f/P. Williams","PUFF DADDY & THE FAMILY",347

@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","RIHANNA","Work f/Drake",5027,11,-288,67,41.18,0.291,76,"15",1,5499,1798,43.34
-2,"=","JEREMIH","Oui",4234,17,11,-37,27.897,0.193,147,"42",2,4258,438,27.897
-3,"=","BRYSON TILLER","Exchange",4227,63,355,9,28.134,0.311,91,"128",3,4227,604,28.134
-4,"=","DJ LUKE NASTYY","Might Be",3886,7,-29,-10,24.143,0.254,110,"293",3,3915,510,24.16
-5,"=","KEVIN GATES","2 Phones",3470,38,42,-10,21.655,0.425,93,"33",5,3470,724,21.655
-6,"=","BEYONCE","Formation",3298,-47,-391,-13,23.412,-0.294,63,"--",3,3811,1709,26.652
-7,"=","BRYSON TILLER","Don't",3246,-29,-272,15,26.495,0.009,246,"138",1,4524,451,30.777
-8,"=","O.T. GENASIS","Cut It f/Young Dolph",3137,1,186,-27,19.03,-0.032,90,"--",8,3137,595,19.062
-9,"=","YOUNG GREATNESS","Moolah",2909,25,189,21,16.296,0.173,131,"241",9,2909,420,16.296
-10,"=","DESIIGNER","Panda",2536,48,381,0,16.582,0.278,38,"5/94",10,2536,686,16.582
-11,"+1","YO GOTTI","Law",2300,28,117,-5,13.663,0.257,45,"313",11,2300,477,13.663
-12,"-1","CHRIS BROWN","Back To Sleep",2228,-50,-448,-4,17.718,-0.603,144,"253",1,4057,549,26.727
-13,"=","DREEZY","Body f/Jeremih",2182,16,70,-23,12.261,-0.012,67,"112",13,2182,478,12.302
-14,"=","RO JAMES","Permission",2027,0,-113,22,10.608,-0.166,75,"343",12,2196,542,13.021
-15,"=","DRAKE","Summer Sixteen",1988,-38,-330,-8,11.712,-0.429,66,"102",11,2629,652,16.18
-16,"=","FUTURE","Low Life f/The Weeknd",1938,33,134,9,12.36,0.021,40,"43",16,1938,401,12.754
-17,"=","J. COLE","Love Yourz",1853,15,55,13,10.133,-0.052,63,"880",17,1853,345,10.206
-18,"+1","KENT JONES","Don't Mind",1827,45,224,26,11.438,0.381,53,"--",18,1827,353,11.438
-19,"-1","YOUNG THUG","Best Friend",1793,-26,-170,16,9.314,-0.327,122,"229",5,3578,731,20.312
-20,"=","FAT JOE & REMY MA","All The Way Up",1631,14,262,-56,10.777,0.186,27,"86",20,1631,437,10.777
-21,"=","PLIES","Ran Off On Da Plug Twice",1520,41,203,26,8.088,0.246,45,"1025",21,1520,230,8.088
-22,"=","A$AP FERG","New Level",1484,20,90,-20,7.824,-0.143,57,"164",21,1484,271,7.967
-23,"=","K. MICHELLE","Not A Little Bit",1414,-50,-212,-61,6.005,-0.29,62,"1287",18,1653,323,8.051
-24,"=","KAYLA BRIANNA","Do You Remember",1282,15,333,-53,7.234,0.043,27,"--",24,1282,419,7.234
-25,"=","RAE SREMMURD","By Chance",1117,22,122,22,6.116,0.173,30,"574",24,1117,327,6.116
-26,"=","PUFF DADDY & THE FAMILY","You Could Be My Lover",1057,31,108,73,3.709,0.092,89,"1289",22,1075,317,4.532
-27,"=","TORY LANEZ","LA Confidential",977,19,-20,28,3.593,0.1,48,"309",24,1006,270,3.943
-28,"=","BELLY","Might Not f/The Weeknd",929,8,13,-5,4.74,0.158,70,"130",28,948,221,4.74
-29,"=","THE WEEKND","Acquainted",922,8,-55,75,5.598,-0.059,139,"126",10,2575,345,15.067
-30,"=","ZENDAYA","Something New f/Chris Brown",906,-6,-8,-28,2.841,-0.115,51,"232",29,936,168,3.066
-31,"=","KID INK","Promise f/Fetty Wap",879,35,137,27,3.307,0.147,62,"96",31,879,214,3.307
-32,"+1","RIHANNA","Needed Me",833,103,581,61,5.661,0.566,7,"59",32,833,581,5.661
-33,"-1","KANYE WEST","Famous",806,22,231,-53,5.06,0.028,12,"--",32,806,406,5.06
-34,"=","50 CENT","I'm The Man f/Sonny Digital",698,-10,1,-34,2.488,-0.099,46,"873",33,709,217,2.904
-35,"=","FUTURE","Wicked",688,-5,25,-36,4.526,-0.284,32,"--",34,694,136,4.93
-36,"+1","MADEINTYO","Uber Everywhere",670,-4,41,-23,2.142,-0.079,22,"165",35,677,188,2.221
-37,"-1","YOUNG DOLPH","Get Paid",669,-6,-6,-10,2.681,0.028,30,"--",32,688,124,2.736
-38,"=","2 CHAINZ","Gotta Lotta f/Lil Wayne",602,18,67,18,2.265,0.088,16,"973",38,602,276,2.265
-39,"+1","DRAKE","Pop Style f/The Throne",580,60,580,60,6.527,0.695,5,"4",39,580,580,6.527
-40,"-1","DLOW","Do It Like Me",532,0,-4,-2,2.384,-0.037,23,"--",38,574,293,2.543
-41,"+2","T.I.","Money Talk",452,42,261,40,2.078,0.07,4,"--",41,452,261,2.078
-42,"-1","TY DOLLA $IGN","Saved f/E-40",433,-29,-308,42,2.434,-0.182,83,"137",17,1391,315,7.848
-43,"-1","FUTURE","Stick Talk",423,7,15,9,2.549,0.089,73,"541",42,507,131,3.602
-44,"+4","DRAKE","One Dance f/Wizkid & Kyla",379,63,379,63,4.289,0.573,2,"1",44,379,379,4.289
-45,"=","BABY E","Finessin f/Lil Wayne",375,5,44,-2,0.682,0.017,16,"--",45,375,146,0.789
-46,"=","ANDRA DAY","Rise Up",373,3,8,-6,1.396,-0.012,22,"88",45,379,57,1.509
-47,"-3","MACK WILDS","Love In The 90z",339,-57,-279,-56,1.052,-0.261,78,"--",33,736,275,2.428
-48,"-1","ERYKAH BADU","Phone Down",327,-7,-116,-1,0.999,0.005,48,"--",43,457,253,1.974
-49,"=","JUSTIN BIEBER","Company",315,5,81,-28,1.175,0.012,6,"84",49,315,235,1.175
-50,"=","S-8IGHTY","Halfway",309,2,30,4,1.126,0,7,"--",47,309,32,1.153
+"Title","Artist","Spins"
+"Work f/Drake","RIHANNA",5027
+"Oui","JEREMIH",4234
+"Exchange","BRYSON TILLER",4227
+"Might Be","DJ LUKE NASTYY",3886
+"2 Phones","KEVIN GATES",3470
+"Formation","BEYONCE",3298
+"Don't","BRYSON TILLER",3246
+"Cut It f/Young Dolph","O.T. GENASIS",3137
+"Moolah","YOUNG GREATNESS",2909
+"Panda","DESIIGNER",2536
+"Law","YO GOTTI",2300
+"Back To Sleep","CHRIS BROWN",2228
+"Body f/Jeremih","DREEZY",2182
+"Permission","RO JAMES",2027
+"Summer Sixteen","DRAKE",1988
+"Low Life f/The Weeknd","FUTURE",1938
+"Love Yourz","J. COLE",1853
+"Don't Mind","KENT JONES",1827
+"Best Friend","YOUNG THUG",1793
+"All The Way Up","FAT JOE & REMY MA",1631
+"Ran Off On Da Plug Twice","PLIES",1520
+"New Level","A$AP FERG",1484
+"Not A Little Bit","K. MICHELLE",1414
+"Do You Remember","KAYLA BRIANNA",1282
+"By Chance","RAE SREMMURD",1117
+"You Could Be My Lover","PUFF DADDY & THE FAMILY",1057
+"LA Confidential","TORY LANEZ",977
+"Might Not f/The Weeknd","BELLY",929
+"Acquainted","THE WEEKND",922
+"Something New f/Chris Brown","ZENDAYA",906
+"Promise f/Fetty Wap","KID INK",879
+"Needed Me","RIHANNA",833
+"Famous","KANYE WEST",806
+"I'm The Man f/Sonny Digital","50 CENT",698
+"Wicked","FUTURE",688
+"Uber Everywhere","MADEINTYO",670
+"Get Paid","YOUNG DOLPH",669
+"Gotta Lotta f/Lil Wayne","2 CHAINZ",602
+"Pop Style f/The Throne","DRAKE",580
+"Do It Like Me","DLOW",532
+"Money Talk","T.I.",452
+"Saved f/E-40","TY DOLLA $IGN",433
+"Stick Talk","FUTURE",423
+"One Dance f/Wizkid & Kyla","DRAKE",379
+"Finessin f/Lil Wayne","BABY E",375
+"Rise Up","ANDRA DAY",373
+"Love In The 90z","MACK WILDS",339
+"Phone Down","ERYKAH BADU",327
+"Company","JUSTIN BIEBER",315
+"Halfway","S-8IGHTY",309

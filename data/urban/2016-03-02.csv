@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"+1","RIHANNA","Work f/Drake",4067,41,498,-67,31.171,0.285,35,"1/43",1,4067,1798,31.171
-2,"-1","CHRIS BROWN","Back To Sleep",4034,-23,200,-28,26.727,0.026,103,"30",1,4057,549,26.727
-3,"=","JEREMIH","Oui",3932,1,255,-38,26.247,0.053,106,"60",3,3932,438,26.247
-4,"=","BRYSON TILLER","Don't",3785,-60,-299,-35,30.309,-0.086,205,"90",1,4524,451,30.777
-5,"+1","YOUNG THUG","Best Friend",3561,29,152,38,20.263,0.039,81,"116",5,3561,731,20.263
-6,"-1","TORY LANEZ","Say It",3533,-13,-145,0,27.531,-0.016,170,"108",1,4321,513,30.463
-7,"=","YO GOTTI","Down In The DM",3177,-5,-273,56,21.632,0.199,129,"80/86",1,4631,712,29.961
-8,"=","DJ LUKE NASTYY","Might Be",3017,24,105,-25,17.888,0.268,69,"157",8,3017,510,17.888
-9,"=","DRAKE & FUTURE","Jumpman",2917,7,26,39,23.024,0.224,150,"94",1,4603,755,34.19
-10,"=","BEYONCE","Formation",2839,75,457,62,22.64,0.617,22,"--",10,2839,1709,22.64
-11,"=","BRYSON TILLER","Exchange",2656,68,363,23,16.805,0.484,50,"109",11,2656,604,16.805
-12,"=","THE WEEKND","Acquainted",2539,34,144,19,14.278,0.289,98,"114",10,2539,345,14.679
-13,"=","DRAKE","Summer Sixteen",1981,-1,267,-97,13.309,0.07,25,"47",13,1982,652,13.309
-14,"+1","KEVIN GATES","2 Phones",1882,38,185,30,10.161,0.311,52,"35",14,1882,330,10.161
-15,"+1","YOUNG GREATNESS","Moolah",1821,39,136,17,9.114,0.083,90,"310",15,1821,249,9.114
-16,"-2","FETTY WAP","Again",1789,-79,-320,-53,11.791,-0.285,146,"126",6,2975,420,20.809
-17,"=","FRENCH MONTANA","Moses f/Chris Brown & Migos",1740,7,-29,19,9.898,-0.12,115,"443",15,1828,257,10.429
-18,"+2","O.T. GENASIS","Cut It f/Young Dolph",1438,54,483,5,9.496,0.058,49,"--",18,1438,483,9.496
-19,"-1","TK N CASH","3 Times In A Row",1437,-43,-212,-3,7.077,-0.248,124,"359",16,1801,232,8.308
-20,"-1","RO JAMES","Permission",1413,27,211,-51,9.351,0.231,34,"305",19,1413,542,9.351
-21,"=","TY DOLLA $IGN","Saved f/E-40",1219,27,227,7,6.895,0.112,42,"179",21,1219,315,6.895
-22,"+1","RAY J","Curtains Closed",1188,10,113,-1,3.8,0.031,88,"--",22,1188,214,3.8
-23,"-1","2 MILLY","Milly Rock",1177,-5,-29,-20,6.326,0.034,117,"--",21,1218,171,7.222
-24,"+1","DREEZY","Body f/Jeremih",1025,21,168,4,4.885,0.307,26,"99",24,1025,255,4.885
-25,"-1","PUFF DADDY & THE FAMILY","You Could Be My Lover",1024,7,52,5,4.053,0.034,48,"--",24,1024,317,4.053
-26,"+1","RICH HOMIE QUAN","The Most",878,12,69,15,2.546,-0.019,54,"--",26,878,372,2.595
-27,"-1","LIL DICKY","$ave Dat Money",857,-54,-380,5,3.87,-0.279,151,"96",13,1954,295,9.533
-28,"=","LIL DURK","My Beyonce f/DeJ Loaf",847,-7,-34,-21,2.647,0.069,38,"--",27,881,261,2.834
-29,"+1","J. COLE","Love Yourz",843,35,205,14,4.126,0.188,22,"608",29,843,342,4.126
-30,"+1","K. MICHELLE","Not A Little Bit",819,23,180,1,4.3,0.149,21,"602",30,819,272,4.3
-31,"-2","DEJ LOAF","Hey There f/Future",819,7,36,12,3.035,-0.031,46,"740",29,824,412,3.138
-32,"=","MIGOS","Look At My Dab",769,-22,-190,22,2.821,-0.065,78,"329",23,1150,201,5.179
-33,"=","TYGA","Baller Alert f/R.Ross/2 Chainz",754,26,155,14,2.348,0.055,31,"--",33,754,293,2.348
-34,"=","A$AP FERG","New Level",701,1,102,-30,4.092,0.094,16,"368",34,701,251,4.092
-35,"=","KENT JONES","Don't Mind",694,3,148,-42,3.621,-0.044,12,"--",35,694,224,3.665
-36,"=","JUSTIN BIEBER","Love Yourself",639,-6,24,-38,2.348,0.078,18,"8",36,645,166,2.348
-37,"=","MACK WILDS","Love In The 90z",629,1,-16,7,1.884,-0.027,37,"--",35,655,275,1.979
-38,"=","YO GOTTI","Law",621,67,261,31,3.603,0.391,4,"618",38,621,423,5.251
-39,"=","ZENDAYA","Something New f/Chris Brown",548,9,112,-16,1.897,0.047,10,"146",38,548,168,1.897
-40,"=","KID INK","Promise f/Fetty Wap",546,10,24,2,2.175,0.047,21,"120",39,546,214,2.361
-41,"=","TORY LANEZ","LA Confidential",526,13,123,-27,2.041,0.072,7,"764",40,526,270,2.041
-42,"=","PLIES","Ran Off On Da Plug Twice",508,25,197,-3,3.469,-0.046,4,"845",42,508,200,3.515
-43,"=","BELLY","Might Not f/The Weeknd",497,17,56,7,1.724,0.029,29,"131",42,497,215,1.768
-44,"=","J.R.","Best Friend f/Trey Songz",463,-1,-1,-12,2.078,0.009,26,"--",43,464,147,2.328
-45,"+1","THE INTERNET","Girl f/Kaytranada",447,9,38,19,1.442,0.007,19,"933",45,447,71,1.442
-46,"+1","FUTURE","Stick Talk",439,6,25,12,2.972,0.071,32,"355",42,454,131,2.999
-47,"+1","50 CENT","I'm The Man f/Sonny Digital",431,14,90,-9,1.901,0.104,5,"544",47,431,217,1.901
-48,"-3","K CAMP","1Hunnid f/Fetty Wap",406,-34,-307,2,1.565,-0.187,122,"327",20,1426,223,6.581
-49,"+1","POST MALONE","Too Young",402,11,-2,19,0.876,0.049,7,"702",49,412,47,1.055
-50,"-1","ROTIMI","Hit The Lotto",393,-14,-49,-7,0.966,-0.038,82,"--",40,507,168,1.871
+"Title","Artist","Spins"
+"Work f/Drake","RIHANNA",4067
+"Back To Sleep","CHRIS BROWN",4034
+"Oui","JEREMIH",3932
+"Don't","BRYSON TILLER",3785
+"Best Friend","YOUNG THUG",3561
+"Say It","TORY LANEZ",3533
+"Down In The DM","YO GOTTI",3177
+"Might Be","DJ LUKE NASTYY",3017
+"Jumpman","DRAKE & FUTURE",2917
+"Formation","BEYONCE",2839
+"Exchange","BRYSON TILLER",2656
+"Acquainted","THE WEEKND",2539
+"Summer Sixteen","DRAKE",1981
+"2 Phones","KEVIN GATES",1882
+"Moolah","YOUNG GREATNESS",1821
+"Again","FETTY WAP",1789
+"Moses f/Chris Brown & Migos","FRENCH MONTANA",1740
+"Cut It f/Young Dolph","O.T. GENASIS",1438
+"3 Times In A Row","TK N CASH",1437
+"Permission","RO JAMES",1413
+"Saved f/E-40","TY DOLLA $IGN",1219
+"Curtains Closed","RAY J",1188
+"Milly Rock","2 MILLY",1177
+"Body f/Jeremih","DREEZY",1025
+"You Could Be My Lover","PUFF DADDY & THE FAMILY",1024
+"The Most","RICH HOMIE QUAN",878
+"$ave Dat Money","LIL DICKY",857
+"My Beyonce f/DeJ Loaf","LIL DURK",847
+"Love Yourz","J. COLE",843
+"Not A Little Bit","K. MICHELLE",819
+"Hey There f/Future","DEJ LOAF",819
+"Look At My Dab","MIGOS",769
+"Baller Alert f/R.Ross/2 Chainz","TYGA",754
+"New Level","A$AP FERG",701
+"Don't Mind","KENT JONES",694
+"Love Yourself","JUSTIN BIEBER",639
+"Love In The 90z","MACK WILDS",629
+"Law","YO GOTTI",621
+"Something New f/Chris Brown","ZENDAYA",548
+"Promise f/Fetty Wap","KID INK",546
+"LA Confidential","TORY LANEZ",526
+"Ran Off On Da Plug Twice","PLIES",508
+"Might Not f/The Weeknd","BELLY",497
+"Best Friend f/Trey Songz","J.R.",463
+"Girl f/Kaytranada","THE INTERNET",447
+"Stick Talk","FUTURE",439
+"I'm The Man f/Sonny Digital","50 CENT",431
+"1Hunnid f/Fetty Wap","K CAMP",406
+"Too Young","POST MALONE",402
+"Hit The Lotto","ROTIMI",393

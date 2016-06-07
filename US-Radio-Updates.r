@@ -14,7 +14,7 @@ pullDayData <- function(date,station) {
 
 #writes CSV files for new dates
 library("RCurl")
-pullNewData <- function(station) {
+pullNewData <- function(station, shorten = TRUE) {
   date <- Sys.Date()
   while(TRUE) {
     dateString <- gsub("-","",as.character.Date(date))
@@ -25,11 +25,30 @@ pullNewData <- function(station) {
     }
     if(file.exists(paste("data/",station,"/",date,".csv",sep=""))) break;
     
-    write.csv(pullDayData(date,station), file=paste("data/",station,"/",date,".csv",sep=""), row.names=FALSE)
+    temp <- read.csv(file=paste("data/",station,"/",date,".csv",sep=""))
+    if(shorten == TRUE) temp <- temp[c("Title","Artist","Spins")]
+    write.csv(temp, file=paste("data/",station,"/",date,".csv",sep=""), row.names=FALSE)
     print(paste(date,"for",station,"added"))
     date <- date-1
   }
   print("done")
+}
+
+shortenCSV <- function(station) {
+  date <- Sys.Date()
+  while(date != as.Date("2014-12-31")) {
+    dateString <- gsub("-","",as.character.Date(date))
+    
+    #if(file.exists(paste("data/",station,"/",date,".csv",sep=""))) {
+    temp <- read.csv(file=paste("data/",station,"/",date,".csv",sep=""))
+    temp <- temp[c("Title","Artist","Spins")]
+    write.csv(temp, file=paste("data/",station,"/",date,".csv",sep=""), row.names=FALSE)
+    print(paste(date,"for",station,"shortened"))
+      #date <- date-1
+    #}
+    date <- date-1
+    
+  }
 }
 
 todayDataExists <- function() {

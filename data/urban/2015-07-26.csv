@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","RICH HOMIE QUAN","Flex",4288,"+16",36,"+2",27.035,"-0.007",127,"41",1,4457,532,27.61
-2,"=","FETTY WAP","My Way f/Monty",3909,"+32",366,"-23",25.276,"+0.302",74,"5",2,3909,609,25.276
-3,"=","RIHANNA","Bitch Better Have My Money",3817,"-18",-203,"+27",27.845,"-0.121",121,"57",1,4219,862,28.658
-4,"=","JEREMIH","Planes f/J. Cole",3059,"+21",319,"-12",19.025,"+0.101",161,"73",4,3059,527,19.025
-5,"=","WALE","The Matrimony f/Usher",3006,"-5",-127,"+33",16.673,"-0.066",141,"258",4,3761,514,22.58
-6,"=","JIDENNA","Classic Man",2997,"+4",125,"+4",17.488,"+0.204",148,"59",6,2997,338,17.488
-7,"+1","OMARION","Post To Be f/Chris Brown&Jhene",2830,"+1",-263,"-16",18.921,"+0.052",161,"71",1,4286,631,30.881
-8,"-1","TREY SONGZ","Slow Motion",2822,"-56",-461,"-9",20.201,"-0.415",157,"83",2,4063,538,27.728
-9,"=","SILENTO","Watch Me",2797,"-18",-129,"-48",15.189,"-0.206",72,"2",7,2929,473,16.616
-10,"=","DJ KHALED F/C. BROWN/BIG SEAN","How Many Times f/Lil Wayne",2710,"+47",254,"+25",16.013,"+0.160",76,"176",10,2710,696,16.013
-11,"=","WIZ KHALIFA","See You Again f/Charlie Puth",2387,"-102",-436,"-86",14.103,"-0.718",105,"22",6,2965,545,18.354
-12,"+1","MEEK MILL","All Eyes On You f/Minaj/Brown",2224,"+26",323,"-54",13.088,"+0.149",27,"49",12,2224,800,13.088
-13,"+1","RAE SREMMURD","This Could Be Us",2208,"+21",117,"-9",11.881,"+0.008",84,"86",13,2208,356,12.139
-14,"-2","KID INK","Be Real f/Dej Loaf",2174,"-38",-97,"-52",12.274,"-0.282",112,"103",12,2327,275,13.57
-15,"=","FUTURE","F*ck Up Some Commas",1754,"-49",-233,"-22",11.105,"-0.320",168,"97",5,3324,410,19.019
-16,"=","YOUNG DRO","We In Da City",1751,"-2",126,"-49",9,"-0.067",63,"--",16,1753,343,9.067
-17,"=","K CAMP","Comfortable",1656,"+52",302,"+66",8.686,"+0.379",31,"182",17,1656,462,8.686
-18,"=","T-WAYNE","Nasty Freestyle",1611,"+23",56,"+30",8.263,"+0.097",43,"91",18,1611,435,8.818
-19,"+1","JANELLE MONAE & JIDENNA","Yoga",1478,"-7",71,"-38",7.776,"+0.010",96,"129",19,1485,235,7.839
-20,"-1","TINK","Million",1453,"-80",-259,"-89",6.351,"-0.448",73,"527",16,1792,593,9.583
-21,"=","J. COLE","Wet Dreamz",1322,"-24",-520,"+64",9.632,"-0.281",114,"139",7,2752,362,17.382
-22,"=","KENDRICK LAMAR","Alright",1257,"+36",232,"+28",6.361,"+0.236",23,"235",22,1257,350,6.361
-23,"=","MIGUEL","Coffee",1248,"+27",66,"+20",6.195,"+0.152",68,"371",22,1248,282,6.195
-24,"=","COOL AMERIKA","Make Sum Shake",1135,"+8",102,"-18",4.611,"+0.055",99,"--",23,1135,165,4.887
-25,"=","MONICA X LIL WAYNE","Just Right For Me",1077,"+6",126,"-37",4.887,"+0.118",34,"606",25,1077,282,4.887
-26,"=","TREY SONGZ","About You",1024,"+38",310,"+7",5.867,"+0.308",16,"809",26,1024,339,5.867
-27,"=","DRAKE","Energy",967,"+21",140,"+5",8.707,"+0.311",134,"107",26,967,187,8.707
-28,"=","TAMAR BRAXTON","If I Don't Have You",924,"-7",63,"-35",3.82,"-0.066",48,"524",27,931,290,3.886
-29,"=","D.R.A.M","Cha Cha",880,"-18",31,"-60",3.713,"-0.031",55,"--",28,898,161,3.744
-30,"=","T.I.","Private Show f/Chris Brown",860,"-29",-143,"-16",5.936,"-0.306",153,"--",12,2111,374,11.59
-31,"=","NATALIE LA ROSE","Somebody f/Jeremih",831,"+2",-5,"-8",5.597,"-0.126",134,"171",25,1070,250,6.665
-32,"=","BIG SEAN","One Man Can Change The World",817,"-3",50,"-16",3.921,"+0.222",51,"147",31,820,193,3.921
-33,"+1","RICO RICHIE","Poppin",754,"+29",281,"-23",3.946,"+0.221",16,"551",33,754,311,3.946
-34,"-1","LIL DURK","Like Me f/Jeremih",751,"-13",32,"-25",3.524,"-0.004",97,"672",30,816,251,3.528
-35,"+1","CHRIS BROWN","Liquor",719,"+32",144,"+26",4.653,"+0.325",15,"252",35,719,329,4.653
-36,"-1","THE WEEKND","The Hills",709,"+10",108,"-15",3.023,"+0.017",26,"8",35,709,327,3.023
-37,"=","CHEDDA DA CONNECT","Flicka Da Wrist",658,"-5",-56,"+22",3.508,"+0.029",128,"589",10,2458,418,14.602
-38,"+1","JANET JACKSON","No Sleeep",645,"+25",32,"+34",2.907,"+0.132",24,"77",35,645,296,3.11
-39,"-1","JUICY J","For Everybody f/Wiz Khalifa",615,"-5",14,"-23",2.121,"-0.019",33,"481",37,624,181,2.159
-40,"+1","OMARION","I'm Up f/Kid Ink",612,"+29",132,"+23",3.616,"+0.128",14,"865",40,612,226,3.616
-41,"-1","CASEY VEGGIES","Tied Up f/DeJ Loaf",584,"-13",5,"-18",1.402,"-0.048",43,"163",39,598,165,1.45
-42,"=","CIARA","Dance Like We're Making Love",545,"+8",89,"-16",1.547,"+0.031",19,"877",42,545,286,1.547
-43,"+1","E-40","Choices",478,"+1",9,"+4",1.6,"+0.014",84,"375",41,526,83,1.6
-44,"-1","K. MICHELLE","Hard To Do",473,"-28",-234,"+0",2.02,"-0.209",110,"--",25,982,268,4.247
-45,"=","ALESSIA CARA","Here",435,"+2",54,"-10",2.92,"-0.173",9,"122",45,435,132,3.447
-46,"=","AUGUST ALSINA","Hip Hop",414,"-8",-109,"+3",1.335,"-0.082",68,"--",36,618,135,3.016
-47,"+3","FUTURE","Real Sisters",405,"+19",61,"+12",2.804,"+0.018",2,"433",47,405,61,2.804
-48,"+1","LIL GEORGE","Sauce",397,"+2",40,"-13",1.039,"-0.020",16,"--",48,397,73,1.16
-49,"-2","RAY J","Brown Sugar f/Lil Wayne",396,"-3",-6,"-16",1.505,"-0.105",18,"--",47,406,140,1.61
-50,"--","FETTY WAP","679 f/Remy Boyz...",384,"--",73,"--",3.503,"--",1,"12",50,384,73,3.503
+"Title","Artist","Spins"
+"Flex","RICH HOMIE QUAN",4288
+"My Way f/Monty","FETTY WAP",3909
+"Bitch Better Have My Money","RIHANNA",3817
+"Planes f/J. Cole","JEREMIH",3059
+"The Matrimony f/Usher","WALE",3006
+"Classic Man","JIDENNA",2997
+"Post To Be f/Chris Brown&Jhene","OMARION",2830
+"Slow Motion","TREY SONGZ",2822
+"Watch Me","SILENTO",2797
+"How Many Times f/Lil Wayne","DJ KHALED F/C. BROWN/BIG SEAN",2710
+"See You Again f/Charlie Puth","WIZ KHALIFA",2387
+"All Eyes On You f/Minaj/Brown","MEEK MILL",2224
+"This Could Be Us","RAE SREMMURD",2208
+"Be Real f/Dej Loaf","KID INK",2174
+"F*ck Up Some Commas","FUTURE",1754
+"We In Da City","YOUNG DRO",1751
+"Comfortable","K CAMP",1656
+"Nasty Freestyle","T-WAYNE",1611
+"Yoga","JANELLE MONAE & JIDENNA",1478
+"Million","TINK",1453
+"Wet Dreamz","J. COLE",1322
+"Alright","KENDRICK LAMAR",1257
+"Coffee","MIGUEL",1248
+"Make Sum Shake","COOL AMERIKA",1135
+"Just Right For Me","MONICA X LIL WAYNE",1077
+"About You","TREY SONGZ",1024
+"Energy","DRAKE",967
+"If I Don't Have You","TAMAR BRAXTON",924
+"Cha Cha","D.R.A.M",880
+"Private Show f/Chris Brown","T.I.",860
+"Somebody f/Jeremih","NATALIE LA ROSE",831
+"One Man Can Change The World","BIG SEAN",817
+"Poppin","RICO RICHIE",754
+"Like Me f/Jeremih","LIL DURK",751
+"Liquor","CHRIS BROWN",719
+"The Hills","THE WEEKND",709
+"Flicka Da Wrist","CHEDDA DA CONNECT",658
+"No Sleeep","JANET JACKSON",645
+"For Everybody f/Wiz Khalifa","JUICY J",615
+"I'm Up f/Kid Ink","OMARION",612
+"Tied Up f/DeJ Loaf","CASEY VEGGIES",584
+"Dance Like We're Making Love","CIARA",545
+"Choices","E-40",478
+"Hard To Do","K. MICHELLE",473
+"Here","ALESSIA CARA",435
+"Hip Hop","AUGUST ALSINA",414
+"Real Sisters","FUTURE",405
+"Sauce","LIL GEORGE",397
+"Brown Sugar f/Lil Wayne","RAY J",396
+"679 f/Remy Boyz...","FETTY WAP",384

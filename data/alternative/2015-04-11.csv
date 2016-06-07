@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","MUMFORD & SONS","Believe",2651,"-19",172,"-73",12.17,"-0.202",33,"53",1,2688,1782,12.403
-2,"=","AWOLNATION","Hollow Moon (Bad Wolf)",2405,"-1",104,"-29",8.365,"+0.025",74,"222",2,2406,895,8.365
-3,"=","DEATH CAB FOR CUTIE","Black Sun",2115,"+10",96,"+15",8.045,"-0.019",75,"328",3,2115,956,8.071
-4,"+2","ROBERT DELONG","Long Way Down",2017,"+4",-28,"+20",7.436,"+0.042",159,"447",3,2068,274,7.738
-5,"=","WALK THE MOON","Shut Up And Dance",2015,"-25",-51,"-36",10.262,"+0.015",200,"3",1,2758,250,13.024
-6,"-2","MODEST MOUSE","Lampshades On Fire",2003,"-43",-270,"-2",7.531,"-0.196",116,"425",1,2573,949,10.038
-7,"=","FOO FIGHTERS","Congregation",1957,"+13",108,"+9",7.399,"+0.015",65,"--",7,1957,424,7.399
-8,"=","MUSE","Dead Inside",1902,"+13",252,"-27",7.85,"-0.047",19,"252",8,1902,1518,7.897
-9,"=","FLORENCE + THE MACHINE","What Kind Of Man",1721,"+8",9,"+6",6.226,"+0.093",56,"217",8,1738,711,6.846
-10,"=","MILKY CHANCE","Stolen Dance",1559,"-19",-30,"-34",9.302,"-0.047",321,"143",1,2941,385,13.393
-11,"=","VANCE JOY","Mess Is Mine",1430,"-3",36,"-16",4.793,"-0.033",129,"341",11,1433,164,5.211
-12,"=","OF MONSTERS AND MEN","Crystals",1310,"+2",85,"-24",4.986,"+0.015",25,"434",12,1310,800,4.986
-13,"=","JOYWAVE","Somebody New",1267,"-21",-86,"-30",3.632,"-0.056",139,"1010",12,1352,188,4.428
-14,"=","BLACK KEYS","Weight Of Love",1160,"-7",-54,"-15",3.293,"-0.030",114,"875",13,1226,216,3.583
-15,"=","ANDREW MCMAHON IN WILDERNESS","Cecilia And The Satellite",1129,"-5",-32,"-10",4.292,"-0.059",204,"544",14,1160,138,4.444
-16,"+1","SAINT MOTEL","My Type",1104,"+17",48,"+19",4.238,"+0.132",81,"286",16,1104,151,4.238
-17,"-1","OFFSPRING","Coming For You",1099,"-2",-4,"-10",4.371,"+0.031",67,"1351",14,1108,303,4.435
-18,"=","IMAGINE DRAGONS","Shots",958,"+26",174,"+9",2.189,"+0.043",45,"598",18,958,174,2.189
-19,"=","ALABAMA SHAKES","Don't Wanna Fight",852,"+26",115,"+17",2.457,"+0.043",51,"245",19,852,186,2.457
-20,"=","INCUBUS","Absolution Calling",707,"-23",-117,"-22",2.413,"-0.072",64,"--",18,881,507,2.938
-21,"=","IN THE VALLEY BELOW","Peaches",652,"-4",44,"-27",1.674,"-0.001",62,"232",21,656,102,1.682
-22,"=","MEG MYERS","Sorry",625,"+7",50,"-3",1.579,"+0.039",37,"--",22,625,243,1.579
-23,"=","PASSION PIT","Lifted Up (1985)",575,"-11",-28,"-11",1.652,"-0.035",50,"958",22,616,313,1.986
-24,"=","MATT AND KIM","Get It",568,"-4",4,"-4",1.403,"-0.065",82,"367",24,574,147,1.499
-25,"+6","TWENTY ONE PILOTS","Tear In My Heart",540,"+118",540,"+118",2.982,"+0.462",4,"75",25,540,540,2.982
-26,"-1","NATE RUESS","Nothing Without Love",531,"-19",-113,"-19",1.316,"-0.010",45,"140",20,677,432,2.328
-27,"-1","MILKY CHANCE","Flashed Junk Mind",480,"-2",-25,"-5",1.894,"+0.081",94,"503",26,615,188,1.894
-28,"=","NIGHT RIOTS","Contagious",465,"+10",56,"+9",0.711,"+0.021",90,"--",28,465,63,0.711
-29,"=","JAMES BAY","Hold Back The River",459,"+15",102,"+1",1.922,"+0.029",23,"289",29,459,116,1.922
-30,"-3","DIRTY HEADS","Sound Of Change",447,"-15",-93,"+3",1.782,"-0.018",161,"--",21,709,109,2.21
-31,"-1","ROYAL BLOOD","Little Monster",433,"+9",62,"+6",0.616,"+0.018",29,"--",30,433,157,0.616
-32,"+1","FALL OUT BOY","Uma Thurman",374,"+7",-15,"+16",1.151,"+0.069",71,"100",30,411,75,1.151
-33,"+1","GRISWOLDS","If You Wanna Stay",369,"+9",49,"+10",0.402,"+0.019",76,"--",33,369,62,0.402
-34,"+1","WOLF ALICE","Moaning Lisa Smile",366,"+22",136,"+6",1.1,"+0.046",20,"--",34,366,136,1.1
-35,"-3","ALT-J","Every Other Freckle",352,"-18",-149,"+6",0.722,"-0.064",134,"894",17,971,121,2.061
-36,"=","BIG DATA","Business Of Emotion f/WhiteSea",342,"+3",9,"+0",0.514,"-0.001",42,"--",33,342,61,0.578
-37,"+1","COLD WAR KIDS","First",329,"+13",91,"+0",1.252,"+0.041",32,"1261",37,329,100,1.342
-38,"-1","INTERPOL","Everything Is Wrong",320,"-6",-10,"-6",0.504,"-0.010",77,"--",34,334,68,0.542
-39,"+1","SHEPPARD","Geronimo",315,"+10",59,"+11",1.531,"+0.056",116,"43",38,315,65,1.978
-40,"-1","BREAKING BENJAMIN","Failure",309,"-5",13,"-18",0.986,"-0.054",15,"142",36,316,231,1.055
-41,"=","LIFE IN FILM","Get Closer",253,"-2",30,"-10",0.247,"-0.001",27,"--",41,255,57,0.248
-42,"=","CHET FAKER","Gold",238,"-16",-81,"-8",0.671,"-0.050",119,"1219",31,413,132,1.085
-43,"=","BRANDON FLOWERS","Can't Deny My Love",236,"-8",56,"-28",0.669,"-0.117",11,"1296",43,245,116,1.086
-44,"=","YELAWOLF","Till It's Gone",232,"-4",-34,"+10",0.609,"-0.030",160,"512",20,879,122,2.229
-45,"+2","BORNS","Electric Love",184,"+5",5,"+5",0.499,"-0.004",14,"--",45,184,126,0.539
-46,"-1","THE MOWGLI'S","I'm Good",179,"-5",-17,"-6",0.312,"-0.042",61,"1325",41,259,146,0.461
-47,"-1","WATERS","I Feel Everything",173,"-6",13,"-8",0.253,"-0.002",50,"--",45,206,48,0.387
-48,"=","ZAC BROWN BAND","Heavy Is The Head f/C. Cornell",168,"+1",14,"-7",0.434,"-0.011",12,"160",47,173,38,0.495
-49,"=","FAMILY OF THE YEAR","Hero",141,"-4",-8,"-7",0.638,"-0.010",249,"468",11,1047,123,3.907
-50,"--","EX COPS","Black Soap",140,"--",10,"--",0.208,"--",34,"--",46,160,68,0.521
+"Title","Artist","Spins"
+"Believe","MUMFORD & SONS",2651
+"Hollow Moon (Bad Wolf)","AWOLNATION",2405
+"Black Sun","DEATH CAB FOR CUTIE",2115
+"Long Way Down","ROBERT DELONG",2017
+"Shut Up And Dance","WALK THE MOON",2015
+"Lampshades On Fire","MODEST MOUSE",2003
+"Congregation","FOO FIGHTERS",1957
+"Dead Inside","MUSE",1902
+"What Kind Of Man","FLORENCE + THE MACHINE",1721
+"Stolen Dance","MILKY CHANCE",1559
+"Mess Is Mine","VANCE JOY",1430
+"Crystals","OF MONSTERS AND MEN",1310
+"Somebody New","JOYWAVE",1267
+"Weight Of Love","BLACK KEYS",1160
+"Cecilia And The Satellite","ANDREW MCMAHON IN WILDERNESS",1129
+"My Type","SAINT MOTEL",1104
+"Coming For You","OFFSPRING",1099
+"Shots","IMAGINE DRAGONS",958
+"Don't Wanna Fight","ALABAMA SHAKES",852
+"Absolution Calling","INCUBUS",707
+"Peaches","IN THE VALLEY BELOW",652
+"Sorry","MEG MYERS",625
+"Lifted Up (1985)","PASSION PIT",575
+"Get It","MATT AND KIM",568
+"Tear In My Heart","TWENTY ONE PILOTS",540
+"Nothing Without Love","NATE RUESS",531
+"Flashed Junk Mind","MILKY CHANCE",480
+"Contagious","NIGHT RIOTS",465
+"Hold Back The River","JAMES BAY",459
+"Sound Of Change","DIRTY HEADS",447
+"Little Monster","ROYAL BLOOD",433
+"Uma Thurman","FALL OUT BOY",374
+"If You Wanna Stay","GRISWOLDS",369
+"Moaning Lisa Smile","WOLF ALICE",366
+"Every Other Freckle","ALT-J",352
+"Business Of Emotion f/WhiteSea","BIG DATA",342
+"First","COLD WAR KIDS",329
+"Everything Is Wrong","INTERPOL",320
+"Geronimo","SHEPPARD",315
+"Failure","BREAKING BENJAMIN",309
+"Get Closer","LIFE IN FILM",253
+"Gold","CHET FAKER",238
+"Can't Deny My Love","BRANDON FLOWERS",236
+"Till It's Gone","YELAWOLF",232
+"Electric Love","BORNS",184
+"I'm Good","THE MOWGLI'S",179
+"I Feel Everything","WATERS",173
+"Heavy Is The Head f/C. Cornell","ZAC BROWN BAND",168
+"Hero","FAMILY OF THE YEAR",141
+"Black Soap","EX COPS",140

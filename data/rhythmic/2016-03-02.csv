@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","G-EAZY","Me Myself And I f/Bebe Rexha",6007,45,372,-13,30.463,0.24,113,"11",1,6007,820,30.463
-2,"=","RIHANNA","Work f/Drake",6000,132,1113,-41,34.274,0.679,35,"1/43",2,6000,2028,34.274
-3,"+1","FLO RIDA","My House",4903,57,409,-72,20.143,0.288,127,"3",3,4903,656,20.143
-4,"-1","JUSTIN BIEBER","Love Yourself",4889,-9,105,-61,20.433,-0.003,83,"8",3,4898,702,20.441
-5,"+1","YO GOTTI","Down In The DM",4463,48,503,-33,22.348,0.189,95,"80/86",5,4463,578,22.348
-6,"-1","TORY LANEZ","Say It",4338,-150,-852,-49,25.299,-0.481,136,"108",1,6045,728,32.514
-7,"+1","THE CHAINSMOKERS","Roses f/Rozes",3576,3,145,0,12.018,0.005,107,"18",7,3576,467,12.175
-8,"-1","FETTY WAP","Again",3539,-146,-705,-127,20.077,-0.541,170,"126",4,4445,508,24.316
-9,"=","CHRIS BROWN","Back To Sleep",3268,34,277,5,19.013,0.042,93,"30",9,3268,547,19.013
-10,"=","JEREMIH","Oui",3077,5,316,-87,16.908,-0.361,103,"60",10,3077,423,17.269
-11,"=","KID INK","Promise f/Fetty Wap",2880,60,272,17,15.025,0.063,54,"120",11,2880,620,15.025
-12,"=","BELLY","Might Not f/The Weeknd",2812,21,256,-54,15.437,0.265,53,"131",12,2812,531,15.437
-13,"=","BRYSON TILLER","Don't",2576,-80,-427,-14,18.842,-0.3,122,"90",9,3494,469,21.087
-14,"+1","BEYONCE","Formation",2495,40,406,-98,15.422,0.204,21,"--",14,2495,1047,15.422
-15,"-1","THE WEEKND","In The Night",2415,-106,-934,95,10.701,-0.43,105,"71",2,5430,1125,22.286
-16,"=","TY DOLLA $IGN","Saved f/E-40",2394,29,302,-24,12.367,0.245,69,"179",16,2394,410,12.367
-17,"=","DRAKE & FUTURE","Jumpman",2274,-42,-572,120,17.486,0.089,130,"94",1,5941,1001,33.433
-18,"=","DJ LUKE NASTYY","Might Be",2240,27,372,-53,10.472,-0.032,51,"157",18,2240,469,10.504
-19,"=","JUSTIN BIEBER","Sorry",2199,3,-6,88,14.745,0.112,128,"20",2,5760,1054,29.991
-20,"=","ZENDAYA","Something New f/Chris Brown",1785,62,474,-55,6.992,0.276,19,"146",20,1785,637,6.992
-21,"=","MAJID JORDAN","Something About You",1639,-4,10,-10,5.777,-0.184,83,"850",20,1662,406,6.742
-22,"=","MIKE POSNER","I Took A Pill In Ibiza",1478,34,264,-17,4.966,0.21,34,"9",22,1478,327,4.966
-23,"=","KEVIN GATES","2 Phones",1430,46,282,-3,6.847,0.026,38,"35",23,1430,330,6.847
-24,"=","ZAYN","Pillowtalk",1390,15,315,-72,5.133,0.07,20,"10/82",24,1390,470,5.133
-25,"+2","THE WEEKND","Acquainted",1378,68,569,-33,7.392,0.445,15,"114",25,1378,614,7.392
-26,"=","CURREN$Y","Bottom Of The Bottle",1319,-3,-55,16,4.553,0.011,79,"283",23,1393,251,7.573
-27,"-2","SELENA GOMEZ","Same Old Love",1296,-35,-347,69,4.966,-0.09,149,"88",6,3737,534,14.467
-28,"=","SELENA GOMEZ","Hands To Myself",1280,32,242,-24,3.222,0.13,39,"16",28,1280,315,3.222
-29,"=","YOUNG THUG","Best Friend",1223,0,75,-23,5.972,-0.053,52,"116",25,1223,345,6.025
-30,"=","DRAKE","Summer Sixteen",1058,29,192,-11,6.577,0.332,26,"47",30,1058,392,6.577
-31,"=","DJ SNAKE","Middle f/Bipolar Sunshine",1039,30,173,-13,4.221,0.194,38,"40",31,1039,189,4.221
-32,"=","THE INTERNET","Girl f/Kaytranada",1005,12,129,4,3.992,0.075,37,"933",30,1005,246,3.992
-33,"=","JASON DERULO","Get Ugly",807,-65,-651,75,2.616,-0.209,87,"93",15,2152,427,7.319
-34,"=","DJ MUSTARD","Whole Lotta Lovin' f/T. Scott",784,13,125,7,2.792,-0.107,32,"595",34,784,171,2.899
-35,"=","LIL DICKY","$ave Dat Money",774,3,5,10,5.639,-0.086,143,"96",23,1516,223,6.912
-36,"=","BRYSON TILLER","Exchange",694,15,104,-2,5.273,0.053,30,"109",36,694,157,5.273
-37,"=","TWENTY ONE PILOTS","Stressed Out",652,0,95,-26,1.157,-0.006,36,"6",37,652,177,1.163
-38,"=","ALESSIA CARA","Wild Things",588,-4,137,-28,1.096,0.004,17,"118",38,592,165,1.096
-39,"=","J. COLE","Love Yourz",575,19,131,-3,2.532,0.027,12,"608",39,575,190,2.536
-40,"=","COLONEL LOUD","California f/Young Dolph",462,-17,-327,63,3.236,-0.006,115,"1218",16,2119,434,10.82
-41,"=","POST MALONE","Too Young",452,-12,18,-27,1.041,-0.071,20,"702",41,479,185,1.433
-42,"+1","O.T. GENASIS","Cut It f/Young Dolph",444,20,142,18,3.486,0.08,9,"--",42,444,142,3.486
-43,"+1","DREEZY","Body f/Jeremih",443,22,146,17,1.4,0.121,7,"99",43,443,146,1.4
-44,"-2","ERIC BELLINGER","Valet f/Fetty Wap & 2 Chainz",442,-17,-153,-8,1.647,-0.013,58,"--",32,632,223,3.306
-45,"=","CHARLIE PUTH","One Call Away",415,-2,-4,-2,1.08,0,29,"13",42,437,120,1.343
-46,"=","ROBIN SCHULZ","Sugar f/Francesco Yates",403,8,43,-5,1.059,0.041,10,"49",46,403,73,1.059
-47,"=","NELLY","Die A Happy Man",380,11,115,-22,0.699,0.048,3,"165",47,380,181,0.699
-48,"=","TK N CASH","3 Times In A Row",370,5,31,-5,1.985,-0.031,11,"359",46,379,107,2.058
-49,"=","ADELE","When We Were Young",328,-17,-66,-6,1.045,-0.033,29,"32",44,426,183,1.335
-50,"=","FRENCH MONTANA","Moses f/Chris Brown & Migos",325,21,93,25,2.882,0.336,2,"443",50,325,93,2.882
+"Title","Artist","Spins"
+"Me Myself And I f/Bebe Rexha","G-EAZY",6007
+"Work f/Drake","RIHANNA",6000
+"My House","FLO RIDA",4903
+"Love Yourself","JUSTIN BIEBER",4889
+"Down In The DM","YO GOTTI",4463
+"Say It","TORY LANEZ",4338
+"Roses f/Rozes","THE CHAINSMOKERS",3576
+"Again","FETTY WAP",3539
+"Back To Sleep","CHRIS BROWN",3268
+"Oui","JEREMIH",3077
+"Promise f/Fetty Wap","KID INK",2880
+"Might Not f/The Weeknd","BELLY",2812
+"Don't","BRYSON TILLER",2576
+"Formation","BEYONCE",2495
+"In The Night","THE WEEKND",2415
+"Saved f/E-40","TY DOLLA $IGN",2394
+"Jumpman","DRAKE & FUTURE",2274
+"Might Be","DJ LUKE NASTYY",2240
+"Sorry","JUSTIN BIEBER",2199
+"Something New f/Chris Brown","ZENDAYA",1785
+"Something About You","MAJID JORDAN",1639
+"I Took A Pill In Ibiza","MIKE POSNER",1478
+"2 Phones","KEVIN GATES",1430
+"Pillowtalk","ZAYN",1390
+"Acquainted","THE WEEKND",1378
+"Bottom Of The Bottle","CURREN$Y",1319
+"Same Old Love","SELENA GOMEZ",1296
+"Hands To Myself","SELENA GOMEZ",1280
+"Best Friend","YOUNG THUG",1223
+"Summer Sixteen","DRAKE",1058
+"Middle f/Bipolar Sunshine","DJ SNAKE",1039
+"Girl f/Kaytranada","THE INTERNET",1005
+"Get Ugly","JASON DERULO",807
+"Whole Lotta Lovin' f/T. Scott","DJ MUSTARD",784
+"$ave Dat Money","LIL DICKY",774
+"Exchange","BRYSON TILLER",694
+"Stressed Out","TWENTY ONE PILOTS",652
+"Wild Things","ALESSIA CARA",588
+"Love Yourz","J. COLE",575
+"California f/Young Dolph","COLONEL LOUD",462
+"Too Young","POST MALONE",452
+"Cut It f/Young Dolph","O.T. GENASIS",444
+"Body f/Jeremih","DREEZY",443
+"Valet f/Fetty Wap & 2 Chainz","ERIC BELLINGER",442
+"One Call Away","CHARLIE PUTH",415
+"Sugar f/Francesco Yates","ROBIN SCHULZ",403
+"Die A Happy Man","NELLY",380
+"3 Times In A Row","TK N CASH",370
+"When We Were Young","ADELE",328
+"Moses f/Chris Brown & Migos","FRENCH MONTANA",325

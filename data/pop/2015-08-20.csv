@@ -1,51 +1,51 @@
-"Pos","Pos.","Artist","Title","Spins","Spins.","Bullet","Bullet.","Aud","Aud.","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","THE WEEKND","Can't Feel My Face",18736,"-16",101,"-62",114.43,"+0.173",73,"1",1,18764,4549,114.43
-2,"=","OMI","Cheerleader",17507,"-171",-801,"-74",104.177,"-0.501",110,"5/91",1,18752,2755,109.867
-3,"=","MAJOR LAZER","Lean On f/MØ & DJ Snake",15440,"+164",1426,"-61",95.859,"+1.524",102,"9",3,15440,2026,95.859
-4,"+1","SELENA GOMEZ","Good For You f/A$AP Rocky",14133,"+245",1459,"+34",77.68,"+1.561",59,"8/83",4,14133,4663,77.68
-5,"-1","TAYLOR SWIFT","Bad Blood",13678,"-281",-1556,"-17",79.348,"-1.657",94,"46/67",1,19566,6848,120.08
-6,"=","SKRILLEX & DIPLO","Where Are U Now f/J. Bieber",11875,"-7",304,"-101",74.733,"-0.344",131,"24",6,11882,1280,76.015
-7,"=","FIFTH HARMONY","Worth It f/Kid Ink",11363,"-420",-2530,"-172",60.698,"-2.308",169,"29",4,14593,1718,78.088
-8,"=","DEMI LOVATO","Cool For The Summer",10773,"+141",607,"+28",62.043,"+0.587",50,"16",8,10773,4704,62.043
-9,"=","RACHEL PLATTEN","Fight Song",9928,"+53",-20,"+53",48.889,"-0.200",94,"3",8,9970,1603,52.805
-10,"=","ED SHEERAN","Photograph",9857,"+117",790,"-107",61.141,"+1.015",97,"11",10,9857,1005,61.141
-11,"=","FALL OUT BOY","Uma Thurman",8813,"+130",556,"+139",52.708,"-0.043",122,"18",11,8813,1055,52.901
-12,"=","R. CITY","Locked Away f/Adam Levine",8236,"+227",2018,"-51",49.218,"+1.268",41,"2",12,8236,2124,49.218
-13,"=","WIZ KHALIFA","See You Again f/Charlie Puth",6380,"-48",-742,"+171",42.913,"-0.877",139,"42",1,19208,3713,118.768
-14,"=","ZEDD","Beautiful Now f/Jon Bellion",6035,"+5",325,"-63",27.217,"+0.340",84,"71",14,6035,915,27.217
-15,"=","5 SECONDS OF SUMMER","She's Kinda Hot",5923,"+35",554,"-130",27.459,"+0.162",34,"20",15,5923,3244,27.459
-16,"=","TORI KELLY","Should've Been Us",5814,"-17",267,"-87",23.351,"+0.344",78,"44",15,5831,919,23.351
-17,"=","ONE DIRECTION","Drag Me Down",5305,"+129",1363,"-159",25.956,"+0.746",20,"12",17,5305,3358,25.956
-18,"=","SILENTO","Watch Me",4837,"+42",66,"+23",19.628,"-0.341",67,"6",18,4837,832,21.988
-19,"=","JASON DERULO","Cheyenne",4806,"+53",307,"+15",20.358,"+0.303",49,"79",19,4806,1150,20.358
-20,"=","CHARLIE PUTH","Marvin Gaye f/Meghan Trainor",4491,"+110",515,"-3",22.744,"+0.499",64,"7",20,4491,587,22.744
-21,"=","FLO RIDA","I Don't Like It, I Love It",4326,"+92",77,"+121",19.882,"-0.030",81,"25",20,4326,667,21.143
-22,"+1","ADAM LAMBERT","Ghost Town",3668,"+39",197,"+62",15.216,"+0.381",109,"96",22,3668,661,15.216
-23,"+1","SHAWN MENDES","Stitches",3653,"+114",613,"+39",19.286,"+0.454",90,"13",23,3653,613,19.286
-24,"-2","OMARION","Post To Be f/Chris Brown&Jhene",3536,"-196",-729,"-150",21.477,"-0.655",88,"76",19,4384,598,26.51
-25,"=","HAILEE STEINFELD","Love Myself",3220,"+145",1865,"-254",21.268,"+0.649",9,"54",25,3220,2308,21.268
-26,"=","LITTLE MIX","Black Magic",2712,"+29",611,"-50",8.854,"+0.145",34,"26",26,2712,673,8.854
-27,"=","AFROJACK","SUMMERTHING! f/Mike Taylor",2534,"+48",266,"+27",12.475,"+0.283",46,"113",27,2534,444,12.475
-28,"=","JIDENNA","Classic Man",2460,"-9",6,"-1",8.904,"-0.001",74,"62",27,2493,351,9.518
-29,"=","THE WEEKND","The Hills",2284,"+182",1036,"+87",15.974,"+1.408",18,"4",29,2284,1036,15.974
-30,"=","CALVIN HARRIS + DISCIPLES","How Deep Is Your Love",2021,"+47",222,"+3",13.324,"+0.017",25,"50",29,2021,614,13.328
-31,"=","ALESSIA CARA","Here",1792,"+35",370,"+3",7.904,"+0.111",32,"60",31,1792,370,7.904
-32,"=","DISCLOSURE","Omen f/Sam Smith",1673,"+87",366,"+41",9.959,"+0.140",18,"81",32,1673,664,10.122
-33,"=","NATHAN SYKES","Kiss Me Quick",1362,"-5",101,"-23",3.448,"-0.106",52,"548",33,1367,352,3.774
-34,"+2","A GREAT BIG WORLD","Hold Each Other f/Futuristic",1287,"+37",372,"+6",7.298,"+0.120",16,"182",34,1287,399,7.298
-35,"+2","FETTY WAP","Trap Queen",1225,"+3",-72,"+7",7.661,"+0.152",144,"40",18,4535,816,23.245
-36,"+2","MEGHAN TRAINOR","Like I'm Gonna Lose You",1213,"+15",148,"-9",4.046,"+0.094",52,"37",36,1213,431,4.046
-37,"+2","SIA","Elastic Heart f/The Weeknd...",1158,"-13",-166,"+11",10.279,"+0.179",158,"94",13,7499,909,45.191
-38,"+4","MACKLEMORE & RYAN LEWIS","Growing Up f/Ed Sheeran",1138,"+82",400,"+195",10.927,"+0.409",9,"--",38,1138,851,10.927
-39,"-5","NATALIE LA ROSE","Around The World f/Fetty Wap",1115,"-214",-851,"-188",3.155,"-0.598",68,"249",31,2082,472,8.389
-40,"-5","SAM SMITH","Like I Can",1108,"-196",-1340,"-50",3.169,"-0.455",82,"106",26,2919,605,12.191
-41,"=","KYGO","Firestone f/Conrad",1095,"+34",218,"+9",8.823,"+0.193",15,"148",41,1095,259,8.823
-42,"-2","JESS GLYNNE","Hold My Hand",1090,"+14",54,"+6",4.924,"+0.111",41,"90",40,1090,228,4.924
-43,"+1","ELLE KING","Ex's and Oh's",1035,"+62",382,"+15",4.941,"+0.265",6,"39",43,1035,382,4.941
-44,"-1","BEA MILLER","Fire N Gold",992,"+10",63,"-6",1.954,"+0.063",69,"95",42,992,162,1.954
-45,"=","X AMBASSADORS","Renegades",943,"+33",190,"+1",5.705,"+0.093",10,"22",45,943,190,5.705
-46,"=","DAYA","Hide Away",881,"+48",189,"+43",1.577,"+0.141",4,"160",46,881,189,1.577
-47,"=","ICONA POP","Emergency",776,"+19",81,"+1",2.998,"+0.004",4,"198",47,776,105,3.022
-48,"=","ROBIN THICKE","Back Together f/Nicki Minaj",760,"+49",408,"-22",2.825,"-0.047",3,"383",48,760,430,2.872
-49,"=","NICO & VINZ","That's How You Know f/B. Rexha",666,"+15",106,"-14",2.042,"+0.057",4,"337",49,666,126,2.042
-50,"--","FETTY WAP","My Way f/Monty",597,"--",206,"--",2.956,"--",1,"27",50,597,206,2.956
+"Title","Artist","Spins"
+"Can't Feel My Face","THE WEEKND",18736
+"Cheerleader","OMI",17507
+"Lean On f/MØ & DJ Snake","MAJOR LAZER",15440
+"Good For You f/A$AP Rocky","SELENA GOMEZ",14133
+"Bad Blood","TAYLOR SWIFT",13678
+"Where Are U Now f/J. Bieber","SKRILLEX & DIPLO",11875
+"Worth It f/Kid Ink","FIFTH HARMONY",11363
+"Cool For The Summer","DEMI LOVATO",10773
+"Fight Song","RACHEL PLATTEN",9928
+"Photograph","ED SHEERAN",9857
+"Uma Thurman","FALL OUT BOY",8813
+"Locked Away f/Adam Levine","R. CITY",8236
+"See You Again f/Charlie Puth","WIZ KHALIFA",6380
+"Beautiful Now f/Jon Bellion","ZEDD",6035
+"She's Kinda Hot","5 SECONDS OF SUMMER",5923
+"Should've Been Us","TORI KELLY",5814
+"Drag Me Down","ONE DIRECTION",5305
+"Watch Me","SILENTO",4837
+"Cheyenne","JASON DERULO",4806
+"Marvin Gaye f/Meghan Trainor","CHARLIE PUTH",4491
+"I Don't Like It, I Love It","FLO RIDA",4326
+"Ghost Town","ADAM LAMBERT",3668
+"Stitches","SHAWN MENDES",3653
+"Post To Be f/Chris Brown&Jhene","OMARION",3536
+"Love Myself","HAILEE STEINFELD",3220
+"Black Magic","LITTLE MIX",2712
+"SUMMERTHING! f/Mike Taylor","AFROJACK",2534
+"Classic Man","JIDENNA",2460
+"The Hills","THE WEEKND",2284
+"How Deep Is Your Love","CALVIN HARRIS + DISCIPLES",2021
+"Here","ALESSIA CARA",1792
+"Omen f/Sam Smith","DISCLOSURE",1673
+"Kiss Me Quick","NATHAN SYKES",1362
+"Hold Each Other f/Futuristic","A GREAT BIG WORLD",1287
+"Trap Queen","FETTY WAP",1225
+"Like I'm Gonna Lose You","MEGHAN TRAINOR",1213
+"Elastic Heart f/The Weeknd...","SIA",1158
+"Growing Up f/Ed Sheeran","MACKLEMORE & RYAN LEWIS",1138
+"Around The World f/Fetty Wap","NATALIE LA ROSE",1115
+"Like I Can","SAM SMITH",1108
+"Firestone f/Conrad","KYGO",1095
+"Hold My Hand","JESS GLYNNE",1090
+"Ex's and Oh's","ELLE KING",1035
+"Fire N Gold","BEA MILLER",992
+"Renegades","X AMBASSADORS",943
+"Hide Away","DAYA",881
+"Emergency","ICONA POP",776
+"Back Together f/Nicki Minaj","ROBIN THICKE",760
+"That's How You Know f/B. Rexha","NICO & VINZ",666
+"My Way f/Monty","FETTY WAP",597

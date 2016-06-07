@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","X AMBASSADORS","Renegades",3044,14,-13,30,13.376,0.297,83,"32",1,3073,537,13.826
-2,"=","TWENTY ONE PILOTS","Tear In My Heart",2644,8,-4,-8,10.843,0.343,95,"101",2,2650,778,10.843
-3,"=","BECK","Dreams",2089,14,111,-27,7.277,0.187,26,"119",3,2089,1184,7.277
-4,"=","OF MONSTERS AND MEN","Crystals",1939,-13,-57,-6,6.532,0.038,116,"722",3,2003,800,6.859
-5,"+1","ELLE KING","Ex's and Oh's",1909,39,192,13,6.495,0.289,69,"60",5,1909,359,6.495
-6,"-1","MUMFORD & SONS","The Wolf",1907,22,83,-9,5.768,0.187,91,"474",5,1907,380,5.768
-7,"=","ANDREW MCMAHON IN WILDERNESS","Cecilia And The Satellite",1683,-22,-92,-21,7.158,0.007,295,"218",5,1780,138,7.762
-8,"=","MUSE","Dead Inside",1564,-13,-196,29,6.663,0.146,110,"583",1,2736,1518,10.527
-9,"=","WOLF ALICE","Moaning Lisa Smile",1397,-6,-10,-17,4.306,-0.045,111,"1148",9,1412,178,4.351
-10,"=","JAMES BAY","Hold Back The River",1391,4,-54,16,4.115,0.034,114,"127",9,1457,255,4.538
-11,"=","MUMFORD & SONS","Believe",1283,-47,-142,-34,6.139,-0.278,124,"290",1,2688,1782,12.403
-12,"=","COLD WAR KIDS","First",1271,20,45,25,4.327,0.169,123,"171",12,1271,201,4.327
-13,"+1","FLORENCE + THE MACHINE","Ship To Wreck",926,18,112,-1,2.632,0.08,54,"415",13,926,169,2.632
-14,"-1","PANIC! AT THE DISCO","Hallelujah",917,-5,-12,-11,3.175,0.022,78,"130",13,930,249,3.29
-15,"=","ROYAL BLOOD","Little Monster",862,6,1,2,2.186,0.027,120,"--",15,862,157,2.203
-16,"=","THE STRUTS","Could Have Been Me",837,12,70,-7,3.117,0.097,51,"424",16,837,283,3.117
-17,"=","BORNS","Electric Love",753,10,57,5,1.471,-0.005,105,"--",17,753,126,1.476
-18,"=","SUBLIME WITH ROME","Wherever You Go",718,11,10,15,1.816,0.05,53,"1074",18,718,164,1.816
-19,"=","IMAGINE DRAGONS","Shots",664,-15,-67,-8,2.166,-0.038,136,"302",14,1195,217,3.069
-20,"=","HOUNDMOUTH","Sedona",655,15,45,-11,1.638,0.113,43,"562",20,655,187,1.638
-21,"+1","MODEST MOUSE","The Ground Walks, With Time...",610,6,36,-1,1.236,0.016,55,"--",21,610,136,1.236
-22,"-1","WALK THE MOON","Different Colors",605,0,78,-15,1.654,0.06,27,"449",21,608,208,1.654
-23,"=","COLEMAN HELL","2 Heads",568,17,71,3,2.056,0.16,37,"283",23,568,100,2.123
-24,"=","FALL OUT BOY","Uma Thurman",548,-3,1,0,2.281,-0.002,162,"21",23,552,88,2.591
-25,"=","NEW POLITICS","West End Kids",521,-4,-4,-5,1.348,0.017,52,"--",24,525,152,1.362
-26,"=","GLASS ANIMALS","Black Mambo",505,5,19,-4,1.193,0.041,75,"390",26,505,81,1.193
-27,"=","AWOLNATION","I Am",494,11,116,-6,1.381,-0.013,23,"532",27,494,122,1.394
-28,"=","IN THE VALLEY BELOW","Peaches",467,-1,-58,23,1.18,-0.01,153,"1301",19,907,102,2.564
-29,"+1","CATFISH AND THE BOTTLEMEN","Cocoon",420,7,-10,16,0.89,0.046,64,"--",29,439,110,0.906
-30,"-1","NIGHT RIOTS","Contagious",407,-23,-49,-27,0.882,-0.046,181,"--",23,589,63,1.081
-31,"+1","WOMBATS","Greek Tragedy",396,1,-27,4,0.914,0.03,90,"--",31,442,71,1.116
-32,"+1","ROBERT DELONG","Don't Wait Up",388,23,97,16,0.79,0.08,16,"--",32,388,134,0.827
-33,"-2","MEG MYERS","Sorry",382,-16,-211,22,0.807,0.006,128,"--",15,1124,243,2.992
-34,"=","ATLAS GENIUS","Molecules",378,27,167,-1,0.839,0.079,10,"--",34,378,194,0.839
-35,"+5","ARCS","Outta My Mind",337,26,146,-9,1.205,0.105,9,"--",35,337,258,1.205
-36,"-1","PHASES","I'm In Love With My Life",326,0,-24,8,0.614,0.006,35,"--",34,358,111,0.859
-37,"-1","ALT-J","Hunger Of The Pine",324,2,33,2,0.788,0.039,45,"--",36,324,61,0.819
-38,"-1","JOYWAVE","Now",322,2,9,-4,0.433,0.022,31,"--",35,322,75,0.53
-39,"-1","METRIC","The Shade (I Want It All)",311,-5,12,-10,0.489,0.01,44,"--",37,319,69,0.489
-40,"-1","ALABAMA SHAKES","Don't Wanna Fight",292,-24,-189,21,0.813,-0.08,142,"716",13,1261,186,3.289
-41,"=","DEATH CAB FOR CUTIE","The Ghosts Of Beverly Drive",287,18,84,10,0.495,0.105,12,"--",41,287,102,0.557
-42,"=","BREAKING BENJAMIN","Failure",274,6,-19,18,0.995,0.031,106,"317",27,486,231,1.787
-43,"=","CIVIL TWILIGHT","Holy Dove",266,1,5,-5,0.292,0.007,56,"--",41,266,52,0.48
-44,"=","MATT AND KIM","Can You Blame Me",182,4,0,12,0.411,0.038,48,"--",41,221,71,0.702
-45,"=","SLIGHTLY STOOPID","The Prophet",174,-3,-13,1,0.395,0.003,31,"--",44,204,55,0.981
-46,"=","HIGHLY SUSPECT","Lydia",149,0,-24,-1,0.307,0.013,13,"382",46,174,16,0.34
-47,"=","CIRCA WAVES","T-Shirt Weather",147,0,25,2,0.122,-0.004,5,"--",47,148,58,0.181
-48,"=","GEORGE EZRA","Blame It On Me",144,0,5,-2,0.181,0.011,8,"772",47,144,27,0.181
-49,"+1","DISTURBED","The Vengeful One",141,7,45,-2,0.397,0.025,3,"213",49,141,61,0.397
-50,"-1","BULLY","Trying",138,-4,2,1,0.274,-0.003,12,"--",47,168,47,0.551
+"Title","Artist","Spins"
+"Renegades","X AMBASSADORS",3044
+"Tear In My Heart","TWENTY ONE PILOTS",2644
+"Dreams","BECK",2089
+"Crystals","OF MONSTERS AND MEN",1939
+"Ex's and Oh's","ELLE KING",1909
+"The Wolf","MUMFORD & SONS",1907
+"Cecilia And The Satellite","ANDREW MCMAHON IN WILDERNESS",1683
+"Dead Inside","MUSE",1564
+"Moaning Lisa Smile","WOLF ALICE",1397
+"Hold Back The River","JAMES BAY",1391
+"Believe","MUMFORD & SONS",1283
+"First","COLD WAR KIDS",1271
+"Ship To Wreck","FLORENCE + THE MACHINE",926
+"Hallelujah","PANIC! AT THE DISCO",917
+"Little Monster","ROYAL BLOOD",862
+"Could Have Been Me","THE STRUTS",837
+"Electric Love","BORNS",753
+"Wherever You Go","SUBLIME WITH ROME",718
+"Shots","IMAGINE DRAGONS",664
+"Sedona","HOUNDMOUTH",655
+"The Ground Walks, With Time...","MODEST MOUSE",610
+"Different Colors","WALK THE MOON",605
+"2 Heads","COLEMAN HELL",568
+"Uma Thurman","FALL OUT BOY",548
+"West End Kids","NEW POLITICS",521
+"Black Mambo","GLASS ANIMALS",505
+"I Am","AWOLNATION",494
+"Peaches","IN THE VALLEY BELOW",467
+"Cocoon","CATFISH AND THE BOTTLEMEN",420
+"Contagious","NIGHT RIOTS",407
+"Greek Tragedy","WOMBATS",396
+"Don't Wait Up","ROBERT DELONG",388
+"Sorry","MEG MYERS",382
+"Molecules","ATLAS GENIUS",378
+"Outta My Mind","ARCS",337
+"I'm In Love With My Life","PHASES",326
+"Hunger Of The Pine","ALT-J",324
+"Now","JOYWAVE",322
+"The Shade (I Want It All)","METRIC",311
+"Don't Wanna Fight","ALABAMA SHAKES",292
+"The Ghosts Of Beverly Drive","DEATH CAB FOR CUTIE",287
+"Failure","BREAKING BENJAMIN",274
+"Holy Dove","CIVIL TWILIGHT",266
+"Can You Blame Me","MATT AND KIM",182
+"The Prophet","SLIGHTLY STOOPID",174
+"Lydia","HIGHLY SUSPECT",149
+"T-Shirt Weather","CIRCA WAVES",147
+"Blame It On Me","GEORGE EZRA",144
+"The Vengeful One","DISTURBED",141
+"Trying","BULLY",138

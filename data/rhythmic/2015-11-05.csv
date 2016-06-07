@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","DRAKE","Hotline Bling",7698,8,8,-31,42.295,0.193,69,"5",1,7714,1293,42.595
-2,"=","FETTY WAP","679 f/Remy Boyz...",6361,-11,21,-37,36.176,-0.192,96,"29",2,6395,1034,36.739
-3,"=","THE WEEKND","The Hills",5774,-56,-569,29,30.423,-0.369,110,"25",1,7353,1129,39.056
-4,"=","JUSTIN BIEBER","What Do You Mean?",4916,34,334,-30,20.778,0.089,66,"17",4,4916,866,20.778
-5,"+1","ALESSIA CARA","Here",4688,108,808,1,20.985,0.532,85,"20",5,4688,834,20.985
-6,"-1","MACKLEMORE & RYAN LEWIS","Downtown",4664,-63,-45,-55,18.488,-0.202,68,"30/93",4,4730,1065,18.775
-7,"+1","POST MALONE","White Iverson",3909,63,517,-29,20.565,0.14,73,"45",7,3909,625,20.565
-8,"-1","NELLY","The Fix f/Jeremih",3861,0,146,-88,15.649,-0.124,77,"83",7,3861,589,16.061
-9,"=","K CAMP","Comfortable",2917,-39,-55,-2,14.234,-0.114,109,"220",9,3040,505,14.972
-10,"+1","FUTURE","Where Ya At f/Drake",2735,52,340,20,14.505,0.002,102,"128",10,2735,429,14.505
-11,"-1","LIL WAYNE & CHARLIE PUTH","Nothing But Trouble",2684,-174,-492,-146,10.34,-0.595,107,"185",7,3245,512,13.399
-12,"=","CHRIS BROWN","Zero",2589,30,300,-36,11.228,0.165,37,"218",12,2589,605,11.228
-13,"=","IHEARTMEMPHIS","Hit The Quan",2212,39,317,-29,9.067,0.077,54,"40",13,2212,499,9.067
-14,"+1","DEJ LOAF","Back Up f/Big Sean",2126,56,365,19,10.633,0.22,91,"113",14,2126,369,10.633
-15,"-1","SELENA GOMEZ","Good For You f/A$AP Rocky",2082,-60,-636,54,8.845,-0.228,121,"86",4,4480,624,17.474
-16,"=","MEEK MILL","All Eyes On You f/Minaj/Brown",1954,-24,-419,80,11.396,-0.2,123,"193",7,3516,460,18.925
-17,"=","J. COLE","No Role Modelz",1883,41,243,7,11.783,-0.205,74,"123",17,1883,321,12.067
-18,"=","BIG SEAN","Play No Games",1857,18,212,-50,9.927,0.117,43,"344",18,1857,392,9.927
-19,"=","TINASHE","Player f/Chris Brown",1717,41,478,-43,6.412,0.211,21,"235",19,1717,530,6.412
-20,"=","TRAVI$ SCOTT","Antidote",1673,40,270,-19,10.778,0.176,47,"--",20,1673,308,10.778
-21,"=","TAYLOR SWIFT","Wildest Dreams",1469,-26,90,-56,5.447,-0.054,54,"19",21,1495,267,5.501
-22,"+1","JR CASTRO","Get Home f/Kid Ink & Migos",1465,48,274,23,7.175,0.28,39,"766",22,1465,274,7.175
-23,"-1","R. CITY","Locked Away f/Adam Levine",1391,-82,-739,33,6.084,-0.362,102,"32",9,3227,468,12.357
-24,"+2","JUSTIN BIEBER","Sorry",1329,75,703,-78,5.972,0.391,10,"4",24,1329,815,5.972
-25,"=","TY DOLLA $IGN","Blase f/Future & Rae Sremmurd",1324,11,-36,23,7.398,0.05,60,"--",23,1372,184,7.838
-26,"-2","JEREMIH","Planes f/J. Cole",1316,-36,-212,36,9.211,-0.123,137,"191",7,3689,484,19.484
-27,"=","RAE SREMMURD","Come Get Her",1068,3,52,6,4.967,0.069,32,"92",27,1068,283,5.798
-28,"+1","SELENA GOMEZ","Same Old Love",1060,15,264,-47,3.366,-0.01,31,"22",28,1060,383,3.402
-29,"-1","CALVIN HARRIS + DISCIPLES","How Deep Is Your Love",1051,-12,-9,-23,4.334,-0.012,53,"59",26,1069,185,4.407
-30,"+4","TORY LANEZ","Say It",854,35,183,-6,5.116,0.22,18,"139",30,854,284,5.116
-31,"+1","DAWIN","Dessert",850,24,187,-1,2.415,0.071,19,"283",31,850,206,2.415
-32,"+1","LIL DICKY","$ave Dat Money",846,24,186,17,5.06,0.109,25,"201",32,846,186,5.06
-33,"-3","CHRIS BROWN","Liquor",839,4,-123,54,5.151,-0.058,93,"215",20,1662,227,9.406
-34,"+7","ARIANA GRANDE","Focus",824,190,824,190,4.011,0.624,4,"16",34,824,824,4.011
-35,"-4","TREY SONGZ","About You",796,-33,-450,105,2.84,-0.229,117,"567",5,4248,678,19.038
-36,"+1","MEGHAN TRAINOR","Like I'm Gonna Lose You",767,19,132,3,2.836,0.049,19,"11",36,767,187,2.836
-37,"-1","ELLIE GOULDING","On My Mind",753,4,48,-9,2.253,0.045,27,"26",33,753,189,2.285
-38,"-3","FETTY WAP","Again",750,-2,40,4,7.485,0.155,52,"84",33,757,165,7.485
-39,"+1","ADELE","Hello",736,73,491,3,2.748,0.268,5,"1",39,736,522,2.748
-40,"-2","NAUGHTY BOY","Runnin (Lose It All) f/Beyonce",729,12,101,4,2.07,0.014,28,"--",38,729,146,2.07
-41,"+1","DRAKE & FUTURE","Jumpman",666,44,149,16,6.498,0.321,12,"44",40,666,164,6.498
-42,"-3","EMPIRE CAST","No Doubt About It",661,-46,-115,-35,1.444,-0.08,37,"573",31,789,254,2.028
-43,"=","SHAWN MENDES","Stitches",594,-2,11,-7,2.659,-0.009,25,"13",41,596,180,2.668
-44,"+1","SHY CARTER","Bring It Back f/Aleon Craft",512,-8,-4,-22,1.257,-0.019,46,"545",42,530,77,1.517
-45,"-1","DRAKE","Back To Back",512,-19,-36,-20,6.782,-0.19,92,"124",24,1212,412,7.91
-46,"+1","FLO RIDA","My House",500,37,121,14,1.494,0.125,9,"87",46,500,147,1.494
-47,"-1","MACKLEMORE & RYAN LEWIS","Growing Up f/Ed Sheeran",494,-2,-49,-6,1.583,-0.005,81,"--",24,1295,471,5
-48,"+1","2 CHAINZ","Watch Out",410,23,159,9,1.556,0.038,4,"490",48,410,159,1.556
-49,"-1","DRAKE","Energy",404,7,-18,15,6.297,0.044,115,"187",40,559,85,8.092
-50,"=","BRYSON TILLER","Don't",389,13,58,2,2.315,0.159,4,"130",49,389,58,2.315
+"Title","Artist","Spins"
+"Hotline Bling","DRAKE",7698
+"679 f/Remy Boyz...","FETTY WAP",6361
+"The Hills","THE WEEKND",5774
+"What Do You Mean?","JUSTIN BIEBER",4916
+"Here","ALESSIA CARA",4688
+"Downtown","MACKLEMORE & RYAN LEWIS",4664
+"White Iverson","POST MALONE",3909
+"The Fix f/Jeremih","NELLY",3861
+"Comfortable","K CAMP",2917
+"Where Ya At f/Drake","FUTURE",2735
+"Nothing But Trouble","LIL WAYNE & CHARLIE PUTH",2684
+"Zero","CHRIS BROWN",2589
+"Hit The Quan","IHEARTMEMPHIS",2212
+"Back Up f/Big Sean","DEJ LOAF",2126
+"Good For You f/A$AP Rocky","SELENA GOMEZ",2082
+"All Eyes On You f/Minaj/Brown","MEEK MILL",1954
+"No Role Modelz","J. COLE",1883
+"Play No Games","BIG SEAN",1857
+"Player f/Chris Brown","TINASHE",1717
+"Antidote","TRAVI$ SCOTT",1673
+"Wildest Dreams","TAYLOR SWIFT",1469
+"Get Home f/Kid Ink & Migos","JR CASTRO",1465
+"Locked Away f/Adam Levine","R. CITY",1391
+"Sorry","JUSTIN BIEBER",1329
+"Blase f/Future & Rae Sremmurd","TY DOLLA $IGN",1324
+"Planes f/J. Cole","JEREMIH",1316
+"Come Get Her","RAE SREMMURD",1068
+"Same Old Love","SELENA GOMEZ",1060
+"How Deep Is Your Love","CALVIN HARRIS + DISCIPLES",1051
+"Say It","TORY LANEZ",854
+"Dessert","DAWIN",850
+"$ave Dat Money","LIL DICKY",846
+"Liquor","CHRIS BROWN",839
+"Focus","ARIANA GRANDE",824
+"About You","TREY SONGZ",796
+"Like I'm Gonna Lose You","MEGHAN TRAINOR",767
+"On My Mind","ELLIE GOULDING",753
+"Again","FETTY WAP",750
+"Hello","ADELE",736
+"Runnin (Lose It All) f/Beyonce","NAUGHTY BOY",729
+"Jumpman","DRAKE & FUTURE",666
+"No Doubt About It","EMPIRE CAST",661
+"Stitches","SHAWN MENDES",594
+"Bring It Back f/Aleon Craft","SHY CARTER",512
+"Back To Back","DRAKE",512
+"My House","FLO RIDA",500
+"Growing Up f/Ed Sheeran","MACKLEMORE & RYAN LEWIS",494
+"Watch Out","2 CHAINZ",410
+"Energy","DRAKE",404
+"Don't","BRYSON TILLER",389

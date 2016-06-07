@@ -1,51 +1,51 @@
-"Pos","Pos.","Artist","Title","Spins","Spins.","Bullet","Bullet.","Aud","Aud.","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","JUSTIN BIEBER","Sorry",18097,"+215",-393,"+577",117.943,"+2.530",78,"4",1,19494,3902,127.324
-2,"=","SELENA GOMEZ","Same Old Love",17896,"+420",472,"+684",111.336,"+4.050",115,"13",2,18064,1774,111.646
-3,"+1","ALESSIA CARA","Here",15891,"+433",733,"+707",92.918,"+2.713",173,"23",3,15891,1467,98.324
-4,"-1","ADELE","Hello",15454,"-77",-1245,"+312",103.463,"+1.351",77,"3",1,19167,4705,124.831
-5,"=","MEGHAN TRAINOR","Like I'm Gonna Lose You",12854,"+203",-46,"+522",74.12,"+1.524",193,"10",5,13735,1275,83.171
-6,"+1","THE WEEKND","In The Night",11974,"+379",929,"+450",69.33,"+2.308",57,"26",6,11974,3011,69.33
-7,"-1","ELLIE GOULDING","On My Mind",11551,"-351",-1344,"-25",71.916,"-0.962",113,"28",4,14332,3457,82.642
-8,"+1","JUSTIN BIEBER","Love Yourself",9396,"+716",1870,"+828",66.268,"+4.860",35,"1/79",8,9396,2930,66.268
-9,"+1","THE CHAINSMOKERS","Roses f/Rozes",9011,"+339",981,"+362",49.762,"+1.832",103,"6",9,9011,1619,49.762
-10,"-2","SHAWN MENDES","Stitches",8985,"+31",-267,"+252",66.135,"+0.591",231,"17",1,17999,2130,108.715
-11,"=","DEMI LOVATO","Confident",8717,"+204",295,"+362",46.371,"+1.033",99,"31",9,9049,1761,47.803
-12,"=","TWENTY ONE PILOTS","Stressed Out",8703,"+440",948,"+554",50.687,"+3.474",54,"2",12,8703,1684,50.687
-13,"=","ONE DIRECTION","Perfect",8250,"+140",223,"+274",40.134,"+1.004",82,"22",10,8440,1211,41.357
-14,"=","DAYA","Hide Away",7923,"+139",139,"+221",42.986,"+1.326",145,"12",12,7923,851,42.986
-15,"=","DRAKE","Hotline Bling",7206,"-63",-494,"+14",42.544,"-0.339",116,"18",2,16016,2377,99.499
-16,"=","SHAWN MENDES & CAMILA CABELLO","I Know What You Did Last...",6638,"+255",532,"+362",32.967,"+1.795",45,"8",16,6638,1989,32.967
-17,"=","TAYLOR SWIFT","Wildest Dreams",6258,"-117",-528,"+38",41.906,"-0.181",134,"34",1,18848,3531,112.715
-18,"=","JUSTIN BIEBER","What Do You Mean?",5361,"-29",161,"-58",46.122,"+0.037",133,"21",1,18691,5900,114.523
-19,"=","DNCE","Cake By The Ocean",5200,"+147",473,"+179",23.863,"+0.861",100,"20",19,5200,613,23.863
-20,"+2","ADELE","When We Were Young",4951,"+334",1283,"+187",26.451,"+1.847",23,"19",20,4951,1461,26.451
-21,"-1","GWEN STEFANI","Used To Love You",4676,"+27",-112,"+150",18.59,"-0.234",71,"58",19,5224,1038,22.087
-22,"-1","ELLE KING","Ex's and Oh's",4582,"-60",-407,"+99",27.414,"-0.406",147,"14",7,12070,1468,71.394
-23,"=","CHARLIE PUTH","One Call Away",4275,"+162",389,"+251",17.988,"+0.747",60,"15",23,4275,819,17.988
-24,"=","FALL OUT BOY","Irresistible f/Demi Lovato",3892,"+48",142,"+1",16.383,"-0.162",72,"33/94",23,3892,560,16.657
-25,"=","FLO RIDA","My House",3379,"+142",400,"+146",13.868,"+0.930",81,"7",25,3379,666,13.868
-26,"=","JASON DERULO","Get Ugly",3077,"+116",431,"+99",13.461,"+0.307",26,"55",26,3077,1110,13.461
-27,"=","TORI KELLY","Hollow",2948,"+59",153,"+86",10.34,"+0.255",61,"123",26,2948,501,10.502
-28,"=","HALSEY","New Americana",2724,"-13",-163,"+19",8.073,"-0.069",103,"62",25,3060,537,9.352
-29,"=","ROBIN SCHULZ","Sugar f/Francesco Yates",2265,"+31",138,"+6",12.304,"+0.276",42,"137",29,2265,451,12.304
-30,"=","POST MALONE","White Iverson",2224,"+51",135,"+45",7.158,"+0.030",54,"29",30,2224,451,7.361
-31,"=","CHRIS BROWN","Zero",2028,"+9",11,"-20",7.685,"+0.147",73,"185",31,2037,391,8.043
-32,"=","X AMBASSADORS","Renegades",1827,"-83",-205,"-139",9.35,"-0.415",151,"81",8,9986,1573,48.866
-33,"=","NELLY","The Fix f/Jeremih",1814,"-70",-330,"-27",5.873,"-0.280",83,"56",30,2407,341,9.703
-34,"+1","TRAVI$ SCOTT","Antidote",1734,"+45",123,"+48",8.608,"+0.222",40,"32",34,1734,308,8.608
-35,"+3","RACHEL PLATTEN","Stand By You",1652,"+47",38,"+81",7.055,"+0.351",70,"5",35,1673,227,7.365
-36,"=","TINASHE","Player f/Chris Brown",1652,"+7",-121,"+21",5.685,"-0.096",54,"483",34,1787,366,6.736
-37,"=","R. CITY","Make Up f/Chloe Angelides",1651,"+39",73,"+32",9.56,"+0.060",33,"144",37,1651,348,9.56
-38,"-4","FETTY WAP","679 f/Remy Boyz...",1552,"-143",-186,"-245",8.182,"-0.902",124,"30",19,5210,769,28.742
-39,"+4","TAYLOR SWIFT","Out Of The Woods",1543,"+386",1047,"+352",12.863,"+2.383",5,"54",39,1543,1047,12.863
-40,"+2","SELENA GOMEZ","Hands To Myself",1488,"+211",764,"+161",8.581,"+1.031",5,"27",40,1488,764,8.581
-41,"-1","DAVID GUETTA","Bang My Head f/Sia",1451,"+39",97,"+37",7.202,"+0.276",29,"305",39,1451,379,7.202
-42,"-3","DIPLO & SLEEPY TOM","Be Right There",1436,"+16",99,"-30",9.851,"+0.298",46,"194",39,1436,207,9.851
-43,"-2","BORNS","Electric Love",1356,"+54",101,"+74",3.923,"+0.246",40,"251",41,1356,225,3.923
-44,"=","ANDY GRAMMER","Good To Be Alive (Hallelujah)",1159,"+8",-24,"+16",2.992,"+0.035",87,"38",42,1261,177,3.294
-45,"=","JUSTIN TIMBERLAKE","Drink You Away",1139,"+68",143,"+88",4.662,"+0.311",21,"71",43,1139,390,4.662
-46,"=","ADAM LAMBERT","Another Lonely Night",928,"+38",14,"+62",2.569,"+0.070",31,"--",45,962,129,2.993
-47,"=","DAWIN","Dessert",871,"-1",-13,"-7",3.147,"+0.065",46,"91",46,989,118,4.548
-48,"+1","TROYE SIVAN","Youth",484,"+38",139,"+29",1.239,"+0.094",5,"389",48,484,139,1.239
-49,"-1","COLDPLAY","Adventure Of A Lifetime",472,"-7",-7,"-30",2.707,"-0.094",5,"43",48,479,29,2.836
-50,"--","G-EAZY","Me Myself And I f/Bebe Rexha",446,"--",240,"--",3.038,"--",1,"--",50,446,240,3.038
+"Title","Artist","Spins"
+"Sorry","JUSTIN BIEBER",18097
+"Same Old Love","SELENA GOMEZ",17896
+"Here","ALESSIA CARA",15891
+"Hello","ADELE",15454
+"Like I'm Gonna Lose You","MEGHAN TRAINOR",12854
+"In The Night","THE WEEKND",11974
+"On My Mind","ELLIE GOULDING",11551
+"Love Yourself","JUSTIN BIEBER",9396
+"Roses f/Rozes","THE CHAINSMOKERS",9011
+"Stitches","SHAWN MENDES",8985
+"Confident","DEMI LOVATO",8717
+"Stressed Out","TWENTY ONE PILOTS",8703
+"Perfect","ONE DIRECTION",8250
+"Hide Away","DAYA",7923
+"Hotline Bling","DRAKE",7206
+"I Know What You Did Last...","SHAWN MENDES & CAMILA CABELLO",6638
+"Wildest Dreams","TAYLOR SWIFT",6258
+"What Do You Mean?","JUSTIN BIEBER",5361
+"Cake By The Ocean","DNCE",5200
+"When We Were Young","ADELE",4951
+"Used To Love You","GWEN STEFANI",4676
+"Ex's and Oh's","ELLE KING",4582
+"One Call Away","CHARLIE PUTH",4275
+"Irresistible f/Demi Lovato","FALL OUT BOY",3892
+"My House","FLO RIDA",3379
+"Get Ugly","JASON DERULO",3077
+"Hollow","TORI KELLY",2948
+"New Americana","HALSEY",2724
+"Sugar f/Francesco Yates","ROBIN SCHULZ",2265
+"White Iverson","POST MALONE",2224
+"Zero","CHRIS BROWN",2028
+"Renegades","X AMBASSADORS",1827
+"The Fix f/Jeremih","NELLY",1814
+"Antidote","TRAVI$ SCOTT",1734
+"Stand By You","RACHEL PLATTEN",1652
+"Player f/Chris Brown","TINASHE",1652
+"Make Up f/Chloe Angelides","R. CITY",1651
+"679 f/Remy Boyz...","FETTY WAP",1552
+"Out Of The Woods","TAYLOR SWIFT",1543
+"Hands To Myself","SELENA GOMEZ",1488
+"Bang My Head f/Sia","DAVID GUETTA",1451
+"Be Right There","DIPLO & SLEEPY TOM",1436
+"Electric Love","BORNS",1356
+"Good To Be Alive (Hallelujah)","ANDY GRAMMER",1159
+"Drink You Away","JUSTIN TIMBERLAKE",1139
+"Another Lonely Night","ADAM LAMBERT",928
+"Dessert","DAWIN",871
+"Youth","TROYE SIVAN",484
+"Adventure Of A Lifetime","COLDPLAY",472
+"Me Myself And I f/Bebe Rexha","G-EAZY",446

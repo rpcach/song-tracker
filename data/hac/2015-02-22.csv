@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","ED SHEERAN","Thinking Out Loud",7259,"+11",630,"+97",47.728,"+0.123",113,"3",1,7259,884,47.728
-2,"=","MARK RONSON","Uptown Funk f/Bruno Mars",7072,"+36",681,"+123",46.916,"+0.401",100,"1",2,7072,1271,46.916
-3,"=","HOZIER","Take Me To Church",6170,"-63",267,"+91",37.879,"-0.792",164,"9",1,6557,661,44.538
-4,"=","MEGHAN TRAINOR","Lips Are Movin",5937,"-33",335,"+41",35.661,"-0.256",112,"16",4,5970,714,36.322
-5,"=","TAYLOR SWIFT","Blank Space",5822,"-79",-65,"+82",39.205,"-0.476",115,"11",1,6727,1225,45.876
-6,"+1","MAROON 5","Sugar",4863,"+124",967,"+74",32.006,"+0.739",45,"5",6,4863,1027,32.006
-7,"-1","ELLA HENDERSON","Ghost",4793,"+38",596,"+73",29.385,"+0.277",171,"18",6,4793,596,29.385
-8,"=","VANCE JOY","Riptide",4013,"-65",67,"+20",25.575,"-0.199",177,"33",7,4208,388,27.089
-9,"+1","TAYLOR SWIFT","Style",3940,"+133",961,"+98",27.29,"+1.153",42,"7",9,3940,961,27.29
-10,"-1","SAM SMITH","I'm Not The Only One",3745,"-82",-36,"+14",25.118,"-0.320",158,"23",2,5796,709,37.971
-11,"=","ONEREPUBLIC","I Lived",3642,"-2",276,"+50",21.163,"+0.203",158,"42",9,3644,363,21.163
-12,"=","FALL OUT BOY","Centuries",3614,"+78",572,"+163",22.793,"+0.812",147,"15",12,3614,572,22.793
-13,"+1","KELLY CLARKSON","Heartbeat Song",3521,"-4",253,"+19",21.29,"-0.118",41,"32",12,3525,1895,21.408
-14,"-1","NICK JONAS","Jealous",3472,"-61",79,"+44",20.718,"-0.547",137,"40",9,3533,405,22.529
-15,"=","IMAGINE DRAGONS","I Bet My Life",2916,"+10",355,"+21",17.189,"+0.210",113,"8",15,2916,355,17.189
-16,"=","ELLIE GOULDING","Love Me Like You Do",2683,"+37",634,"-49",16.517,"+0.347",41,"2",16,2683,683,16.517
-17,"=","SHEPPARD","Geronimo",2556,"+24",389,"+25",13.733,"+0.274",97,"47",16,2556,389,13.733
-18,"=","SELENA GOMEZ","The Heart Wants What It Wants",2002,"-40",-53,"+22",9.599,"-0.185",84,"59",17,2137,394,11.24
-19,"=","WALK THE MOON","Shut Up And Dance",1603,"+59",423,"-2",10.15,"+0.358",55,"26",19,1603,429,10.15
-20,"+1","RIHANNA/KANYE WEST/P MCCARTNEY","FourFiveSeconds",1553,"+70",493,"+49",9.836,"+0.499",28,"4",20,1553,614,9.836
-21,"-1","GEORGE EZRA","Budapest",1540,"+42",259,"+49",7.654,"+0.388",105,"91",19,1540,259,7.654
-22,"+1","LILLYWOOD & ROBIN SCHULZ","Prayer In C",1215,"+45",370,"-5",6.25,"+0.331",47,"29",22,1215,375,6.25
-23,"-1","BIG DATA","Dangerous f/Joywave",1210,"-21",11,"-1",6.299,"-0.045",153,"160",21,1233,135,6.62
-24,"=","MR PROBZ","Waves",1107,"-47",-157,"-13",6.465,"-0.370",133,"112",12,3055,408,19.171
-25,"=","ARIANA GRANDE & THE WEEKND","Love Me Harder",1022,"-86",-319,"-19",5.913,"-0.657",107,"74",19,1610,306,8.134
-26,"+1","SAM SMITH","Lay Me Down",883,"+67",415,"+3",5.278,"+0.298",15,"62",26,883,415,5.278
-27,"-1","ONE DIRECTION","Night Changes",857,"+30",127,"+43",4.653,"+0.177",70,"48",26,857,167,4.653
-28,"+1","ANDY GRAMMER","Honey, I'm Good",844,"+55",319,"+17",2.861,"+0.237",28,"55",28,844,319,2.861
-29,"-1","THE SCRIPT","No Good In Goodbye",841,"+41",195,"+31",2.708,"+0.265",33,"--",27,841,196,2.708
-30,"=","ALESSO","Heroes",738,"-10",55,"-11",3.059,"-0.116",62,"96",27,748,154,3.195
-31,"=","ECHOSMITH","Bright",710,"+20",227,"-20",2.209,"+0.156",18,"225",31,710,276,2.209
-32,"=","TRAIN","Bulletproof Picasso",581,"+17",109,"-8",2.255,"+0.049",28,"--",32,581,155,2.255
-33,"=","CHRISTINA PERRI","The Words",538,"-5",-2,"+5",1.689,"+0.033",86,"1372",29,568,74,1.926
-34,"=","JAMES NEWTON HOWARD","The Hanging Tree f/J. Lawrence",472,"-67",-566,"+160",1.658,"-0.264",75,"93",13,2686,498,15.734
-35,"+1","U2","Every Breaking Wave",469,"-2",28,"+1",2.342,"-0.023",110,"--",33,471,125,2.516
-36,"-1","LADY ANTEBELLUM","Bartender",457,"-28",-146,"+29",1.745,"-0.164",119,"250",25,743,100,3.548
-37,"=","PITBULL","Time Of Our Lives f/Ne-Yo",455,"+23",155,"+7",2.289,"+0.141",35,"10",37,455,155,2.289
-38,"=","KID ROCK","First Kiss",367,"-12",34,"-18",0.565,"-0.027",25,"88",37,394,133,0.652
-39,"=","YOUNG RISING SONS","High",346,"+5",63,"+4",0.738,"+0.005",15,"--",39,352,200,0.738
-40,"+1","TOVE LO","Talking Body",338,"+10",23,"+6",1.478,"-0.002",31,"53",38,338,192,1.818
-41,"-1","CALVIN HARRIS","Blame f/John Newman",326,"-10",-26,"-9",2.434,"-0.052",140,"170",23,1281,183,7.783
-42,"+1","CAGE THE ELEPHANT","Cigarette Daydreams",262,"-2",55,"-14",0.924,"-0.039",19,"210",42,264,87,0.963
-43,"+2","LIFEHOUSE","Hurricane",257,"+16",64,"+11",0.676,"+0.067",14,"--",43,257,75,0.676
-44,"=","BLUE OCTOBER","Fear",256,"-2",-5,"-3",0.679,"-0.033",70,"--",41,266,50,0.953
-45,"-3","FIFTH HARMONY","Sledgehammer",241,"-35",-131,"-22",1.505,"-0.103",38,"78",33,427,157,1.937
-46,"=","ARCTIC MONKEYS","Do I Wanna Know?",187,"+2",-5,"+23",0.402,"+0.021",59,"280",42,220,33,0.402
-47,"=","SIA","Elastic Heart f/The Weeknd...",154,"+0",95,"-11",0.442,"-0.006",2,"39",47,154,106,0.448
-48,"--","LIFE OF DILLON","Overload",152,"--",139,"--",0.213,"--",1,"693",48,152,139,0.213
-49,"-1","NICK JONAS","Chains",145,"+7",39,"+3",0.577,"+0.022",10,"22",48,145,73,0.577
-50,"--","CALVIN HARRIS","Outside f/Ellie Goulding",142,"--",29,"--",0.595,"--",6,"37",49,142,37,0.595
+"Title","Artist","Spins"
+"Thinking Out Loud","ED SHEERAN",7259
+"Uptown Funk f/Bruno Mars","MARK RONSON",7072
+"Take Me To Church","HOZIER",6170
+"Lips Are Movin","MEGHAN TRAINOR",5937
+"Blank Space","TAYLOR SWIFT",5822
+"Sugar","MAROON 5",4863
+"Ghost","ELLA HENDERSON",4793
+"Riptide","VANCE JOY",4013
+"Style","TAYLOR SWIFT",3940
+"I'm Not The Only One","SAM SMITH",3745
+"I Lived","ONEREPUBLIC",3642
+"Centuries","FALL OUT BOY",3614
+"Heartbeat Song","KELLY CLARKSON",3521
+"Jealous","NICK JONAS",3472
+"I Bet My Life","IMAGINE DRAGONS",2916
+"Love Me Like You Do","ELLIE GOULDING",2683
+"Geronimo","SHEPPARD",2556
+"The Heart Wants What It Wants","SELENA GOMEZ",2002
+"Shut Up And Dance","WALK THE MOON",1603
+"FourFiveSeconds","RIHANNA/KANYE WEST/P MCCARTNEY",1553
+"Budapest","GEORGE EZRA",1540
+"Prayer In C","LILLYWOOD & ROBIN SCHULZ",1215
+"Dangerous f/Joywave","BIG DATA",1210
+"Waves","MR PROBZ",1107
+"Love Me Harder","ARIANA GRANDE & THE WEEKND",1022
+"Lay Me Down","SAM SMITH",883
+"Night Changes","ONE DIRECTION",857
+"Honey, I'm Good","ANDY GRAMMER",844
+"No Good In Goodbye","THE SCRIPT",841
+"Heroes","ALESSO",738
+"Bright","ECHOSMITH",710
+"Bulletproof Picasso","TRAIN",581
+"The Words","CHRISTINA PERRI",538
+"The Hanging Tree f/J. Lawrence","JAMES NEWTON HOWARD",472
+"Every Breaking Wave","U2",469
+"Bartender","LADY ANTEBELLUM",457
+"Time Of Our Lives f/Ne-Yo","PITBULL",455
+"First Kiss","KID ROCK",367
+"High","YOUNG RISING SONS",346
+"Talking Body","TOVE LO",338
+"Blame f/John Newman","CALVIN HARRIS",326
+"Cigarette Daydreams","CAGE THE ELEPHANT",262
+"Hurricane","LIFEHOUSE",257
+"Fear","BLUE OCTOBER",256
+"Sledgehammer","FIFTH HARMONY",241
+"Do I Wanna Know?","ARCTIC MONKEYS",187
+"Elastic Heart f/The Weeknd...","SIA",154
+"Overload","LIFE OF DILLON",152
+"Chains","NICK JONAS",145
+"Outside f/Ellie Goulding","CALVIN HARRIS",142

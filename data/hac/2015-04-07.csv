@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"+1","MAROON 5","Sugar",7170,44,270,17,46.381,0.513,89,"8/34",1,7170,1034,46.381
-2,"-1","TAYLOR SWIFT","Style",7147,15,-41,-26,47.01,-0.05,86,"15",1,7220,1078,47.569
-3,"=","ED SHEERAN","Thinking Out Loud",6682,-33,-114,17,43.958,-0.13,157,"11",1,7297,884,48.373
-4,"=","MARK RONSON","Uptown Funk f/Bruno Mars",6673,-37,-196,-41,43.034,-0.418,144,"3",1,7300,1271,48.408
-5,"=","ELLIE GOULDING","Love Me Like You Do",6308,19,208,-60,40.163,0.264,85,"4",5,6308,1035,40.163
-6,"=","KELLY CLARKSON","Heartbeat Song",4809,7,237,-6,29.26,0.278,85,"19",6,4809,1895,29.26
-7,"=","WALK THE MOON","Shut Up And Dance",4525,92,595,33,27.266,0.426,99,"2",7,4525,595,27.266
-8,"=","IMAGINE DRAGONS","I Bet My Life",4451,58,402,56,26.913,0.356,157,"67",7,4451,402,26.913
-9,"=","TAYLOR SWIFT","Blank Space",3533,-22,-261,47,24.536,-0.154,159,"38",1,6727,1225,45.876
-10,"=","SHEPPARD","Geronimo",3464,14,232,13,17.672,-0.161,141,"47",10,3464,389,17.833
-11,"=","ANDY GRAMMER","Honey, I'm Good",3203,37,396,-10,18.851,0.23,72,"18",11,3203,456,18.851
-12,"=","RIHANNA/KANYE WEST/P MCCARTNEY","FourFiveSeconds",3055,19,191,-13,16.584,-0.03,72,"10",12,3055,614,16.614
-13,"=","GEORGE EZRA","Budapest",2797,9,209,-19,16.441,-0.015,149,"36",13,2797,304,16.456
-14,"=","ONE DIRECTION","Night Changes",2605,32,264,2,16.416,0.313,114,"58",14,2605,363,16.416
-15,"=","SAM SMITH","Lay Me Down",2555,48,160,43,13.543,-0.015,59,"43/46",15,2555,469,13.816
-16,"=","NATE RUESS","Nothing Without Love",1902,6,239,-44,9.193,0.018,39,"167",16,1902,488,9.193
-17,"=","LILLYWOOD & ROBIN SCHULZ","Prayer In C",1764,-68,-335,-87,9.672,-0.195,91,"130",17,2100,375,11.48
-18,"=","ECHOSMITH","Bright",1685,8,110,-20,8.899,0.048,62,"60",18,1685,276,8.899
-19,"=","RACHEL PLATTEN","Fight Song",1494,46,537,-31,8.269,0.393,35,"96",19,1494,568,8.269
-20,"+1","MUMFORD & SONS","Believe",1292,47,321,2,6.751,0.149,25,"98",20,1292,340,6.751
-21,"-1","PITBULL","Time Of Our Lives f/Ne-Yo",1290,5,101,2,7.417,0.005,79,"23",20,1290,206,7.422
-22,"=","THE WEEKND","Earned It",1207,39,215,0,6.992,0.171,38,"7",22,1207,246,6.992
-23,"=","TRAIN","Bulletproof Picasso",1044,-16,-32,-27,4.61,-0.02,72,"--",22,1076,165,5.425
-24,"=","YOUNG RISING SONS","High",986,19,136,24,3.355,0.137,59,"--",24,986,200,3.355
-25,"=","JASON DERULO","Want To Want Me",866,33,218,6,4.599,0.358,23,"12",25,866,340,4.599
-26,"=","TOVE LO","Talking Body",837,7,77,-10,5.201,0.08,75,"29",26,837,192,5.201
-27,"=","LIFE OF DILLON","Overload",756,6,98,-2,1.583,0.02,45,"189",27,756,224,1.583
-28,"=","ARIANA GRANDE","One Last Time",735,7,112,-12,2.778,-0.004,36,"26",28,735,165,2.782
-29,"=","KID ROCK","First Kiss",665,-13,-14,-21,1.35,-0.01,69,"492",27,687,137,1.36
-30,"+1","MEGHAN TRAINOR","Dear Future Husband",621,33,270,3,2.919,0.146,13,"25",30,621,292,2.919
-31,"-1","THE SCRIPT","No Good In Goodbye",552,-50,-410,-14,2.073,-0.214,77,"1371",22,1076,219,4.252
-32,"+1","JAMES BAY","Hold Back The River",543,28,193,19,2.951,0.148,22,"445",32,543,193,2.951
-33,"-1","LIFEHOUSE","Hurricane",513,-3,39,-4,2,0.022,58,"--",31,516,85,2
-34,"=","BANKS","Beggin For Thread",495,15,37,8,2.099,0.112,41,"948",34,495,113,2.099
-35,"+1","THE TING TINGS","Wrong Club",466,8,104,3,1.545,0.017,35,"--",35,466,104,1.545
-36,"-1","CALVIN HARRIS","Outside f/Ellie Goulding",452,-10,-39,-18,2.038,-0.013,49,"54",32,497,135,2.283
-37,"=","MAT KEARNEY","Billion",389,-2,-6,0,0.729,0.041,44,"--",36,397,93,0.844
-38,"=","NICK JONAS","Chains",373,3,11,0,1.2,-0.025,47,"9",38,383,85,1.266
-39,"=","FAMILY OF THE YEAR","Hero",362,-8,-2,2,1.991,-0.02,30,"463",36,413,133,2.355
-40,"=","NATALIE LA ROSE","Somebody f/Jeremih",334,4,63,-12,1.667,-0.012,16,"14",40,334,75,1.679
-41,"=","MADONNA","Ghosttown",305,2,-9,1,1.436,-0.081,17,"462",41,314,272,1.823
-42,"=","VERONICAS","You Ruin Me",289,-3,21,2,0.515,-0.009,33,"--",42,292,84,0.718
-43,"=","SIA","Elastic Heart f/The Weeknd...",271,6,31,0,0.953,0.012,32,"59",43,271,106,0.953
-44,"+1","SAM HUNT","Take Your Time",256,11,46,6,1.896,-0.013,16,"20",44,256,49,1.909
-45,"-1","ZEDD","I Want You To Know f/S. Gomez",249,0,0,0,1.094,-0.025,23,"35",44,254,75,1.182
-46,"=","TORI KELLY","Nobody Love",240,7,89,-2,0.653,-0.023,5,"56",46,240,91,0.676
-47,"=","KATY TIZ","Whistle (While You Work)",238,15,52,12,1.092,0.043,10,"654",47,238,65,1.092
-48,"=","FLORIDA-GEORGIA LINE","Sun Daze",200,7,21,7,0.318,0.002,9,"138",48,200,92,0.324
-49,"=","JACQUIE LEE","Tears Fall",190,1,21,-3,0.174,0.004,2,"--",49,190,24,0.174
-50,"=","NEEDTOBREATHE","Brother f/Gavin DeGraw",189,14,95,8,0.48,0.079,2,"701",50,189,95,0.48
+"Title","Artist","Spins"
+"Sugar","MAROON 5",7170
+"Style","TAYLOR SWIFT",7147
+"Thinking Out Loud","ED SHEERAN",6682
+"Uptown Funk f/Bruno Mars","MARK RONSON",6673
+"Love Me Like You Do","ELLIE GOULDING",6308
+"Heartbeat Song","KELLY CLARKSON",4809
+"Shut Up And Dance","WALK THE MOON",4525
+"I Bet My Life","IMAGINE DRAGONS",4451
+"Blank Space","TAYLOR SWIFT",3533
+"Geronimo","SHEPPARD",3464
+"Honey, I'm Good","ANDY GRAMMER",3203
+"FourFiveSeconds","RIHANNA/KANYE WEST/P MCCARTNEY",3055
+"Budapest","GEORGE EZRA",2797
+"Night Changes","ONE DIRECTION",2605
+"Lay Me Down","SAM SMITH",2555
+"Nothing Without Love","NATE RUESS",1902
+"Prayer In C","LILLYWOOD & ROBIN SCHULZ",1764
+"Bright","ECHOSMITH",1685
+"Fight Song","RACHEL PLATTEN",1494
+"Believe","MUMFORD & SONS",1292
+"Time Of Our Lives f/Ne-Yo","PITBULL",1290
+"Earned It","THE WEEKND",1207
+"Bulletproof Picasso","TRAIN",1044
+"High","YOUNG RISING SONS",986
+"Want To Want Me","JASON DERULO",866
+"Talking Body","TOVE LO",837
+"Overload","LIFE OF DILLON",756
+"One Last Time","ARIANA GRANDE",735
+"First Kiss","KID ROCK",665
+"Dear Future Husband","MEGHAN TRAINOR",621
+"No Good In Goodbye","THE SCRIPT",552
+"Hold Back The River","JAMES BAY",543
+"Hurricane","LIFEHOUSE",513
+"Beggin For Thread","BANKS",495
+"Wrong Club","THE TING TINGS",466
+"Outside f/Ellie Goulding","CALVIN HARRIS",452
+"Billion","MAT KEARNEY",389
+"Chains","NICK JONAS",373
+"Hero","FAMILY OF THE YEAR",362
+"Somebody f/Jeremih","NATALIE LA ROSE",334
+"Ghosttown","MADONNA",305
+"You Ruin Me","VERONICAS",289
+"Elastic Heart f/The Weeknd...","SIA",271
+"Take Your Time","SAM HUNT",256
+"I Want You To Know f/S. Gomez","ZEDD",249
+"Nobody Love","TORI KELLY",240
+"Whistle (While You Work)","KATY TIZ",238
+"Sun Daze","FLORIDA-GEORGIA LINE",200
+"Tears Fall","JACQUIE LEE",190
+"Brother f/Gavin DeGraw","NEEDTOBREATHE",189

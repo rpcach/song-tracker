@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"+1","RACHEL PLATTEN","Fight Song",6878,"+74",517,"+41",40.397,"+0.281",146,"4",1,6878,568,40.397
-2,"-1","TAYLOR SWIFT","Bad Blood",6869,"-9",20,"-23",41.374,"-0.108",72,"16/38",1,6883,1625,41.771
-3,"=","WIZ KHALIFA","See You Again f/Charlie Puth",6269,"-6",-89,"+12",36.882,"-0.160",99,"25",2,6398,826,38.171
-4,"=","WALK THE MOON","Shut Up And Dance",6042,"-40",-286,"-9",34.75,"-0.523",210,"9",1,7333,638,46.781
-5,"+1","ANDY GRAMMER","Honey, I'm Good",5435,"-35",-165,"+34",32.481,"-0.132",183,"7",1,6997,620,41.716
-6,"-1","JASON DERULO","Want To Want Me",5386,"-87",-535,"-53",29.513,"-0.387",134,"40",3,6272,792,36.82
-7,"=","ED SHEERAN","Photograph",5004,"+102",635,"+56",30.602,"+0.687",77,"19",7,5004,859,30.602
-8,"=","THE WEEKND","Can't Feel My Face",3617,"+90",700,"-33",22.144,"+0.399",40,"2",8,3617,921,22.144
-9,"=","FALL OUT BOY","Uma Thurman",3528,"+50",434,"-13",18.727,"+0.258",99,"17",9,3528,483,18.727
-10,"=","OMI","Cheerleader",3375,"+70",610,"+9",19.564,"+0.235",55,"1/56",10,3375,641,19.564
-11,"+1","MAROON 5","This Summer's Gonna Hurt...",2870,"-183",-913,"-137",13.508,"-0.737",73,"119",7,4031,1278,20.86
-12,"+2","KELLY CLARKSON","Invincible",2854,"+15",132,"-3",12.844,"+0.155",68,"273",12,2854,488,12.844
-13,"+2","SAM HUNT","Take Your Time",2415,"+28",187,"+4",11.592,"+0.235",127,"27",13,2415,330,11.592
-14,"+2","ROB THOMAS","Trust You",2316,"+16",48,"+5",9.967,"+0.078",57,"767",14,2316,465,9.967
-15,"+2","ANDREW MCMAHON IN WILDERNESS","Cecilia And The Satellite",1984,"+41",342,"-14",11.581,"+0.179",83,"155",15,1984,366,11.581
-16,"+2","ADAM LAMBERT","Ghost Town",1888,"+6",62,"-16",9.314,"+0.193",92,"41",16,1888,305,9.314
-17,"+2","IMAGINE DRAGONS","Shots",1710,"+31",189,"-1",7.449,"+0.203",48,"236",17,1710,377,7.449
-18,"+3","NEEDTOBREATHE","Brother f/Gavin DeGraw",1608,"+9",88,"+7",5.383,"+0.000",113,"107",18,1608,173,5.737
-19,"+3","DEMI LOVATO","Cool For The Summer",1573,"+60",498,"-15",9.189,"+0.294",22,"14",19,1573,517,9.189
-20,"=","JAMES BAY","Hold Back The River",1525,"-130",-652,"-94",7.37,"-0.918",133,"177",13,2331,262,11.564
-21,"+2","AMERICAN AUTHORS","Go Big Or Go Home",1416,"+7",132,"-22",4.698,"+0.080",52,"146",21,1416,342,4.768
-22,"+4","X AMBASSADORS","Renegades",1381,"+75",319,"+61",7.757,"+0.527",41,"24",22,1381,319,7.757
-23,"+2","CHARLIE PUTH","Marvin Gaye f/Meghan Trainor",1376,"+48",238,"-6",7.117,"+0.282",42,"18",23,1376,357,7.117
-24,"=","LITTLE BIG TOWN","Girl Crush",1335,"-7",-26,"-14",6.386,"+0.025",81,"21",21,1374,180,6.517
-25,"+2","HOZIER","Someone New",1218,"+23",181,"+23",4.27,"+0.185",67,"256",25,1218,181,4.27
-26,"+2","FIFTH HARMONY","Worth It f/Kid Ink",1090,"+33",221,"+15",4.931,"+0.243",52,"15",26,1090,221,4.931
-27,"+3","MEGHAN TRAINOR","Like I'm Gonna Lose You",1058,"+56",311,"+34",5.326,"+0.374",33,"39",27,1058,311,5.326
-28,"+1","SAM SMITH","Like I Can",1050,"+3",3,"+7",4.552,"+0.024",66,"101",24,1079,221,5.066
-29,"+2","SIA","Elastic Heart f/The Weeknd...",934,"+3",-49,"+8",6.456,"+0.072",143,"54",26,1015,158,6.591
-30,"+2","ELLE KING","Ex's and Oh's",896,"+23",160,"+12",4.893,"+0.169",51,"46",30,896,160,4.893
-31,"+2","NICK FRADIANI","Beautiful Life",814,"+28",120,"+46",2.836,"+0.074",50,"484",31,814,153,2.98
-32,"+3","ALLEN STONE","Freedom",585,"-19",-16,"-34",1.769,"-0.107",71,"--",32,608,165,1.927
-33,"+4","MAJOR LAZER","Lean On f/MØ & DJ Snake",517,"+35",136,"+29",2.798,"+0.064",36,"10",33,517,136,2.798
-34,"+2","MEGHAN TRAINOR","Dear Future Husband",471,"-21",-119,"+9",2.625,"-0.160",124,"71",13,3424,545,18.177
-35,"+3","U2","Song for Someone",413,"+16",91,"-14",1.789,"+0.199",15,"--",35,413,138,1.789
-36,"+3","DAVID GUETTA","Hey Mama  f/Nicki Minaj",371,"-4",24,"-8",1.512,"-0.033",58,"29",36,414,114,1.894
-37,"+4","THIRD EYE BLIND","Everything Is Easy",312,"+14",39,"+10",0.653,"+0.086",30,"--",37,312,73,0.653
-38,"+2","HILARY DUFF","Sparks",311,"-5",-40,"-3",0.748,"-0.017",50,"475",38,364,49,1.013
-39,"+3","MUMFORD & SONS","Believe",279,"-3",-38,"+6",0.801,"-0.020",136,"308",15,2466,340,11.98
-40,"+3","TORI KELLY","Should've Been Us",263,"-7",5,"-26",0.79,"-0.033",20,"86",40,270,65,0.868
-41,"+4","SELENA GOMEZ","Good For You f/A$AP Rocky",220,"+10",58,"+6",1.291,"+0.047",11,"6",41,220,58,1.291
-42,"+5","SKRILLEX & DIPLO","Where Are U Now f/J. Bieber",193,"+3",24,"+7",0.991,"+0.031",24,"13",42,193,37,0.995
-43,"+3","ZZ WARD","Love 3x",193,"-7",-7,"-7",0.451,"-0.038",22,"--",43,213,79,0.673
-44,"+4","KAYA STEWART","In Love With A Boy",191,"+3",4,"+9",0.337,"-0.013",26,"583",44,202,42,0.38
-45,"+5","LEON BRIDGES","Coming Home",174,"+18",91,"+12",0.724,"+0.046",2,"695",45,174,91,0.724
-46,"--","R. CITY","Locked Away f/Adam Levine",171,"--",135,"--",1.545,"--",1,"45",46,171,135,1.545
-47,"+2","PLAIN WHITE T'S","Pause",166,"+0",-24,"+6",0.222,"-0.009",35,"--",43,217,36,0.314
-48,"--","LIFE OF DILLON","Dreams",159,"--",47,"--",0.479,"--",1,"--",48,159,47,0.479
-49,"--","MATT NATHANSON","Gold In The Summertime",159,"--",5,"--",0.532,"--",10,"1170",48,190,57,0.593
-50,"--","NATE RUESS","Great Big Storm",152,"--",89,"--",0.212,"--",1,"--",50,152,89,0.212
+"Title","Artist","Spins"
+"Fight Song","RACHEL PLATTEN",6878
+"Bad Blood","TAYLOR SWIFT",6869
+"See You Again f/Charlie Puth","WIZ KHALIFA",6269
+"Shut Up And Dance","WALK THE MOON",6042
+"Honey, I'm Good","ANDY GRAMMER",5435
+"Want To Want Me","JASON DERULO",5386
+"Photograph","ED SHEERAN",5004
+"Can't Feel My Face","THE WEEKND",3617
+"Uma Thurman","FALL OUT BOY",3528
+"Cheerleader","OMI",3375
+"This Summer's Gonna Hurt...","MAROON 5",2870
+"Invincible","KELLY CLARKSON",2854
+"Take Your Time","SAM HUNT",2415
+"Trust You","ROB THOMAS",2316
+"Cecilia And The Satellite","ANDREW MCMAHON IN WILDERNESS",1984
+"Ghost Town","ADAM LAMBERT",1888
+"Shots","IMAGINE DRAGONS",1710
+"Brother f/Gavin DeGraw","NEEDTOBREATHE",1608
+"Cool For The Summer","DEMI LOVATO",1573
+"Hold Back The River","JAMES BAY",1525
+"Go Big Or Go Home","AMERICAN AUTHORS",1416
+"Renegades","X AMBASSADORS",1381
+"Marvin Gaye f/Meghan Trainor","CHARLIE PUTH",1376
+"Girl Crush","LITTLE BIG TOWN",1335
+"Someone New","HOZIER",1218
+"Worth It f/Kid Ink","FIFTH HARMONY",1090
+"Like I'm Gonna Lose You","MEGHAN TRAINOR",1058
+"Like I Can","SAM SMITH",1050
+"Elastic Heart f/The Weeknd...","SIA",934
+"Ex's and Oh's","ELLE KING",896
+"Beautiful Life","NICK FRADIANI",814
+"Freedom","ALLEN STONE",585
+"Lean On f/MØ & DJ Snake","MAJOR LAZER",517
+"Dear Future Husband","MEGHAN TRAINOR",471
+"Song for Someone","U2",413
+"Hey Mama  f/Nicki Minaj","DAVID GUETTA",371
+"Everything Is Easy","THIRD EYE BLIND",312
+"Sparks","HILARY DUFF",311
+"Believe","MUMFORD & SONS",279
+"Should've Been Us","TORI KELLY",263
+"Good For You f/A$AP Rocky","SELENA GOMEZ",220
+"Where Are U Now f/J. Bieber","SKRILLEX & DIPLO",193
+"Love 3x","ZZ WARD",193
+"In Love With A Boy","KAYA STEWART",191
+"Coming Home","LEON BRIDGES",174
+"Locked Away f/Adam Levine","R. CITY",171
+"Pause","PLAIN WHITE T'S",166
+"Dreams","LIFE OF DILLON",159
+"Gold In The Summertime","MATT NATHANSON",159
+"Great Big Storm","NATE RUESS",152

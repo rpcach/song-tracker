@@ -1,51 +1,51 @@
-"Pos","Pos+","Artist","Title","Spins","Spins+","Bullet","Bullet+","Aud","Aud+","Days","iTunes","Pk","PkSp","PkBl","PkAu"
-1,"=","TAYLOR SWIFT","Blank Space",6703,"-22",80,"-115",45.756,"-0.074",78,"5",1,6727,1225,45.876
-2,"=","HOZIER","Take Me To Church",5903,"+38",225,"-41",38.783,"+0.527",127,"6",2,5903,661,38.783
-3,"=","SAM SMITH","I'm Not The Only One",5770,"+7",79,"-79",36.997,"-0.082",121,"16",2,5795,709,37.971
-4,"=","MAROON 5","Animals",5267,"-104",-476,"-94",34.106,"-0.887",118,"22",1,6423,1071,42.761
-5,"=","ED SHEERAN","Thinking Out Loud",4983,"+139",836,"+14",34.052,"+0.985",76,"2",5,4983,884,34.052
-6,"=","TOVE LO","Habits (Stay High)",4359,"-187",-596,"-171",28.076,"-1.137",153,"93",2,5683,639,39.204
-7,"=","VANCE JOY","Riptide",3846,"+30",160,"-10",24.369,"+0.270",140,"31",7,3846,388,24.369
-8,"=","COLBIE CAILLAT","Try",3643,"-54",-153,"-91",22.708,"-0.289",178,"82",6,4044,410,25.63
-9,"=","MARK RONSON","Uptown Funk f/Bruno Mars",3546,"+132",866,"+58",24.642,"+1.180",63,"1",9,3546,866,24.642
-10,"=","MEGHAN TRAINOR","Lips Are Movin",3446,"+68",442,"+6",22.524,"+0.418",75,"4",9,3446,536,22.524
-11,"=","ELLA HENDERSON","Ghost",3262,"+26",130,"+15",19.654,"+0.277",134,"9",10,3262,328,19.654
-12,"=","MR PROBZ","Waves",3025,"+4",89,"-24",18.461,"-0.092",96,"56",12,3055,408,19.171
-13,"=","TAYLOR SWIFT","Shake It Off",2935,"-47",-375,"-11",21.226,"-0.604",151,"13",1,6936,3324,46.333
-14,"=","MILKY CHANCE","Stolen Dance",2913,"-49",-211,"-60",16.762,"-0.638",137,"45",11,3124,317,18.687
-15,"=","ONEREPUBLIC","I Lived",2879,"+10",50,"+2",16.957,"+0.055",121,"17",14,2879,363,16.957
-16,"=","NICK JONAS","Jealous",2489,"+47",273,"+16",16.879,"+0.422",100,"18",16,2489,319,16.879
-17,"=","FALL OUT BOY","Centuries",2207,"+14",87,"+14",13.677,"+0.279",110,"7",17,2207,308,13.677
-18,"=","JAMES NEWTON HOWARD","The Hanging Tree f/J. Lawrence",2173,"+51",428,"+14",13.767,"+0.235",38,"30",18,2173,498,13.767
-19,"=","IMAGINE DRAGONS","I Bet My Life",2092,"+30",130,"+11",12.516,"+0.266",76,"52",18,2092,304,12.538
-20,"=","INGRID MICHAELSON","Afterlife",1787,"-46",-76,"-47",8.017,"-0.325",103,"619",19,1888,258,8.954
-21,"=","SELENA GOMEZ","The Heart Wants What It Wants",1465,"+3",143,"-21",7.074,"+0.012",47,"19",21,1465,394,7.074
-22,"=","SHEPPARD","Geronimo",1345,"-3",102,"-28",6.551,"-0.083",60,"75",22,1348,211,6.634
-23,"=","ARIANA GRANDE & THE WEEKND","Love Me Harder",1284,"+23",90,"+15",7.404,"+0.082",70,"28",23,1284,306,7.404
-24,"=","MATT NATHANSON","Headphones f/LOLO",1224,"-31",-120,"-26",5.203,"-0.222",164,"832",22,1349,177,5.856
-25,"+2","KELLY CLARKSON","Heartbeat Song",1065,"+227",1065,"+227",8.735,"+1.440",4,"14",25,1065,1065,8.735
-26,"-1","CALVIN HARRIS","Blame f/John Newman",1028,"-55",-216,"-40",6.488,"-0.266",103,"90",23,1281,183,7.783
-27,"-1","BIG DATA","Dangerous f/Joywave",950,"+11",122,"-6",5.53,"-0.109",116,"211",26,950,128,5.639
-28,"=","GEORGE EZRA","Budapest",696,"+6",104,"+9",2.313,"+0.069",68,"140",27,696,115,2.313
-29,"+1","MAROON 5","Sugar",624,"+111",525,"+85",4.424,"+0.698",8,"3",29,624,525,4.424
-30,"-1","LADY ANTEBELLUM","Bartender",620,"+4",18,"-3",2.434,"+0.063",82,"194",28,620,98,2.473
-31,"+1","MAT KEARNEY","Heartbeat",441,"+11",23,"+12",0.654,"+0.056",49,"--",31,441,137,0.753
-32,"-1","CHRISTINA PERRI","The Words",438,"-2",-4,"-12",1.001,"+0.015",49,"--",30,442,74,1.001
-33,"+6","TAYLOR SWIFT","Style",398,"+78",358,"+55",3.962,"+0.714",5,"21",33,398,358,3.962
-34,"=","ALESSO","Heroes",391,"+9",152,"-2",1.339,"+0.019",25,"34",34,391,154,1.339
-35,"-2","NICO & VINZ","In Your Arms",388,"-36",-128,"-16",1.302,"-0.095",115,"192",18,1733,307,9.97
-36,"+1","ONE DIRECTION","Night Changes",379,"+23",67,"+12",1.56,"+0.193",33,"33",35,379,92,1.56
-37,"-1","U2","Every Breaking Wave",371,"-1",8,"-10",1.75,"-0.065",73,"--",34,381,125,2.038
-38,"-3","LINDSEY STIRLING","Shatter Me f/Lzzy Hale",362,"-12",15,"-12",1.731,"-0.038",166,"614",33,491,68,2.323
-39,"-1","WALK THE MOON","Shut Up And Dance",354,"+7",119,"-4",2.501,"+0.069",18,"77",38,354,123,2.501
-40,"+1","COBRA STARSHIP","Never Been In Love f/Icona Pop",326,"+13",36,"+12",0.866,"+0.101",64,"--",38,326,52,1.045
-41,"-1","MAGIC!","Let Your Hair Down",299,"-20",-84,"-9",0.634,"-0.056",59,"499",33,408,83,2.382
-42,"+2","ELLIE GOULDING","Love Me Like You Do",275,"+50",249,"+39",1.946,"+0.318",4,"15",42,275,249,1.946
-43,"+2","LILLYWOOD & ROBIN SCHULZ","Prayer In C",249,"+28",149,"+26",1.249,"+0.084",10,"43",43,249,149,1.249
-44,"-2","O.A.R.","Favorite Song",240,"-18",-63,"-17",0.382,"-0.030",43,"--",37,339,89,0.675
-45,"+1","PRIORY","Weekend",222,"+1",14,"-10",0.233,"+0.000",38,"865",42,222,35,0.3
-46,"-3","TRAIN","Cadillac, Cadillac",216,"-37",-276,"+1",0.664,"-0.099",96,"--",22,1304,278,6.311
-47,"=","BLUE OCTOBER","Fear",185,"-4",-11,"-4",0.853,"-0.037",33,"--",43,200,43,0.953
-48,"=","ARCTIC MONKEYS","Do I Wanna Know?",147,"-2",-3,"-6",0.275,"-0.019",22,"206",45,155,14,0.346
-49,"=","FITZ & THE TANTRUMS","Fools Gold",125,"-7",-91,"+12",0.156,"-0.001",91,"1342",36,424,86,1.794
-50,"--","FIFTH HARMONY","Sledgehammer",124,"--",91,"--",0.557,"--",1,"41",50,124,91,0.557
+"Title","Artist","Spins"
+"Blank Space","TAYLOR SWIFT",6703
+"Take Me To Church","HOZIER",5903
+"I'm Not The Only One","SAM SMITH",5770
+"Animals","MAROON 5",5267
+"Thinking Out Loud","ED SHEERAN",4983
+"Habits (Stay High)","TOVE LO",4359
+"Riptide","VANCE JOY",3846
+"Try","COLBIE CAILLAT",3643
+"Uptown Funk f/Bruno Mars","MARK RONSON",3546
+"Lips Are Movin","MEGHAN TRAINOR",3446
+"Ghost","ELLA HENDERSON",3262
+"Waves","MR PROBZ",3025
+"Shake It Off","TAYLOR SWIFT",2935
+"Stolen Dance","MILKY CHANCE",2913
+"I Lived","ONEREPUBLIC",2879
+"Jealous","NICK JONAS",2489
+"Centuries","FALL OUT BOY",2207
+"The Hanging Tree f/J. Lawrence","JAMES NEWTON HOWARD",2173
+"I Bet My Life","IMAGINE DRAGONS",2092
+"Afterlife","INGRID MICHAELSON",1787
+"The Heart Wants What It Wants","SELENA GOMEZ",1465
+"Geronimo","SHEPPARD",1345
+"Love Me Harder","ARIANA GRANDE & THE WEEKND",1284
+"Headphones f/LOLO","MATT NATHANSON",1224
+"Heartbeat Song","KELLY CLARKSON",1065
+"Blame f/John Newman","CALVIN HARRIS",1028
+"Dangerous f/Joywave","BIG DATA",950
+"Budapest","GEORGE EZRA",696
+"Sugar","MAROON 5",624
+"Bartender","LADY ANTEBELLUM",620
+"Heartbeat","MAT KEARNEY",441
+"The Words","CHRISTINA PERRI",438
+"Style","TAYLOR SWIFT",398
+"Heroes","ALESSO",391
+"In Your Arms","NICO & VINZ",388
+"Night Changes","ONE DIRECTION",379
+"Every Breaking Wave","U2",371
+"Shatter Me f/Lzzy Hale","LINDSEY STIRLING",362
+"Shut Up And Dance","WALK THE MOON",354
+"Never Been In Love f/Icona Pop","COBRA STARSHIP",326
+"Let Your Hair Down","MAGIC!",299
+"Love Me Like You Do","ELLIE GOULDING",275
+"Prayer In C","LILLYWOOD & ROBIN SCHULZ",249
+"Favorite Song","O.A.R.",240
+"Weekend","PRIORY",222
+"Cadillac, Cadillac","TRAIN",216
+"Fear","BLUE OCTOBER",185
+"Do I Wanna Know?","ARCTIC MONKEYS",147
+"Fools Gold","FITZ & THE TANTRUMS",125
+"Sledgehammer","FIFTH HARMONY",124
