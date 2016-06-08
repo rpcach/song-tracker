@@ -37,8 +37,8 @@ ui <- fluidPage(
 
 server <- function(input,output,session) {
   output$songTitles <- renderUI({
-    pullNewData(tolower(input$genre))
-    assign("mainData",readRDS(paste("data/",tolower(input$genre),".rds",sep="")))
+    pullNewData(input$genre)
+    assign("mainData",readRDS(paste("data/",input$genre,".rds",sep="")))
         
     assign("subData",mainData[,c("Title","Artist",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-2),], envir=.GlobalEnv)
@@ -63,7 +63,14 @@ server <- function(input,output,session) {
       titles[i] <- newTitle
     }
     
-    df <- songs2df(titles,input$range[1],input$range[2],subData)
+    #df <- songs2df(titles,input$range[1],input$range[2],subData)
+    
+    if (length(titles) != 1) {
+      df <- songs2df(titles,input$range[1],input$range[2],subData)
+    }
+    else {
+      df <- multiStationDF(titles[1],input$range[1],input$range[2])
+    }
     
     n1 <- nPlot(Spins ~ Date,
                 group = "Title",
@@ -75,6 +82,11 @@ server <- function(input,output,session) {
     n1$yAxis(axisLabel = "Spins") #, width=62)
     n1$set(width = .01*input$setWidth*session$clientData$output_plot1_width,
            height = .01*input$setHeight*session$clientData$output_plot1_width)
+    if (length(titles) == 1) {
+      n1$templates$script <- "http://timelyportfolio.github.io/rCharts_nvd3_templates/chartWithTitle.html"
+      #n1$templates$script <- "http://timelyportfolio.github.io/rCharts_nvd3_templates/chartWithTitle_styled.html"
+      n1$set(title = titles[1])
+    }
     n1$chart(margin=list(left = 80,bottom = 100))
     return(n1)
     

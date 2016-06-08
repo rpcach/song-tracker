@@ -64,6 +64,25 @@ songs2df <- function(titles, start, end, data) {
   return(df)
 }
 
+multiStationDF <- function(title, start, end) {
+  df <- NULL
+  temp <- NULL
+  
+  for (genre in c("Pop","HAC","Rhythmic","Urban")) {
+    assign("mainData",readRDS(paste("data/",genre,".rds",sep="")))
+    subData <- mainData[,c("Title","Artist",as.character(as.Date(end:start,origin="1970-01-01")))]
+    subData <- subData[rowSums(is.na(subData)) != (ncol(subData)-2),]
+    subData <- subData[order(subData[3], decreasing = TRUE),]
+    if(title %in% subData$Title) {
+      temp <- songs2df(title,start, end, subData)
+      levels(temp$Title) <- genre  
+      df <- rbind(df,temp)
+    }
+  }
+  
+  return(df)
+}
+
 parseSongText <- function(x) {
   x <- gsub("\\s","",x)
   x <- gsub(","," ",x)
