@@ -8,7 +8,7 @@ ui <- fluidPage(
    sidebarPanel(
      selectInput(inputId = "genre",
                  label = "Genre",
-                 choices = c("Pop","HAC","Rhythmic","Urban","Alternative"),
+                 choices = c("Pop","HAC","Rhythmic","Urban"),
                  selected = "Pop"),
      dateRangeInput(inputId = "range",
                     label = "Date Range",
@@ -38,15 +38,7 @@ ui <- fluidPage(
 server <- function(input,output,session) {
   output$songTitles <- renderUI({
     pullNewData(tolower(input$genre))
-    #assign("mainData",loadData(as.Date("2015-01-01"),Sys.Date()-!todayDataExists(),station=tolower(input$genre)), envir=.GlobalEnv)
-    assign("mainData",readRDS(paste("data/",tolower(input$genre),"/data.rds",sep="")))
-    # assign("mainData",updateDataRDS(tolower(input$genre)))
-    # assign("mainData",updateDataRDS("urban"))
-    # assign("mainData",updateDataRDS("rhythmic"))
-    # assign("mainData",updateDataRDS("alternative"))
-    # assign("mainData",updateDataRDS("hac"))
-    
-    
+    assign("mainData",readRDS(paste("data/",tolower(input$genre),".rds",sep="")))
         
     assign("subData",mainData[,c("Title","Artist",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-2),], envir=.GlobalEnv)

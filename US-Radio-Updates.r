@@ -1,91 +1,43 @@
 mainData <- NULL
 subData <- NULL
-mainStation <- NULL
 
-#gets data.frame for date
+#gets data.frame for date (Title, Artist, Spins)
 library("rvest")
 pullDayData <- function(date,station) {
   dateString <- gsub("-","",as.character.Date(date))
   url <- paste("http://kworb.net/radio/",station,"/archives/",dateString,".html",sep="")
-  dayDT <- url %>% read_html() %>% html_nodes(xpath="/html/body/table") %>% html_table()
-  dayDT <- dayDT[[1]]
-  return(dayDT)
+  temp <- url %>% read_html() %>% html_nodes(xpath="/html/body/table") %>% html_table()
+  temp <- temp[[1]]
+  temp <- temp[c("Title","Artist","Spins")]
+  colnames(temp)[3] <- as.character.Date(date)
+  return(temp)
 }
 
-#writes CSV files for new dates
-library("RCurl")
+#adds new data to RDS files
 pullNewData <- function(station) {
-  date <- Sys.Date()
-  flag <- FALSE
-  while(TRUE) {
-    dateString <- gsub("-","",as.character.Date(date))
-    if(!todayDataExists()) {
-      print(paste("Date for",date,"is not yet available"))
-      date <- date-1
-      next
-    }
-    if(file.exists(paste("data/",station,"/",date,".csv",sep=""))) break;
+  date <- Sys.Date()-!todayDataExists()
+  main <- readRDS(paste("data/",station,".rds",sep=""))
+
+  while(date > as.Date(colnames(main)[3])) {
+    print(paste(colnames(main)[3]))
     
-    temp <- read.csv(file=paste("data/",station,"/",date,".csv",sep=""))
-    temp <- temp[c("Title","Artist","Spins")]
-    write.csv(temp, file=paste("data/",station,"/",date,".csv",sep=""), row.names=FALSE)
-    flag <- TRUE
-    print(paste(date,"for",station,"added"))
-    date <- date-1
+    temp <- pullDayData((as.Date(colnames(main)[3])+1),station)
+    main <- merge(main, temp, by=c("Title","Artist"), all=TRUE)
+    
   }
-  print("done")
-  return(flag)
+  
+  main  <- main[order(main[3], decreasing = TRUE),]
+  saveRDS(main,paste("data/",station,".rds",sep=""))
+  print(paste(station,"done"))
 }
 
+library("RCurl")
 todayDataExists <- function() {
   dateString <- gsub("-","",as.character.Date(Sys.Date()))
   if(url.exists(paste("http://kworb.net/radio/pop/archives/",dateString,".html",sep=""))) {
     return(TRUE)
   }
   return(FALSE)
-}
-
-loadData <- function(start, end, station) {
-  days <- as.numeric(end-start+1)
-  date <- end
-  main <- read.csv(paste("data/",station,"/",date,".csv",sep=""))
-  #main <- main[c("Title","Artist",cats)]
-  #5/12/2011 to 6/22/2012 2 col is "Artist and Title", with Artist data ALL CAPS
-  #6/23/2012 to Now 2,3 cols are "Artist","Title"
-  
-  #5/12/2011 to 7/18/2011 no "iTunes" col
-  #7/19/2011 to Now "iTunes" col between "Days" and "PkPos"
-  
-  colnames(main)[3] <- as.character.Date(date)
-  
-  for(i in 2:days) {
-    date <- date-1
-    temp <- read.csv(paste("data/",station,"/",date,".csv",sep=""))
-    colnames(temp)[3] <- as.character.Date(date)
-    main <- merge(main, temp, by=c("Title","Artist"), all=TRUE)
-    colnames(main)[ncol(main)] <- as.character.Date(date)
-  }
-  
-  main  <- main[order(main[3], decreasing = TRUE),]
-  
-  return(main)
-}
-
-updateDataRDS <- function(station) {
-  
-  data <- readRDS(paste("data/",station,"/data.rds",sep=""))
-  
-  date <- (Sys.Date()-!todayDataExists())
-  while(date != colnames(data)[3]) {
-    date <- date-1
-    temp <- read.csv(paste("data/",station,"/",date,".csv",sep=""))
-    data <- merge(data, temp, by=c("Title","Artist"), all=TRUE)
-    colnames(data)[ncol(data)] <- as.character.Date(date)
-  }
-  
-  saveRDS(data, paste("data/",station,"/data.rds",sep=""))
-  
-  return(data)
 }
 
 song2df <- function(title, start, end, data) {
@@ -136,25 +88,22 @@ parseSongText <- function(x) {
   return(z)
 }
 
-main <- function() {
-  if(pullNewData("pop")) {
-    updateDataRDS("pop")
+getData <- function(station) {
+  date <- Sys.Date()
+  main <- pullDayData(date,station)
+  print(as.character(date))
+  date <- date-1
+  while(date >= as.Date("2015-01-01")) {
+    print(as.character(date))
+    temp <- pullDayData(date,station)
+    main <- merge(main, temp, by=c("Title","Artist"), all=TRUE)
+    date <- date-1
   }
-  if(pullNewData("hac")) {
-    updateDataRDS("hac")
-  }
-  if(pullNewData("rhythmic")) {
-    updateDataRDS("rhythmic")
-  }
-  if(pullNewData("urban")) {
-    updateDataRDS("urban")
-  }
-  if(pullNewData("alternative")) {
-    updateDataRDS("alternative")
-  }
+  main  <- main[order(main[3], decreasing = TRUE),]
+  
+  saveRDS(main,paste("data/",station,".rds",sep=""))
+  print(station)
 }
-
-#main()
 
 #top 5 songs in the last 30 days
 demo <- function() {
