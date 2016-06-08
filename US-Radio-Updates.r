@@ -19,11 +19,8 @@ pullNewData <- function(station) {
   main <- readRDS(paste("data/",station,".rds",sep=""))
 
   while(date > as.Date(colnames(main)[3])) {
-    print(paste(colnames(main)[3]))
-    
     temp <- pullDayData((as.Date(colnames(main)[3])+1),station)
     main <- merge(temp, main, by=c("Title","Artist"), all=TRUE)
-    
   }
   
   main  <- main[order(main[3], decreasing = TRUE),]
@@ -67,19 +64,20 @@ songs2df <- function(titles, start, end, data) {
 multiStationDF <- function(title, start, end) {
   df <- NULL
   temp <- NULL
-  
+
   for (genre in c("Pop","HAC","Rhythmic","Urban")) {
-    assign("mainData",readRDS(paste("data/",genre,".rds",sep="")))
-    subData <- mainData[,c("Title","Artist",as.character(as.Date(end:start,origin="1970-01-01")))]
-    subData <- subData[rowSums(is.na(subData)) != (ncol(subData)-2),]
-    subData <- subData[order(subData[3], decreasing = TRUE),]
-    if(title %in% subData$Title) {
-      temp <- songs2df(title,start, end, subData)
+    main <- readRDS(paste("data/",genre,".rds",sep=""))
+    sub <- main[,c("Title","Artist",as.character(as.Date(end:start,origin="1970-01-01")))]
+    sub <- sub[rowSums(is.na(sub)) != (ncol(sub)-2),]
+    sub <- sub[order(sub[3], decreasing = TRUE),]
+    
+    if(title %in% sub$Title) {
+      temp <- songs2df(title, start, end, sub)
       levels(temp$Title) <- genre  
       df <- rbind(df,temp)
     }
   }
-  
+
   return(df)
 }
 
