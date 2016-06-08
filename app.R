@@ -64,7 +64,7 @@ server <- function(input,output,session) {
     }
     
     df <- songs2df(titles,input$range[1],input$range[2],subData)
-
+    
     n1 <- nPlot(Spins ~ Date,
                 group = "Title",
                 data = df,

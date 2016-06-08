@@ -22,7 +22,7 @@ pullNewData <- function(station) {
     print(paste(colnames(main)[3]))
     
     temp <- pullDayData((as.Date(colnames(main)[3])+1),station)
-    main <- merge(main, temp, by=c("Title","Artist"), all=TRUE)
+    main <- merge(temp, main, by=c("Title","Artist"), all=TRUE)
     
   }
   
@@ -96,7 +96,7 @@ getData <- function(station) {
   while(date >= as.Date("2015-01-01")) {
     print(as.character(date))
     temp <- pullDayData(date,station)
-    main <- merge(main, temp, by=c("Title","Artist"), all=TRUE)
+    main <- merge(main, temp, by=c("Title","Artist"), all=TRUE) # main, temp or temp, main?
     date <- date-1
   }
   main  <- main[order(main[3], decreasing = TRUE),]
