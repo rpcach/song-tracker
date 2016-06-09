@@ -151,6 +151,14 @@ getData <- function(station) {
   print(station)
 }
 
+main <- function() {
+  for(genre in c("Pop","HAC","Rhythmic","Urban")) {
+    pullNewData(genre)
+  }
+}
+
+main()
+
 #top 5 songs in the last 30 days
 demo <- function() {
   assign("mainData",loadData(start=(Sys.Date()-30),end=Sys.Date(),station="pop",cats="Spins"), envir=.GlobalEnv)

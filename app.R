@@ -63,13 +63,17 @@ server <- function(input,output,session) {
       titles[i] <- newTitle
     }
     
+    #values <- subData$Title[as.numeric(gsub(" .*$","",titles))]
+    #titles <- values
+    
+    
     #df <- songs2df(titles,input$range[1],input$range[2],subData)
     
     if (length(titles) != 1) {
       df <- songs2df(titles,input$range[1],input$range[2],subData)
     }
     else {
-      df <- multiStationDF(titles[1],input$range[1],input$range[2])
+      df <- multiStationDF(titles,input$range[1],input$range[2])
     }
     
     n1 <- nPlot(Spins ~ Date,
