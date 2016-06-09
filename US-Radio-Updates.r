@@ -86,12 +86,14 @@ parseSongText <- function(x, titles) {
   x <- x[[1]]
   x <- gsub("^\\s+|\\s+$", "", x)
   temp <- NULL
-  
+
   for(i in x) {
-    if(grepl("[:alpha:]",i)) {
+    if(i == "") next
+    else if(grepl("[a-zA-Z]",i)) {
       temp <- c(temp,as.numeric(which(tolower(titles) == tolower(i))))
     }
     else {
+      print('wtf')
       i <- gsub("\\s","",i)
       i <- strsplit(i,"-")
       for(j in i) {
