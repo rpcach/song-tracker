@@ -5,7 +5,7 @@ subData <- NULL
 library("rvest")
 pullDayData <- function(date,station) {
   dateString <- gsub("-","",as.character.Date(date))
-  url <- paste("http://kworb.net/radio/",station,"/archives/",dateString,".html",sep="")
+  url <- paste("http://kworb.net/radio/",tolower(station),"/archives/",dateString,".html",sep="")
   temp <- url %>% read_html() %>% html_nodes(xpath="/html/body/table") %>% html_table()
   temp <- temp[[1]]
   temp <- temp[c("Title","Artist","Spins")]
