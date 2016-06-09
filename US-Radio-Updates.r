@@ -81,6 +81,30 @@ multiStationDF <- function(title, start, end) {
   return(df)
 }
 
+parseSongText <- function(x, titles) {
+  x <- strsplit(x,",")
+  x <- x[[1]]
+  x <- gsub("^\\s+|\\s+$", "", x)
+  temp <- NULL
+  
+  for(i in x) {
+    if(grepl("[:alpha:]",i)) {
+      temp <- c(temp,as.numeric(which(tolower(titles) == tolower(i))))
+    }
+    else {
+      i <- gsub("\\s","",i)
+      i <- strsplit(i,"-")
+      for(j in i) {
+        temp <- c(temp,as.numeric(j[1]:as.numeric(j[length(j)])))
+      }
+    }
+  }
+  
+  sort(temp,decreasing = FALSE)
+  
+  return(temp)
+}
+
 parseSongNumericText <- function(x, titles) {
   x <- gsub("\\s","",x)
   x <- gsub(","," ",x)
