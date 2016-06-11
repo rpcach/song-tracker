@@ -53,7 +53,7 @@ server <- function(input,output,session) {
     checkboxGroupInput(inputId = "songs2",
                        label = paste(length(titles),"songs available"),
                        choices = titles,
-                       selected = titles[parseSongText(input$songSelectText,as.character(subData$Title))])
+                       selected = titles[parseSongText(input$songSelectText,subData$Title)])
   })
   output$nChart <- renderChart2({
     titles <- input$songs2
