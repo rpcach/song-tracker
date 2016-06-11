@@ -72,15 +72,15 @@ multiStationDF <- function(title, start, end) {
   df <- NULL
   temp <- NULL
 
-  for (genre in c("Pop","HAC","Rhythmic","Urban")) {
-    main <- readRDS(paste("data/",genre,".rds",sep=""))
+  for (station in c("Pop","HAC","Rhythmic","Urban")) {
+    main <- readRDS(paste("data/",station,".rds",sep=""))
     sub <- main[,c("Title","Artist",as.character(as.Date(end:start,origin="1970-01-01")))]
     sub <- sub[rowSums(is.na(sub)) != (ncol(sub)-2),]
     sub <- sub[order(sub[3], decreasing = TRUE),]
     
     if(title %in% sub$Title) {
       temp <- songs2df(title, start, end, sub)
-      levels(temp$Title) <- genre  
+      levels(temp$Title) <- station  
       df <- rbind(df,temp)
     }
   }

@@ -6,8 +6,8 @@ ui <- fluidPage(
   titlePanel("Song Tracker"),
   sidebarLayout(
    sidebarPanel(
-     selectInput(inputId = "genre",
-                 label = "Genre",
+     selectInput(inputId = "station",
+                 label = "Station",
                  choices = c("Pop","HAC","Rhythmic","Urban"),
                  selected = "Pop"),
      dateRangeInput(inputId = "range",
@@ -37,7 +37,7 @@ ui <- fluidPage(
 
 server <- function(input,output,session) {
   output$songTitles <- renderUI({
-    assign("mainData",readRDS(paste("data/",input$genre,".rds",sep="")))
+    assign("mainData",readRDS(paste("data/",input$station,".rds",sep="")))
         
     assign("subData",mainData[,c("Title","Artist",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-2),], envir=.GlobalEnv)
@@ -64,6 +64,8 @@ server <- function(input,output,session) {
     
     #values <- subData$Title[as.numeric(gsub(" .*$","",titles))]
     #titles <- values
+    #
+    #titles <- subData$Title[parseSongText(input$songSelectText,subData$Title,subData$Artist)]
     
     
     #df <- songs2df(titles,input$range[1],input$range[2],subData)
@@ -88,7 +90,7 @@ server <- function(input,output,session) {
     if (length(titles) == 1) {
       n1$templates$script <- "http://timelyportfolio.github.io/rCharts_nvd3_templates/chartWithTitle.html"
       #n1$templates$script <- "http://timelyportfolio.github.io/rCharts_nvd3_templates/chartWithTitle_styled.html"
-      n1$set(title = titles[1])
+      n1$set(title = titles)
     }
     n1$chart(margin=list(left = 80,bottom = 100))
     return(n1)
