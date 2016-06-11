@@ -70,7 +70,10 @@ server <- function(input,output,session) {
     
     #df <- songs2df(titles,input$range[1],input$range[2],subData)
     
-    if (length(titles) != 1) {
+    if(length(titles) == 0) {
+      df <- songs2df(subData$Title[1:5],input$range[1],input$range[2],subData)
+    }
+    else if (length(titles) != 1) {
       df <- songs2df(titles,input$range[1],input$range[2],subData)
     }
     else {
