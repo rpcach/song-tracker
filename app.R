@@ -37,7 +37,6 @@ ui <- fluidPage(
 
 server <- function(input,output,session) {
   output$songTitles <- renderUI({
-    pullNewData(input$genre)
     assign("mainData",readRDS(paste("data/",input$genre,".rds",sep="")))
         
     assign("subData",mainData[,c("Title","Artist",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
@@ -53,7 +52,7 @@ server <- function(input,output,session) {
     checkboxGroupInput(inputId = "songs2",
                        label = paste(length(titles),"songs available"),
                        choices = titles,
-                       selected = titles[parseSongText(input$songSelectText,subData$Title)])
+                       selected = titles[parseSongText(input$songSelectText,subData$Title,subData$Artist)])
   })
   output$nChart <- renderChart2({
     titles <- input$songs2

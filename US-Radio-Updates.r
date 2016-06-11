@@ -14,17 +14,24 @@ pullDayData <- function(date,station) {
 }
 
 #adds new data to RDS files
-pullNewData <- function(station) {
+pullNewData <- function(stations) {
   date <- Sys.Date()-!todayDataExists()
-  main <- readRDS(paste("data/",station,".rds",sep=""))
-
-  while(date > as.Date(colnames(main)[3])) {
-    temp <- pullDayData((as.Date(colnames(main)[3])+1),station)
-    main <- merge(temp, main, by=c("Title","Artist"), all=TRUE)
-  }
+  i <- 1
   
-  main  <- main[order(main[3], decreasing = TRUE),]
-  saveRDS(main,paste("data/",station,".rds",sep=""))
+  for(station in stations) {
+    main <- readRDS(paste("data/",station,".rds",sep=""))
+  
+    while(date > as.Date(colnames(main)[3])) {
+      temp <- pullDayData((as.Date(colnames(main)[3])+1),station)
+      main <- merge(temp, main, by=c("Title","Artist"), all=TRUE)
+    }
+    
+    main  <- main[order(main[3], decreasing = TRUE),]
+    saveRDS(main,paste("data/",station,".rds",sep=""))
+    saveRDS(i,"data/i.rds")
+    i <- i+1
+  }
+  #saveRDS(TRUE)
   print(paste(station,"done"))
 }
 
@@ -81,7 +88,7 @@ multiStationDF <- function(title, start, end) {
   return(df)
 }
 
-parseSongText <- function(x, titles) {
+parseSongText <- function(x, titles, artists) {
   x <- strsplit(x,",")
   x <- x[[1]]
   x <- gsub("^\\s+|\\s+$", "", x)
@@ -89,11 +96,15 @@ parseSongText <- function(x, titles) {
 
   for(i in x) {
     if(i == "") next
+    else if(substr(i,1,3) == "by ") {
+      #temp <- c(temp,which(tolower(strtrim(artists,(nchar(i)-3))) == tolower(substr(i,4,nchar(i)))))
+      temp <- c(temp,which(tolower(artists) == tolower(substr(i,4,nchar(i)))))
+    }
     else if(grepl("[a-zA-Z]",i)) {
+      #temp <- c(temp,as.numeric(which(tolower(strtrim(titles,nchar(i))) == tolower(i))))
       temp <- c(temp,as.numeric(which(tolower(titles) == tolower(i))))
     }
     else {
-      print('wtf')
       i <- gsub("\\s","",i)
       i <- strsplit(i,"-")
       for(j in i) {
@@ -103,7 +114,6 @@ parseSongText <- function(x, titles) {
   }
   
   sort(temp,decreasing = FALSE)
-  
   return(temp)
 }
 
@@ -154,8 +164,8 @@ getData <- function(station) {
 }
 
 main <- function() {
-  for(genre in c("Pop","HAC","Rhythmic","Urban")) {
-    pullNewData(genre)
+  if(readRDS("data/i.rds") != 4){
+    pullNewData(c("Pop","HAC","Rhythmic","Urban"))
   }
 }
 
