@@ -6,6 +6,7 @@ ui <- fluidPage(
   titlePanel("Song Tracker"),
   sidebarLayout(
    sidebarPanel(
+     uiOutput(outputId = "station2"),
      selectInput(inputId = "station",
                  label = "Station",
                  choices = c("Pop","HAC","Rhythmic","Urban"),
@@ -19,7 +20,7 @@ ui <- fluidPage(
      textInput(inputId = "song_selection",
                label = "Select songs here:",
                value = "1-5"),
-     uiOutput(outputId = "song_titles"),
+     uiOutput(outputId = "song_titles_artists"),
      sliderInput(inputId = "width",
                  label = "Width %",
                  value = 100, min = 50, max = 100),
@@ -36,36 +37,40 @@ ui <- fluidPage(
 )
 
 server <- function(input,output,session) {
-  output$song_titles <- renderUI({
-    assign("mainData",readRDS(paste("data/",input$station,".rds",sep="")))
+  output$station2 <- renderUI({
+    
+  })
+  output$song_titles_artists <- renderUI({
+    assign("mainData",readRDS(paste("data/",tolower(input$station),".rds",sep="")))
 
     assign("subData",mainData[,c("Title","Artist",as.character(as.Date(input$date_range[2]:input$date_range[1],origin="1970-01-01")))], envir=.GlobalEnv)
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-2),], envir=.GlobalEnv)
     assign("subData",subData[order(subData[3], decreasing = TRUE),])
-    titles <- as.character(subData$Title)
-    artists <- as.character(subData$Artist)
+    
+    titles <- subData$Title
+    artists <- subData$Artist
+    
+    titles_artists <- paste(1:nrow(subData),". ",titles,", by ",artists,sep="")
 
-    for(i in 1:length(titles)) {
-      titles[i] <- paste(i,". ",titles[i],", by ",artists[i],sep="")
-    }
-
-    checkboxGroupInput(inputId = "songs2",
-                       label = paste(length(titles),"songs available"),
-                       choices = titles,
-                       selected = titles[parseSongText(input$song_selection,subData$Title,subData$Artist)])
+    checkboxGroupInput(inputId = "song_titles_artists",
+                       label = paste(nrow(subData),"songs available"),
+                       choices = titles_artists,
+                       selected = titles_artists[parseSongText(input$song_selection,titles,artists)])
   })
   output$nChart <- renderChart2({
-    titles <- input$songs2
-    for(i in 1:length(titles)) {
-      newTitle <- gsub("^[0-9]*. ","",titles[i])
-      newTitle <- gsub(", by.*$","",newTitle)
-      titles[i] <- newTitle
-    }
-    
+    # titles <- input$song_titles_artists
+    # for(i in 1:length(titles)) {
+    #   newTitle <- gsub("^[0-9]*. ","",titles[i])
+    #   newTitle <- gsub(", by.*$","",newTitle)
+    #   titles[i] <- newTitle
+    # }
+    #
+    # OR
+    #
     #values <- subData$Title[as.numeric(gsub(" .*$","",titles))]
     #titles <- values
-    #
-    #titles <- subData$Title[parseSongText(input$song_selection,subData$Title,subData$Artist)]
+    
+    titles <- subData$Title[parseSongText(input$song_selection,subData$Title,subData$Artist)]
     
     
     #df <- songs2df(titles,input$date_range[1],input$date_range[2],subData)

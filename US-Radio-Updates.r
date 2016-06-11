@@ -68,7 +68,7 @@ multiStationDF <- function(title, start, end) {
   df <- NULL
   temp <- NULL
 
-  for (station in c("Pop","HAC","Rhythmic","Urban")) {
+  for (station in c("pop","hac","rhythmic","urban")) {
     main <- readRDS(paste("data/",station,".rds",sep=""))
     sub <- main[,c("Title","Artist",as.character(as.Date(end:start,origin="1970-01-01")))]
     sub <- sub[rowSums(is.na(sub)) != (ncol(sub)-2),]
@@ -132,7 +132,7 @@ getData <- function(station) {
 
 main <- function() {
   if(readRDS("data/i.rds") != 4){
-    pullNewData(c("Pop","HAC","Rhythmic","Urban"))
+    pullNewData(c("pop","hac","rhythmic","urban"))
   }
 }
 
