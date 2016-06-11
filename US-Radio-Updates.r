@@ -31,17 +31,13 @@ pullNewData <- function(stations) {
     saveRDS(i,"data/i.rds")
     i <- i+1
   }
-  #saveRDS(TRUE)
+
   print(paste(station,"done"))
 }
 
 library("RCurl")
 todayDataExists <- function() {
-  dateString <- gsub("-","",as.character.Date(Sys.Date()))
-  if(url.exists(paste("http://kworb.net/radio/pop/archives/",dateString,".html",sep=""))) {
-    return(TRUE)
-  }
-  return(FALSE)
+  return(url.exists(paste("http://kworb.net/radio/pop/archives/",gsub("-","",Sys.Date()),".html",sep="")))
 }
 
 song2df <- function(title, start, end, data) {
@@ -115,35 +111,6 @@ parseSongText <- function(x, titles, artists) {
   
   sort(temp,decreasing = FALSE)
   return(temp)
-}
-
-parseSongNumericText <- function(x, titles) {
-  x <- gsub("\\s","",x)
-  x <- gsub(","," ",x)
-  x2 <- strsplit(x," ")
-  x2 <- x2[[1]]
-  x2 <- strsplit(x2,"-")
-  temp <- NULL
-  
-  for(i in x2) {
-    temp <- c(temp,as.numeric(i[1]:as.numeric(i[length(i)])))
-  }
-  sort(temp,decreasing = FALSE)
-  
-  return(temp)
-}
-
-parseSongNameText <- function(x, titles) {
-  x <- strsplit(x,",")
-  x <- x[[1]]
-  temp <- NULL
-  for(i in x) {
-    i <- gsub("^\\s+|\\s+$", "", i)
-    temp <- c(temp,as.numeric(which(tolower(titles) == tolower(i))))
-  }
-
-  return(temp)
-  
 }
 
 getData <- function(station) {

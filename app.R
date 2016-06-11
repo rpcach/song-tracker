@@ -10,25 +10,25 @@ ui <- fluidPage(
                  label = "Station",
                  choices = c("Pop","HAC","Rhythmic","Urban"),
                  selected = "Pop"),
-     dateRangeInput(inputId = "range",
+     dateRangeInput(inputId = "date_range",
                     label = "Date Range",
                     start = (Sys.Date()-30),
                     end = Sys.Date()-!todayDataExists(),
                     min = as.Date("2015-01-01"),
                     max = Sys.Date()-!todayDataExists()),
-     textInput(inputId = "songSelectText",
+     textInput(inputId = "song_selection",
                label = "Select songs here:",
                value = "1-5"),
-     uiOutput(outputId = "songTitles"),
-     sliderInput(inputId = "setWidth",
+     uiOutput(outputId = "song_titles"),
+     sliderInput(inputId = "width",
                  label = "Width %",
                  value = 100, min = 50, max = 100),
-     sliderInput(inputId = "setHeight",
+     sliderInput(inputId = "height",
                  label = "Height %",
                  value = 75, min = 50, max = 150)
    ),
    mainPanel(
-     plotOutput("plot1", height = "1px"),
+     plotOutput("dummy", height = "1px"),
      showOutput("nChart","nvd3")
    )
   )
@@ -36,10 +36,10 @@ ui <- fluidPage(
 )
 
 server <- function(input,output,session) {
-  output$songTitles <- renderUI({
+  output$song_titles <- renderUI({
     assign("mainData",readRDS(paste("data/",input$station,".rds",sep="")))
-        
-    assign("subData",mainData[,c("Title","Artist",as.character(as.Date(input$range[2]:input$range[1],origin="1970-01-01")))], envir=.GlobalEnv)
+
+    assign("subData",mainData[,c("Title","Artist",as.character(as.Date(input$date_range[2]:input$date_range[1],origin="1970-01-01")))], envir=.GlobalEnv)
     assign("subData",subData[rowSums(is.na(subData)) != (ncol(subData)-2),], envir=.GlobalEnv)
     assign("subData",subData[order(subData[3], decreasing = TRUE),])
     titles <- as.character(subData$Title)
@@ -52,7 +52,7 @@ server <- function(input,output,session) {
     checkboxGroupInput(inputId = "songs2",
                        label = paste(length(titles),"songs available"),
                        choices = titles,
-                       selected = titles[parseSongText(input$songSelectText,subData$Title,subData$Artist)])
+                       selected = titles[parseSongText(input$song_selection,subData$Title,subData$Artist)])
   })
   output$nChart <- renderChart2({
     titles <- input$songs2
@@ -65,19 +65,19 @@ server <- function(input,output,session) {
     #values <- subData$Title[as.numeric(gsub(" .*$","",titles))]
     #titles <- values
     #
-    #titles <- subData$Title[parseSongText(input$songSelectText,subData$Title,subData$Artist)]
+    #titles <- subData$Title[parseSongText(input$song_selection,subData$Title,subData$Artist)]
     
     
-    #df <- songs2df(titles,input$range[1],input$range[2],subData)
+    #df <- songs2df(titles,input$date_range[1],input$date_range[2],subData)
     
     if(length(titles) == 0) {
-      df <- songs2df(subData$Title[1:5],input$range[1],input$range[2],subData)
+      df <- songs2df(subData$Title[1:5],input$date_range[1],input$date_range[2],subData)
     }
-    else if (length(titles) != 1) {
-      df <- songs2df(titles,input$range[1],input$range[2],subData)
+    else if (length(titles) > 1) {
+      df <- songs2df(titles,input$date_range[1],input$date_range[2],subData)
     }
-    else {
-      df <- multiStationDF(titles,input$range[1],input$range[2])
+    else { # == 1
+      df <- multiStationDF(titles,input$date_range[1],input$date_range[2])
     }
     
     n1 <- nPlot(Spins ~ Date,
@@ -88,8 +88,8 @@ server <- function(input,output,session) {
              tickFormat = "#!function(d) {return d3.time.format('%Y-%m-%d')(new Date( (d+1) * 86400000 ));}!#",
              rotateLabels = -45)
     n1$yAxis(axisLabel = "Spins") #, width=62)
-    n1$set(width = .01*input$setWidth*session$clientData$output_plot1_width,
-           height = .01*input$setHeight*session$clientData$output_plot1_width)
+    n1$set(width = .01*input$width*session$clientData$output_dummy_width,
+           height = .01*input$height*session$clientData$output_dummy_width)
     if (length(titles) == 1) {
       n1$templates$script <- "http://timelyportfolio.github.io/rCharts_nvd3_templates/chartWithTitle.html"
       #n1$templates$script <- "http://timelyportfolio.github.io/rCharts_nvd3_templates/chartWithTitle_styled.html"
