@@ -128,9 +128,13 @@ getData <- function(station) {
 }
 
 main <- function() {
-  if(readRDS("data/i.rds") != Sys.Date() || readRDS("data/i.rds") != (Sys.Date()-!todayDataExists())) {
+  if(readRDS("data/i.rds") != Sys.Date()) {
     pullNewData(c("pop","hac","rhythmic","urban"))
     saveRDS((Sys.Date()-!todayDataExists()),"data/i.rds")
+  }
+  else if(readRDS("data/i.rds") != {latest <- (Sys.Date()-!todayDataExists())}) {
+    pullNewData(c("pop","hac","rhythmic","urban"))
+    saveRDS(latest,"data/i.rds")
   }
 }
 
