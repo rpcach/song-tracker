@@ -16,8 +16,7 @@ pullDayData <- function(date,station) {
 #adds new data to RDS files
 pullNewData <- function(stations) {
   date <- Sys.Date()-!todayDataExists()
-  i <- 1
-  
+
   for(station in stations) {
     main <- readRDS(paste("data/",station,".rds",sep=""))
   
@@ -28,8 +27,6 @@ pullNewData <- function(stations) {
     
     main  <- main[order(main[3], decreasing = TRUE),]
     saveRDS(main,paste("data/",station,".rds",sep=""))
-    saveRDS(i,"data/i.rds")
-    i <- i+1
   }
 
   print(paste(station,"done"))
@@ -131,8 +128,9 @@ getData <- function(station) {
 }
 
 main <- function() {
-  if(readRDS("data/i.rds") != 4){
+  if(readRDS("data/i.rds") != (Sys.Date()-!todayDataExists())){
     pullNewData(c("pop","hac","rhythmic","urban"))
+    saveRDS((Sys.Date()-!todayDataExists()),"data/i.rds")
   }
 }
 
