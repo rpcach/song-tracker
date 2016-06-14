@@ -27,9 +27,9 @@ pullNewData <- function(stations) {
     
     main  <- main[order(main[3], decreasing = TRUE),]
     saveRDS(main,paste("data/",station,".rds",sep=""))
+    print(paste(station,"station has been updated"))
   }
 
-  print(paste(station,"done"))
 }
 
 library("RCurl")

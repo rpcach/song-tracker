@@ -58,19 +58,21 @@ server <- function(input,output,session) {
                        selected = titles_artists[parseSongText(input$song_selection,titles,artists)])
   })
   output$nChart <- renderChart2({
-    # titles <- input$song_titles_artists
-    # for(i in 1:length(titles)) {
-    #   newTitle <- gsub("^[0-9]*. ","",titles[i])
-    #   newTitle <- gsub(", by.*$","",newTitle)
-    #   titles[i] <- newTitle
-    # }
-    #
+    titles <- input$song_titles_artists
+    for(i in 1:length(titles)) {
+      newTitle <- gsub("^[0-9]*. ","",titles[i])
+      newTitle <- gsub(", by.*$","",newTitle)
+      titles[i] <- newTitle
+    }
+
     # OR
     #
     #values <- subData$Title[as.numeric(gsub(" .*$","",titles))]
     #titles <- values
-    
-    titles <- subData$Title[parseSongText(input$song_selection,subData$Title,subData$Artist)]
+    #
+    # OR
+    #
+    #titles <- subData$Title[parseSongText(input$song_selection,subData$Title,subData$Artist)]
     
     
     #df <- songs2df(titles,input$date_range[1],input$date_range[2],subData)
