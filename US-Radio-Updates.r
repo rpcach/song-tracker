@@ -111,14 +111,16 @@ parseSongText <- function(x, titles, artists) {
 }
 
 getData <- function(station) {
-  date <- Sys.Date()-1
-  main <- pullDayData(date,station)
-  print(as.character(date))
-  date <- date-1
-  while(date >= as.Date("2015-01-01")) {
+  date <- Sys.Date()-2
+  #main <- pullDayData(date,station)
+  #print(as.character(date))
+  #date <- date-1
+  while(date >= as.Date("2012-06-23")) {
+    #if(url.exists(paste("http://kworb.net/radio/alternative/archives/",gsub("-","",date),".html",sep=""))) {
     print(as.character(date))
     temp <- pullDayData(date,station)
     main <- merge(main, temp, by=c("Title","Artist"), all=TRUE) # main, temp or temp, main?
+    #}
     date <- date-1
   }
   main  <- main[order(main[3], decreasing = TRUE),]

@@ -15,11 +15,11 @@ ui <- fluidPage(
                     label = "Date Range",
                     start = (Sys.Date()-30),
                     end = Sys.Date()-!todayDataExists(),
-                    min = as.Date("2015-01-01"),
+                    min = as.Date("2012-06-23"),
                     max = Sys.Date()-!todayDataExists()),
      textInput(inputId = "song_selection",
                label = "Select songs here:",
-               value = ""),
+               value = "1"),
      uiOutput(outputId = "song_titles_artists"),
      sliderInput(inputId = "width",
                  label = "Width %",
@@ -77,10 +77,11 @@ server <- function(input,output,session) {
     
     #df <- songs2df(titles,input$date_range[1],input$date_range[2],subData)
     
-    if(length(titles) == 0) {
-      df <- songs2df(subData$Title[1],input$date_range[1],input$date_range[2],subData)
-    }
-    else if (length(titles) > 1) {
+    # if(length(titles) == 0) {
+    #   df <- songs2df(subData$Title[1],input$date_range[1],input$date_range[2],subData)
+    # }
+    # else 
+    if (length(titles) > 1) {
       df <- songs2df(titles,input$date_range[1],input$date_range[2],subData)
     }
     else { # == 1

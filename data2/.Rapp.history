@@ -1,0 +1,5 @@
+load("/Users/Robert/radio/data2/alternative.rds")
+load("/Users/Robert/radio/data2/hac.rds")
+load("/Users/Robert/radio/data2/pop.rds")
+load("/Users/Robert/radio/data2/rhythmic.rds")
+load("/Users/Robert/radio/data2/urban.rds")
