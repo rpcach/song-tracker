@@ -95,7 +95,7 @@ parseSongText <- function(x, titles, artists) {
     }
     else if(grepl("[a-zA-Z]",i)) {
       #temp <- c(temp,as.numeric(which(tolower(strtrim(titles,nchar(i))) == tolower(i))))
-      temp <- c(temp,as.numeric(which(tolower(titles) == tolower(i))))
+      temp <- c(temp,as.numeric(which(gsub(" f/.*","",tolower(titles)) == tolower(i))))
     }
     else {
       i <- gsub("\\s","",i)
