@@ -65,7 +65,7 @@ multiStationDF <- function(title, start, end) {
   df <- NULL
   temp <- NULL
 
-  for (station in c("pop","hac","rhythmic","urban")) {
+  for (station in c("pop","hac","rhythmic","urban","alternative")) {
     main <- readRDS(paste("data/",station,".rds",sep=""))
     sub <- main[,c("Title","Artist",as.character(as.Date(end:start,origin="1970-01-01")))]
     sub <- sub[rowSums(is.na(sub)) != (ncol(sub)-2),]
@@ -111,7 +111,7 @@ parseSongText <- function(x, titles, artists) {
 }
 
 getData <- function(station) {
-  date <- Sys.Date()
+  date <- Sys.Date()-1
   main <- pullDayData(date,station)
   print(as.character(date))
   date <- date-1
@@ -129,11 +129,11 @@ getData <- function(station) {
 
 main <- function() {
   if(readRDS("data/i.rds") != Sys.Date()) {
-    pullNewData(c("pop","hac","rhythmic","urban"))
+    pullNewData(c("pop","hac","rhythmic","urban","alternative"))
     saveRDS((Sys.Date()-!todayDataExists()),"data/i.rds")
   }
   else if(readRDS("data/i.rds") != {latest <- (Sys.Date()-!todayDataExists())}) {
-    pullNewData(c("pop","hac","rhythmic","urban"))
+    pullNewData(c("pop","hac","rhythmic","urban","alternative"))
     saveRDS(latest,"data/i.rds")
   }
 }

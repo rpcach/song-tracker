@@ -9,7 +9,7 @@ ui <- fluidPage(
      uiOutput(outputId = "station2"),
      selectInput(inputId = "station",
                  label = "Station",
-                 choices = c("Pop","HAC","Rhythmic","Urban"),
+                 choices = c("Pop","HAC","Rhythmic","Urban","Alternative"),
                  selected = "Pop"),
      dateRangeInput(inputId = "date_range",
                     label = "Date Range",
@@ -78,8 +78,7 @@ server <- function(input,output,session) {
     #df <- songs2df(titles,input$date_range[1],input$date_range[2],subData)
     
     if(length(titles) == 0) {
-      #df <- songs2df(subData$Title[1:5],input$date_range[1],input$date_range[2],subData)
-      df <- NULL
+      df <- songs2df(subData$Title[1],input$date_range[1],input$date_range[2],subData)
     }
     else if (length(titles) > 1) {
       df <- songs2df(titles,input$date_range[1],input$date_range[2],subData)
