@@ -14,17 +14,24 @@ pullDayData <- function(date,station) {
 }
 
 #adds new data to RDS files
+#needs to be made much faster...
+#edit: it has been made much faster??
 pullNewData <- function(stations) {
   date <- Sys.Date()-!todayDataExists()
 
   for(station in stations) {
     main <- readRDS(paste("data/",station,".rds",sep=""))
+    combined <- pullDayData((as.Date(colnames(main)[3])+1),station)
+    combined <- combined[,1:2]
+    latestDate <- as.Date(colnames(main[3]))
   
-    while(date > as.Date(colnames(main)[3])) {
+    while(date > latestDate) {
       temp <- pullDayData((as.Date(colnames(main)[3])+1),station)
-      main <- merge(temp, main, by=c("Title","Artist"), all=TRUE)
+      combined <- merge(temp, combined, by=c("Title","Artist"), all=TRUE)
+      #main <- merge(temp, main, by=c("Title","Artist"), all=TRUE)
+      latestDate <- latestDate+1
     }
-    
+    main <- merge(combined,main, by=c("Title","Artist"), all=TRUE)
     main  <- main[order(main[3], decreasing = TRUE),]
     saveRDS(main,paste("data/",station,".rds",sep=""))
     print(paste(station,"station has been updated"))
