@@ -21,18 +21,20 @@ pullNewData <- function(stations) {
 
   for(station in stations) {
     main <- readRDS(paste("data/",station,".rds",sep=""))
-    combined <- pullDayData((as.Date(colnames(main)[3])+1),station)
-    combined <- combined[,1:2]
     latestDate <- as.Date(colnames(main[3]))
-  
-    while(date > latestDate) {
-      temp <- pullDayData((as.Date(colnames(main)[3])+1),station)
-      combined <- merge(temp, combined, by=c("Title","Artist"), all=TRUE)
-      #main <- merge(temp, main, by=c("Title","Artist"), all=TRUE)
-      latestDate <- latestDate+1
+    if(date > latestDate) {
+      combined <- pullDayData((as.Date(colnames(main)[3])+1),station)
+      combined <- combined[,1:2]
+      while(date > latestDate) {
+        temp <- pullDayData((as.Date(colnames(main)[3])+1),station)
+        combined <- merge(temp, combined, by=c("Title","Artist"), all=TRUE)
+        #main <- merge(temp, main, by=c("Title","Artist"), all=TRUE)
+        latestDate <- latestDate+1
+      }
+      main <- merge(combined,main, by=c("Title","Artist"), all=TRUE)
+      main  <- main[order(main[3], decreasing = TRUE),]
     }
-    main <- merge(combined,main, by=c("Title","Artist"), all=TRUE)
-    main  <- main[order(main[3], decreasing = TRUE),]
+    
     saveRDS(main,paste("data/",station,".rds",sep=""))
     print(paste(station,"station has been updated"))
   }
