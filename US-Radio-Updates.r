@@ -26,7 +26,7 @@ pullNewData <- function(stations) {
       combined <- pullDayData((as.Date(colnames(main)[3])+1),station)
       combined <- combined[,1:2]
       while(date > latestDate) {
-        temp <- pullDayData((as.Date(colnames(main)[3])+1),station)
+        temp <- pullDayData((latestDate+1),station)
         combined <- merge(temp, combined, by=c("Title","Artist"), all=TRUE)
         #main <- merge(temp, main, by=c("Title","Artist"), all=TRUE)
         latestDate <- latestDate+1
@@ -139,13 +139,9 @@ getData <- function(station) {
 }
 
 main <- function() {
-  if(readRDS("data/i.rds") != Sys.Date()) {
+  if(readRDS("data/latest.rds") != {latest <- (Sys.Date()-!todayDataExists())}) {
     pullNewData(c("pop","hac","rhythmic","urban","alternative"))
-    saveRDS((Sys.Date()-!todayDataExists()),"data/i.rds")
-  }
-  else if(readRDS("data/i.rds") != {latest <- (Sys.Date()-!todayDataExists())}) {
-    pullNewData(c("pop","hac","rhythmic","urban","alternative"))
-    saveRDS(latest,"data/i.rds")
+    saveRDS(latest,"data/latest.rds")
   }
 }
 
