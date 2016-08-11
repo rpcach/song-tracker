@@ -20,6 +20,9 @@ pullNewData <- function(stations) {
   date <- Sys.Date()-!todayDataExists()
 
   for(station in stations) {
+    if(readRDS(paste("data/latest-",station,".rds",sep="")) == date) {
+      break
+    }
     main <- readRDS(paste("data/",station,".rds",sep=""))
     latestDate <- as.Date(colnames(main[3]))
     if(date > latestDate) {
@@ -34,7 +37,7 @@ pullNewData <- function(stations) {
       main <- merge(combined,main, by=c("Title","Artist"), all=TRUE)
       main  <- main[order(main[3], decreasing = TRUE),]
     }
-    
+    saveRDS(date,paste("data/latest-",station,".rds",sep=""))
     saveRDS(main,paste("data/",station,".rds",sep=""))
     print(paste(station,"station has been updated"))
   }
