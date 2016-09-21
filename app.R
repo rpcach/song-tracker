@@ -19,7 +19,7 @@ ui <- fluidPage(
                     max = Sys.Date()-!todayDataExists()),
      textInput(inputId = "song_selection",
                label = "Select songs here:",
-               value = "1"),
+               value = "1"),"i.e. 1-5,10,Gangnam Style,by Drake",
      uiOutput(outputId = "song_titles_artists"),
      sliderInput(inputId = "width",
                  label = "Width %",
